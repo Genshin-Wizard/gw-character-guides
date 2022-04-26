@@ -1872,7 +1872,7 @@
             {
                 "inline": true,
                 "name": "Stat Priority",
-                "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> HP %\n<:gobletofeonothem:957412513958477864> HP %\n<:circletoflogos:957412513820053594> HP %\n**Substats**\n\u30fbEnergy Recharge\n\u30fbHP %\n        "
+                "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> HP % / Energy Recharge\n<:gobletofeonothem:957412513958477864> HP %\n<:circletoflogos:957412513820053594> HP %\n**Substats**\n\u30fbEnergy Recharge\n\u30fbHP %\n        "
             },
             {
                 "inline": true,
