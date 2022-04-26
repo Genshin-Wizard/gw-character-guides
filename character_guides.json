@@ -1867,11 +1867,6 @@
             {
                 "inline": false,
                 "name": "Second Best Artifact Set:",
-                "value": "\n*Tenacity of the Millelith <:4x:957694032216215573>*\n\u2022 HP +20%\n\u2022 When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.\n        "
-            },
-            {
-                "inline": false,
-                "name": "Third Best Artifact Set:",
                 "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n\u2022 Elemental Burst DMG +20%.\n\u2022 Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
             },
             {
