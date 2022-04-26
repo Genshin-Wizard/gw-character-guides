@@ -952,27 +952,27 @@
             {
                 "inline": false,
                 "name": "Best Weapon:",
-                "value": "Freedom-sworn"
+                "value": "Jade Cutter"
             },
             {
                 "inline": false,
                 "name": "Replacement Weapon:",
-                "value": "Skyward Blade, Aquila Favonia, Festering Desire, Amenoma Kageuchim Jade Cutter"
+                "value": "Mistsplitter Reforge, Freedom-Sworn, Skyward Blade, Festering Desire, Amenoma Kageuchim (R5)"
             },
             {
                 "inline": false,
                 "name": "Best Artifact Set:",
-                "value": "\n*Viridescent Venerer<:4x:957694032216215573>*\n\u2022 Anemo DMG Bonus +15%\n\u2022 Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.\n        "
+                "value": "\n*Viridescent Venerer <:4x:957694032216215573>*\n\u2022 Anemo DMG Bonus +15%\n\u2022 Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.\n        "
             },
             {
                 "inline": false,
                 "name": "Second Best Artifact Set:",
-                "value": "\n*Gladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>\nViridescent Venerer <:2x:957694031343812619>*\n\u2022 ATK +18%.\n\u2022 Anemo DMG Bonus +15%\n    "
+                "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n\u2022 Elemental Burst DMG +20%.\n\u2022 Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n    "
             },
             {
                 "inline": false,
                 "name": "Third Best Artifact Set:",
-                "value": "\n*Gladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>\nShimenawa's Reminiscence <:2x:957694031343812619>*\n\u2022 ATK +18%.\n\u2022 ATK +18%.\n        "
+                "value": "\n*Viridescent Venerer <:2x:957694031343812619>\nEmblem of Severed Fate <:2x:957694031343812619>*\n\u2022 Anemo DMG Bonus +15%.\n\u2022 Energy Recharge +20%.\n        "
             },
             {
                 "inline": true,
@@ -982,12 +982,12 @@
             {
                 "inline": true,
                 "name": "Talent Priority:",
-                "value": "\n**1)** Elemental Burst: Dandelion Breeze\n**2)** Elemental Skill: Gale Blade\n**3)** Normal Attack: Favonius Bladework\n        "
+                "value": "\n**1)** Elemental Skill: Gale Blade\n**2)** Elemental Burst: Dandelion Breeze\n**3)** Normal Attack: Favonius Bladework\n        "
             }
         ],
         "color": 5494962,
         "type": "rich",
-        "title": "Jean (Support DPS)"
+        "title": "Jean (Support)"
     },
     "kaeya": {
         "thumbnail": {
