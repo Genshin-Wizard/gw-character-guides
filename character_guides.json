@@ -2312,17 +2312,17 @@
             {
                 "inline": false,
                 "name": "Best Artifact Set:",
-                "value": "\n*Emblem of Severed Fate <:2x:957694031343812619>\nHusk of Opulent Dreams <:2x:957694031343812619>*\n\u2022 Energy Recharge +20%.\n\u2022 DEF +30%\n        "
+                "value": "\n*Husk of Opulent Dreams <:4x:957694032216215573>*\n\u2022 DEF +30%\n\u2022 A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.\n        "
             },
             {
                 "inline": false,
                 "name": "Second Best Artifact Set:",
-                "value": "\n*Retracing Bolide <:4x:957694032216215573>*\n\u2022 Increases Shield Strength by 35%\n\u2022 While protected by a shield, gain an additional 40% Normal and Charged Attack DMG.\n        "
+                "value": "\n*Emblem of Severed Fate <:2x:957694031343812619>\nHusk of Opulent Dreams <:2x:957694031343812619>*\n\u2022 Energy Recharge +20%\n\u2022 DEF +30%\n        "
             },
             {
                 "inline": false,
                 "name": "Third Best Artifact Set:",
-                "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n\u2022 Energy Recharge +20%.\n\u2022 Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
+                "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n\u2022 Elemental Burst DMG +20%.\n\u2022 Using an Elemental Burst increase all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
             },
             {
                 "inline": true,
