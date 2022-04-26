@@ -692,17 +692,17 @@
             {
                 "inline": false,
                 "name": "Best Artifact Set:",
-                "value": "\n*Tenacity of the Millelith <:4x:957694032216215573>*\n\u2022 HP +20%\n\u2022 When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.\n        "
+                "value": "\n*Thundering Fury <:2x:957694031343812619>\nShimenawa's Reminiscence <:2x:957694031343812619>*\n\u2022 Electro DMG Bonus +15%\n\u2022 ATK +18%\n        "
             },
             {
                 "inline": false,
                 "name": "Second Best Artifact Set:",
-                "value": "\n*Thundering Fury <:4x:957694032216215573>*\n\u2022 Electro DMG Bonus +15%\n\u2022 Increases damage caused by Overloaded, Electro-Charged and Superconduct by 40%. Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s.\n        "
+                "value": "\n*Gladiator's Finale <:2x:957694031343812619>\nShimenawa's Reminiscence <:2x:957694031343812619>*\n\u2022 ATK +18%\n\u2022 ATK +18%\n        "
             },
             {
                 "inline": false,
                 "name": "Third Best Artifact Set:",
-                "value": "\n*Gladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>\nShimenawa's Reminiscence <:2x:957694031343812619>*\n\u2022 ATK +18%.\n\u2022 ATK +18%.\n        "
+                "value": "\n*Thundersoother <:4x:957694032216215573>*\n\u2022 Electro RES increased by 40%\n\u2022 Increase DMG against enemies affected by Electro by 35%\n        "
             },
             {
                 "inline": true,
