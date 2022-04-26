@@ -252,7 +252,7 @@
             {
                 "inline": false,
                 "name": "Third Best Artifact Set:",
-                "value": "\n*Heart of Depth <:2x:957694031343812619>\nGladiator's Finale <:2x:957694031343812619>*\n\u2022 Hydro DMG Bonus +15%\n\u2022 ATK +18%.\n        "
+                "value": "\n*Shimenawa's Reminiscence <:4x:957694032216215573>*\n\u2022 ATK +18%\n\u2022 When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s.\n        "
             },
             {
                 "inline": true,
@@ -263,6 +263,11 @@
                 "inline": true,
                 "name": "Talent Priority:",
                 "value": "\n**1)** Elemental Skill: Kamisato Art- Kyouka\n**2)** Elemental Burst: Kamisato Art- Suiyuu\n**3)** Normal Attack: Kamisato Art- Marobashi\n        "
+            },
+            {
+                "inline": false,
+                "name": "Notes:",
+                "value": "Amenona weapon is NOT recommended for Kamisato Ayato when you are running **4-Piece Shimenawa's Reminiscence**"
             }
         ],
         "color": 3245055,
@@ -2283,11 +2288,16 @@
                 "inline": true,
                 "name": "Talent Priority:",
                 "value": "\n**1)** Normal Attack: Firework Flare-Up\n**2)** Elemental Skill: Niwabi Fire-Dance\n**3)** Elemental Burst: Ryuukin Saxifrage\n        "
+            },
+            {
+                "inline": false,
+                "name": "Notes:",
+                "value": "Hamayumi bow is **NOT** recommended when Yoimiya is running **4-Piece Shimenawa's Reminiscence**"
             }
         ],
         "color": 16733525,
         "type": "rich",
-        "title": "Yoimiya (Hard-hitting Pyro DPS)"
+        "title": "Yoimiya (DPS)"
     },
     "yunjin": {
         "thumbnail": {
