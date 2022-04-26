@@ -242,17 +242,17 @@
             {
                 "inline": false,
                 "name": "Best Artifact Set:",
-                "value": "\n*Echoes of an Offering <:4x:957694032216215573>*\n\u2022 ATK +18%.\n\u2022 When a Normal Attack hits opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack Damage by 70% of ATK. This effect will be dispelled 0.05s after a Normal Attack deals DMG. If a Normal Attack fails to trigger a Valley Rite, the odds of it triggering the next time will increase by 20%. This trigger can occur every 0.3s.\n        "
+                "value": "\n*Gladiator's Finale <:4x:957694032216215573>*\n\u2022 ATK +18%.\n\u2022 If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.\n        "
             },
             {
                 "inline": false,
                 "name": "Second Best Artifact Set:",
-                "value": "\n*Gladiator's FInale <:4x:957694032216215573>*\n\u2022 ATK +18%.\n\u2022 If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.\n        "
+                "value": "\n*Heart of Depth <:4x:957694032216215573>*\n\u2022 Hydro DMG Bonus +15%\n\u2022 After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.\n        "
             },
             {
                 "inline": false,
                 "name": "Third Best Artifact Set:",
-                "value": "\n*Heart of Depth <:4x:957694032216215573>*\n\u2022 Hydro DMG Bonus +15%\n\u2022 After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.\n        "
+                "value": "\n*Heart of Depth <:2x:957694031343812619>\nGladiator's Finale <:2x:957694031343812619>*\n\u2022 Hydro DMG Bonus +15%\n\u2022 ATK +18%.\n        "
             },
             {
                 "inline": true,
