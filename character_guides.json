@@ -390,11 +390,6 @@
                 "value": "\n*Instructor <:4x:957694032216215573>*\n\u2022 Increases Elemental Mastery by 80.\n\u2022 Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.\n        "
             },
             {
-                "inline": false,
-                "name": "Third Best Artifact Set:",
-                "value": "\n*Tenacity of the Millelith <:4x:957694032216215573>*\n\u2022 HP +20%\n\u2022 When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.\n        "
-            },
-            {
                 "inline": true,
                 "name": "Stat Priority",
                 "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486>Energy Recharge / HP%\n<:gobletofeonothem:957412513958477864> HP%\n<:circletoflogos:957412513820053594> Healing Bonus / HP%\n**Substats**\n\u30fbEnergy Recharge\n\u30fbHP%\n        "
