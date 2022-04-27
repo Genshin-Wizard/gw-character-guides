@@ -2132,17 +2132,17 @@
             {
                 "inline": false,
                 "name": "Best Artifact Set:",
-                "value": "\n*Shimenawa's Reminiscence <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n\u2022 ATK +18%.\n\u2022 ATK +18%.\n\u2022 Can outperform the best Artifact set with better substats.\n\u2022 Becomes the best Artifact set without Sara or Bennett in the party.\n        "
+                "value": "\n*Shimenawa's Reminiscence <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n\u2022 ATK +18%.\n\u2022 ATK +18%.\n\u2022 Can outperform the best Artifact set with better substats.\n        "
             },
             {
                 "inline": false,
                 "name": "Second Best Artifact Set:",
-                "value": "\n*Thundering Fury <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n\u2022 Electro DMG Bonus +15%\n\u2022 ATK +18%.\n\u2022 Best Artifact set in terms of consistent damage for teams that have Sara or Bennett already in party.\n\u2022 Should be the go-to Artifact set if Yae Miko is using a weapon with an ATK % substat.\n        "
+                "value": "\n*Thundering Fury <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n\u2022 Electro DMG Bonus +15%\n\u2022 ATK +18%.\n        "
             },
             {
                 "inline": false,
                 "name": "Third Best Artifact Set:",
-                "value": "\n*Thundersoother <:4x:957694032216215573>*\n\u2022 Electro RES increased by 40%.\n\u2022 Increases DMG against enemies affected by Electro by 35%.\n        "
+                "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n\u2022 Energy Recharge +20%.\n\u2022 Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
             },
             {
                 "inline": true,
