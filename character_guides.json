@@ -1907,7 +1907,7 @@
             {
                 "inline": false,
                 "name": "Replacement Weapon:",
-                "value": "Skyward Harp, The Stringless, The Viridescent Hunt, Favonius Warbow"
+                "value": "The Stringless, Windblume Ode, Favonius Warbow"
             },
             {
                 "inline": false,
@@ -1922,12 +1922,12 @@
             {
                 "inline": false,
                 "name": "Third Best Artifact Set:",
-                "value": "\n*Wanderer's Troupe <:4x:957694032216215573>*\n\u2022 Increases Elemental Mastery by 80.\n\u2022 Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow.\n        "
+                "value": "\n*Viridescent Venerer <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n\u2022 Anemo DMG Bonus +15%\n\u2022 Elemental Burst DMG +20%\n        "
             },
             {
                 "inline": true,
                 "name": "Stat Priority",
-                "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Elemental Mastery / ATK %\n<:gobletofeonothem:957412513958477864> Elemental Mastery / Anemo DMG Bonus\n<:circletoflogos:957412513820053594> Elemental Mastery / CRIT Rate / CRIT DMG\n**Substats**\n\u30fbElemental Mastery\n\u30fbEnergy Recharge\n\u30fbCRIT Rate\n\u30fbCRIT DMG \n        "
+                "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Elemental Mastery\n<:gobletofeonothem:957412513958477864> Elemental Mastery\n<:circletoflogos:957412513820053594> Elemental Mastery\n**Substats**\n\u30fbElemental Mastery\n\u30fbEnergy Recharge\n        "
             },
             {
                 "inline": true,
@@ -1937,7 +1937,7 @@
         ],
         "color": 5494962,
         "type": "rich",
-        "title": "Venti (Sub DPS)"
+        "title": "Venti (Swirl Support)"
     },
     "xiangling": {
         "thumbnail": {
