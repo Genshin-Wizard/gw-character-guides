@@ -398,6 +398,11 @@
                 "inline": true,
                 "name": "Talent Priority:",
                 "value": "\n**1)** Elemental Burst: Fantastic Voyage\n**2)** Elemental Skill: Passion Overload\n**3)** Normal Attack: Strike of Fortune \n        "
+            },
+            {
+                "inline": false,
+                "name": "Notes:",
+                "value": "4pc Instructor is only used for 1-Shot Showcase, and is not recommended for daily-base usage."
             }
         ],
         "color": 16733525,
