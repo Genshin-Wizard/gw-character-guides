@@ -19,4 +19,5 @@ Welcome to Genshin Wizard's character guide repository for which knowledgable co
 
 ## **Want to become involved?**
 If you would like to become a collaborator for this project, contact me on discord or any one of my socials linked on my GitHub profile!
+
 OwO onii-chan
