@@ -454,51 +454,6 @@
         "type": "rich",
         "title": "Childe (Main DPS)"
     },
-    "tartaglia": {
-        "thumbnail": {
-            "url": "https://i.imgur.com/SLuf0m3.png"
-        },
-        "fields": [
-            {
-                "inline": false,
-                "name": "Best Weapon:",
-                "value": "Polar Star"
-            },
-            {
-                "inline": false,
-                "name": "Replacement Weapon:",
-                "value": "Thundering Pulse, Skyward Harp, Rust"
-            },
-            {
-                "inline": false,
-                "name": "Best Artifact Set:",
-                "value": "\n*Heart of Depth <:4x:957694032216215573>*\n\u2022 Hydro DMG Bonus +15%\n\u2022 After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.\n        "
-            },
-            {
-                "inline": false,
-                "name": "Second Best Artifact Set:",
-                "value": "\n*Heart of Depth <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n\u2022 Hydro DMG Bonus +15%\n\u2022 ATK +18%\n        "
-            },
-            {
-                "inline": false,
-                "name": "Third Best Artifact Set:",
-                "value": "\n*Heart of Depth <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n\u2022 Hydro DMG Bonus +15%\n\u2022 Elemental Burst DMG +20%\n        "
-            },
-            {
-                "inline": true,
-                "name": "Stat Priority",
-                "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % or Elemental Mastery\n<:gobletofeonothem:957412513958477864> Hydro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n\u30fbCRIT Rate\n\u30fbCRIT DMG\n\u30fbATK %\n\u30fbElemental Mastery\n        "
-            },
-            {
-                "inline": true,
-                "name": "Talent Priority:",
-                "value": "\n**1)** Elemental Burst: Havoc - Obliteration\n**2)** Elemental Skill: Foul Legacy - Raging Tide\n**3)** Normal Attack: Cutting Torrent\n        "
-            }
-        ],
-        "color": 3245055,
-        "type": "rich",
-        "title": "Childe (Main DPS)"
-    },
     "chongyun": {
         "thumbnail": {
             "url": "https://i.imgur.com/FA8SPoN.png"
@@ -1264,51 +1219,6 @@
         "type": "rich",
         "title": "Sangonomiya Kokomi (Support)"
     },
-    "kujou": {
-        "thumbnail": {
-            "url": "https://i.imgur.com/yGSQBnz.png"
-        },
-        "fields": [
-            {
-                "inline": false,
-                "name": "Best Weapon:",
-                "value": "Elegy of the End"
-            },
-            {
-                "inline": false,
-                "name": "Replacement Weapon:",
-                "value": "Favonious Warbow, Sacrificial Bow, Skyward Harp, Alley Hunter"
-            },
-            {
-                "inline": false,
-                "name": "Best Artifact Set:",
-                "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n\u2022 Energy Recharge +20%.\n\u2022 Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
-            },
-            {
-                "inline": false,
-                "name": "Second Best Artifact Set:",
-                "value": "\n*Thundering Fury <:4x:957694032216215573>*\n\u2022 Electro DMG Bonus +15%\n\u2022 Increases damage caused by Overloaded, Electro-Charged and Superconduct by 40%. Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s.\n        "
-            },
-            {
-                "inline": false,
-                "name": "Third Best Artifact Set:",
-                "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n\u2022 Elemental Burst DMG +20%.\n\u2022 Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
-            },
-            {
-                "inline": true,
-                "name": "Stat Priority",
-                "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % or Energy Recharge\n<:gobletofeonothem:957412513958477864> Electro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n\u30fbATK %\n\u30fbCRIT DMG\n\u30fbCRIT Rate\n\u30fbEnergy Recharge\n        "
-            },
-            {
-                "inline": true,
-                "name": "Talent Priority:",
-                "value": "\n**1)** Elemental Burst: Subjugation - Koukou Sendou\n**2)** Elemental Skill: Tengu Stormcall\n**3)** Normal Attack: Tengu Bowmanship\n        "
-            }
-        ],
-        "color": 11104511,
-        "type": "rich",
-        "title": "Kujou Sara (Support)"
-    },
     "lisa": {
         "thumbnail": {
             "url": "https://i.imgur.com/a0E1K9o.png"
@@ -1400,51 +1310,6 @@
         "title": "Mona (Sub DPS)"
     },
     "ningguang": {
-        "thumbnail": {
-            "url": "https://i.imgur.com/w9LQJFO.png"
-        },
-        "fields": [
-            {
-                "inline": false,
-                "name": "Best Weapon:",
-                "value": "Memory of Dust"
-            },
-            {
-                "inline": false,
-                "name": "Replacement Weapon:",
-                "value": "Lost Prayer to the Sacred Wind, Solar Pearl, Dodoco Tales"
-            },
-            {
-                "inline": false,
-                "name": "Best Artifact Set:",
-                "value": "\n*Archaic Petra <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n\u2022 Gain a 15% Geo DMG Bonus.\n\u2022 ATK +18%.\n        "
-            },
-            {
-                "inline": false,
-                "name": "Second Best Artifact Set:",
-                "value": "\n*Archaic Petra <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n\u2022 Gain a 15% Geo DMG Bonus.\n\u2022 Elemental Burst DMG +20%.\n        "
-            },
-            {
-                "inline": false,
-                "name": "Third Best Artifact Set:",
-                "value": "\n*Archaic Petra <:4x:957694032216215573>*\n\u2022 Gain a 15% Geo DMG Bonus\n\u2022 Upon obtaining an Elemental Shard Created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.\n        "
-            },
-            {
-                "inline": true,
-                "name": "Stat Priority",
-                "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Geo DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n\u30fbATK %\n\u30fbCRIT Rate\n\u30fbCRIT DMG\n        "
-            },
-            {
-                "inline": true,
-                "name": "Talent Priority:",
-                "value": "\n**1)** Normal Attack: Sparkling Scatter\n**2)** Elemental Burst: Starshatter\n**3)** Elemental Skill: Jade Screen\n        "
-            }
-        ],
-        "color": 14994176,
-        "type": "rich",
-        "title": "Ningguang (Main DPS)"
-    },
-    "ninguang": {
         "thumbnail": {
             "url": "https://i.imgur.com/w9LQJFO.png"
         },
@@ -2303,56 +2168,6 @@
         "color": 16733525,
         "type": "rich",
         "title": "Yoimiya (Pyro DPS)"
-    },
-    "yomiya": {
-        "thumbnail": {
-            "url": "https://i.imgur.com/D5tXbxb.png"
-        },
-        "fields": [
-            {
-                "inline": false,
-                "name": "Best Weapon:",
-                "value": "Thundering Pulse"
-            },
-            {
-                "inline": false,
-                "name": "Replacement Weapon:",
-                "value": "Skyward Harp, Rust, Hamayumi"
-            },
-            {
-                "inline": false,
-                "name": "Best Artifact Set:",
-                "value": "\n*Shimenawa's Reminiscence <:4x:957694032216215573>*\n\u2022 ATK +18%.\n\u2022 When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charge/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration.\n        "
-            },
-            {
-                "inline": false,
-                "name": "Second Best Artifact Set:",
-                "value": "\n*Crimson Witch of Flames <:4x:957694032216215573>*\n\u2022 Pyro DMG Bonus +15%.\n\u2022 Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases 2-Piece Set effects by 50% for 10s. Max 3 stacks.\n        "
-            },
-            {
-                "inline": false,
-                "name": "Third Best Artifact Set:",
-                "value": "\n*Crimson Witch of Flames <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n\u2022 Pyro DMG Bonus +15%.\n\u2022 ATK +18%\n        "
-            },
-            {
-                "inline": true,
-                "name": "Stat Priority",
-                "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Pyro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate/CRIT DMG\n**Substats**\n\u30fbATK %\n\u30fbCRIT DMG\n\u30fbCRIT Rate\n        "
-            },
-            {
-                "inline": true,
-                "name": "Talent Priority:",
-                "value": "\n**1)** Normal Attack: Firework Flare-Up\n**2)** Elemental Skill: Niwabi Fire-Dance\n**3)** Elemental Burst: Ryuukin Saxifrage\n        "
-            },
-            {
-                "inline": false,
-                "name": "Notes:",
-                "value": "Hamayumi bow is **NOT** recommended when Yoimiya is running **4-Piece Shimenawa's Reminiscence**"
-            }
-        ],
-        "color": 16733525,
-        "type": "rich",
-        "title": "Yoimiya (DPS)"
     },
     "yunjin": {
         "thumbnail": {
