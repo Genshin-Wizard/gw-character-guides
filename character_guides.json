@@ -1642,17 +1642,17 @@
             {
                 "inline": false,
                 "name": "Best Artifact Set:",
-                "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n\u2022 Elemental Burst DMG +20%.\n\u2022 Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
+                "value": "\n*Lavawalker <:4x:957694032216215573> (Reverse-Melt)*\n\u2022 Pyro RES increased by 40%.\n\u2022 Increases DMG against enemies that are Burning or affected by Pyro by 35%.\n        "
             },
             {
                 "inline": false,
                 "name": "Second Best Artifact Set:",
-                "value": "\n*Blizzard Strayer <:4x:957694032216215573>*\n\u2022 Cryo DMG Bonus +15%\n\u2022 When a character attacks an enemy affected by Cryo, their CRIT Rate is increased by 20%. If the enemy is Frozen, CRIT Rate is increased by an additional 20%.\n        "
+                "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n\u2022 Energy Recharge +20%\n\u2022 Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
             },
             {
                 "inline": false,
                 "name": "Third Best Artifact Set:",
-                "value": "\n*Pale Flame <:4x:957694032216215573>*\n\u2022 Physical DMG +25%\n\u2022 When an Elemental skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, 2-set effect is doubled.\n        "
+                "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n\u2022 Elemental Burst DMG +20%.\n\u2022 Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
             },
             {
                 "inline": true,
@@ -1667,7 +1667,7 @@
         ],
         "color": 10147839,
         "type": "rich",
-        "title": "Rosaria (Sub DPS)"
+        "title": "Rosaria (Burst DPS/Support)"
     },
     "sara": {
         "thumbnail": {
