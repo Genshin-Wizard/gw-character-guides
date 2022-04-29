@@ -1027,17 +1027,22 @@
             {
                 "inline": true,
                 "name": "Stat Priority",
-                "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % / Elemental Mastery\n<:gobletofeonothem:957412513958477864> Anemo DMG Bonus / Elemental Mastery\n<:circletoflogos:957412513820053594> CRIT DMG / CRIT Rate / Elemental Masterye\n**Substats**\n\u30fbATK %\n\u30fbEnergy Recharge\n\u30fbCRIT DMG\n\u30fbCRIT Rate \n        "
+                "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Elemental Mastery\n<:gobletofeonothem:957412513958477864> Elemental Mastery\n<:circletoflogos:957412513820053594> Elemental Masterye\n**Substats**\n\u30fbATK %\n\u30fbEnergy Recharge\n        "
             },
             {
                 "inline": true,
                 "name": "Talent Priority:",
                 "value": "\n**1)** Elemental Skill: Gale Blade\n**2)** Elemental Burst: Dandelion Breeze\n**3)** Normal Attack: Favonius Bladework\n        "
+            },
+            {
+                "inline": false,
+                "name": "Notes:",
+                "value": "Swirl Support Characters does not need to Level-up Talents. Just Level up your character for higher Swirl Damage, and keep your Elemental Mastery Sky High"
             }
         ],
         "color": 5494962,
         "type": "rich",
-        "title": "Jean (Support)"
+        "title": "Jean (Swirl Support)"
     },
     "kaeya": {
         "thumbnail": {
