@@ -447,7 +447,7 @@
             {
                 "inline": true,
                 "name": "Talent Priority:",
-                "value": "\n**1)** Elemental Burst: Havoc - Obliteration\n**2)** Elemental Skill: Foul Legacy - Raging Tide\n**3)** Normal Attack: Cutting Torrent\n        "
+                "value": "\n**1)** Elemental Skill: Foul Legacy - Raging Tide\n**2)** Elemental Burst: Havoc - Obliteration\n**3)** Normal Attack: Cutting Torrent\n        "
             }
         ],
         "color": 3245055,
@@ -852,7 +852,7 @@
             {
                 "inline": true,
                 "name": "Talent Priority:",
-                "value": "\n**1)** Elemental Burst: Juuga - Forward Unto Victory\n**2)** Elemental Skill: Inuzaka All-round Defense\n**3)** Normal Attack: Ripping Fang Fletching\n        "
+                "value": "\n**1)** Elemental Skill: Inuzaka All-round Defense\n**2)** Elemental Burst: Juuga - Forward Unto Victory\n**3)** Normal Attack: Ripping Fang Fletching\n        "
             }
         ],
         "color": 14994176,
@@ -957,12 +957,12 @@
             {
                 "inline": false,
                 "name": "Best Weapon:",
-                "value": "Jade Cutter"
+                "value": "Iron Sting"
             },
             {
                 "inline": false,
                 "name": "Replacement Weapon:",
-                "value": "Mistsplitter Reforge, Freedom-Sworn, Skyward Blade, Festering Desire, Amenoma Kageuchim (R5)"
+                "value": "Jade Cutter, Mistsplitter Reforge, Freedom-Sworn, Skyward Blade, Festering Desire, Amenoma Kageuchim (R5)"
             },
             {
                 "inline": false,
@@ -1067,22 +1067,22 @@
             {
                 "inline": false,
                 "name": "Second Best Artifact Set:",
-                "value": "\n*Gladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>\nViridescent Venerer <:2x:957694031343812619>*\n\u2022 ATK +18%.\n\u2022 Anemo DMG Bonus +15%\n        "
-            },
-            {
-                "inline": false,
-                "name": "Third Best Artifact Set:",
                 "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n\u2022 Elemental Burst DMG +20%.\n\u2022 Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
             },
             {
                 "inline": true,
                 "name": "Stat Priority",
-                "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Elemental Mastery or ATK %\n<:gobletofeonothem:957412513958477864> Elemental Mastery or Anemo DMG Bonus\n<:circletoflogos:957412513820053594> Elemental Mastery or CRIT Rate / CRIT DMG\n**Substats**\n\u30fbElemental Mastery\n\u30fbATK %\n\u30fbCRIT DMG\n\u30fbCRIT Rate\n\u30fbEnergy Recharge\n        "
+                "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Elemental Mastery\n<:gobletofeonothem:957412513958477864> Elemental Mastery\n<:circletoflogos:957412513820053594> Elemental Mastery\n**Substats**\n\u30fbElemental Mastery\n\u30fbEnergy Recharge\n        "
             },
             {
                 "inline": true,
                 "name": "Talent Priority:",
                 "value": "\n**1)** Elemental Skill: Chihayabaru\n**2)** Elemental Burst: Kazuha Slash\n**3)** Normal Attack: Garyuu Bladework\n        "
+            },
+            {
+                "inline": false,
+                "name": "Notes:",
+                "value": "Swirl Support Characters does not need to Level-up Talents. Just Level up your character for higher Swirl Damage, and keep your Elemental Mastery Sky High"
             }
         ],
         "color": 5494962,
@@ -1758,6 +1758,11 @@
                 "inline": true,
                 "name": "Talent Priority:",
                 "value": "\n**1)** Elemental Burst: Forbidden Creation - Isomer Type II\n**2)** Elemental Skill: Astable Anemohypostatsis Creation - 6308\n**3)** Normal Attack: Wind Spirit Creation\n        "
+            },
+            {
+                "inline": false,
+                "name": "Notes:",
+                "value": "Swirl Support Characters does not need to Level-up Talents. Just Level up your character for higher Swirl Damage, and keep your Elemental Mastery Sky High"
             }
         ],
         "color": 5494962,
@@ -1972,7 +1977,7 @@
             {
                 "inline": false,
                 "name": "Third Best Artifact Set:",
-                "value": "\n*Heart of Depth <:4x:957694032216215573>*\n\u2022 Hydro DMG Bonus +15%\n\u2022 After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.\n        "
+                "value": "\n*Heart of Depth <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n\u2022 Hydro DMG Bonus +15%\n\u2022 Elemental Burst DMG +20%\n        "
             },
             {
                 "inline": true,
@@ -1997,42 +2002,37 @@
             {
                 "inline": false,
                 "name": "Best Weapon:",
-                "value": "Redhorn Stonethresher"
+                "value": "Wolf's Gravestone"
             },
             {
                 "inline": false,
                 "name": "Replacement Weapon:",
-                "value": "The Unforged, Serpent Spine, Song of Broken Pines, Snow-Tombed Starsilver"
+                "value": "Serpent Spine, Song of Broken Pines, Snow-Tombed Starsilver, Skyward Pride"
             },
             {
                 "inline": false,
                 "name": "Best Artifact Set:",
-                "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n\u2022 Energy Recharge +20%.\n\u2022 Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
+                "value": "\n*Bloodstained Chivalry <:2x:957694031343812619>\nPale Flame <:2x:957694031343812619>*\n\u2022 Physical DMG +25%.\n\u2022 Physical DMG +25%\n        "
             },
             {
                 "inline": false,
                 "name": "Second Best Artifact Set:",
-                "value": "\n*Bloodstained Chivalry <:4x:957694032216215573>*\n\u2022 Physical DMG +25%\n\u2022 After defeating an opponent, increases Charged Attack DMG by 50% and reduces its Stamina cost to 0 for 10s.\n        "
-            },
-            {
-                "inline": false,
-                "name": "Third Best Artifact Set:",
-                "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n\u2022 Elemental Burst DMG +20%.\n\u2022 Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
+                "value": "\n*Bloodstained Chivalry <:2x:957694031343812619>\n Gladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n\u2022 Physical DMG +25%\n\u2022 ATK +18%\n        "
             },
             {
                 "inline": true,
                 "name": "Stat Priority",
-                "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Physical DMG Bonus or ATK %\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n\u30fbCRIT DMG\n\u30fbATK %\n        "
+                "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Physical DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n\u30fbCRIT DMG / CRIT Rate\n\u30fbATK %\n        "
             },
             {
                 "inline": true,
                 "name": "Talent Priority:",
-                "value": "\n**1)** Elemental Skill: Sweeping Ferver\n**2)** Elemental Burst: Riff Evolution\n**3)** Normal Attack: Dance on Fire\n        "
+                "value": "\n**1)** Normal Attack: Dance on Fire\n**2)** Elemental Burst: Riff Evolution\n**3)** Elemental Skill: Sweeping Ferver\n        "
             }
         ],
         "color": 16733525,
         "type": "rich",
-        "title": "Xinyan (Support)"
+        "title": "Xinyan (Main DPS)"
     },
     "yaemiko": {
         "thumbnail": {
