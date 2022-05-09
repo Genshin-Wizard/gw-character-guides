@@ -1637,22 +1637,22 @@
             {
                 "inline": false,
                 "name": "Best Weapon:",
-                "value": "Wolf's Gravestone"
+                "value": "Skyward Pride"
             },
             {
                 "inline": false,
                 "name": "Replacement Weapon:",
-                "value": "Skyward Spine, Favonius Greatsword"
+                "value": "Skyward Spine, Favonius Greatsword, Wolf's Gravestone"
             },
             {
                 "inline": false,
                 "name": "Best Artifact Set:",
-                "value": "\n*Ocean-hued Clam <:4x:957694032216215573>*\n\u2022 Healing Bonus +15%\n\u2022 When the character with this artifact set heals a party member, 1 Foam will appear. It accumulates healed HP for 3 seconds, then explodes and deals 90% of the HP healed as DMG to nearby enemies. Max accumulated healing is 30,000 HP, including over-heal. There can only be 1 Foam active, but it stays even if you swap out. Foam CD is 3.5s.\n        "
+                "value": "\n*Viridescent Venerer <:4x:957694032216215573>*\n\u2022 Anemo DMG Bonus +15%\n\u2022 Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.\n        "
             },
             {
                 "inline": false,
                 "name": "Second Best Artifact Set:",
-                "value": "\n*Viridescent Venerer <:4x:957694032216215573>*\n\u2022 Anemo DMG Bonus +15%\n\u2022 Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.\n        "
+                "value": "\n*Viridescent Venerer <:2x:957694031343812619>\nWanderer's Troupe <:2x:957694031343812619>*\n\u2022 Anemo DMG Bonus +15%\n\u2022 Increases Elemental Mastery by 80\n        "
             },
             {
                 "inline": false,
@@ -1662,7 +1662,7 @@
             {
                 "inline": true,
                 "name": "Stat Priority",
-                "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % or Energy Recharge\n<:gobletofeonothem:957412513958477864> ATK %\n<:circletoflogos:957412513820053594> ATK %\n**Substats**\n\u30fbATK %\n\u30fbEnergy Recharge\n\u30fbElemental Mastery\n        "
+                "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Elemental Mastery or ATK % or Energy Recharge\n<:gobletofeonothem:957412513958477864> Elemental Mastery or ATK %\n<:circletoflogos:957412513820053594> EM or ATK % or Healing Bonus\n**Substats**\n\u30fbATK %\n\u30fbEnergy Recharge\n\u30fbElemental Mastery\n        "
             },
             {
                 "inline": true,
