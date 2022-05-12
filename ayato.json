@@ -1,0 +1,50 @@
+{
+    "thumbnail": {
+        "url": "https://i.imgur.com/aIcY8dQ.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Best Weapon:",
+            "value": "Haran Geppaku Futsu"
+        },
+        {
+            "inline": false,
+            "name": "Replacement Weapon:",
+            "value": "Primordial Jade Cutter, Mistsplitter Reforged, The Black Sword, Lion's Roar, Amenona"
+        },
+        {
+            "inline": false,
+            "name": "Best Artifact Set:",
+            "value": "\n*Gladiator's Finale <:4x:957694032216215573>*\n• ATK +18%.\n• If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.\n        "
+        },
+        {
+            "inline": false,
+            "name": "Second Best Artifact Set:",
+            "value": "\n*Heart of Depth <:4x:957694032216215573>*\n• Hydro DMG Bonus +15%\n• After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.\n        "
+        },
+        {
+            "inline": false,
+            "name": "Third Best Artifact Set:",
+            "value": "\n*Shimenawa's Reminiscence <:4x:957694032216215573>*\n• ATK +18%\n• When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s.\n        "
+        },
+        {
+            "inline": true,
+            "name": "Stat Priority",
+            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Hydro DMG Bonus %\n<:circletoflogos:957412513820053594> CRIT DMG or CRIT Rate\n**Substats**\n・ATK %\n・Energy Recharge\n・CRIT DMG\n・CRIT Rate\n・HP %\n        "
+        },
+        {
+            "inline": true,
+            "name": "Talent Priority:",
+            "value": "\n**1)** Elemental Skill: Kamisato Art- Kyouka\n**2)** Elemental Burst: Kamisato Art- Suiyuu\n**3)** Normal Attack: Kamisato Art- Marobashi\n        "
+        },
+        {
+            "inline": false,
+            "name": "Notes:",
+            "value": "Amenona weapon is NOT recommended for Kamisato Ayato when you are running **4-Piece Shimenawa's Reminiscence**"
+        }
+    ],
+    "color": 3245055,
+    "type": "rich",
+    "title": "Kamisato Ayato (Main DPS)"
+}
