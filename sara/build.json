@@ -1,0 +1,45 @@
+{
+    "thumbnail": {
+        "url": "https://i.imgur.com/yGSQBnz.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Best Weapon:",
+            "value": "Elegy of the End"
+        },
+        {
+            "inline": false,
+            "name": "Replacement Weapon:",
+            "value": "Favonious Warbow, Sacrificial Bow, Skyward Harp, Alley Hunter"
+        },
+        {
+            "inline": false,
+            "name": "Best Artifact Set:",
+            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
+        },
+        {
+            "inline": false,
+            "name": "Second Best Artifact Set:",
+            "value": "\n*Thundering Fury <:4x:957694032216215573>*\n• Electro DMG Bonus +15%\n• Increases damage caused by Overloaded, Electro-Charged and Superconduct by 40%. Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s.\n        "
+        },
+        {
+            "inline": false,
+            "name": "Third Best Artifact Set:",
+            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
+        },
+        {
+            "inline": true,
+            "name": "Stat Priority",
+            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % or Energy Recharge\n<:gobletofeonothem:957412513958477864> Electro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・ATK %\n・CRIT DMG\n・CRIT Rate\n・Energy Recharge\n        "
+        },
+        {
+            "inline": true,
+            "name": "Talent Priority:",
+            "value": "\n**1)** Elemental Burst: Subjugation - Koukou Sendou\n**2)** Elemental Skill: Tengu Stormcall\n**3)** Normal Attack: Tengu Bowmanship\n        "
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Kujou Sara (Support)"
+}

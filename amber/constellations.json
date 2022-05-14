@@ -1,0 +1,45 @@
+{
+    "thumbnail": {
+        "url": "https://i.imgur.com/P3EU7xA.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Best Weapon:",
+            "value": "Elegy for the End"
+        },
+        {
+            "inline": false,
+            "name": "Replacement Weapon:",
+            "value": "Favonious Warbow, The Stringless, Hamayumi Bow"
+        },
+        {
+            "inline": false,
+            "name": "Best Artifact Set:",
+            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
+        },
+        {
+            "inline": false,
+            "name": "Second Best Artifact Set:",
+            "value": "\n*Gladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>\nCrimson Witch of Flames <:2x:957694031343812619>*\n• ATK +18%.\n• Pyro DMG Bonus +15%.\n        "
+        },
+        {
+            "inline": false,
+            "name": "Third Best Artifact Set:",
+            "value": "\n*Crimson Witch of Flames <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• +15% Pyro DMG\n• +20% Elemental Burst DMG\n        "
+        },
+        {
+            "inline": true,
+            "name": "Stat Priority",
+            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Pyro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・Energy Recharge\n・CRIT Rate/DMG\n・ATK % \n        "
+        },
+        {
+            "inline": true,
+            "name": "Talent Priority:",
+            "value": "\n**1)** Elemental Burst: Fiery Rain\n**2)** Elemental Skill: Explosive Puppet\n**3)** Normal Attack: Sharpshooter \n        "
+        }
+    ],
+    "color": 16733525,
+    "type": "rich",
+    "title": "Amber (Sub DPS)"
+}

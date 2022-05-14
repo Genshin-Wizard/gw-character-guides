@@ -1,0 +1,40 @@
+{
+    "thumbnail": {
+        "url": "https://i.imgur.com/T6meiSo.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Best Weapon:",
+            "value": "Wolf's Gravestone"
+        },
+        {
+            "inline": false,
+            "name": "Replacement Weapon:",
+            "value": "Serpent Spine, Song of Broken Pines, Snow-Tombed Starsilver, Skyward Pride"
+        },
+        {
+            "inline": false,
+            "name": "Best Artifact Set:",
+            "value": "\n*Bloodstained Chivalry <:2x:957694031343812619>\nPale Flame <:2x:957694031343812619>*\n• Physical DMG +25%.\n• Physical DMG +25%\n        "
+        },
+        {
+            "inline": false,
+            "name": "Second Best Artifact Set:",
+            "value": "\n*Bloodstained Chivalry <:2x:957694031343812619>\n Gladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Physical DMG +25%\n• ATK +18%\n        "
+        },
+        {
+            "inline": true,
+            "name": "Stat Priority",
+            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Physical DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・CRIT DMG / CRIT Rate\n・ATK %\n        "
+        },
+        {
+            "inline": true,
+            "name": "Talent Priority:",
+            "value": "\n**1)** Normal Attack: Dance on Fire\n**2)** Elemental Burst: Riff Evolution\n**3)** Elemental Skill: Sweeping Ferver\n        "
+        }
+    ],
+    "color": 16733525,
+    "type": "rich",
+    "title": "Xinyan (Main DPS)"
+}

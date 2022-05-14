@@ -1,0 +1,45 @@
+{
+    "thumbnail": {
+        "url": "https://i.imgur.com/47mFsx4.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Best Weapon:",
+            "value": "Polar Star"
+        },
+        {
+            "inline": false,
+            "name": "Replacement Weapon:",
+            "value": "Thundering Pulse, Skyward Harp, Stringless, Sac Bow, Windblume Ode"
+        },
+        {
+            "inline": false,
+            "name": "Best Artifact Set:",
+            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
+        },
+        {
+            "inline": false,
+            "name": "Second Best Artifact Set:",
+            "value": "\n*Blizzard Strayer <:2x:957694031343812619>\nNobless Oblige <:2x:957694031343812619>*\n• Cryo DMG Bonus +15%\n• Elemental Burst DMG +20%.\n        "
+        },
+        {
+            "inline": false,
+            "name": "Third Best Artifact Set:",
+            "value": "\n*Wanderer's Troupe <:2x:957694031343812619>\nBlizzard Strayer <:2x:957694031343812619>*\n• Increases Elemental Mastery by 80.\n• Cryo DMG Bonus +15%\n        "
+        },
+        {
+            "inline": true,
+            "name": "Stat Priority",
+            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % / Elemental Mastery / Energy Recharge\n<:gobletofeonothem:957412513958477864> Cryo DMG Bonus % / ATK%\n<:circletoflogos:957412513820053594> CRIT DMG / CRIT Rate\n**Substats**\n・CRIT Rate\n・CRIT DMG\n・ATK %\n・Elemental Mastery\n・Energy Recharge\n        "
+        },
+        {
+            "inline": true,
+            "name": "Talent Priority:",
+            "value": "\n**1)** Elemental Burst: Prophecies of Dawn\n**2)** Elemental Skill: Frozen Wilds\n**3)** Normal Attack: Rapid Fire\n        "
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "title": "Aloy (Burst DPS)"
+}

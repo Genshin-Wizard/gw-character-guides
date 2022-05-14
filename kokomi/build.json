@@ -1,0 +1,45 @@
+{
+    "thumbnail": {
+        "url": "https://i.imgur.com/Rd4Ubga.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Best Weapon:",
+            "value": "Everlasting Moonglow"
+        },
+        {
+            "inline": false,
+            "name": "Replacement Weapon:",
+            "value": "Prototype Amber, Thrilling Tales of Dragon Slayers"
+        },
+        {
+            "inline": false,
+            "name": "Best Artifact Set:",
+            "value": "\n*Ocean-hued Clam <:4x:957694032216215573>*\n• Healing Bonus +15%.\n• When the character with this artifact set heals a party member, 1 Foam will appear. It accumulates healed HP for 3 seconds, then explodes and deals 90% of the HP healed as DMG to nearby enemies. Max accumulated healing is 30,000 HP, including over-heal. There can only be 1 Foam active, but it stays even if you swap out. Foam CD is 3.5s.            \n        "
+        },
+        {
+            "inline": false,
+            "name": "Second Best Artifact Set:",
+            "value": "\n*Maiden Beloved <:4x:957694032216215573>*\n• Increases Healing done by 15%\n• Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s.\n        "
+        },
+        {
+            "inline": false,
+            "name": "Third Best Artifact Set:",
+            "value": "\n*Maiden Beloved <:2x:957694031343812619>\nOcean-Hued Clam <:2x:957694031343812619>*\n• Increases Healing done by 15%\n• Healing Bonus +15%\n        "
+        },
+        {
+            "inline": true,
+            "name": "Stat Priority",
+            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Energy Recharge or HP %\n<:gobletofeonothem:957412513958477864> HP % or Hydro DMG Bonus\n<:circletoflogos:957412513820053594> Healing Bonus or HP %\n**Substats**\n・HP %\n・Energy Recharge\n・Elemental Mastery\n        "
+        },
+        {
+            "inline": true,
+            "name": "Talent Priority:",
+            "value": "\n**1)** Elemental Skill: Kurage's Oath\n**2)** Elemental Burst: Nereid's Ascension\n**3)** Normal Attack: The Shape of Water\n        "
+        }
+    ],
+    "color": 3245055,
+    "type": "rich",
+    "title": "Sangonomiya Kokomi (Support)"
+}
