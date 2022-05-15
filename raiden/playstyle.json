@@ -1,47 +1,9 @@
 {
-    "thumbnail": {
-        "url": "https://i.imgur.com/4NdsZHk.png"
+    "image": {
+        "url": "https://i.imgur.com/56WmQ8I.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Engulfing Lightning"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Staff of Homa, Wavebreaker's Fin (R5 recommended), The Catch (R5), Primordial Jade Winged-Spear"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:2x:957694031343812619>\nThundering Fury <:2x:957694031343812619>*\n• Elemental Burst DMG +20%.\n• Electro DMG Bonus +15%\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Thundering Fury <:4x:957694032216215573>*\n• Electro DMG Bonus +15%\n• Increases damage caused by Overloaded, Electro-Charged and Superconduct by 40%. Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s.\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Energy Recharge or ATK %\n<:gobletofeonothem:957412513958477864> Electro DMG Bonus or ATK %\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・ATK %\n・CRIT DMG\n・CRIT Rate\n・Energy Recharge\n・Elemental Mastery\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Secret Art - Musou Shinsetsu\n**2)** Elemental Skill: Transcedence - Baleful Omen\n**3)** Normal Attack: Origin (Useless)\n        "
-        }
-    ],
     "color": 11104511,
     "type": "rich",
-    "title": {
-        "text": "Character Guide • Builds: Raiden"
-    }
+    "description": "Information regarding this character's playstyle",
+    "title": "Raiden Shogun | Introduction"
 }

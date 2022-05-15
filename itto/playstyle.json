@@ -1,47 +1,9 @@
 {
-    "thumbnail": {
+    "image": {
         "url": "https://i.imgur.com/rV4eWpl.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Redhorn Stonethresher"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Whiteblind, Serpent Spine"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Husk of Opulent Dreams <:4x:957694032216215573>*\n• DEF +30%\n• The wearer gains one Curiosity stack when hitting an opponent with a Geo attack, or every three seconds while the character is off-field. One Curiosity stack grants a 6% Defense and 6% Geo damage bonus (maximum of four stacks).\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Archaic Petra <:2x:957694031343812619>\nHusk of Opulent Dreams <:2x:957694031343812619>*\n• Increases Geo damage by 15%.\n• DEF +30%\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Husk of Opulent Dreams <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• DEF +30%\n• ATK +18%\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> DEF %\n<:gobletofeonothem:957412513958477864> Geo DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・DEF %\n・CRIT DMG\n・CRIT Rate\n・Energy Recharge\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Royal Descent - Behold, Itto the Evil!\n**2)** Elemental Skill: Masatsu Zetsugi - Akaushi Burst!\n**3)** Normal Attack: Fight Club Legend\n        "
-        }
-    ],
     "color": 14994176,
     "type": "rich",
-    "title": {
-        "text": "Character Guide • Builds: Itto"
-    }
+    "description": "Information regarding this character's playstyle",
+    "title": "Itto | Introduction"
 }

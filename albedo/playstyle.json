@@ -1,47 +1,9 @@
 {
-    "thumbnail": {
-        "url": "https://i.imgur.com/oDUkuVY.png"
+    "image": {
+        "url": "https://i.imgur.com/XlWnH6g.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Cinnabar Spindle"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Harbinger of Dawn, Primordial Jade Cutter"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Husk of Opulent Dreams <:4x:957694032216215573>*\n• DEF +30%\n• A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Archaic Petra <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• Gain a 15% Geo DMG Bonus.\n• Elemental Burst DMG +20%.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Archaic Petra <:4x:957694032216215573>*\n• Gain a 15% Geo DMG Bonus.\n• Upon obtaining an Elemental Shard Created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> DEF%\n<:gobletofeonothem:957412513958477864> Geo DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・DEF%\n・CRIT Rate\n・CRIT DMG\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Abiogenesis - Solar Isotama\n**2)** Elemntal Burst: Rite of Progeniture - Tectonic Tide\n**3)** Normal Attack: Favonius Bladework- Weiss\n        "
-        }
-    ],
     "color": 14994176,
     "type": "rich",
-    "title": {
-        "text": "Character Guide • Builds: Albedo"
-    }
+    "description": "Information regarding this character's playstyle",
+    "title": "Albedo | Introduction"
 }

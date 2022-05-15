@@ -1,47 +1,9 @@
 {
-    "thumbnail": {
-        "url": "https://i.imgur.com/Jru7MPN.png"
+    "image": {
+        "url": "https://i.imgur.com/nSL3fPX.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Freedom-Sworn"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Sacrifical Sword, Primordial Jade Cutter, Iron Sting"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Viridescent Venerer <:4x:957694032216215573>*\n• Anemo DMG Bonus +15%\n• Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Elemental Mastery\n<:gobletofeonothem:957412513958477864> Elemental Mastery\n<:circletoflogos:957412513820053594> Elemental Mastery\n**Substats**\n・Elemental Mastery\n・Energy Recharge\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Chihayabaru\n**2)** Elemental Burst: Kazuha Slash\n**3)** Normal Attack: Garyuu Bladework\n        "
-        },
-        {
-            "inline": false,
-            "name": "Notes:",
-            "value": "Swirl Support Characters does not need to Level-up Talents. Just Level up your character for higher Swirl Damage, and keep your Elemental Mastery Sky High"
-        }
-    ],
     "color": 5494962,
     "type": "rich",
-    "title": {
-        "text": "Character Guide • Builds: Kazuha"
-    }
+    "description": "Information regarding this character's playstyle",
+    "title": "Kaedehara Kazuha | Introduction"
 }

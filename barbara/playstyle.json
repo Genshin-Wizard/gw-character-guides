@@ -1,47 +1,9 @@
 {
-    "thumbnail": {
-        "url": "https://i.imgur.com/UNI8hh0.png"
+    "image": {
+        "url": "https://i.imgur.com/KJbeHEM.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Everlasting Moonglow"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Thrilling Tales of Dragon Slayer, Prototype Amber"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Maiden Beloved <:4x:957694032216215573>*\n• Character Healing Effectiveness +15%.\n• Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Ocean-hued Clam <:4x:957694032216215573>*\n• Healing Bonus +15%\n• When the character with this artifact set heals a party member, 1 Foam will appear. It accumulates healed HP for 3 seconds, then explodes and deals 90% of the HP healed as DMG to nearby enemies. Max accumulated healing is 30,000 HP, including over-heal. There can only be 1 Foam active, but it stays even if you swap out. Foam CD is 3.5s.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Ocean-hued Clam <:2x:957694031343812619>\nMaiden Beloved <:2x:957694031343812619>*\n• Healing Bonus +15%\n• Character Healing Effectiveness +15%.\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> HP\n<:gobletofeonothem:957412513958477864> HP\n<:circletoflogos:957412513820053594> HP or Healing Bonus\n**Substats**\n・HP \n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Let the Show Begin\n**2)** Elemental Burst: Shining Miracle\n**3)** Normal Attack: Whisper of Water \n        "
-        }
-    ],
     "color": 3245055,
     "type": "rich",
-    "title": {
-        "text": "Character Guide • Builds: Barbara"
-    }
+    "description": "Information regarding this character's playstyle",
+    "title": "Barbara | Introduction"
 }
