@@ -1,4 +1,7 @@
 {
+    "image": {
+        "url": "https://i.imgur.com/AnAvjd3.png"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/T6meiSo.png"
     },
@@ -16,7 +19,7 @@
         {
             "inline": true,
             "name": "Element Type",
-            "value": "Pyro"
+            "value": "Pyro <:pyro:786923377146855434>"
         },
         {
             "inline": true,

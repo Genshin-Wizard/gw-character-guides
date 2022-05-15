@@ -1,4 +1,7 @@
 {
+    "image": {
+        "url": "https://i.imgur.com/AnAvjd3.png"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/J4NNoqO.png"
     },
@@ -16,7 +19,7 @@
         {
             "inline": true,
             "name": "Element Type",
-            "value": "Cryo"
+            "value": "Cryo <:cryo:786923477201977384>"
         },
         {
             "inline": true,

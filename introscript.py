@@ -14,6 +14,16 @@ def elementColor(element):
         'Electro':'11104511'
     }.get(str(element))
 
+def elementEmoji(element):
+    return {
+        'Dendro':'<:dendro:786923420930932757>', 
+        'Hydro':'<:hydro:786923563109318686>', 
+        'Anemo':'<:anemo:786923508067729408> ', 
+        'Geo':'<:geo:786923530968760370>', 
+        'Pyro':'<:pyro:786923377146855434>', 
+        'Cryo':'<:cryo:786923477201977384>', 
+        'Electro':'<:electro:794904986899054612>'
+    }.get(str(element)) 
 
 for character in characters:
     temp = character
@@ -55,12 +65,12 @@ for character in characters:
     )
     embed.add_field(name= 'Nation',value=data['nation'],inline=True)
     embed.add_field(name= 'Affiliation',value=data['affiliation'],inline=True)
-    embed.add_field(name= 'Element Type',value=data['vision'],inline=True)
+    embed.add_field(name= 'Element Type',value=f"{data['vision']} {elementEmoji(data['vision'])}",inline=True)
     embed.add_field(name= 'Rarity',value=data['rarity'],inline=True)
     embed.add_field(name= 'Constellation',value=data['constellation'],inline=True)
     embed.add_field(name= 'Weapon',value=data['weapon'],inline=True)
     embed.set_thumbnail(url = icon[temp])
-    
+    embed.set_image(url = 'https://i.imgur.com/AnAvjd3.png')
     data_info = discord.Embed.to_dict(embed)
     with open(f'{temp2}/introduction.json', 'w', encoding='utf-8') as f:
         json.dump(data_info, f, ensure_ascii=False, indent=4)

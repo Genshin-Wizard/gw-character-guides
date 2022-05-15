@@ -1,4 +1,7 @@
 {
+    "image": {
+        "url": "https://i.imgur.com/AnAvjd3.png"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/B0zBZMi.png"
     },
@@ -16,7 +19,7 @@
         {
             "inline": true,
             "name": "Element Type",
-            "value": "Anemo"
+            "value": "Anemo <:anemo:786923508067729408> "
         },
         {
             "inline": true,

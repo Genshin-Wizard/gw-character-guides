@@ -1,4 +1,7 @@
 {
+    "image": {
+        "url": "https://i.imgur.com/AnAvjd3.png"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/a0E1K9o.png"
     },
@@ -16,7 +19,7 @@
         {
             "inline": true,
             "name": "Element Type",
-            "value": "Electro"
+            "value": "Electro <:electro:794904986899054612>"
         },
         {
             "inline": true,
