@@ -4,42 +4,38 @@
     },
     "fields": [
         {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Festering Desire"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Sacrificial Sword, Favonious Sword, Skyward Blade"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Archaic Petra <:2x:957694031343812619>\nGladiator's Finale <:2x:957694031343812619>*\n• Gain a 15% Geo DMG Bonus\n• ATK +18%\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Archaic Petra <:4x:957694032216215573>*\n• Gain a 15% Geo DMG Bonus\n• Upon obtaining an Elemental Shard Created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Gladiator's FInale <:4x:957694032216215573>*\n• ATK +18%.\n• If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.\n        "
+            "inline": true,
+            "name": "Nation",
+            "value": "Outlander"
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Energy Recharge or ATK %\n<:gobletofeonothem:957412513958477864> Geo DMG Bonus or ATK %\n<:circletoflogos:957412513820053594> ATK % or CRIT Rate\n**Substats**\n・Energy Recharge\n・ATK %\n        "
+            "name": "Affiliation",
+            "value": "Not affilated to any Nation"
         },
         {
             "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Wake of Earth \n**2)** Elemental Skill: Starfell Sword \n**3)** Normal Attack: Foreign Rockblade\n        "
+            "name": "Element Type",
+            "value": "Geo"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "5"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Viatrix"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "Sword"
         }
     ],
     "color": 14994176,
     "type": "rich",
-    "title": "Geo Traveler (Sub DPS)"
+    "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "title": "Traveler"
 }

@@ -4,42 +4,38 @@
     },
     "fields": [
         {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Iron Sting"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Festering Desire, Sacrificial Sword"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Viridescent Venerer <:4x:957694032216215573>*\n•  Anemo DMG Bonus +15%\n• Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Gladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>\nViridescent Venerer <:2x:957694031343812619>*\n• ATK +18%.\n• Anemo DMG Bonus +15%\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Gladiator's FInale <:4x:957694032216215573>*\n• ATK +18%.\n• If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.\n        "
+            "inline": true,
+            "name": "Nation",
+            "value": "Outlander"
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Energy Recharge\n<:gobletofeonothem:957412513958477864> Anemo DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate or CRIT DMG\n**Substats**\n・Energy Recharge\n・CRIT Rate\n        "
+            "name": "Affiliation",
+            "value": "Not affilated to any Nation"
         },
         {
             "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Gust Surge\n**2)** Elemntal Skill: Palm Vortex\n**3)** Normal Attack: Foreign Ironwind\n        "
+            "name": "Element Type",
+            "value": "Anemo"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "5"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Viatrix"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "Sword"
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Anemo Traveler (Sub DPS)"
+    "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "title": "Traveler"
 }

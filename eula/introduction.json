@@ -4,42 +4,38 @@
     },
     "fields": [
         {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Songs of Broken Pines"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Wolf's Gravestone, Luxurious Sea-lord, Snow-tombed Starsilver"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Pale Flame <:4x:957694032216215573>*\n• Physical DMG +25%\n• When an Elemental skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, 2-set effect is doubled.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Bloodstained Chivalry <:4x:957694032216215573>*\n• Physical DMG +25%\n• After defeating an opponent, increases Charged Attack DMG by 50% and reduces its Stamina cost to 0 for 10s.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Bloodstained Chivalry <:2x:957694031343812619>\nPale Flame <:2x:957694031343812619>*\n• Physical DMG +25%\n• Physical DMG +25%\n        "
+            "inline": true,
+            "name": "Nation",
+            "value": "Mondstadt"
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Physical DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・ATK %\n・CRIT DMG\n・CRIT Rate\n・Energy Recharge  \n        "
+            "name": "Affiliation",
+            "value": "Knights of Favonius"
         },
         {
             "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Normal Attack: Favonius Bladework - Edel\n**2)** Elemental Burst: Glacial Illumination\n**3)** Elemental Skill: Icetide Vortex \n        "
+            "name": "Element Type",
+            "value": "Cryo"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "5"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Aphros Delos"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "Claymore"
         }
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Eula (Main DPS)"
+    "description": "The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company. The reason for which a descendant of the ancient nobles might join the Knights remains a great mystery in Mondstadt to this very day.",
+    "title": "Eula"
 }

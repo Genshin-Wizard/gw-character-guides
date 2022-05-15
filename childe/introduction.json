@@ -4,42 +4,38 @@
     },
     "fields": [
         {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Polar Star"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Thundering Pulse, Skyward Harp, Rust"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Heart of Depth <:4x:957694032216215573>*\n• Hydro DMG Bonus +15%\n• After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Heart of Depth <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Hydro DMG Bonus +15%\n• ATK +18%\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Heart of Depth <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• Hydro DMG Bonus +15%\n• Elemental Burst DMG +20%\n        "
+            "inline": true,
+            "name": "Nation",
+            "value": "Snezhnaya"
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % or Elemental Mastery\n<:gobletofeonothem:957412513958477864> Hydro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・CRIT Rate\n・CRIT DMG\n・ATK %\n・Elemental Mastery\n        "
+            "name": "Affiliation",
+            "value": "Fatui"
         },
         {
             "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Foul Legacy - Raging Tide\n**2)** Elemental Burst: Havoc - Obliteration\n**3)** Normal Attack: Cutting Torrent\n        "
+            "name": "Element Type",
+            "value": "Hydro"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "5"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Monoceros Caeli"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "Bow"
         }
     ],
     "color": 3245055,
     "type": "rich",
-    "title": "Childe (Main DPS)"
+    "description": "No. 11 of The Harbingers, also known as \"Childe\". His name is highly feared on the battlefield.",
+    "title": "Tartaglia"
 }

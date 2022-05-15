@@ -4,42 +4,38 @@
     },
     "fields": [
         {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Song of Broken Pines"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Wolf's Gravestone, Serpent Spine, Snow-tombed Starsilver"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Bloodstained Chivalry <:2x:957694031343812619>\nPale Flame <:2x:957694031343812619>*\n• Physical DMG +25%\n• Physical DMG +25%\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Bloodstained Chivalry <:4x:957694032216215573>*\n• Physical DMG +25%\n• After defeating an opponent, increases Charged Attack DMG by 50% and reduces its Stamina cost to 0 for 10s.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Gladiator's Finale <:4x:957694032216215573>*\n• ATK +18%.\n• If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.\n        "
+            "inline": true,
+            "name": "Nation",
+            "value": "Mondstadt"
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n **Main Stats**\n<:sandsofeon:957412516038844486>ATK %\n<:gobletofeonothem:957412513958477864> Physical DMG Bonus\n<:circletoflogos:957412513820053594> CRIT DMG or CRIT Rate\n**Substats**\n・ATK %\n・CRIT Rate\n・CRIT DMG  \n        "
+            "name": "Affiliation",
+            "value": "Wolvendom"
         },
         {
             "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Normal Attack: Steel Fang\n**2)** Elemental Burst: Lightning Fang\n**3)** Elemental Skill: Claw and Thunder\n        "
+            "name": "Element Type",
+            "value": "Electro"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "4"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Lupus Minor"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "Claymore"
         }
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Razor (Main DPS)"
+    "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+    "title": "Razor"
 }

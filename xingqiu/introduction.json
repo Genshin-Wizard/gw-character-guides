@@ -4,42 +4,38 @@
     },
     "fields": [
         {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Sacrificial Sword"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Primordial Jade Cutter, Favonious Sword, Festering Desire"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Heart of Depth <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• Hydro DMG Bonus +15%\n• Elemental Burst DMG +20%\n        "
+            "inline": true,
+            "name": "Nation",
+            "value": "Liyue"
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Energy Recharge\n<:gobletofeonothem:957412513958477864> Hydro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT DMG / CRIT RATE\n**Substats**\n・Energy Recharge\n・CRIT DMG / CRIT RATE\n・ATK %\n        "
+            "name": "Affiliation",
+            "value": "Feiyun Commerce Guild"
         },
         {
             "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Guhua Sword - Raincutter\n**2)** Elemental Skill: Guhua Sword - Fatal Rainscreen\n**3)** Normal Attack: Guhua Style\n        "
+            "name": "Element Type",
+            "value": "Hydro"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "4"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Fabulae Textile"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "Sword"
         }
     ],
     "color": 3245055,
     "type": "rich",
-    "title": "Xingqiu (Sub DPS)"
+    "description": "A young man carrying a longsword who is frequently seen at book booths. He has a chivalrous heart and yearns for justice and fairness for all.",
+    "title": "Xingqiu"
 }

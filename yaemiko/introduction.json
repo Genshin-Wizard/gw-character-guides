@@ -4,42 +4,38 @@
     },
     "fields": [
         {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Kagura's Verity"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "The Widsith, Skyward Atlas, Solar Pearl, Lost Prayer, Oathsworn Eye"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Thundering Fury <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Electro DMG Bonus +15%\n• ATK +18%.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Shimenawa's Reminiscence <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• ATK +18%.\n• ATK +18%.\n• Can outperform the best Artifact set with better substats.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
+            "inline": true,
+            "name": "Nation",
+            "value": "Inazuma"
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Electro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT DMG or CRIT Rate\n**Substats**\n・CRIT DMG\n・CRIT Rate\n・ATK %\n・Energy Recharge %\n        "
+            "name": "Affiliation",
+            "value": "Grand Narukami Shrine"
         },
         {
             "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Yakan Evocation: Sesshou Sakura\n**2)** Elemental Burst: Great Secret Art: Tenko Kenshin\n**3)** Normal Attack: Spiritfox Sin-Eater\n        "
+            "name": "Element Type",
+            "value": "Electro"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "5"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Divina Vulpes"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "Catalyst"
         }
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Yae Miko (Sub-DPS)"
+    "description": "Lady Guuji of the Grand Narukami Shrine. Also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.",
+    "title": "Yae Miko"
 }

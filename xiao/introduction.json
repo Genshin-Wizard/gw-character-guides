@@ -4,42 +4,38 @@
     },
     "fields": [
         {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Primordial Jade Winged-Spear"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Staff of Homa, Blackcliff Pole"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Vermillion Hereafter <:4x:957694032216215573>*\n• ATK +18%.\n• After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This further increase can occur this way a maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Gladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>\nViridescent Venerer <:2x:957694031343812619>*\n• ATK +18%.\n• Anemo DMG Bonus +15%\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Gladiator's Finale <:2x:957694031343812619>\nShimenawa's Reminiscence <:2x:957694031343812619>*\n• ATK +18%.\n• ATK +18%.\n        "
+            "inline": true,
+            "name": "Nation",
+            "value": "Liyue"
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Anemo DMG Bonus or ATK %\n<:circletoflogos:957412513820053594> CRIT DMG or CRIT Rate / ATK %\n**Substats**\n・ATK %\n・Energy Recharge\n・CRIT DMG\n・CRIT Rate\n        "
+            "name": "Affiliation",
+            "value": "Liyue Adeptus"
         },
         {
             "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Normal Attack: Whirlwind Thrust\n**2)** Elemental Burst: Bane of All Evil\n**3)** Elemental Skill: Lamniscatic Wind Cycling\n        "
+            "name": "Element Type",
+            "value": "Anemo"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "5"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Alatus Nemeseos"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "Polearm"
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Xiao (Main DPS)"
+    "description": "A yaksha adeptus that defends Liyue. Also heralded as the \"Conqueror of Demons\" and \"Vigilant Yaksha.\"",
+    "title": "Xiao"
 }

@@ -4,42 +4,38 @@
     },
     "fields": [
         {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Wolf's Gravestone"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "The Unforged, Skyward Pride, Serpent Spine, Lithic Blade, Akuoumauru "
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:2x:957694031343812619>\nBlizzard Strayer <:2x:957694031343812619>*\n• Elemental Burst DMG +20%.\n• Cryo DMG Bonus +15%\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Gladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>\nBlizzard Strayer <:2x:957694031343812619>*\n• ATK +18%.\n• Cryo DMG Bonus +15%\n        "
+            "inline": true,
+            "name": "Nation",
+            "value": "Liyue"
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % or Energy Recharge\n<:gobletofeonothem:957412513958477864> Cryo DMG Bonus\n<:circletoflogos:957412513820053594> ATK % or CRIT Rate / CRIT DMG\n**Substats**\n・ATK %\n・CRIT Rate\n・CRIT DMG\n・Elemental Mastery\n        "
+            "name": "Affiliation",
+            "value": "Liyue Harbor"
         },
         {
             "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Spirit Blade - Cloud-Parting Star\n**2)** Elemental Skill: Spirit Blade - Chonghua's Layered Frost\n**3)** Normal Attack: Demonbane\n        "
+            "name": "Element Type",
+            "value": "Cryo"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "4"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Nubis Caesor"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "Claymore"
         }
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Chongyun (Sub DPS)"
+    "description": "A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy.",
+    "title": "Chongyun"
 }

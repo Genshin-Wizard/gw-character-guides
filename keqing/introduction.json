@@ -4,42 +4,38 @@
     },
     "fields": [
         {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Mistplitter Reforged"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Primordial Jade Cutter, The Black Sword, Amenoma Kageuchi, Aquila Favonia, Prototype Rancour"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Thundering Fury <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Electro DMG Bonus +15%\n• ATK +18%.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Pale Flame <:2x:957694031343812619>\nBloodstained Chivalry <:2x:957694031343812619>*\n• Physical DMG +25%\n• Physical DMG +25%\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Thundering Fury <:4x:957694032216215573>*\n• Electro DMG Bonus +15%\n• Increases damage caused by Overloaded, Electro-Charged and Superconduct by 40%. Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s.\n        "
+            "inline": true,
+            "name": "Nation",
+            "value": "Liyue"
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Electro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・ATK %\n・CRIT Rate\n・CRIT DMG\n        "
+            "name": "Affiliation",
+            "value": "Liyue Qixing"
         },
         {
             "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Normal Attack: Yunlai Swordsmanship\n**2)** Elemental Burst: Starward Sword\n**3)** Elemental Skill: Stellar Restoration\n        "
+            "name": "Element Type",
+            "value": "Electro"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "5"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Trulla Cementarii"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "Sword"
         }
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Keqing My Beloved (Main DPS)"
+    "description": "The Yuheng of the Liyue Qixing. Has much to say about Rex Lapis' unilateral approach to policymaking in Liyue - but in truth, gods admire skeptics such as her quite a lot.",
+    "title": "Keqing"
 }
