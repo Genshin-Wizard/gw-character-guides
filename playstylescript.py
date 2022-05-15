@@ -93,7 +93,7 @@ for character in characters:
         description = ""
     )
     embed.description += "Information regarding this character's playstyle"
-    embed.set_image(url = getBanner(data['vision']))
+    embed.set_thumbnail(url = getBanner(data['vision']))
     data_info = discord.Embed.to_dict(embed)
     with open(f'{temp2}/playstyle.json', 'w', encoding='utf-8') as f:
         json.dump(data_info, f, ensure_ascii=False, indent=4)
