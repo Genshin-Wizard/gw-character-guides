@@ -89,7 +89,6 @@ for character in characters:
     embed = discord.Embed(
         title = data['name'],
         color = int(elementColor(data['vision'])),
-        description = data['description']
     )
     for constellation in data['constellations']:
         embed.add_field(name= f"{constellation['name']} (C{constellation['level']})",value=constellation['description'],inline=False)
