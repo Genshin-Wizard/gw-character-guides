@@ -88,7 +88,7 @@ for character in characters:
 
 
     embed = discord.Embed(
-        title = f'{data["name"]} | Introduction',
+        title = f'{data["name"]} | Playstyle',
         color = int(elementColor(data['vision'])),
         description = ""
     )
