@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Constellations: Hu Tao"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/mvF8rwX.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Staff of Homa"
+            "name": "Crimson Bouquet (C1)",
+            "value": "While in a Paramita Papilio state activated by Guide to Afterlife, Hu Tao's Charge Attacks do not consume Stamina."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Deathmatch, Primordial Jade Winged-Spear, Dragon's Bane"
+            "name": "Ominous Rainfall (C2)",
+            "value": "Increases the Blood Blossom DMG by an amount equal to 10% of Hu Tao's Max HP at the time the effect is applied.\nAdditionally, Spirit Soother will also apply the Blood Blossom effect."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Crimson Witch of Flames <:4x:957694032216215573>*\n• Pyro DMG Bonus +15%.\n• Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases 2-Piece Set effects by 50% for 10s. Max 3 stacks.\n        "
+            "name": "Lingering Carmine (C3)",
+            "value": "Increases the Level of Guide to Afterlife by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Shimenawa's Reminiscence <:4x:957694032216215573>*\n• ATK +18%.\n• When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charge/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration.\n        "
+            "name": "Garden of Eternal Rest (C4)",
+            "value": "Upon defeating an enemy affected by a Blood Blossom, that Hu Tao applied herself, all nearby allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 15s."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Crimson Witch of Flames <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• Pyro DMG Bonus +15%\n• Elemental Burst DMG +20%\n        "
+            "name": "Floral Incense (C5)",
+            "value": "Increase the Level of Spirit Soother by 3.\nMaximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> HP %\n<:gobletofeonothem:957412513958477864> Pyro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT DMG or CRIT Rate\n**Substats**\n・CRIT Rate\n・HP %\n・CRIT DMG \n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Normal Attack: Secret Spear of Wangsheng\n**2)** Elemental Skill: Guide to Afterlife\n**3)** Elemental Burst: Spirit Soother\n        "
+            "inline": false,
+            "name": "Butterfly's Embrace (C6)",
+            "value": "Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike:\nHu Tao will not fall as a result of the DMG sustained.\nAdditionally, for the next 10s, all of her Elemental and Physical RES is increased by 200%, her CRIT Rate is increased by 100%, and her resistance to interruption is greatly increased.\nThis effect triggers automatically when Hu Tao has 1 HP left.\nCan only occur once every 60s."
         }
     ],
     "color": 16733525,
     "type": "rich",
-    "title": "Hu Tao (Main DPS)",
-    "footer": {
-        "text": "Character Guide • Constellations: Hutao"
-    }
+    "description": "The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.",
+    "title": "Hu Tao"
 }

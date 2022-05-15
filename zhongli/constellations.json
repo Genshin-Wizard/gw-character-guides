@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Constellations: Zhongli"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/fqg3O0z.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Black Tassel"
+            "name": "Rock, the Backbone of Earth (C1)",
+            "value": "Increases the maximum number of Stone Steles created by Dominus Lapidis that may exist simultaneously by 2."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Staff of Homa, Favonious Lance"
+            "name": "Stone, the Cradle of Jade (C2)",
+            "value": "Planet Befall grants nearby characters on the field a Jade Shield when it descends."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Tenacity of the Millelith <:4x:957694032216215573>*\n• HP +20%\n• When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.\n        "
+            "name": "Jade, Shimmering through Darkness (C3)",
+            "value": "Increases the Level of Dominus Lapidis by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Tenacity of the Millelith <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• HP +20%\n• Elemental Burst DMG +20%.\n        "
+            "name": "Topaz, Unbreakable and Fearless (C4)",
+            "value": "Increases Planet Befall's AoE by 20% and increases the duration of Planet Befall's Petrification effect by 2s."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Archaic Petra <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• Gain a 15% Geo DMG Bonus\n• Elemental Burst DMG +20%\n        "
+            "name": "Lazuli, Herald of the Order (C5)",
+            "value": "Increase the Level of Planet Befall by 3.\nMaximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> HP %\n<:gobletofeonothem:957412513958477864> HP %\n<:circletoflogos:957412513820053594> HP %\n**Substats**\n・HP %\n・HP\n・Energy Recharge \n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Dominus Lapidis\n**2)** Elemental Burst: Planet Befall\n**3)** Normal Attack: Rain of Stone\n        "
+            "inline": false,
+            "name": "Chrysos, Bounty of Dominator (C6)",
+            "value": "When the Jade Shield takes DMG, 40% of that incoming DMG is converted to HP for the current character.\nA single instance of regeneration cannot exceed 8% of that character's Max HP."
         }
     ],
     "color": 14994176,
     "type": "rich",
-    "title": "Zhongli (Support)",
-    "footer": {
-        "text": "Character Guide • Constellations: Zhongli"
-    }
+    "description": "A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
+    "title": "Zhongli"
 }

@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Constellations: Xiao"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/uSkv5pg.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Primordial Jade Winged-Spear"
+            "name": "Dissolution Eon - Destroyer of Worlds (C1)",
+            "value": "Increases Lemniscatic Wind Cycling's charges by 1."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Staff of Homa, Blackcliff Pole"
+            "name": "Annihilation Eon - Blossom of Kaleidos (C2)",
+            "value": "When in party but not the currently active character, Xiao's Energy Recharge is increased by 25%."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Vermillion Hereafter <:4x:957694032216215573>*\n• ATK +18%.\n• After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This further increase can occur this way a maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled.\n        "
+            "name": "Evil Conqueror - Wrath Deity (C3)",
+            "value": "Increases the Level of Lemniscatic Wind Cycling by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Gladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>\nViridescent Venerer <:2x:957694031343812619>*\n• ATK +18%.\n• Anemo DMG Bonus +15%\n        "
+            "name": "Transcension - Extinction of Suffering (C4)",
+            "value": "When Xiao's HP falls below 50%, gains a 100% DEF Bonus."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Gladiator's Finale <:2x:957694031343812619>\nShimenawa's Reminiscence <:2x:957694031343812619>*\n• ATK +18%.\n• ATK +18%.\n        "
+            "name": "Evolution Eon - Origin of Ignorance (C5)",
+            "value": "Increase the Level of Bane of All Evil by 3.\nMaximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Anemo DMG Bonus or ATK %\n<:circletoflogos:957412513820053594> CRIT DMG or CRIT Rate / ATK %\n**Substats**\n・ATK %\n・Energy Recharge\n・CRIT DMG\n・CRIT Rate\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Normal Attack: Whirlwind Thrust\n**2)** Elemental Burst: Bane of All Evil\n**3)** Elemental Skill: Lamniscatic Wind Cycling\n        "
+            "inline": false,
+            "name": "Evil Conqueror - Vigilant Yaksha (C6)",
+            "value": "During Bane of All Evil, hitting 2 or more enemies with a Charged Attack grants Lemniscatic Wind Cycling 1 additional charge and reduces Lemniscatic Wind Cycling's CD by 1s."
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Xiao (Main DPS)",
-    "footer": {
-        "text": "Character Guide • Constellations: Xiao"
-    }
+    "description": "A yaksha adeptus that defends Liyue. Also heralded as the \"Conqueror of Demons\" and \"Vigilant Yaksha.\"",
+    "title": "Xiao"
 }

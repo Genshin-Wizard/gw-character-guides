@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Constellations: Qiqi"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/lp93jNn.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Skyward Blade"
+            "name": "Ascetics of Frost (C1)",
+            "value": "When the Herald of Frost hits an enemy marked by a Fortune-Preserving Talisman, Qiqi regenerates 2 Energy."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Summit Shaper, Aquila Favonia, Sacrificial Sword, Favonious Sword, Prototype Rancour"
+            "name": "Frozen to the Bone (C2)",
+            "value": "Qiqi's Normal and Charge Attack DMG against enemies affected by Cryo is increased by 15%."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Maiden Beloved <:4x:957694032216215573>*\n• Character Healing Effectiveness +15%.\n• Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s.\n        "
+            "name": "Ascendant Praise (C3)",
+            "value": "Increases the Level of Adeptus Art: Preserver of Fortune by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Ocean-hued Clam <:4x:957694032216215573>*\n• Healing Bonus +15%\n• When the character with this artifact set heals a party member, 1 Foam will appear. It accumulates healed HP for 3 seconds, then explodes and deals 90% of the HP healed as DMG to nearby enemies. Max accumulated healing is 30,000 HP, including over-heal. There can only be 1 Foam active, but it stays even if you swap out. Foam CD is 3.5s.\n        "
+            "name": "Divine Suppression (C4)",
+            "value": "Targets marked by the Fortune-Preserving Talisman have their ATK decreased by 20%."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Pale Flame <:2x:957694031343812619>\nBloodstained Chivalry <:2x:957694031343812619>*\n• Physical DMG +25%\n• Physical DMG +25%\n        "
+            "name": "Crimson Lotus Bloom (C5)",
+            "value": "Increase the Level of Adeptus Art: Herald of Frost by 3.\nMaximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Energy Recharge or ATK %\n<:gobletofeonothem:957412513958477864> ATK %\n<:circletoflogos:957412513820053594> Healing Bonus or ATK %\n**Substats**\n・ATK %\n・ATK\n・Energy Recharge\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Adeptus Art - Herald of Frost\n**2)** Elemental Burst: Adeptus Art - Preserver of Fortune\n**3)** Normal Attack: Ancient Sword Art\n        "
+            "inline": false,
+            "name": "Rite of Resurrection (C6)",
+            "value": "Using Adeptus Art: Preserve of Fortune revives all nearby fallen characters and regenerates 50% of their HP.\nThis effect can only occur once every 15 mins."
         }
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Qiqi (Support)",
-    "footer": {
-        "text": "Character Guide • Constellations: Qiqi"
-    }
+    "description": "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
+    "title": "Qiqi"
 }

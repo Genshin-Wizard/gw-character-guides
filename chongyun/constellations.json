@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Constellations: Chongyun"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/FA8SPoN.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Wolf's Gravestone"
+            "name": "Ice Unleashed (C1)",
+            "value": "The last attack of Chongyun's Normal Attack combo releases 3 ice blades. Each blade deals 50% of Chongyun's ATK as Cryo DMG to all enemies in its path."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "The Unforged, Skyward Pride, Serpent Spine, Lithic Blade, Akuoumauru "
+            "name": "Atmospheric Revolution (C2)",
+            "value": "Elemental Skills and Elemental Bursts cast within the Frost Field created by Spirit Blade - Chongyun's Layered Frost have their CD time decreased by 15%."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
+            "name": "Cloudburst (C3)",
+            "value": "Increases the Level of Spirit Blade - Cloud-parting Star by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:2x:957694031343812619>\nBlizzard Strayer <:2x:957694031343812619>*\n• Elemental Burst DMG +20%.\n• Cryo DMG Bonus +15%\n        "
+            "name": "Frozen Skies (C4)",
+            "value": "Chongyun regenerates 1 Energy every time he hits an enemy affected by Cold or Frozen status effects.\nThis effect can only occur once every 2s."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Gladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>\nBlizzard Strayer <:2x:957694031343812619>*\n• ATK +18%.\n• Cryo DMG Bonus +15%\n        "
+            "name": "The True Path (C5)",
+            "value": "Increases the level of Spirit Blade - Chongyun's Layered Frost by 3.\nMaximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % or Energy Recharge\n<:gobletofeonothem:957412513958477864> Cryo DMG Bonus\n<:circletoflogos:957412513820053594> ATK % or CRIT Rate / CRIT DMG\n**Substats**\n・ATK %\n・CRIT Rate\n・CRIT DMG\n・Elemental Mastery\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Spirit Blade - Cloud-Parting Star\n**2)** Elemental Skill: Spirit Blade - Chonghua's Layered Frost\n**3)** Normal Attack: Demonbane\n        "
+            "inline": false,
+            "name": "Rally of Four Blades (C6)",
+            "value": "Spirit Blade - Cloud-parting Star deals 15% more DMG to enemies with a lower percentage of their Max HP remaining than Chongyun.\nThis skill will also summon 1 additional spirt blade."
         }
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Chongyun (Sub DPS)",
-    "footer": {
-        "text": "Character Guide • Constellations: Chongyun"
-    }
+    "description": "A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy.",
+    "title": "Chongyun"
 }

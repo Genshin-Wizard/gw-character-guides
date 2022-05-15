@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Constellations: Shenhe"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/SYlttcB.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Calamity Queller"
+            "name": "Clarity of Heart (C1)",
+            "value": "Spring Spirit Summoning can be used 1 more time."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Vortex Vanquisher, Wavebreaker's Fin (R5 recommended)"
+            "name": "Centered Spirit (C2)",
+            "value": "Divine Maiden's Deliverance lasts for 6 seconds longer. Active characters within the skill's field deals 15% increased Cryo CRIT DMG."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Gladiator's Finale <:2x:957694031343812619>\nShimenawa's Reminiscence <:2x:957694031343812619>*\n• ATK +18%.\n• ATK +18%.\n        "
+            "name": "Seclusion (C3)",
+            "value": "Increases the Level of Spring Spirit Summoning by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Shimenawa's Reminiscence <:4x:957694032216215573>*\n• ATK +18%.\n• When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charge/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration.\n        "
+            "name": "Insight (C4)",
+            "value": "When characters under the effect of Icy Quill applied by Shenhe trigger its DMG Bonus effects, Shenhe will gain a Skyfrost Mantra stack:\n- When Shenhe uses Spring Spirit Summoning, she will consume all stacks of Skyfrost Mantra, increasing the DMG of that Spring Spirit Summoning by 5% for each stack consumed.\n- Max 50 stacks. Stacks last for 60s."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
+            "name": "Divine Attainment (C5)",
+            "value": "Increases the Level of Divine Maiden's Deliverance by 3.\nMaximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % or Energy Recharge\n<:gobletofeonothem:957412513958477864> ATK % or Cryo DMG Bonus\n<:circletoflogos:957412513820053594> ATK % or CRIT Rate/CRIT DMG\n**Substats**\n・ATK %\n・Energy Recharge\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Spring Spirit Summoning\n**2)** Elemental Burst: Divine Maiden's Deliverance\n**3)** Normal Attack: Dawnstar Piercer\n        "
+            "inline": false,
+            "name": "Mystical Abandon (C6)",
+            "value": "When characters trigger Icy Quill's effects using Normal and Charged Attack DMG, it does not count toward the Trigger Quota."
         }
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Shenhe (Sub DPS)",
-    "footer": {
-        "text": "Character Guide • Constellations: Shenhe"
-    }
+    "description": "An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves.",
+    "title": "Shenhe"
 }

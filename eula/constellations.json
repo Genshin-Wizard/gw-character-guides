@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Constellations: Eula"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/J4NNoqO.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Songs of Broken Pines"
+            "name": "Tidal Illusion (C1)",
+            "value": "Every time Icetide Vortex's Grimheart stacks are consumed, Eula's Physical DMG is increased by 30% for 6s.\nEach stack consumed will increase the duration of this effect by 6s up to a maximum of 18s."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Wolf's Gravestone, Luxurious Sea-lord, Snow-tombed Starsilver"
+            "name": "Lady of Seafoam (C2)",
+            "value": "Decreases the CD of Icetide Vortex's Holding Mode, rendering it identical to Tapping CD."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Pale Flame <:4x:957694032216215573>*\n• Physical DMG +25%\n• When an Elemental skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, 2-set effect is doubled.\n        "
+            "name": "Lawrence Pedigree (C3)",
+            "value": "Increases the Level of Glacial Illumination Mix by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Bloodstained Chivalry <:4x:957694032216215573>*\n• Physical DMG +25%\n• After defeating an opponent, increases Charged Attack DMG by 50% and reduces its Stamina cost to 0 for 10s.\n        "
+            "name": "The Obstinacy of One's Inferiors (C4)",
+            "value": "Lightfall Swords deal 25% increased DMG against opponents with less than 50% HP."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Bloodstained Chivalry <:2x:957694031343812619>\nPale Flame <:2x:957694031343812619>*\n• Physical DMG +25%\n• Physical DMG +25%\n        "
+            "name": "Chivalric Quality (C5)",
+            "value": "Increases the level of Icetide Vortex by 3.\nMaximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Physical DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・ATK %\n・CRIT DMG\n・CRIT Rate\n・Energy Recharge  \n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Normal Attack: Favonius Bladework - Edel\n**2)** Elemental Burst: Glacial Illumination\n**3)** Elemental Skill: Icetide Vortex \n        "
+            "inline": false,
+            "name": "Noble Obligation (C6)",
+            "value": "Lightfall Swords created by Glacial Illumination start with 5 stacks of energy. Normal Attacks, Elemental Skills, and Elemental Bursts have a 50% chance to grant the Lightfall Sword an additional stack of energy."
         }
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Eula (Main DPS)",
-    "footer": {
-        "text": "Character Guide • Constellations: Eula"
-    }
+    "description": "The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company. The reason for which a descendant of the ancient nobles might join the Knights remains a great mystery in Mondstadt to this very day.",
+    "title": "Eula"
 }

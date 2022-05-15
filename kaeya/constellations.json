@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Constellations: Kaeya"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/dX6g3ys.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Mistsplitter Reforged"
+            "name": "Excellent Blood (C1)",
+            "value": "The CRIT Rate of Normal Attack and Charged Attack DMG against enemies affected by the Cold or Frozen status effects is increased by 15%."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": " Freedom-Sworn, Skyward Blade, Lion's Roar, Favionus Sword, Amenona, Jade Cutter"
+            "name": "Never-Ending Performance (C2)",
+            "value": "Every time Glacial Waltz defeats an enemy, its duration is increased by 2.5s, up to a maximum of 15s."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Blizzard Strayer <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminisence <:2x:957694031343812619>*\n• Cryo DMG Bonus +15%\n• ATK +18%.\n        "
-        },
-        {
-            "inline": true,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
+            "name": "Dance of Frost (C3)",
+            "value": "Increases the Level of Frostgnaw by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*(Melt) Lavawalker <:4x:957694032216215573>*\n• Pyro RES increased by 40%.\n• Increased DMG against enemies affected by Pyro by 35%.\n        "
+            "name": "Frozen Kiss (C4)",
+            "value": "Triggers automatically when Kaeya's HP falls below 20%:\nCreates a shield that absorbs damage equal to 30% of Kaeya's Max HP. Lasts for 20s.\nThis shield absorbs Cryo DMG with 250% efficiency.\nCan only occur once every 60s."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Cryo DMG Bonus\n<:circletoflogos:957412513820053594> CRIT DMG\n**Substats**\n・CRIT DMG\n・ATK %\n・CRIT Rate\n        "
+            "inline": false,
+            "name": "Frostbiting Embrace (C5)",
+            "value": "Increase the Level of Glacial Waltz by 3.\nMaximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Glacial Waltz\n**2)** Elemental Skill: Frostgnaw\n**3)** Normal Attack: Ceremonial Bladework\n        "
+            "inline": false,
+            "name": "Glacial Whirlwind (C6)",
+            "value": "Glacial Waltz will generate 1 additional icicle, and will regenerate 15 Energy when cast."
         }
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Kaeya (Sub DPS)",
-    "footer": {
-        "text": "Character Guide • Constellations: Kaeya"
-    }
+    "description": "An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.",
+    "title": "Kaeya"
 }

@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Constellations: Sayu"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/oYiMaic.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Skyward Pride"
+            "name": "Multi-Task no Jutsu (C1)",
+            "value": "The Muji-Muji Daruma created by Yoohoo Art: Mujina Flurry will ignore HP limits and can simultaneously attack nearby opponents and heal characters."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Skyward Spine, Favonius Greatsword, Wolf's Gravestone"
+            "name": "Egress Prep (C2)",
+            "value": "Yoohoo Art: Fuuin Dash gains the following effects:\nDMG of Fuufuu Whirlwind Kick in Tapping (mobile)/Press (PC & PlayStation) Mode increased by 3.3%.\nEvery 0.5s in the Fuufuu Windwheel state will increase the DMG of this Fuufuu Whirlwind Kick by 3.3%. The maximum DMG increase possible through this method is 66%."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Viridescent Venerer <:4x:957694032216215573>*\n• Anemo DMG Bonus +15%\n• Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.\n        "
+            "name": "Eh, the Bunshin Can Handle It (C3)",
+            "value": "Increases the Level of Yoohoo Art: Mujina Flurry by 3. Maximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Viridescent Venerer <:2x:957694031343812619>\nWanderer's Troupe <:2x:957694031343812619>*\n• Anemo DMG Bonus +15%\n• Increases Elemental Mastery by 80\n        "
+            "name": "Skiving: New and Improved (C4)",
+            "value": "Sayu recovers 1.2 Energy when she triggers a Swirl reaction.\nThis effect occurs once every 2s."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
+            "name": "Speed Comes First (C5)",
+            "value": "Increases the Level of Yoohoo Art: Fuuin Dash by 3. Maximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Elemental Mastery or ATK % or Energy Recharge\n<:gobletofeonothem:957412513958477864> Elemental Mastery or ATK %\n<:circletoflogos:957412513820053594> Elemental Mastery or ATK % or Healing Bonus\n**Substats**\n・ATK %\n・Energy Recharge\n・Elemental Mastery\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Yoohoo Art - Mujina Flurry\n**2)** Elemental Skill: Yoohoo Art - Fuuin Dash\n**3)** Normal Attack: Shuumastuban Ninja Blade\n        "
+            "inline": false,
+            "name": "Sleep O'Clock (C6)",
+            "value": "The Muji-Muji Daruma created by Sayu's Yoohoo Art: Mujina Flurry will now also benefit from her Elemental Mastery. Each point of Sayu's Elemental Mastery will produce the following effects:\nIncreases the damage dealt by the Muji-Muji Daruma's attacks by 0.2% ATK. A maximum of 400% ATK can be gained via this method.\nIncreases the HP restored by the Muji-Muji Daruma by 3. A maximum of 6,000 additional HP can be restored in this manner."
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Sayu (Support)",
-    "footer": {
-        "text": "Character Guide • Constellations: Sayu"
-    }
+    "description": "A pint-sized ninja attached to the Shuumatsuban, who always seems to be lacking sleep.",
+    "title": "Sayu"
 }

@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Constellations: Xiangling"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/6VZAvrf.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Engulfing Lightning"
+            "name": "Crispy Outside, Tender Inside (C1)",
+            "value": "Enemies hit by Guoba's attacks have their Pyro RES reduced by 15% for 6s."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Staff of Homa, The Catch (R5), Dragon's Bane, Favonious Lance, Primordial Jade Winged-Spear"
+            "name": "Oil Meets Fire (C2)",
+            "value": "The last attack in a Normal Attack sequence applies the Implode status onto the enemy for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling's ATK as AoE Pyro DMG."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
+            "name": "Deepfry (C3)",
+            "value": "Increases the Level of Pyronado by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Crimson Witch of Flames <:4x:957694032216215573>*\n• Pyro DMG Bonus +15%.\n• Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases 2-Piece Set effects by 50% for 10s. Max 3 stacks.\n        "
+            "name": "Slowbake (C4)",
+            "value": "Pyronado's duration is increased by 40%."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:2x:957694031343812619>\nCrimson Witch of Flames <:2x:957694031343812619>*\n• Elemental Burst DMG +20%.\n• Pyro DMG Bonus +15%.\n        "
+            "name": "Guoba Mad (C5)",
+            "value": "Increase the Level of Guoba Attack by 3.\nMaximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Energy Recharge or Elemental Mastery\n<:gobletofeonothem:957412513958477864> Pyro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・Elemental Mastery\n・Energy Recharge\n・ATK %\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Pyronado\n**2)** Elemental Skill: Guoba Attack\n**3)** Normal Attack: Dough-fu\n        "
+            "inline": false,
+            "name": "Condensed Pyronado (C6)",
+            "value": "For the duration of Pyronado, all party members receive a 15% Pyro DMG Bonus."
         }
     ],
     "color": 16733525,
     "type": "rich",
-    "title": "Xiangling (Sub DPS)",
-    "footer": {
-        "text": "Character Guide • Constellations: Xiangling"
-    }
+    "description": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
+    "title": "Xiangling"
 }

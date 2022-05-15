@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Constellations: Klee"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/DsfaSum.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Lost Prayer to the Sacred Winds"
+            "name": "Chained Reaction (C1)",
+            "value": "Attacks and Skills have a certain chance to summon a spark that bombards enemies, dealing DMG equal to 120% of Sparks 'n' Splash's DMG."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Dodoco Tales, The Widsith, Kaguara's Verity, Skyward Atlas"
+            "name": "Explosive Frags (C2)",
+            "value": "Being hit by Jumpy Dumpty's mines decreases enemy DEF by 23% for 10s."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Crimson Witch of Flames <:4x:957694032216215573>*\n• Pyro DMG Bonus +15%.\n• Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases 2-Piece Set effects by 50% for 10s. Max 3 stacks.\n        "
+            "name": "Exquisite Compound (C3)",
+            "value": "Increases the Level of Jumpy Dumpty by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Crimson Witch of Flames <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Pyro DMG Bonus +15%.\n• ATK +18%.\n        "
+            "name": "Sparkly Explosion (C4)",
+            "value": "If Klee leaves the field during the duration of Sparks 'n' Splash, her departure triggers an explosion that deals 555% of her ATK as AoE Pyro DMG."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Wanderer's Troupe <:4x:957694032216215573>*\n• Increases Elemental Mastery by 80.\n• Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow.\n        "
+            "name": "Nova Burst (C5)",
+            "value": "Increase the Level of Sparks 'n' Splash by 3.\nMaximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Pyro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・ATK %\n・CRIT Rate\n・CRIT DMG\n・Elemental Mastery  \n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Normal Attack (Charged): Kaboom!\n**2)** Elemental Burst: Sparks 'n' Splash\n**3)** Elemntal Skill: Jumpty Dumpty\n        "
+            "inline": false,
+            "name": "Blazing Delight (C6)",
+            "value": "While under the effects of Sparks 'n' Splash, other members of the party will continuously regenerate Energy.\nWhen Sparks 'n' Splash is used, all party members will gain 10% Pyro DMG Bonus for 25s."
         }
     ],
     "color": 16733525,
     "type": "rich",
-    "title": "Klee (Main DPS)",
-    "footer": {
-        "text": "Character Guide • Constellations: Klee"
-    }
+    "description": "An explosives expert and a regular at the Knights of Favonius' confinement room. Also known as Fleeing Sunlight.",
+    "title": "Klee"
 }

@@ -93,9 +93,9 @@ for character in characters:
     )
     for constellation in data['constellations']:
         embed.add_field(name= f"{constellation['name']} (C{constellation['level']})",value=constellation['description'],inline=False)
-    embed.set_footer(text=f'Character Guide • Playstyle: {data["name"]}')
+    embed.set_footer(text=f'Character Guide • Constellations: {data["name"]}')
     embed.set_thumbnail(url = icon[temp])
     # embed.set_image(url = getBanner(data['vision']))
     data_info = discord.Embed.to_dict(embed)
-    with open(f'{temp2}/playstyle.json', 'w', encoding='utf-8') as f:
+    with open(f'{temp2}/constellations.json', 'w', encoding='utf-8') as f:
         json.dump(data_info, f, ensure_ascii=False, indent=4)

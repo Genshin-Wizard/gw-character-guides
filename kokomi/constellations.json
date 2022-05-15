@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Constellations: Sangonomiya Kokomi"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/Rd4Ubga.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Everlasting Moonglow"
+            "name": "At Water's Edge (C1)",
+            "value": "While donning the Ceremonial Garment created by Nereid's Ascension, the final Normal Attack in Sangonomiya Kokomi's combo will unleash a swimming fish to deal 30% of her Max HP as Hydro DMG.\nThis DMG is not considered Normal Attack DMG."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Prototype Amber, Thrilling Tales of Dragon Slayers"
+            "name": "The Clouds Like Waves Rippling (C2)",
+            "value": "Sangonomiya Kokomi gains the following Healing Bonuses with regard to characters with 50% or less HP via the following methods:\nKurage's Oath Bake-Kurage: 4.5% of Kokomi's Max HP.\nNereid's Ascension Normal and Charged Attacks: 0.6% of Kokomi's Max HP."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Ocean-hued Clam <:4x:957694032216215573>*\n• Healing Bonus +15%.\n• When the character with this artifact set heals a party member, 1 Foam will appear. It accumulates healed HP for 3 seconds, then explodes and deals 90% of the HP healed as DMG to nearby enemies. Max accumulated healing is 30,000 HP, including over-heal. There can only be 1 Foam active, but it stays even if you swap out. Foam CD is 3.5s.            \n        "
+            "name": "The Moon, A Ship O'er the Seas (C3)",
+            "value": "Increases the Level of Nereid's Ascension by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Maiden Beloved <:4x:957694032216215573>*\n• Increases Healing done by 15%\n• Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s.\n        "
+            "name": "The Moon Overlooks the Waters (C4)",
+            "value": "While donning the Ceremonial Garment created by Nereid's Ascension, Sangonomiya Kokomi's Normal Attack SPD is increased by 10%, and Normal Attacks that hit opponents will restore 0.8 Energy for her.\nThis effect can occur once every 0.2s."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Maiden Beloved <:2x:957694031343812619>\nOcean-Hued Clam <:2x:957694031343812619>*\n• Increases Healing done by 15%\n• Healing Bonus +15%\n        "
+            "name": "All Streams Flow to the Sea (C5)",
+            "value": "Increases the Level of Kurage's Oath by 3.\nMaximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Energy Recharge or HP %\n<:gobletofeonothem:957412513958477864> HP % or Hydro DMG Bonus\n<:circletoflogos:957412513820053594> Healing Bonus or HP %\n**Substats**\n・HP %\n・Energy Recharge\n・Elemental Mastery\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Kurage's Oath\n**2)** Elemental Burst: Nereid's Ascension\n**3)** Normal Attack: The Shape of Water\n        "
+            "inline": false,
+            "name": "Sango Isshin (C6)",
+            "value": "While donning the Ceremonial Garment created by Nereid's Ascension, Sangonomiya Kokomi gains a 40% Hydro DMG Bonus for 4s after her Normal and Charged Attacks heal a character with 80% or more HP."
         }
     ],
     "color": 3245055,
     "type": "rich",
-    "title": "Sangonomiya Kokomi (Support)",
-    "footer": {
-        "text": "Character Guide • Constellations: Kokomi"
-    }
+    "description": "The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips.",
+    "title": "Sangonomiya Kokomi"
 }

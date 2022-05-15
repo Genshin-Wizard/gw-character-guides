@@ -1,53 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Constellations: Yoimiya"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/D5tXbxb.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Thundering Pulse"
+            "name": "Agate Ryuukin (C1)",
+            "value": "The Aurous Blaze created by Ryuukin Saxifrage lasts for an extra 4s.\nAdditionally, when an opponent affected by Aurous Blaze is defeated within its duration, Yoimiya's ATK is increased by 20% for 20s."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Skyward Harp, Rust, Hamayumi"
+            "name": "A Procession of Bonfires (C2)",
+            "value": "When Yoimiya's Pyro DMG scores a CRIT Hit, Yoimiya will gain a 25% Pyro DMG Bonus for 6s.\nThis effect can be triggered even when Yoimiya is not the active character."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Shimenawa's Reminiscence <:4x:957694032216215573>*\n• ATK +18%.\n• When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charge/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration.\n        "
+            "name": "Trickster's Flare (C3)",
+            "value": "Increase the Level of Niwabi Fire-Dance by 3. Maximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Crimson Witch of Flames <:4x:957694032216215573>*\n• Pyro DMG Bonus +15%.\n• Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases 2-Piece Set effects by 50% for 10s. Max 3 stacks.\n        "
+            "name": "Pyrotechnic Professional (C4)",
+            "value": "When Yoimiya's own Aurous Blaze triggers an explosion, Niwabi Fire-Dance's CD is decreased by 1.2."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Crimson Witch of Flames <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Pyro DMG Bonus +15%.\n• ATK +18%\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Pyro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate/CRIT DMG\n**Substats**\n・ATK %\n・CRIT DMG\n・CRIT Rate\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Normal Attack: Firework Flare-Up\n**2)** Elemental Skill: Niwabi Fire-Dance\n**3)** Elemental Burst: Ryuukin Saxifrage\n        "
+            "name": "A Summer Festival's Eve (C5)",
+            "value": "Increases the Level of Ryuukin Saxifrage by 3. Maximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Notes:",
-            "value": "Hamayumi bow is **NOT** recommended when Yoimiya is running **4-Piece Shimenawa's Reminiscence**"
+            "name": "Naganohara Meteor Swarm (C6)",
+            "value": "During Niwabi Fire-Dance, Yoimiya's Normal Attacks have a 50% chance of firing an extra Kindling Arrow that deals 60% of its original DMG. This DMG is considered Normal Attack DMG."
         }
     ],
     "color": 16733525,
     "type": "rich",
-    "title": "Yoimiya (Pyro DPS)",
-    "footer": {
-        "text": "Character Guide • Constellations: Yoimiya"
-    }
+    "description": "Owner of Naganohara Fireworks. Known as the \"Queen of the Summer Festival,\" she excels in her craft of creating fireworks that symbolize people's hopes and dreams.",
+    "title": "Yoimiya"
 }

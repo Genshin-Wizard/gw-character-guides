@@ -1,53 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Constellations: Jean"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/uuGppMs.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Iron Sting"
+            "name": "Spiraling Tempest (C1)",
+            "value": "Increases the pulling speed of Gale Blade after holding for more than 1s, and increases the DMG dealt by 40%."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Jade Cutter, Mistsplitter Reforge, Freedom-Sworn, Skyward Blade, Festering Desire, Amenoma Kageuchim (R5)"
+            "name": "People's Aegis (C2)",
+            "value": "When Jean picks up an Elemental Orb/Particle, all party members have their Movement SPD and ATK SPD increased by 15% for 15s."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Viridescent Venerer <:4x:957694032216215573>*\n• Anemo DMG Bonus +15%\n• Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.\n        "
+            "name": "When the West Wind Arises (C3)",
+            "value": "Increases the Level of Dandelion Breeze by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n    "
+            "name": "Lands of Dandelion (C4)",
+            "value": "Within the Field created by Dandelion Breeze, all enemies have their Anemo RES decreased by 40%."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Viridescent Venerer <:2x:957694031343812619>\nEmblem of Severed Fate <:2x:957694031343812619>*\n• Anemo DMG Bonus +15%.\n• Energy Recharge +20%.\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Elemental Mastery\n<:gobletofeonothem:957412513958477864> Elemental Mastery\n<:circletoflogos:957412513820053594> Elemental Masterye\n**Substats**\n・ATK %\n・Energy Recharge\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Gale Blade\n**2)** Elemental Burst: Dandelion Breeze\n**3)** Normal Attack: Favonius Bladework\n        "
+            "name": "Outbursting Gust (C5)",
+            "value": "Increase the Level of Gale Blade by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Notes:",
-            "value": "Swirl Support Characters does not need to Level-up Talents. Just Level up your character for higher Swirl Damage, and keep your Elemental Mastery Sky High"
+            "name": "Lion's Fang, Fair Protector of Mondstadt (C6)",
+            "value": "Incoming DMG is decreased by 35% within the Field created by Dandelion Breeze. Upon leaving the Dandelion Field, this effect lasts for 3 attacks or 10s."
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Jean (Swirl Support)",
-    "footer": {
-        "text": "Character Guide • Constellations: Jean"
-    }
+    "description": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of Mondstadt's Knights of Favonius",
+    "title": "Jean"
 }
