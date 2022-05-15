@@ -1,7 +1,6 @@
 import json, os, discord, requests
 
 characters = json.load(open("character_guides.json", "r"))
-banners = json.load(open("banners.json", "r"))['data']
 icon = json.load(open("avatars.json", "r"))['data']
 
 def elementColor(element):
@@ -57,6 +56,14 @@ for character in characters:
         character = 'traveler-electro'
         temp = 'traveler'
     # update
+    elif character == 'ayato':
+        continue
+    elif character == 'itto':
+        continue
+    elif character == 'yelan':
+        continue
+    elif character == 'kuki':
+        continue
     # elif character == 'ayato':
     #     character = 'mona'
     # elif character == 'itto':
@@ -81,7 +88,7 @@ for character in characters:
 
 
     embed = discord.Embed(
-        title = data['name'],
+        title = f'{data["name"]} | Introduction',
         color = int(elementColor(data['vision'])),
         description = data['description']
     )

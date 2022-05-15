@@ -87,7 +87,7 @@ for character in characters:
     data = json.loads(r.text)
 
     embed = discord.Embed(
-        title = data['name'],
+        title = data['name'] + " | Constellations",
         color = int(elementColor(data['vision'])),
     )
     for constellation in data['constellations']:
