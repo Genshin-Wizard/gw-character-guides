@@ -44,9 +44,6 @@ def getRarity(rarity):
         '3':'★★★', 
     }.get(str(rarity))
 
-for banner in banners:
-    print(banners[banner])
-
 for character in characters:
     temp = character
     temp2 = character
@@ -75,6 +72,7 @@ for character in characters:
         character = 'yae-miko'
     elif character == 'yunjin':
         character = 'yun-jin'
+        
     print(character)
     r = requests.get(f'https://api.genshin.dev/characters/{character}')
     data = json.loads(r.text)
@@ -91,6 +89,7 @@ for character in characters:
     embed.add_field(name= 'Rarity',value= getRarity(data['rarity']),inline=True)
     embed.add_field(name= 'Constellation',value=data['constellation'],inline=True)
     embed.add_field(name= 'Weapon',value=data['weapon'],inline=True)
+    embed.set_footer(text=f'Character Guide: Introduction • {data["name"]}')
     embed.set_thumbnail(url = icon[temp])
     embed.set_image(url = getBanner(data['vision']))
     data_info = discord.Embed.to_dict(embed)
