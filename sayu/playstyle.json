@@ -41,5 +41,8 @@
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Sayu (Support)"
+    "title": "Sayu (Support)",
+    "footer": {
+        "text": "Character Guide • Playstyle: Sayu"
+    }
 }

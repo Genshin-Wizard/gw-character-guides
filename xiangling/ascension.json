@@ -41,5 +41,8 @@
     ],
     "color": 16733525,
     "type": "rich",
-    "title": "Xiangling (Sub DPS)"
+    "title": "Xiangling (Sub DPS)",
+    "footer": {
+        "text": "Character Guide • Ascension: Xiangling"
+    }
 }

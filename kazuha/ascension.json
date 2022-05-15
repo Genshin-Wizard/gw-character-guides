@@ -41,5 +41,8 @@
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Kazuha (Sub DPS)"
+    "title": "Kazuha (Sub DPS)",
+    "footer": {
+        "text": "Character Guide • Ascension: Kazuha"
+    }
 }

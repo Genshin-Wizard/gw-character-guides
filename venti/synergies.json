@@ -41,5 +41,8 @@
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Venti (Swirl Support)"
+    "title": "Venti (Swirl Support)",
+    "footer": {
+        "text": "Character Guide • Synergies: Venti"
+    }
 }

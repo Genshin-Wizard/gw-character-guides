@@ -41,5 +41,8 @@
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Xiao (Main DPS)"
+    "title": "Xiao (Main DPS)",
+    "footer": {
+        "text": "Character Guide • Constellations: Xiao"
+    }
 }

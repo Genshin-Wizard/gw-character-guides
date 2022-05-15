@@ -46,5 +46,8 @@
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Jean (Swirl Support)"
+    "title": "Jean (Swirl Support)",
+    "footer": {
+        "text": "Character Guide • Playstyle: Jean"
+    }
 }

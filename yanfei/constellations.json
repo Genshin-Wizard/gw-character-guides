@@ -41,5 +41,8 @@
     ],
     "color": 16733525,
     "type": "rich",
-    "title": "Yanfei (Main DPS)"
+    "title": "Yanfei (Main DPS)",
+    "footer": {
+        "text": "Character Guide • Constellations: Yanfei"
+    }
 }

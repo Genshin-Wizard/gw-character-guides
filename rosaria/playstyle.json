@@ -41,5 +41,8 @@
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Rosaria (Burst DPS/Support)"
+    "title": "Rosaria (Burst DPS/Support)",
+    "footer": {
+        "text": "Character Guide • Playstyle: Rosaria"
+    }
 }

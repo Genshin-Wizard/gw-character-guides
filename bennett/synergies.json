@@ -41,5 +41,8 @@
     ],
     "color": 16733525,
     "type": "rich",
-    "title": "Bennett (Support)"
+    "title": "Bennett (Support)",
+    "footer": {
+        "text": "Character Guide • Synergies: Bennett"
+    }
 }

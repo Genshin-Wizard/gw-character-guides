@@ -41,5 +41,8 @@
     ],
     "color": 14994176,
     "type": "rich",
-    "title": "Yun Jin (Support)"
+    "title": "Yun Jin (Support)",
+    "footer": {
+        "text": "Character Guide • Constellations: Yunjin"
+    }
 }

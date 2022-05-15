@@ -41,5 +41,8 @@
     ],
     "color": 16733525,
     "type": "rich",
-    "title": "Hu Tao (Main DPS)"
+    "title": "Hu Tao (Main DPS)",
+    "footer": {
+        "text": "Character Guide • Constellations: Hutao"
+    }
 }

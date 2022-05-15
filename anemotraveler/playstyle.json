@@ -41,5 +41,8 @@
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Anemo Traveler (Sub DPS)"
+    "title": "Anemo Traveler (Sub DPS)",
+    "footer": {
+        "text": "Character Guide • Playstyle: Anemotraveler"
+    }
 }

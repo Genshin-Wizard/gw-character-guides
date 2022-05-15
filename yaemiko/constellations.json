@@ -41,5 +41,8 @@
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Yae Miko (Sub-DPS)"
+    "title": "Yae Miko (Sub-DPS)",
+    "footer": {
+        "text": "Character Guide • Constellations: Yaemiko"
+    }
 }

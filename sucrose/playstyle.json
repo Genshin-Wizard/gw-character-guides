@@ -46,5 +46,8 @@
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Sucrose (Support)"
+    "title": "Sucrose (Support)",
+    "footer": {
+        "text": "Character Guide • Playstyle: Sucrose"
+    }
 }

@@ -41,5 +41,8 @@
     ],
     "color": 14994176,
     "type": "rich",
-    "title": "Noelle (Main DPS)"
+    "title": "Noelle (Main DPS)",
+    "footer": {
+        "text": "Character Guide • Ascension: Noelle"
+    }
 }

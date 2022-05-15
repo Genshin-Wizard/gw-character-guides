@@ -41,5 +41,8 @@
     ],
     "color": 14994176,
     "type": "rich",
-    "title": "Ningguang (Main DPS)"
+    "title": "Ningguang (Main DPS)",
+    "footer": {
+        "text": "Character Guide • Playstyle: Ningguang"
+    }
 }

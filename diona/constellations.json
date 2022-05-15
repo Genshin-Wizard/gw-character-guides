@@ -41,5 +41,8 @@
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Diona (Support)"
+    "title": "Diona (Support)",
+    "footer": {
+        "text": "Character Guide • Constellations: Diona"
+    }
 }

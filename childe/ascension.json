@@ -41,5 +41,8 @@
     ],
     "color": 3245055,
     "type": "rich",
-    "title": "Childe (Main DPS)"
+    "title": "Childe (Main DPS)",
+    "footer": {
+        "text": "Character Guide • Ascension: Childe"
+    }
 }

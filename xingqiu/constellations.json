@@ -41,5 +41,8 @@
     ],
     "color": 3245055,
     "type": "rich",
-    "title": "Xingqiu (Sub DPS)"
+    "title": "Xingqiu (Sub DPS)",
+    "footer": {
+        "text": "Character Guide • Constellations: Xingqiu"
+    }
 }

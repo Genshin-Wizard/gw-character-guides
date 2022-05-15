@@ -41,5 +41,8 @@
     ],
     "color": 3245055,
     "type": "rich",
-    "title": "Barbara (Support)"
+    "title": "Barbara (Support)",
+    "footer": {
+        "text": "Character Guide • Constellations: Barbara"
+    }
 }

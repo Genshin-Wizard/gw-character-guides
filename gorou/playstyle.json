@@ -41,5 +41,8 @@
     ],
     "color": 14994176,
     "type": "rich",
-    "title": "Gorou (Support)"
+    "title": "Gorou (Support)",
+    "footer": {
+        "text": "Character Guide • Playstyle: Gorou"
+    }
 }

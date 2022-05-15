@@ -41,5 +41,8 @@
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Aloy (Burst DPS)"
+    "title": "Aloy (Burst DPS)",
+    "footer": {
+        "text": "Character Guide • Constellations: Aloy"
+    }
 }

@@ -41,5 +41,8 @@
     ],
     "color": 3245055,
     "type": "rich",
-    "title": "Mona (Sub DPS)"
+    "title": "Mona (Sub DPS)",
+    "footer": {
+        "text": "Character Guide • Ascension: Mona"
+    }
 }

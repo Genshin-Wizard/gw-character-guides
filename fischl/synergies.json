@@ -41,5 +41,8 @@
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Fischl (Sub DPS)"
+    "title": "Fischl (Sub DPS)",
+    "footer": {
+        "text": "Character Guide • Synergies: Fischl"
+    }
 }

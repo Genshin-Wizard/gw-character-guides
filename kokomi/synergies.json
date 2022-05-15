@@ -41,5 +41,8 @@
     ],
     "color": 3245055,
     "type": "rich",
-    "title": "Sangonomiya Kokomi (Support)"
+    "title": "Sangonomiya Kokomi (Support)",
+    "footer": {
+        "text": "Character Guide • Synergies: Kokomi"
+    }
 }

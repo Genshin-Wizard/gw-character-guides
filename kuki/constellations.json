@@ -41,5 +41,8 @@
     ],
     "color": 14994176,
     "type": "rich",
-    "title": "Kuki (Speculation Build)"
+    "title": "Kuki (Speculation Build)",
+    "footer": {
+        "text": "Character Guide • Constellations: Kuki"
+    }
 }

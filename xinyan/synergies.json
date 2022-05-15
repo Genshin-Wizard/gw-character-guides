@@ -36,5 +36,8 @@
     ],
     "color": 16733525,
     "type": "rich",
-    "title": "Xinyan (Main DPS)"
+    "title": "Xinyan (Main DPS)",
+    "footer": {
+        "text": "Character Guide • Synergies: Xinyan"
+    }
 }

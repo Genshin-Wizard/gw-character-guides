@@ -41,5 +41,8 @@
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Kamisato Ayaka (Main DPS)"
+    "title": "Kamisato Ayaka (Main DPS)",
+    "footer": {
+        "text": "Character Guide • Synergies: Ayaka"
+    }
 }

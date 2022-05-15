@@ -46,5 +46,8 @@
     ],
     "color": 16733525,
     "type": "rich",
-    "title": "Yoimiya (Pyro DPS)"
+    "title": "Yoimiya (Pyro DPS)",
+    "footer": {
+        "text": "Character Guide • Synergies: Yoimiya"
+    }
 }

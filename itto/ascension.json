@@ -41,5 +41,8 @@
     ],
     "color": 14994176,
     "type": "rich",
-    "title": "Arataki Itto (Main DPS)"
+    "title": "Arataki Itto (Main DPS)",
+    "footer": {
+        "text": "Character Guide • Ascension: Itto"
+    }
 }

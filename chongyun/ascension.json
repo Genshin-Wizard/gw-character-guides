@@ -41,5 +41,8 @@
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Chongyun (Sub DPS)"
+    "title": "Chongyun (Sub DPS)",
+    "footer": {
+        "text": "Character Guide • Ascension: Chongyun"
+    }
 }
