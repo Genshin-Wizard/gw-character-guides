@@ -1,48 +1,12 @@
 {
+    "footer": {
+        "text": "Character Guide • Ascension: Noelle"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/klBUgnZ.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Redhorn Stonethresher"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "The Unforged, Whiteblind, White Iron Greatsword"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Husk of Opulent Dreams <:4x:957694032216215573>*\n• DEF +30%\n• A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Gladiator's Finale <:4x:957694032216215573>*\n• ATK +18%.\n• If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Retracing Bolide <:4x:957694032216215573>*\n• Increases Shield Strength by 35%\n• While protected by a shield, gain an additional 40% Normal and Charged Attack DMG.\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n     **Main Stats**\n<:sandsofeon:957412516038844486>DEF %\n<:gobletofeonothem:957412513958477864> Geo DMG Bonus or DEF %\n<:circletoflogos:957412513820053594> DEF %, CRIT Rate, or CRIT DMG\n**Substats**\n・DEF %\n・CRIT DMG\n・CRIT Rate  \n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Sweeping Time\n**2)** Elemental Skill: Breastplate\n**3)** Normal Attack: Favonious Bladework- Maid\n        "
-        }
-    ],
     "color": 14994176,
     "type": "rich",
-    "title": "Noelle (Main DPS)",
-    "footer": {
-        "text": "Character Guide • Ascension: Noelle"
-    }
+    "description": "Information regarding this character's ascension information",
+    "title": "Noelle | Ascension"
 }

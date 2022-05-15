@@ -1,48 +1,12 @@
 {
+    "footer": {
+        "text": "Character Guide • Ascension: Yun Jin"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/nUR6ZQI.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Engulfing Lightning"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "The Catch (R5), Favonious Lance"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Husk of Opulent Dreams <:4x:957694032216215573>*\n• DEF +30%\n• A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:2x:957694031343812619>\nHusk of Opulent Dreams <:2x:957694031343812619>*\n• Energy Recharge +20%\n• DEF +30%\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increase all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> DEF % or Energy Recharge\n<:gobletofeonothem:957412513958477864> DEF %\n<:circletoflogos:957412513820053594> DEF %\n**Substats**\n・DEF %\n・Energy Recharge \n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Cliffbreaker's Banner\n**2)** Elemental Skill: Opening Flourish\n**3)** Normal Attack: Cloud-grazing Strike\n        "
-        }
-    ],
     "color": 14994176,
     "type": "rich",
-    "title": "Yun Jin (Support)",
-    "footer": {
-        "text": "Character Guide • Ascension: Yunjin"
-    }
+    "description": "Information regarding this character's ascension information",
+    "title": "Yun Jin | Ascension"
 }

@@ -88,13 +88,13 @@ for character in characters:
 
 
     embed = discord.Embed(
-        title = f'{data["name"]} | Playstyle',
+        title = f'{data["name"]} | Ascension',
         color = int(elementColor(data['vision'])),
         description = ""
     )
-    embed.description += "Information regarding this character's playstyle"
+    embed.description += "Information regarding this character's ascension information"
     embed.set_thumbnail(url = icon[temp])
-    embed.set_footer(text=f'Character Guide • Playstyle: {data["name"]}')
+    embed.set_footer(text=f'Character Guide • Ascension: {data["name"]}')
     data_info = discord.Embed.to_dict(embed)
-    with open(f'{temp2}/playstyle.json', 'w', encoding='utf-8') as f:
+    with open(f'{temp2}/ascension.json', 'w', encoding='utf-8') as f:
         json.dump(data_info, f, ensure_ascii=False, indent=4)

@@ -1,48 +1,12 @@
 {
+    "footer": {
+        "text": "Character Guide • Ascension: Rosaria"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/krSQcCT.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Staff of Homa"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Favonious Lance, Primordial Jade Winged-Spear, Deathmatch"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Lavawalker <:4x:957694032216215573> (Reverse-Melt)*\n• Pyro RES increased by 40%.\n• Increases DMG against enemies that are Burning or affected by Pyro by 35%.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % or Energy Recharge\n<:gobletofeonothem:957412513958477864> Cryo DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate\n**Substats**\n・CRIT Rate\n・Energy Recharge\n・CRIT DMG\n・ATK %  \n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Rites of Termination\n**2)** Elemental Skill: Ravaging Confession\n**3)** Normal Attack: Spear of the Church\n        "
-        }
-    ],
     "color": 10147839,
     "type": "rich",
-    "title": "Rosaria (Burst DPS/Support)",
-    "footer": {
-        "text": "Character Guide • Ascension: Rosaria"
-    }
+    "description": "Information regarding this character's ascension information",
+    "title": "Rosaria | Ascension"
 }

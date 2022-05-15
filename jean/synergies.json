@@ -1,9 +1,12 @@
 {
+    "footer": {
+        "text": "Character Guide • Synergy: Jean"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/uuGppMs.png"
     },
     "color": 5494962,
     "type": "rich",
-    "description": "Jean is an extremely flexible unit. She can be placed in almost any team and provides many things such as healing, crowd control, cleansing, and resistance shred with 4VV and is generally always good. However, she doesn’t really specifically shine in many teams meta-wise (except Sunfire) compared to other Anemo units like Venti, Kazuha, or Sucrose. Generally she can belong in any team, but here are a few templates that I recommend.",
+    "description": "Information regarding this character's team composition and synergy",
     "title": "Jean | Team Composition and Synergy"
 }

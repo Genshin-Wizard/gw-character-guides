@@ -1,9 +1,12 @@
 {
+    "footer": {
+        "text": "Character Guide • Playstyle: Yelan"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/dwSZTla.png"
     },
     "color": 3245055,
     "type": "rich",
-    "description": "Information regarding this character's playstyle",
+    "description": "Information regarding this character's team playstyle",
     "title": "Yelan | Playstyle"
 }

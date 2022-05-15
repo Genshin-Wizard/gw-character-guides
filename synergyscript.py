@@ -94,6 +94,7 @@ for character in characters:
     )
     embed.description += "Information regarding this character's team composition and synergy"
     embed.set_thumbnail(url = icon[temp])
+    embed.set_footer(text=f'Character Guide • Synergy: {data["name"]}')
     data_info = discord.Embed.to_dict(embed)
     with open(f'{temp2}/synergies.json', 'w', encoding='utf-8') as f:
         json.dump(data_info, f, ensure_ascii=False, indent=4)

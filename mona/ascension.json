@@ -1,48 +1,12 @@
 {
+    "footer": {
+        "text": "Character Guide • Ascension: Mona"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/nlEKWI3.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "The Widsith"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Skyward Atlas, Thrilling Tales of Dragon Slayers, Oathsworn Eye"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n    "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Heart of Depth <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• Hydro DMG Bonus +15%\n• Elemental Burst DMG +20%\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % or Elemental Mastery\n<:gobletofeonothem:957412513958477864> Hydro DMG Bonus/ATK %/E.Mastery\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG / ATK %\n**Substats**\n・CRIT DMG\n・CRIT Rate\n・ATK %\n・Elemental Mastery \n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Stellaris Phantasm\n**2)** Normal Attack: Ripple of Fate\n**3)** Elemental Skill: Mirror Reflection of Doom\n        "
-        }
-    ],
     "color": 3245055,
     "type": "rich",
-    "title": "Mona (Sub DPS)",
-    "footer": {
-        "text": "Character Guide • Ascension: Mona"
-    }
+    "description": "Information regarding this character's ascension information",
+    "title": "Mona | Ascension"
 }

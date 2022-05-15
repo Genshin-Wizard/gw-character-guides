@@ -1,48 +1,12 @@
 {
+    "footer": {
+        "text": "Character Guide • Ascension: Diona"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/HtKFztj.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Sacrificial Bow"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Elegy for the End, Favonius Warbow"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
-        },
-        {
-            "inline": true,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Tenacity of the Millelith <:2x:957694031343812619>\nEmblem of Severed Fate <:2x:957694031343812619>*\n• HP +20%\n• Energy Recharge +20%.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Tenacity of the Millelith <:4x:957694032216215573>*\n• HP +20%\n• When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Energy Recharge or HP%\n<:gobletofeonothem:957412513958477864> HP%\n<:circletoflogos:957412513820053594> Healing Bonus / HP%\n**Substats**\n・HP%\n・HP\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Icy Paws\n**2)** Elemental Burst: Signature Mix\n**3)** Normal Attack: Kätzlein Style \n        "
-        }
-    ],
     "color": 10147839,
     "type": "rich",
-    "title": "Diona (Support)",
-    "footer": {
-        "text": "Character Guide • Ascension: Diona"
-    }
+    "description": "Information regarding this character's ascension information",
+    "title": "Diona | Ascension"
 }
