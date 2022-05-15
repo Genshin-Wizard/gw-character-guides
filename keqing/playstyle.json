@@ -1,44 +1,47 @@
 {
-    "footer": {
-        "text": "Character Guide • Playstyle: Keqing"
-    },
     "thumbnail": {
         "url": "https://i.imgur.com/PQDR6HJ.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Thundering Might (C1)",
-            "value": "Recasting Stellar Restoration while a Lightning Stiletto is present causes Keqing to deal 50% of her ATK as AoE Electro DMG at the start point and terminus of her Blink."
+            "name": "Best Weapon:",
+            "value": "Mistplitter Reforged"
         },
         {
             "inline": false,
-            "name": "Keen Extraction (C2)",
-            "value": "When Keqing's Normal and Charged Attack's hit enemies affected by Electro, they have a 50% chance of producing an Elemental Particle. This effect can only occur once every 5s."
+            "name": "Replacement Weapon:",
+            "value": "Primordial Jade Cutter, The Black Sword, Amenoma Kageuchi, Aquila Favonia, Prototype Rancour"
         },
         {
             "inline": false,
-            "name": "Forseen Reformation (C3)",
-            "value": "Increases the Level of Starward Sword by 3.\nMaximum upgrade level is 15."
+            "name": "Best Artifact Set:",
+            "value": "\n*Thundering Fury <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Electro DMG Bonus +15%\n• ATK +18%.\n        "
         },
         {
             "inline": false,
-            "name": "Attunement (C4)",
-            "value": "For 10s after Keqing triggers an Electro-related Elemental Reaction, her ATK is increased by 25%."
+            "name": "Second Best Artifact Set:",
+            "value": "\n*Pale Flame <:2x:957694031343812619>\nBloodstained Chivalry <:2x:957694031343812619>*\n• Physical DMG +25%\n• Physical DMG +25%\n        "
         },
         {
             "inline": false,
-            "name": "Beckoning Stars (C5)",
-            "value": "Increase the Level of Stellar Restoration by 3.\nMaximum upgrade level is 15."
+            "name": "Third Best Artifact Set:",
+            "value": "\n*Thundering Fury <:4x:957694032216215573>*\n• Electro DMG Bonus +15%\n• Increases damage caused by Overloaded, Electro-Charged and Superconduct by 40%. Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s.\n        "
         },
         {
-            "inline": false,
-            "name": "Tenacious Star (C6)",
-            "value": "When initiating a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst, Keqing gains a 6% Electro DMG Bonus for 8s. Effects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Elemental Bursts are considered independent entities."
+            "inline": true,
+            "name": "Stat Priority",
+            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Electro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・ATK %\n・CRIT Rate\n・CRIT DMG\n        "
+        },
+        {
+            "inline": true,
+            "name": "Talent Priority:",
+            "value": "\n**1)** Normal Attack: Yunlai Swordsmanship\n**2)** Elemental Burst: Starward Sword\n**3)** Elemental Skill: Stellar Restoration\n        "
         }
     ],
     "color": 11104511,
     "type": "rich",
-    "description": "The Yuheng of the Liyue Qixing. Has much to say about Rex Lapis' unilateral approach to policymaking in Liyue - but in truth, gods admire skeptics such as her quite a lot.",
-    "title": "Keqing"
+    "title": {
+        "text": "Character Guide • Builds: Keqing"
+    }
 }

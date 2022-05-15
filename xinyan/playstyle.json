@@ -1,44 +1,42 @@
 {
-    "footer": {
-        "text": "Character Guide • Playstyle: Xinyan"
-    },
     "thumbnail": {
         "url": "https://i.imgur.com/T6meiSo.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Fatal Acceleration (C1)",
-            "value": "Upon scoring a CRIT hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s.\nCan only occur once every 5s."
+            "name": "Best Weapon:",
+            "value": "Wolf's Gravestone"
         },
         {
             "inline": false,
-            "name": "Impromptu Opening (C2)",
-            "value": "Riff Revolution Physical DMG has its Crit rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast."
+            "name": "Replacement Weapon:",
+            "value": "Serpent Spine, Song of Broken Pines, Snow-Tombed Starsilver, Skyward Pride"
         },
         {
             "inline": false,
-            "name": "Double Stop (C3)",
-            "value": "Increases the Level of Sweeping Fervor by 3.\nMaximum upgrade level is 15."
+            "name": "Best Artifact Set:",
+            "value": "\n*Bloodstained Chivalry <:2x:957694031343812619>\nPale Flame <:2x:957694031343812619>*\n• Physical DMG +25%.\n• Physical DMG +25%\n        "
         },
         {
             "inline": false,
-            "name": "Wildfire Rhythm (C4)",
-            "value": "Sweeping Fervor's swing DMG decrease opponents Physical RES by 15% for 12s."
+            "name": "Second Best Artifact Set:",
+            "value": "\n*Bloodstained Chivalry <:2x:957694031343812619>\n Gladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Physical DMG +25%\n• ATK +18%\n        "
         },
         {
-            "inline": false,
-            "name": "Screaming for Encore (C5)",
-            "value": "Increases the Level of Riff Revolution by 3. Maximum upgrade level is 15."
+            "inline": true,
+            "name": "Stat Priority",
+            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Physical DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・CRIT DMG / CRIT Rate\n・ATK %\n        "
         },
         {
-            "inline": false,
-            "name": "Rocking in Flaming (C6)",
-            "value": "Decrease the stamina consumption of Xinyan Charged Attacks by 30%. Additionally, Xinyan Charged Attack gain an ATK bonus equal to 50% of her DEF."
+            "inline": true,
+            "name": "Talent Priority:",
+            "value": "\n**1)** Normal Attack: Dance on Fire\n**2)** Elemental Burst: Riff Evolution\n**3)** Elemental Skill: Sweeping Ferver\n        "
         }
     ],
     "color": 16733525,
     "type": "rich",
-    "description": "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
-    "title": "Xinyan"
+    "title": {
+        "text": "Character Guide • Builds: Xinyan"
+    }
 }

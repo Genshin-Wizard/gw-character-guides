@@ -1,44 +1,47 @@
 {
-    "footer": {
-        "text": "Character Guide • Playstyle: Diona"
-    },
     "thumbnail": {
         "url": "https://i.imgur.com/HtKFztj.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "A Lingering Flavor (C1)",
-            "value": "Regenerates 15 Energy for Diona after the effects of Signature Mix end."
+            "name": "Best Weapon:",
+            "value": "Sacrificial Bow"
         },
         {
             "inline": false,
-            "name": "Shaken, Not Purred (C2)",
-            "value": "Increases Icy Paws' DMG by 15%, and increases its shield's DMG Absorption by 15%. Additionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the Icy Paws shield's DMG Absorption for 5s."
+            "name": "Replacement Weapon:",
+            "value": "Elegy for the End, Favonius Warbow"
         },
         {
             "inline": false,
-            "name": "A-Another Round? (C3)",
-            "value": "Increases the Level of Signature Mix by 3.\nMaximum upgrade level is 15."
+            "name": "Best Artifact Set:",
+            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
+        },
+        {
+            "inline": true,
+            "name": "Second Best Artifact Set:",
+            "value": "\n*Tenacity of the Millelith <:2x:957694031343812619>\nEmblem of Severed Fate <:2x:957694031343812619>*\n• HP +20%\n• Energy Recharge +20%.\n        "
         },
         {
             "inline": false,
-            "name": "Wine Industry Slayer (C4)",
-            "value": "Within the radius of Signature Mix, Diona's charge time for aimed shots is reduced by 60%."
+            "name": "Third Best Artifact Set:",
+            "value": "\n*Tenacity of the Millelith <:4x:957694032216215573>*\n• HP +20%\n• When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.\n        "
         },
         {
-            "inline": false,
-            "name": "Double Shot, On The Rocks (C5)",
-            "value": "Increases the level of Icy Paws by 3.\nMaximum upgrade level is 15."
+            "inline": true,
+            "name": "Stat Priority",
+            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Energy Recharge or HP%\n<:gobletofeonothem:957412513958477864> HP%\n<:circletoflogos:957412513820053594> Healing Bonus / HP%\n**Substats**\n・HP%\n・HP\n        "
         },
         {
-            "inline": false,
-            "name": "Cat's Tail Closing Time (C6)",
-            "value": "Characters within Signature Mix's radius will gain the following effects based on their HP amounts:\nIncreasing Incoming Healing Bonus by 30% when HP falls below or is equal to 50%.\nElemental Mastery is increased by 200 when HP is above 50%."
+            "inline": true,
+            "name": "Talent Priority:",
+            "value": "\n**1)** Elemental Skill: Icy Paws\n**2)** Elemental Burst: Signature Mix\n**3)** Normal Attack: Kätzlein Style \n        "
         }
     ],
     "color": 10147839,
     "type": "rich",
-    "description": "A young lady who has inherited trace amounts of non-human blood. She is the incredibly popular bartender of the Cat's Tail tavern.",
-    "title": "Diona"
+    "title": {
+        "text": "Character Guide • Builds: Diona"
+    }
 }

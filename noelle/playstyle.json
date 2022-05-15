@@ -1,44 +1,47 @@
 {
-    "footer": {
-        "text": "Character Guide • Playstyle: Noelle"
-    },
     "thumbnail": {
         "url": "https://i.imgur.com/klBUgnZ.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "I Got Your Back (C1)",
-            "value": "While Sweeping Time and Breastplate are both in effect, the chance of Breastplate's healing effects activating is increased to 100%."
+            "name": "Best Weapon:",
+            "value": "Redhorn Stonethresher"
         },
         {
             "inline": false,
-            "name": "Combat Maid (C2)",
-            "value": "Decreases the Stamina Consumption of Noelle's Charged Attacks by 20% and increases her Charged Attack DMG by 15%."
+            "name": "Replacement Weapon:",
+            "value": "The Unforged, Whiteblind, White Iron Greatsword"
         },
         {
             "inline": false,
-            "name": "Invulnerable Maid (C3)",
-            "value": "Increases the Level of Breastplate by 3.\nMaximum upgrade level is 15."
+            "name": "Best Artifact Set:",
+            "value": "\n*Husk of Opulent Dreams <:4x:957694032216215573>*\n• DEF +30%\n• A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.\n        "
         },
         {
             "inline": false,
-            "name": "To Be Cleaned (C4)",
-            "value": "When Breastplate's duration expires or it is destroyed by DMG, it will deal 400% ATK of Geo DMG to surrounding enemies."
+            "name": "Second Best Artifact Set:",
+            "value": "\n*Gladiator's Finale <:4x:957694032216215573>*\n• ATK +18%.\n• If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.\n        "
         },
         {
             "inline": false,
-            "name": "Favonius Sweeper Master (C5)",
-            "value": "Increase the Level of Sweeping Time by 3.\nMaximum upgrade level is 15."
+            "name": "Third Best Artifact Set:",
+            "value": "\n*Retracing Bolide <:4x:957694032216215573>*\n• Increases Shield Strength by 35%\n• While protected by a shield, gain an additional 40% Normal and Charged Attack DMG.\n        "
         },
         {
-            "inline": false,
-            "name": "Must Be Spotless (C6)",
-            "value": "Sweeping Time increases Noelle's ATK by an additional 50% of her DEF.\nAdditionally, every enemy defeated during the skill's duration adds 1s to the duration, up to 10s."
+            "inline": true,
+            "name": "Stat Priority",
+            "value": "\n     **Main Stats**\n<:sandsofeon:957412516038844486>DEF %\n<:gobletofeonothem:957412513958477864> Geo DMG Bonus or DEF %\n<:circletoflogos:957412513820053594> DEF %, CRIT Rate, or CRIT DMG\n**Substats**\n・DEF %\n・CRIT DMG\n・CRIT Rate  \n        "
+        },
+        {
+            "inline": true,
+            "name": "Talent Priority:",
+            "value": "\n**1)** Elemental Burst: Sweeping Time\n**2)** Elemental Skill: Breastplate\n**3)** Normal Attack: Favonious Bladework- Maid\n        "
         }
     ],
     "color": 14994176,
     "type": "rich",
-    "description": "A maid who faithfully serves the Knights of Favonius that dreams of joining their ranks someday.",
-    "title": "Noelle"
+    "title": {
+        "text": "Character Guide • Builds: Noelle"
+    }
 }

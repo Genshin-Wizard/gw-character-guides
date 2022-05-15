@@ -1,44 +1,47 @@
 {
-    "footer": {
-        "text": "Character Guide • Playstyle: Diluc"
-    },
     "thumbnail": {
         "url": "https://i.imgur.com/SsCTU9V.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Conviction (C1)",
-            "value": "Diluc deals 15% more DMG to enemies whose HP is above 50%."
+            "name": "Best Weapon:",
+            "value": "Wolf's Gravestone"
         },
         {
             "inline": false,
-            "name": "Searing Ember (C2)",
-            "value": "When Diluc takes DMG, his Base ATK increases by 10% and his ATK SPD increases by 5%. Lasts for 10s.\nThis effect can stack up to 3 times and can only occur once every 1.5s."
+            "name": "Replacement Weapon:",
+            "value": "Redhorn Stonethresher, Serpent Spine, The Unforged, Rainslasher, Luxurious Sea-Lord"
         },
         {
             "inline": false,
-            "name": "Steel and Fire (C3)",
-            "value": "Increases the Level of Searing Onslaught by 3.\nMaximum upgrade level is 15."
+            "name": "Best Artifact Set:",
+            "value": "\n*Crimson Witch of Flames <:4x:957694032216215573>*\n• Pyro DMG Bonus +15%.\n• Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases 2-Piece Set effects by 50% for 10s. Max 3 stacks.\n        "
         },
         {
             "inline": false,
-            "name": "Flowing Flame (C4)",
-            "value": "Casting Searing Onslaught in sequence greatly increases damage dealt.\nWithin 2s of using Searing Onslaught, casting the next Searing Onslaught in the combo deals 40% additional DMG. This effect lasts for the next 2s."
+            "name": "Second Best Artifact Set:",
+            "value": "\n*Gladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>\nCrimson Witch of Flames <:2x:957694031343812619>*\n• ATK +18%.\n• Pyro DMG Bonus +15%.\n        "
         },
         {
             "inline": false,
-            "name": "Phoenix, Harbinger of Dawn (C5)",
-            "value": "Increases the level of Dawn by 3.\nMaximum upgrade level is 15."
+            "name": "Third Best Artifact Set:",
+            "value": "\n*Crimson Witch of Flames <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• +15% Pyro DMG\n• +20% Elemental Burst DMG\n        "
         },
         {
-            "inline": false,
-            "name": "Flaming Sword, Nemesis of Dark (C6)",
-            "value": "After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.\nAdditionally, Searing Onslaught will not interrupt the Normal Attack combo."
+            "inline": true,
+            "name": "Stat Priority",
+            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % or Elemental Mastery\n<:gobletofeonothem:957412513958477864> Pyro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT DMG or CRIT Rate\n**Substats**\n・ATK % or Elemental Mastery\n・CRIT Rate / CRIT DMG / ATK %  \n        "
+        },
+        {
+            "inline": true,
+            "name": "Talent Priority:",
+            "value": "\n**1)** Elemental Skill: Searing Onslaught\n**2)** Normal Attack: Tempered Sword \n**3)** Elemental Burst: Dawn\n        "
         }
     ],
     "color": 16733525,
     "type": "rich",
-    "description": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
-    "title": "Diluc"
+    "title": {
+        "text": "Character Guide • Builds: Diluc"
+    }
 }

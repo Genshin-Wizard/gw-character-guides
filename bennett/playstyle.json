@@ -1,44 +1,47 @@
 {
-    "footer": {
-        "text": "Character Guide • Playstyle: Bennett"
-    },
     "thumbnail": {
         "url": "https://i.imgur.com/Ovy1jMB.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Grand Expectation (C1)",
-            "value": "Fantastic Voyage's ATK increases no longer has an HP restriction, and gains an additional 20% Base ATK."
+            "name": "Best Weapon:",
+            "value": "Skyward Blade"
         },
         {
             "inline": false,
-            "name": "Impasse Conqueror (C2)",
-            "value": "When Bennett's HP falls below 70%, his Energy Recharge is increased by 30%."
+            "name": "Replacement Weapon:",
+            "value": "Aquila Favonia, Festering Desire, Prototype Rancour"
         },
         {
             "inline": false,
-            "name": "Unstoppable Fervor (C3)",
-            "value": "Increases the Level of Passion Overload by 3.\nMaximum upgrade level is 15."
+            "name": "Best Artifact Set:",
+            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
         },
         {
             "inline": false,
-            "name": "Unexpected Odyssey (C4)",
-            "value": "Using a Normal Attack when executing the second attack of Passion Overload's Charge Level 1 allows an additional attack to be performed. This additional attack does 135% of the second attack's DMG."
+            "name": "Second Best Artifact Set:",
+            "value": "\n*Instructor <:4x:957694032216215573>*\n• Increases Elemental Mastery by 80.\n• Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.\n        "
+        },
+        {
+            "inline": true,
+            "name": "Stat Priority",
+            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486>Energy Recharge / HP%\n<:gobletofeonothem:957412513958477864> HP%\n<:circletoflogos:957412513820053594> Healing Bonus / HP%\n**Substats**\n・Energy Recharge\n・HP%\n        "
+        },
+        {
+            "inline": true,
+            "name": "Talent Priority:",
+            "value": "\n**1)** Elemental Burst: Fantastic Voyage\n**2)** Elemental Skill: Passion Overload\n**3)** Normal Attack: Strike of Fortune \n        "
         },
         {
             "inline": false,
-            "name": "True Explorer (C5)",
-            "value": "Increase the Level of Fantastic Voyage by 3.\nMaximum upgrade level is 15."
-        },
-        {
-            "inline": false,
-            "name": "Fire Ventures with Me (C6)",
-            "value": "Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage's radius gain a 15% Pyro DMG Bonus. Normal and Charged Attacks now do Pyro DMG."
+            "name": "Notes:",
+            "value": "4pc Instructor is only used for 1-Shot Showcase, and is not recommended for daily-base usage."
         }
     ],
     "color": 16733525,
     "type": "rich",
-    "description": "A righteous and good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
-    "title": "Bennett"
+    "title": {
+        "text": "Character Guide • Builds: Bennett"
+    }
 }

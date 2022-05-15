@@ -1,43 +1,47 @@
 {
-    "footer": {
-        "text": "Character Guide • Playstyle: Aloy"
-    },
     "thumbnail": {
         "url": "https://i.imgur.com/47mFsx4.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Star of Another World (1) (C1)",
-            "value": "The time has not yet come for this person's corner of the night sky to light up."
+            "name": "Best Weapon:",
+            "value": "Polar Star"
         },
         {
             "inline": false,
-            "name": "Star of Another World (2) (C2)",
-            "value": "The time has not yet come for this person's corner of the night sky to light up."
+            "name": "Replacement Weapon:",
+            "value": "Thundering Pulse, Skyward Harp, Stringless, Sac Bow, Windblume Ode"
         },
         {
             "inline": false,
-            "name": "Star of Another World (3) (C3)",
-            "value": "The time has not yet come for this person's corner of the night sky to light up."
+            "name": "Best Artifact Set:",
+            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
         },
         {
             "inline": false,
-            "name": "Star of Another World (4) (C4)",
-            "value": "The time has not yet come for this person's corner of the night sky to light up."
+            "name": "Second Best Artifact Set:",
+            "value": "\n*Blizzard Strayer <:2x:957694031343812619>\nNobless Oblige <:2x:957694031343812619>*\n• Cryo DMG Bonus +15%\n• Elemental Burst DMG +20%.\n        "
         },
         {
             "inline": false,
-            "name": "Star of Another World (5) (C5)",
-            "value": "The time has not yet come for this person's corner of the night sky to light up."
+            "name": "Third Best Artifact Set:",
+            "value": "\n*Wanderer's Troupe <:2x:957694031343812619>\nBlizzard Strayer <:2x:957694031343812619>*\n• Increases Elemental Mastery by 80.\n• Cryo DMG Bonus +15%\n        "
         },
         {
-            "inline": false,
-            "name": "Star of Another World (6) (C6)",
-            "value": "The time has not yet come for this person's corner of the night sky to light up."
+            "inline": true,
+            "name": "Stat Priority",
+            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % / Elemental Mastery / Energy Recharge\n<:gobletofeonothem:957412513958477864> Cryo DMG Bonus % / ATK%\n<:circletoflogos:957412513820053594> CRIT DMG / CRIT Rate\n**Substats**\n・CRIT Rate\n・CRIT DMG\n・ATK %\n・Elemental Mastery\n・Energy Recharge\n        "
+        },
+        {
+            "inline": true,
+            "name": "Talent Priority:",
+            "value": "\n**1)** Elemental Burst: Prophecies of Dawn\n**2)** Elemental Skill: Frozen Wilds\n**3)** Normal Attack: Rapid Fire\n        "
         }
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Aloy"
+    "title": {
+        "text": "Character Guide • Builds: Aloy"
+    }
 }

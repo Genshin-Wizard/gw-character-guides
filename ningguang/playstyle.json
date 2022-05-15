@@ -1,44 +1,47 @@
 {
-    "footer": {
-        "text": "Character Guide • Playstyle: Ningguang"
-    },
     "thumbnail": {
         "url": "https://i.imgur.com/w9LQJFO.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Piercing Fragments (C1)",
-            "value": "When a Normal Attack hits, it deals AoE DMG."
+            "name": "Best Weapon:",
+            "value": "Memory of Dust"
         },
         {
             "inline": false,
-            "name": "Shock Effect (C2)",
-            "value": "When Jade Screen is shattered, its CD will reset.\nCan occur once every 6s."
+            "name": "Replacement Weapon:",
+            "value": "Lost Prayer to the Sacred Wind, Solar Pearl, Dodoco Tales"
         },
         {
             "inline": false,
-            "name": "Majesty be the Array of Stars (C3)",
-            "value": "Increases the Level of Starshatter by 3.\nMaximum upgrade level is 15."
+            "name": "Best Artifact Set:",
+            "value": "\n*Archaic Petra <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Gain a 15% Geo DMG Bonus.\n• ATK +18%.\n        "
         },
         {
             "inline": false,
-            "name": "Exquisite be the Jade, Outshining All the Beneath (C4)",
-            "value": "Jade Screen increases nearby characters' Elemental RES by 10%."
+            "name": "Second Best Artifact Set:",
+            "value": "\n*Archaic Petra <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• Gain a 15% Geo DMG Bonus.\n• Elemental Burst DMG +20%.\n        "
         },
         {
             "inline": false,
-            "name": "Invincible be the Jade Screen (C5)",
-            "value": "Increase the Level of Jade Screen by 3.\nMaximum upgrade level is 15."
+            "name": "Third Best Artifact Set:",
+            "value": "\n*Archaic Petra <:4x:957694032216215573>*\n• Gain a 15% Geo DMG Bonus\n• Upon obtaining an Elemental Shard Created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.\n        "
         },
         {
-            "inline": false,
-            "name": "Grandeur be the Seven Stars (C6)",
-            "value": "When Starshatter is used, Ningguang gains 7 Star Jades."
+            "inline": true,
+            "name": "Stat Priority",
+            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Geo DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・ATK %\n・CRIT Rate\n・CRIT DMG\n        "
+        },
+        {
+            "inline": true,
+            "name": "Talent Priority:",
+            "value": "\n**1)** Normal Attack: Sparkling Scatter\n**2)** Elemental Burst: Starshatter\n**3)** Elemental Skill: Jade Screen\n        "
         }
     ],
     "color": 14994176,
     "type": "rich",
-    "description": "The Tianquan of Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",
-    "title": "Ningguang"
+    "title": {
+        "text": "Character Guide • Builds: Ningguang"
+    }
 }

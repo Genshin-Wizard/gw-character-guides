@@ -1,44 +1,47 @@
 {
-    "footer": {
-        "text": "Character Guide • Playstyle: Tartaglia"
-    },
     "thumbnail": {
         "url": "https://i.imgur.com/SLuf0m3.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Foul Legacy: Tide Withholder (C1)",
-            "value": "Decreases the CD of Foul Legacy: Raging Tide by 20%."
+            "name": "Best Weapon:",
+            "value": "Polar Star"
         },
         {
             "inline": false,
-            "name": "Foul Legacy: Understream (C2)",
-            "value": "When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy."
+            "name": "Replacement Weapon:",
+            "value": "Thundering Pulse, Skyward Harp, Rust"
         },
         {
             "inline": false,
-            "name": "Abyssal Mayhem: Vortex of Turmoil (C3)",
-            "value": "Increases the Level of Foul Legacy: Raging Tide by 3.\nMaximum upgrade level is 15."
+            "name": "Best Artifact Set:",
+            "value": "\n*Heart of Depth <:4x:957694032216215573>*\n• Hydro DMG Bonus +15%\n• After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.\n        "
         },
         {
             "inline": false,
-            "name": "Abyssal Mayhem: Hydrospout (C4)",
-            "value": "If Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.\nRiptide Slashes and Riptide Flashes triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two Riptide effects, nor do they have any effect on those time intervals."
+            "name": "Second Best Artifact Set:",
+            "value": "\n*Heart of Depth <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Hydro DMG Bonus +15%\n• ATK +18%\n        "
         },
         {
             "inline": false,
-            "name": "Havoc: Formless Blade (C5)",
-            "value": "Increase the Level of Havoc: Obliteration by 3.\nMaximum upgrade level is 15."
+            "name": "Third Best Artifact Set:",
+            "value": "\n*Heart of Depth <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• Hydro DMG Bonus +15%\n• Elemental Burst DMG +20%\n        "
         },
         {
-            "inline": false,
-            "name": "Havoc: Annihilation (C6)",
-            "value": "When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging Tide is reset.\nThis effect will only take place once Tartaglia returns to his Ranged Stance."
+            "inline": true,
+            "name": "Stat Priority",
+            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % or Elemental Mastery\n<:gobletofeonothem:957412513958477864> Hydro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・CRIT Rate\n・CRIT DMG\n・ATK %\n・Elemental Mastery\n        "
+        },
+        {
+            "inline": true,
+            "name": "Talent Priority:",
+            "value": "\n**1)** Elemental Skill: Foul Legacy - Raging Tide\n**2)** Elemental Burst: Havoc - Obliteration\n**3)** Normal Attack: Cutting Torrent\n        "
         }
     ],
     "color": 3245055,
     "type": "rich",
-    "description": "No. 11 of The Harbingers, also known as \"Childe\". His name is highly feared on the battlefield.",
-    "title": "Tartaglia"
+    "title": {
+        "text": "Character Guide • Builds: Childe"
+    }
 }

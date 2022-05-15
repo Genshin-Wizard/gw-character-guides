@@ -1,44 +1,47 @@
 {
-    "footer": {
-        "text": "Character Guide • Playstyle: Mona"
-    },
     "thumbnail": {
         "url": "https://i.imgur.com/nlEKWI3.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Prophecy of Submersion (C1)",
-            "value": "The effects of Hydro-related Elemental Reactions are enhanced for 8s after a character hits an enemy affected by an Omen:\nElectro-Charged DMG is increased by 15%.\nVaporize DMG is increased by 15%.\nHydro Swirl DMG is increased by 15%.\nThe duration for which enemies are Frozen is increased by 15%."
+            "name": "Best Weapon:",
+            "value": "The Widsith"
         },
         {
             "inline": false,
-            "name": "Lunar Chain (C2)",
-            "value": "When a Normal Attack hits, there is a 20% chance that it will be automatically followed by a Charged Attack.\nThis effect can only occur once every 5s."
+            "name": "Replacement Weapon:",
+            "value": "Skyward Atlas, Thrilling Tales of Dragon Slayers, Oathsworn Eye"
         },
         {
             "inline": false,
-            "name": "Restless Revolution (C3)",
-            "value": "Increases the Level of Stellaris Phantasm by 3.\nMaximum upgrade level is 15."
+            "name": "Best Artifact Set:",
+            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
         },
         {
             "inline": false,
-            "name": "Prophecy of Oblivion (C4)",
-            "value": "When a character attacks an enemy affected by the Omen status effect, their CRIT Rate is increased by 15%."
+            "name": "Second Best Artifact Set:",
+            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n    "
         },
         {
             "inline": false,
-            "name": "Mockery of Fortuna (C5)",
-            "value": "Increase the Level of Mirror Reflection of Doom by 3.\nMaximum upgrade level is 15."
+            "name": "Third Best Artifact Set:",
+            "value": "\n*Heart of Depth <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• Hydro DMG Bonus +15%\n• Elemental Burst DMG +20%\n        "
         },
         {
-            "inline": false,
-            "name": "Rhetorics of Calamitas (C6)",
-            "value": "Upon entering Illusory Torrent, Mona gain a 60% increase to the DMG her next Charged Attack per second of movement.\nA maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for no more than 8s."
+            "inline": true,
+            "name": "Stat Priority",
+            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % or Elemental Mastery\n<:gobletofeonothem:957412513958477864> Hydro DMG Bonus/ATK %/E.Mastery\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG / ATK %\n**Substats**\n・CRIT DMG\n・CRIT Rate\n・ATK %\n・Elemental Mastery \n        "
+        },
+        {
+            "inline": true,
+            "name": "Talent Priority:",
+            "value": "\n**1)** Elemental Burst: Stellaris Phantasm\n**2)** Normal Attack: Ripple of Fate\n**3)** Elemental Skill: Mirror Reflection of Doom\n        "
         }
     ],
     "color": 3245055,
     "type": "rich",
-    "description": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.",
-    "title": "Mona"
+    "title": {
+        "text": "Character Guide • Builds: Mona"
+    }
 }

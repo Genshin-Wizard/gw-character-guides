@@ -1,44 +1,47 @@
 {
-    "footer": {
-        "text": "Character Guide • Playstyle: Venti"
-    },
     "thumbnail": {
         "url": "https://i.imgur.com/d4Dceto.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Splitting Gale (C1)",
-            "value": "Fires 2 additional arrows per Aimed Shot, each dealing 33% of the original arrow's DMG."
+            "name": "Best Weapon:",
+            "value": "Elegy for the End"
         },
         {
             "inline": false,
-            "name": "Breeze of Reminiscence (C2)",
-            "value": "Skyward Sonnet decreases enemy Anemo RES by 12% for 10s.\nEnemies launched by Skyward Sonnet suffer an additional 12% Anemo RES and Physical RES decrease while airborne."
+            "name": "Replacement Weapon:",
+            "value": "The Stringless, Windblume Ode, Favonius Warbow"
         },
         {
             "inline": false,
-            "name": "Ode to Thousand Winds (C3)",
-            "value": "Increases the Level of Wind's Grand Ode by 3.\nMaximum upgrade level is 15."
+            "name": "Best Artifact Set:",
+            "value": "\n*Viridescent Venerer <:4x:957694032216215573>*\n• Anemo DMG Bonus +15%\n• Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.\n        "
         },
         {
             "inline": false,
-            "name": "Hurricane of Freedom (C4)",
-            "value": "When Venti picks up an Elemental Orb or Particle, he receives a 25% Anemo DMG Bonus for 10s."
+            "name": "Second Best Artifact Set:",
+            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n    "
         },
         {
             "inline": false,
-            "name": "Concierto dal Cielo (C5)",
-            "value": "Increase the Level of Skyward Sonnet by 3.\nMaximum upgrade level is 15."
+            "name": "Third Best Artifact Set:",
+            "value": "\n*Viridescent Venerer <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• Anemo DMG Bonus +15%\n• Elemental Burst DMG +20%\n        "
         },
         {
-            "inline": false,
-            "name": "Storm of Defiance (C6)",
-            "value": "Targets who take DMG from Wind's Grand Ode have their Anemo RES decreased by 20%.\nIf an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%."
+            "inline": true,
+            "name": "Stat Priority",
+            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Elemental Mastery\n<:gobletofeonothem:957412513958477864> Elemental Mastery\n<:circletoflogos:957412513820053594> Elemental Mastery\n**Substats**\n・Elemental Mastery\n・Energy Recharge\n        "
+        },
+        {
+            "inline": true,
+            "name": "Talent Priority:",
+            "value": "\n**1)** Elemental Burst: Wind's Grand Ode\n**2)** Elemental Skill: Skyward Sonnet\n**3)** Normal Attack: Divine Marksmanship\n        "
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
-    "title": "Venti"
+    "title": {
+        "text": "Character Guide • Builds: Venti"
+    }
 }

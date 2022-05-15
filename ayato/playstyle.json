@@ -46,8 +46,7 @@
     ],
     "color": 3245055,
     "type": "rich",
-    "title": "Kamisato Ayato (Main DPS)",
-    "footer": {
-        "text": "Character Guide • Playstyle: Ayato"
+    "title": {
+        "text": "Character Guide • Builds: Ayato"
     }
 }

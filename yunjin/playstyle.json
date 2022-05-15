@@ -1,44 +1,47 @@
 {
-    "footer": {
-        "text": "Character Guide • Playstyle: Yun Jin"
-    },
     "thumbnail": {
         "url": "https://i.imgur.com/nUR6ZQI.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Thespian Gallop (C1)",
-            "value": "Opening Flourish's CD is decreased by 18%."
+            "name": "Best Weapon:",
+            "value": "Engulfing Lightning"
         },
         {
             "inline": false,
-            "name": "Myriad Mise-En-Scène (C2)",
-            "value": "After Cliffbreaker's Banner is unleashed, all nearby party members' Normal Attack DMG is increased by 15% for 12s."
+            "name": "Replacement Weapon:",
+            "value": "The Catch (R5), Favonious Lance"
         },
         {
             "inline": false,
-            "name": "Seafaring General (C3)",
-            "value": "Increases the Level of Cliffbreaker's Banner by 3.\nMaximum upgrade level is 15."
+            "name": "Best Artifact Set:",
+            "value": "\n*Husk of Opulent Dreams <:4x:957694032216215573>*\n• DEF +30%\n• A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.\n        "
         },
         {
             "inline": false,
-            "name": "Flower and a Fighter (C4)",
-            "value": "When Yun Jin triggers the Crystallize Reaction, her DEF is increased by 20% for 12s."
+            "name": "Second Best Artifact Set:",
+            "value": "\n*Emblem of Severed Fate <:2x:957694031343812619>\nHusk of Opulent Dreams <:2x:957694031343812619>*\n• Energy Recharge +20%\n• DEF +30%\n        "
         },
         {
             "inline": false,
-            "name": "Famed Throughout the Land (C5)",
-            "value": "Increases the Level of Opening Flourish by 3.\nMaximum upgrade level is 15."
+            "name": "Third Best Artifact Set:",
+            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increase all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
         },
         {
-            "inline": false,
-            "name": "Decorous Harmony (C6)",
-            "value": "Characters under the effects of the Flying Cloud Flag Formation have their Normal ATK SPD increased by 12%."
+            "inline": true,
+            "name": "Stat Priority",
+            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> DEF % or Energy Recharge\n<:gobletofeonothem:957412513958477864> DEF %\n<:circletoflogos:957412513820053594> DEF %\n**Substats**\n・DEF %\n・Energy Recharge \n        "
+        },
+        {
+            "inline": true,
+            "name": "Talent Priority:",
+            "value": "\n**1)** Elemental Burst: Cliffbreaker's Banner\n**2)** Elemental Skill: Opening Flourish\n**3)** Normal Attack: Cloud-grazing Strike\n        "
         }
     ],
     "color": 14994176,
     "type": "rich",
-    "description": "A renowned Liyue opera singer who is skilled in both playwriting and singing. Her style is one-of-a-kind, exquisite and delicate, much like the person herself.",
-    "title": "Yun Jin"
+    "title": {
+        "text": "Character Guide • Builds: Yunjin"
+    }
 }

@@ -44,55 +44,22 @@ def getRarity(rarity):
     }.get(str(rarity))
 
 for character in characters:
-    temp = character
-    temp2 = character
-    if character == 'geotraveler':
-        character = 'traveler-geo'
-        temp = 'traveler'
-    elif character == 'anemotraveler':
-        character = 'traveler-anemo'
-        temp = 'traveler'
-    elif character == 'electrotraveler':
-        character = 'traveler-electro'
-        temp = 'traveler'
-    # update
-    elif character == 'ayato':
-        continue
-    elif character == 'itto':
-        continue
-    elif character == 'yelan':
-        continue
-    elif character == 'kuki':
-        continue
-    # elif character == 'ayato':
-    #     character = 'mona'
-    # elif character == 'itto':
-    #     character = 'zhongli'
-    # elif character == 'yelan':
-    #     character = 'mona'
-    # elif character == 'kuki':
-    #     character = 'lisa'
-    # end update
-    elif character == 'childe':
-        character = 'tartaglia'
-    elif character == 'hutao':
-        character = 'hu-tao'
-    elif character == 'yaemiko':
-        character = 'yae-miko'
-    elif character == 'yunjin':
-        character = 'yun-jin'
-        
     print(character)
 
     embed = discord.Embed(
-        title = f'{character.capitalize()} | Introduction',
-        color = int(elementColor(characters[character]['color'])),
+        title = f'{character.capitalize()} | Build',
+        color = int(characters[character]['color']),
     )
-    title =  {
-        "title": {
-            "text": f"Character Guide • Builds: {character.capitalize()}"
+    footer =  {
+        "footer": {
+            "text": f"Character Guide • Build: {character.capitalize()}"
         }
     }
+    title = {
+        "title": f"{characters[character]['title']} | Build"
+        }
+
+    characters[character].update(footer)
     characters[character].update(title)
-    with open(f'{character}/playstyle.json', 'w', encoding='utf-8') as f:
+    with open(f'{character}/build.json', 'w', encoding='utf-8') as f:
         json.dump(characters[character], f, ensure_ascii=False, indent=4)

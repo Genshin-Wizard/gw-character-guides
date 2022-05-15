@@ -1,44 +1,47 @@
 {
-    "footer": {
-        "text": "Character Guide • Playstyle: Yae Miko"
-    },
     "thumbnail": {
         "url": "https://i.imgur.com/Yfb4g1m.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Yakan Offering (C1)",
-            "value": "Each time Great Secret Art: Tenko Kenshin activates a Tenko Thunderbolt, Yae Miko will restore 8 Elemental Energy for herself."
+            "name": "Best Weapon:",
+            "value": "Kagura's Verity"
         },
         {
             "inline": false,
-            "name": "Fox's Mooncall (C2)",
-            "value": "Sesshou Sakura start at Level 2 when created, their max level is increased to 4, and their attack range is increased by 60%."
+            "name": "Replacement Weapon:",
+            "value": "The Widsith, Skyward Atlas, Solar Pearl, Lost Prayer, Oathsworn Eye"
         },
         {
             "inline": false,
-            "name": "The Seven Glamours (C3)",
-            "value": "Increases the Level of Yakan Evocation: Sesshou Sakura by 3.\nMaximum upgrade level is 15."
+            "name": "Best Artifact Set:",
+            "value": "\n*Thundering Fury <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Electro DMG Bonus +15%\n• ATK +18%.\n        "
         },
         {
             "inline": false,
-            "name": "Sakura Channeling (C4)",
-            "value": "When Sesshou Sakura lightning hits opponents, the Electro DMG Bonus of all nearby party members is increased by 20% for 5s."
+            "name": "Second Best Artifact Set:",
+            "value": "\n*Shimenawa's Reminiscence <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• ATK +18%.\n• ATK +18%.\n• Can outperform the best Artifact set with better substats.\n        "
         },
         {
             "inline": false,
-            "name": "Mischevious Teasing (C5)",
-            "value": "Increases the Great Secret Art: Tenko Kenshin by 3.\nMaximum upgrade level is 15."
+            "name": "Third Best Artifact Set:",
+            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
         },
         {
-            "inline": false,
-            "name": "Forbidden Art: Daisesshou (C6)",
-            "value": "The Sesshou Sakura's attacks will ignore 60% of the opponents' DEF."
+            "inline": true,
+            "name": "Stat Priority",
+            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Electro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT DMG or CRIT Rate\n**Substats**\n・CRIT DMG\n・CRIT Rate\n・ATK %\n・Energy Recharge %\n        "
+        },
+        {
+            "inline": true,
+            "name": "Talent Priority:",
+            "value": "\n**1)** Elemental Skill: Yakan Evocation: Sesshou Sakura\n**2)** Elemental Burst: Great Secret Art: Tenko Kenshin\n**3)** Normal Attack: Spiritfox Sin-Eater\n        "
         }
     ],
     "color": 11104511,
     "type": "rich",
-    "description": "Lady Guuji of the Grand Narukami Shrine. Also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.",
-    "title": "Yae Miko"
+    "title": {
+        "text": "Character Guide • Builds: Yaemiko"
+    }
 }
