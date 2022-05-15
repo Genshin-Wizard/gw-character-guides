@@ -56,14 +56,16 @@ for character in characters:
     elif character == 'electrotraveler':
         character = 'traveler-electro'
         temp = 'traveler'
+    # update
     elif character == 'ayato':
-        continue
+        character = 'mona'
     elif character == 'itto':
-        continue
+        character = 'zhongli'
     elif character == 'yelan':
-        continue
+        character = 'mona'
     elif character == 'kuki':
-        continue
+        character = 'lisa'
+    # end update
     elif character == 'childe':
         character = 'tartaglia'
     elif character == 'hutao':
@@ -89,7 +91,7 @@ for character in characters:
     embed.add_field(name= 'Rarity',value= getRarity(data['rarity']),inline=True)
     embed.add_field(name= 'Constellation',value=data['constellation'],inline=True)
     embed.add_field(name= 'Weapon',value=data['weapon'],inline=True)
-    embed.set_footer(text=f'Character Guide: Introduction • {data["name"]}')
+    embed.set_footer(text=f'Character Guide • Introduction: {data["name"]}')
     embed.set_thumbnail(url = icon[temp])
     embed.set_image(url = getBanner(data['vision']))
     data_info = discord.Embed.to_dict(embed)

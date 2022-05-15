@@ -1,45 +1,47 @@
 {
+    "footer": {
+        "text": "Character Guide • Introduction: Yelan"
+    },
+    "image": {
+        "url": "https://i.imgur.com/KJbeHEM.png"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/dwSZTla.png"
     },
     "fields": [
         {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Unknown"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Unknown"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\nUnknown\n"
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\nUnknown\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\nUnknown\n"
+            "inline": true,
+            "name": "Nation",
+            "value": "Liyue"
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Unknown\n<:gobletofeonothem:957412513958477864> Unknown\n<:circletoflogos:957412513820053594> Unknown\n**Substats**\n・Unknown\n・Unknown\n・Unknown\n        "
+            "name": "Affiliation",
+            "value": "Ministry of Civil Affairs"
         },
         {
             "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Unknown\n**2)** Unknown\n**3)** Unknown\n        "
+            "name": "Element Type",
+            "value": "Hydro <:Hydro:951729014249234442>"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "★★★★★"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Umbrabilis Orchis"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "Bow"
         }
     ],
-    "color": 14994176,
+    "color": 3245055,
     "type": "rich",
-    "title": "Yelan (Speculation Build)"
+    "description": "Oh, you're looking for Yelan? Hmm, I'd like to suggest that you treat her as an ordinary person, but if you do, it's easy to lose control over negotiations. There are some things that really depend on her impression of you.",
+    "title": "Yelan"
 }

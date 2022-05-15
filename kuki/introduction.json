@@ -1,45 +1,47 @@
 {
+    "footer": {
+        "text": "Character Guide • Introduction: Kuki"
+    },
+    "image": {
+        "url": "https://i.imgur.com/56WmQ8I.png"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/2x14edu.png"
     },
     "fields": [
         {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Unknown"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Unknown"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\nUnknown\n"
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\nUnknown\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\nUnknown\n"
+            "inline": true,
+            "name": "Nation",
+            "value": "Inazuma"
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Unknown\n<:gobletofeonothem:957412513958477864> Unknown\n<:circletoflogos:957412513820053594> Unknown\n**Substats**\n・Unknown\n・Unknown\n・Unknown\n        "
+            "name": "Affiliation",
+            "value": "Arataki Gang"
         },
         {
             "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Unknown\n**2)** Unknown\n**3)** Unknown\n        "
+            "name": "Element Type",
+            "value": "Electro <:Electro:951729014165344278>"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "★★★★"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Tribulatio Demptio"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "Unknown"
         }
     ],
-    "color": 14994176,
+    "color": 11104511,
     "type": "rich",
-    "title": "Kuki (Speculation Build)"
+    "description": "My apologies, I have not sent my regards for a long time. I am writing to introduce a talented person to you. She is very knowledgeable, well-versed in both literature and martial arts, and is an invaluable assistant... Unfortunately, she is currently working for the Arataki Gang and only accepts outsourced consultations, which is a pity.",
+    "title": "Kuki"
 }
