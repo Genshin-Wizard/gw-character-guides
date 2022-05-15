@@ -57,14 +57,14 @@ for character in characters:
         character = 'traveler-electro'
         temp = 'traveler'
     # update
-    elif character == 'ayato':
-        character = 'mona'
-    elif character == 'itto':
-        character = 'zhongli'
-    elif character == 'yelan':
-        character = 'mona'
-    elif character == 'kuki':
-        character = 'lisa'
+    # elif character == 'ayato':
+    #     character = 'mona'
+    # elif character == 'itto':
+    #     character = 'zhongli'
+    # elif character == 'yelan':
+    #     character = 'mona'
+    # elif character == 'kuki':
+    #     character = 'lisa'
     # end update
     elif character == 'childe':
         character = 'tartaglia'
