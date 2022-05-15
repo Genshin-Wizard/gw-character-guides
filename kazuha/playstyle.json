@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Playstyle: Kaedehara Kazuha"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/Jru7MPN.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Freedom-Sworn"
+            "name": "Scarlet Hills (C1)",
+            "value": "Decreases Chihayaburu's CD by 10%.\nUsing Kazuha Slash resets the CD of Chihayaburu."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Sacrifical Sword, Primordial Jade Cutter, Iron Sting"
+            "name": "Yamaarashi Tailwind (C2)",
+            "value": "The Autumn Whirlwind field created by Kazuha Slash has the following effects:\n- Increases Kaedehara Kazuha's own Elemental Mastery by 200.\n- Increases the Elemental Mastery of characters within the field by 200.\nThe Elemental Mastery-increasing effects of this Constellation do not stack."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Viridescent Venerer <:4x:957694032216215573>*\n• Anemo DMG Bonus +15%\n• Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.\n        "
+            "name": "Maple Monogatari (C3)",
+            "value": "Increases the Level of Chihayaburu by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Elemental Mastery\n<:gobletofeonothem:957412513958477864> Elemental Mastery\n<:circletoflogos:957412513820053594> Elemental Mastery\n**Substats**\n・Elemental Mastery\n・Energy Recharge\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Chihayabaru\n**2)** Elemental Burst: Kazuha Slash\n**3)** Normal Attack: Garyuu Bladework\n        "
+            "name": "Oozora Genpou (C4)",
+            "value": "When Kaedehara Kazuha's Energy is lower than 45, he obtains the following effects:\n-Pressing or Holding Chihayaburu regenerates 3 or 4 Energy for Kaedehara Kazuha, respectively.\n- When gliding, Kaedehara Kazuha regenerates 2 Energy per second."
         },
         {
             "inline": false,
-            "name": "Notes:",
-            "value": "Swirl Support Characters does not need to Level-up Talents. Just Level up your character for higher Swirl Damage, and keep your Elemental Mastery Sky High"
+            "name": "Wisdom of Bansei (C5)",
+            "value": "Increase the Level of Kazuha Slash by 3.\nMaximum upgrade level is 15."
+        },
+        {
+            "inline": false,
+            "name": "Crimson Momiji (C6)",
+            "value": "After using Chihayaburu or Kazuha Slash, Kaedehara Kazuha gains an Anemo Infusion for 5s. Additionally, each point of Elemental Mastery will increase the DMG dealt by Kaedehara Kazuha's Normal, Charged, and Plunging Attack by 0.2%."
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Kazuha (Sub DPS)",
-    "footer": {
-        "text": "Character Guide • Playstyle: Kazuha"
-    }
+    "description": "If one's heart is empty, all under heaven is empty. But if one's heart is pure, all under heaven is pure.",
+    "title": "Kaedehara Kazuha"
 }

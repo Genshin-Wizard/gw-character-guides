@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Playstyle: Gorou"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/TsnQcuP.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Elegy for the End"
+            "name": "Rushing Hound: Swift as the Wind (C1)",
+            "value": "When characters (other than Gorou) within the AoE of Gorou's General's War Banner or General's Glory deal Geo DMG to opponents, the CD of Gorou's Inuzaka All-Round Defense is decreased by 2s.\nThis effect can occur once every 10s."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Favonius Warbow, Sacificial Bow"
+            "name": "Sitting Hound: Steady as a Clock (C2)",
+            "value": "While General's Glory is in effect, its duration is extended by 1s when a nearby active character obtains an Elemental Shard from a Crystallize reaction.\nThis effect can occur once every 0.1s. Max extension is 3s."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Husk of Opulent Dreams <:4x:957694032216215573>*\n• DEF +30%\n• A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.\n        "
+            "name": "Mauling Hound: Fierce as Fire (C3)",
+            "value": "Increases the Level of Inuzaka All-Round Defense by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
+            "name": "Lapping Hound: Warm as Water (C4)",
+            "value": "When General's Glory is in the \"Impregnable\" or \"Crunch\" states, it will also heal active characters within its AoE by 50% of Gorou's own DEF every 1.5s."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
+            "name": "Striking Hound: Thunderous Force (C5)",
+            "value": "Increases the Level of Juuga: Forward Unto Victory by 3.\nMaximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> DEF % or Energy Recharge\n<:gobletofeonothem:957412513958477864> DEF or Geo DMG Bonus\n<:circletoflogos:957412513820053594> DEF %\n**Substats**\n・DEF %\n・Energy Recharge\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Inuzaka All-round Defense\n**2)** Elemental Burst: Juuga - Forward Unto Victory\n**3)** Normal Attack: Ripping Fang Fletching\n        "
+            "inline": false,
+            "name": "Valiant Hound: Mountainous Fealty (C6)",
+            "value": "For 12s after using Inuzaka All-Round Defense or Juuga: Forward Unto Victory, increases the CRIT DMG of all nearby party members' Geo DMG based on the buff level of the skill's field at the time of use:\n- \"Standing Firm\": +10%\n- \"Impregnable\": +20%\n- \"Crunch\": +40%\nThis effect cannot stack and will take reference from the last instance of the effect that is triggered."
         }
     ],
     "color": 14994176,
     "type": "rich",
-    "title": "Gorou (Support)",
-    "footer": {
-        "text": "Character Guide • Playstyle: Gorou"
-    }
+    "description": "The great general of Watatsumi Island's forces. He is deeply trusted by his subordinates.",
+    "title": "Gorou"
 }

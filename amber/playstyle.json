@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Playstyle: Amber"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/P3EU7xA.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Elegy for the End"
+            "name": "One Arrow to Rule Them All (C1)",
+            "value": "Fires 2 arrows per Aimed Shot. The second arrow deals 20% of the first arrow's DMG."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Favonious Warbow, The Stringless, Hamayumi Bow"
+            "name": "Bunny Triggered (C2)",
+            "value": "Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.\nExplosion via manual detonation deals 200% additional DMG."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
+            "name": "It Burns! (C3)",
+            "value": "Increases the Level of Fiery Rain by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Gladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>\nCrimson Witch of Flames <:2x:957694031343812619>*\n• ATK +18%.\n• Pyro DMG Bonus +15%.\n        "
+            "name": "It's Not Just Any Doll... (C4)",
+            "value": "Decreases Explosive Puppet's CD by 20%. Adds 1 additional charge."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Crimson Witch of Flames <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• +15% Pyro DMG\n• +20% Elemental Burst DMG\n        "
+            "name": "It's Baron Bunny! (C5)",
+            "value": "Increase the Level of Explosive Puppet by 3.\nMaximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Pyro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・Energy Recharge\n・CRIT Rate/DMG\n・ATK % \n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Fiery Rain\n**2)** Elemental Skill: Explosive Puppet\n**3)** Normal Attack: Sharpshooter \n        "
+            "inline": false,
+            "name": "Wildfire (C6)",
+            "value": "Fiery Rain increases Amber's Movement SPD by 15% and Base ATK by 15% for 10s."
         }
     ],
     "color": 16733525,
     "type": "rich",
-    "title": "Amber (Sub DPS)",
-    "footer": {
-        "text": "Character Guide • Playstyle: Amber"
-    }
+    "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+    "title": "Amber"
 }

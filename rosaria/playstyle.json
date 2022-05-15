@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Playstyle: Rosaria"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/krSQcCT.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Staff of Homa"
+            "name": "Unholy Revelation (C1)",
+            "value": "When Rosaria deals a CRIT Hit, her ATK SPD increases by 10% and her Normal Attack DMG increases by 10% for 4s."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Favonious Lance, Primordial Jade Winged-Spear, Deathmatch"
+            "name": "Land Without Promise (C2)",
+            "value": "The duration of the Ice Lance created by Rites of Termination is increased by 4s."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Lavawalker <:4x:957694032216215573> (Reverse-Melt)*\n• Pyro RES increased by 40%.\n• Increases DMG against enemies that are Burning or affected by Pyro by 35%.\n        "
+            "name": "The Wages of Sin (C3)",
+            "value": "Increases the Level of Ravaging Confession by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
+            "name": "Painful Grace (C4)",
+            "value": "Ravaging Confession's CRIT Hits regenerate 5 Energy for Rosaria.\nCan only be triggered once each time Ravaging Confession is cast."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
+            "name": "Last Rites (C5)",
+            "value": "Increases the Level of Rites of Termination by 3.\nMaximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % or Energy Recharge\n<:gobletofeonothem:957412513958477864> Cryo DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate\n**Substats**\n・CRIT Rate\n・Energy Recharge\n・CRIT DMG\n・ATK %  \n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Rites of Termination\n**2)** Elemental Skill: Ravaging Confession\n**3)** Normal Attack: Spear of the Church\n        "
+            "inline": false,
+            "name": "Divine Retribution (C6)",
+            "value": "Rites of Termination's attack decreases opponents' Physical RES by 20% for 10s."
         }
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Rosaria (Burst DPS/Support)",
-    "footer": {
-        "text": "Character Guide • Playstyle: Rosaria"
-    }
+    "description": "A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.",
+    "title": "Rosaria"
 }

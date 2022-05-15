@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Playstyle: Traveler"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/B0zBZMi.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Festering Desire"
+            "name": "Invincible Stonewall (C1)",
+            "value": "Party members within the radius of Wake of Earth have their CRIT Rate increased by 10% and have increased resistance against interruption."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Sacrificial Sword, Favonious Sword, Skyward Blade"
+            "name": "Rockcore Meltdown (C2)",
+            "value": "When the meteorite created by Starfell Sword is destroyed, it will also explode, dealing additional AoE Geo DMG equal to the amount of damage dealt by Starfell Sword."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Archaic Petra <:2x:957694031343812619>\nGladiator's Finale <:2x:957694031343812619>*\n• Gain a 15% Geo DMG Bonus\n• ATK +18%\n        "
+            "name": "Will of the Rock (C3)",
+            "value": "Increases the level of Wake of Earth by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Archaic Petra <:4x:957694032216215573>*\n• Gain a 15% Geo DMG Bonus\n• Upon obtaining an Elemental Shard Created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.\n        "
+            "name": "Reaction Force (C4)",
+            "value": "The shockwave triggered by Wake of Earth regenerates 5 Energy for every enemy hit. A maximum of 25 Energy can be recovered in this manner."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Gladiator's FInale <:4x:957694032216215573>*\n• ATK +18%.\n• If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.\n        "
+            "name": "Meteorite Impact (C5)",
+            "value": "Increases the level of Starfell Sword by 3.\nMaximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Energy Recharge or ATK %\n<:gobletofeonothem:957412513958477864> Geo DMG Bonus or ATK %\n<:circletoflogos:957412513820053594> ATK % or CRIT Rate\n**Substats**\n・Energy Recharge\n・ATK %\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Wake of Earth \n**2)** Elemental Skill: Starfell Sword \n**3)** Normal Attack: Foreign Rockblade\n        "
+            "inline": false,
+            "name": "Everlasting Boulder (C6)",
+            "value": "The barrier created by Wake of Earth lasts 5s longer. The meteorite created by Starfell Sword lasts 10s longer."
         }
     ],
     "color": 14994176,
     "type": "rich",
-    "title": "Geo Traveler (Sub DPS)",
-    "footer": {
-        "text": "Character Guide • Playstyle: Geotraveler"
-    }
+    "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "title": "Traveler"
 }

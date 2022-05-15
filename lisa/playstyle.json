@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Playstyle: Lisa"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/a0E1K9o.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Kagura's Verity"
+            "name": "Infinite Circuit (C1)",
+            "value": "Lisa recovers 2 Energy for every opponent hit while holding Violet Arc.\nA maximum of 10 Energy can be regenerated in this manner at any one time."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Skyward Atlas, The Widsith"
+            "name": "Electromagnetic Field (C2)",
+            "value": "Holding Violet Arc has the following effects:\nIncreases DEF by 25%.\nIncreases Lisa's resistance to interruption."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Thundering Fury <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Electro DMG Bonus +15%\n• ATK +18%.\n        "
+            "name": "Resonant Thunder (C3)",
+            "value": "Increases the Level of Lightning Rose by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Thundering Fury <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• Electro DMG Bonus +15%\n• Elemental Burst DMG +20%.\n        "
+            "name": "Plasma Eruption (C4)",
+            "value": "Increases the number of lightning bolts released by Lightning Rose by 1-3."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
+            "name": "Electrocute (C5)",
+            "value": "Increase the Level of Violet Arc by 3.\nMaximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Electro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・Energy Recharge\n・CRIT DMG\n・CRIT Rate\n・CRIT %  \n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Lightning Rose\n**2)** Elemental Skill: Violet Arc\n**3)** Normal Attack: Lightning Touch \n        "
+            "inline": false,
+            "name": "Pulsating Witch (C6)",
+            "value": "When Lisa takes the field, she applies 3 stacks of Violet Arc's Conductive status onto nearby enemies.\nThis effect can only occur once every 5s."
         }
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Lisa (Sub DPS)",
-    "footer": {
-        "text": "Character Guide • Playstyle: Lisa"
-    }
+    "description": "The languid but knowledgeable Librarian of the Knights of Favonius who was deemed by Sumeru Academia to be their most distinguished graduate in the past two centuries.",
+    "title": "Lisa"
 }

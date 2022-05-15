@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Playstyle: Ganyu"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/2Tff8N2.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Amos's Bow"
+            "name": "Dew-Drinker (C1)",
+            "value": "Taking DMG from a Charge Level 2 Frostflake Arrow or Frostflake Arrow Bloom decreases opponents' Cryo RES by 15% for 6s.\n\nA hit regenerates 2 Energy for Ganyu. This effect can only occur once per Charge Level Frostflake Arrow, regardless if Frostflake Arrow itself or its Bloom hit the target."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Skyward Harp, The Viridescent Hunt, Hamayumi, Prototype Cresent (R5)"
+            "name": "The Auspicious (C2)",
+            "value": "Trail of the Qilin gains 1 additional charge."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Wanderer's Troupe <:4x:957694032216215573>*\n• Elemental Mastery +80\n• Charged Attack DMG +35% if the character uses a Catalyst or a Bow\n        "
+            "name": "Cloud-Strider (C3)",
+            "value": "Increases the Level of Celestial Shower by 3. Maximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Shimenawa's Reminiscence <:4x:957694032216215573> (Reverse Melt)*\n• ATK +18%.\n• When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charge/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration.\n        "
+            "name": "Westward Sojourn (C4)",
+            "value": "Opponents standing within the AoE of Celestial Shower take increased DMG. This effect strengthens over time. Increased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%.\nThe effect lingers for 3s after the opponent leaves the AoE."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Blizzard Strayer <:4x:957694032216215573> (Freeze)*\n• Cryo DMG Bonus +15%\n• When a character attacks an enemy affected by Cryo, their CRIT Rate is increased by 20%. If the enemy is Frozen, CRIT Rate is increased by an additional 20%.\n        "
+            "name": "The Merciful (C5)",
+            "value": "Increases the Level of Trail of the Qilin by 3. Maximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486>ATK %\n<:gobletofeonothem:957412513958477864> Cryo DMG Bonus\n<:circletoflogos:957412513820053594> CRIT DMG\n**Substats**\n・CRIT DMG\n・Atk %\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Normal Attack: Liutian Archery\n**2)** Elemental Burst: Celestial Shower\n**3)** Elemental Skill: Trail of the Qilin\n        "
+            "inline": false,
+            "name": "The Clement (C6)",
+            "value": "Using Trail of the Qilin causes the next Frostflake Arrow shot within 30s to not require charging."
         }
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Ganyu (Main Freeze DPS)",
-    "footer": {
-        "text": "Character Guide • Playstyle: Ganyu"
-    }
+    "description": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
+    "title": "Ganyu"
 }

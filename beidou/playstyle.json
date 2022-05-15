@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Playstyle: Beidou"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/S14S2Oq.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Wolf's Gravestone"
+            "name": "Sea Beast's Scourge (C1)",
+            "value": "When Stormbreaker is used:\nCreates a shield that absorbs up to 16% of Beidou's Max HP for 15s.\nThis shield absorbs Electro DMG 250% more effectively."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Serpent Spine, Redhorn Stonethresher, The Unforged, Akuoumaru, Skyward Pride"
+            "name": "Upon the Turbulent Sea, the Thunder Arises (C2)",
+            "value": "Stormbreaker's arc lightning can jump 2 additional targets."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
+            "name": "Summoner of Storm (C3)",
+            "value": "Increases the Level of Tidecaller by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:2x:957694031343812619>\nThundering Fury <:2x:957694031343812619>*\n• Elemental Burst DMG +20%.\n• Electro DMG Bonus +15%\n        "
+            "name": "Stunning Revenge (C4)",
+            "value": "Within 10s of taking DMG, Beidou's Normal Attacks gain 20% additional Electro DMG."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Thundering Fury <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Electro DMG Bonus +15%\n• ATK +18%.\n        "
+            "name": "Crimson Tidewalker (C5)",
+            "value": "Increase the Level of Stormbreaker by 3.\nMaximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % or Energy Recharge\n<:gobletofeonothem:957412513958477864> Electro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・Energy Recharge\n・CRIT Rate\n・CRIT DMG\n・ATK %  \n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Stormbreaker\n**2)** Normal Attack: Oceanborne\n**3)** Elemental Skill: Tidecaller\n        "
+            "inline": false,
+            "name": "Bane of Evil (C6)",
+            "value": "During the duration of Stormbreaker, the Electro RES of surrounding enemies is decreased by 15%."
         }
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Beidou (Sub DPS)",
-    "footer": {
-        "text": "Character Guide • Playstyle: Beidou"
-    }
+    "description": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
+    "title": "Beidou"
 }

@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Playstyle: Thoma"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/Tr5VWv6.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Black Tassel"
+            "name": "A Comrade's Duty (C1)",
+            "value": "When a character protected by Thoma's own Blazing Barrier (Thoma excluded) is attacked, Thoma's own Blazing Blessing CD is decreased by 3s, while his own Crimson Ooyoroi's CD is decreased by 3s.\nThis effect can be triggered once every 20s."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Skyward Spine, Favonius Lance, The Catch (R5), Black Tassel"
+            "name": "A Subordinate's Skills (C2)",
+            "value": "Crimson Ooyoroi's duration is increased by 3s. "
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:2x:957694031343812619>\nTenacity of the Millelith <:2x:957694031343812619>*\n• Energy Recharge +20%.\n• HP +20%\n        "
+            "name": "Fortified Resolve (C3)",
+            "value": "Increases the Level of Blazing Blessing by 3.\nMaximum upgrade level is 15. "
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> HP % / Energy Recharge\n<:gobletofeonothem:957412513958477864> HP %\n<:circletoflogos:957412513820053594> HP % / Crit Rate\n**Substats**\n・Energy Recharge\n・HP %\n・Crit Rate\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Blazing Blessing\n**2)** Elemental Burst: Imbricated Armor\n**3)** Normal Attack: Swiftshatter Spear\n        "
+            "name": "Long-Term Planning (C4)",
+            "value": "After using Crimson Ooyoroi, 15 Energy will be restored to Thoma. "
         },
         {
             "inline": false,
-            "name": "Notes:",
-            "value": "Thoma would want some Crit Rate Sub Stats, if you are running Favonius Lance, to trigger its passive."
+            "name": "Raging Wildfire (C5)",
+            "value": "Increases the Level of Crimson Ooyoroi by 3.\nMaximum upgrade level is 15."
+        },
+        {
+            "inline": false,
+            "name": "Burning Heart (C6)",
+            "value": "When a Blazing Barrier is obtained or refreshed, the DMG dealt by all party members' Normal, Charged, and Plunging Attacks is increased by 15% for 6s."
         }
     ],
     "color": 16733525,
     "type": "rich",
-    "title": "Thoma (Support)",
-    "footer": {
-        "text": "Character Guide • Playstyle: Thoma"
-    }
+    "description": "The housekeeper of the Yashiro Commission's Kamisato Clan, and a well-known \"fixer\" in Inazuma.\nFriendly and approachable, Thoma fits in with the crowd easily wherever he is.\nAt first glance, he seems to be a very easygoing person, but he is in fact very responsible. He has an extraordinarily serious side, be it in his work or his interpersonal communications.",
+    "title": "Thoma"
 }

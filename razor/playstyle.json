@@ -1,48 +1,44 @@
 {
+    "footer": {
+        "text": "Character Guide • Playstyle: Razor"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/f1CkKDS.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Song of Broken Pines"
+            "name": "Wolf's Instinct (C1)",
+            "value": "Picking up an Elemental Orb or Particle increases Razor's DMG by 10% for 8s."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Wolf's Gravestone, Serpent Spine, Snow-tombed Starsilver"
+            "name": "Suppression (C2)",
+            "value": "Increases CRIT Rate against enemies with less than 30% HP by 10%."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Bloodstained Chivalry <:2x:957694031343812619>\nPale Flame <:2x:957694031343812619>*\n• Physical DMG +25%\n• Physical DMG +25%\n        "
+            "name": "Soul Companion (C3)",
+            "value": "Increases the Level of Lightning Fang by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Bloodstained Chivalry <:4x:957694032216215573>*\n• Physical DMG +25%\n• After defeating an opponent, increases Charged Attack DMG by 50% and reduces its Stamina cost to 0 for 10s.\n        "
+            "name": "Bite (C4)",
+            "value": "When casting Claw and Thunder (Press), enemies hit will have their DEF decreased by 15% for 7s."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Gladiator's Finale <:4x:957694032216215573>*\n• ATK +18%.\n• If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.\n        "
+            "name": "Sharpened Claws (C5)",
+            "value": "Increase the Level of Claw and Thunder by 3.\nMaximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n **Main Stats**\n<:sandsofeon:957412516038844486>ATK %\n<:gobletofeonothem:957412513958477864> Physical DMG Bonus\n<:circletoflogos:957412513820053594> CRIT DMG or CRIT Rate\n**Substats**\n・ATK %\n・CRIT Rate\n・CRIT DMG  \n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Normal Attack: Steel Fang\n**2)** Elemental Burst: Lightning Fang\n**3)** Elemental Skill: Claw and Thunder\n        "
+            "inline": false,
+            "name": "Lupus Fulguris (C6)",
+            "value": "Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as Electro DMG.\nWhen Razor is not using Lightning Fang, a lightning strike on an enemy will grant Razor an Electro Sigil for Claw and Thunder."
         }
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Razor (Main DPS)",
-    "footer": {
-        "text": "Character Guide • Playstyle: Razor"
-    }
+    "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+    "title": "Razor"
 }
