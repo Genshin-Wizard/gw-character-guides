@@ -16,13 +16,13 @@ def elementColor(element):
 
 def elementEmoji(element):
     return {
-        'Dendro':'<:dendro:786923420930932757>', 
-        'Hydro':'<:hydro:786923563109318686>', 
-        'Anemo':'<:anemo:786923508067729408> ', 
-        'Geo':'<:geo:786923530968760370>', 
-        'Pyro':'<:pyro:786923377146855434>', 
-        'Cryo':'<:cryo:786923477201977384>', 
-        'Electro':'<:electro:794904986899054612>'
+        'Dendro':'<:Dendro:786923420930932757>', 
+        'Hydro':'<:Hydro:786923563109318686>', 
+        'Anemo':'<:Anemo:786923508067729408> ', 
+        'Geo':'<:Geo:786923530968760370>', 
+        'Pyro':'<:Pyro:786923377146855434>', 
+        'Cryo':'<:Cryo:786923477201977384>', 
+        'Electro':'<:Electro:794904986899054612>'
     }.get(str(element)) 
 
 for character in characters:
