@@ -1,6 +1,7 @@
 import json, os, discord, requests
 
 characters = json.load(open("character_guides.json", "r"))
+banners = json.load(open("banners.json", "r"))['data']
 icon = json.load(open("avatars.json", "r"))['data']
 
 def elementColor(element):
@@ -12,6 +13,17 @@ def elementColor(element):
         'Pyro':'16733525', 
         'Cryo':'10147839', 
         'Electro':'11104511'
+    }.get(str(element))
+    
+def getBanner(element):
+    return {
+        'Dendro':'https://i.imgur.com/tdg9kqt.png', 
+        'Hydro':'https://i.imgur.com/KJbeHEM.png', 
+        'Anemo':'https://i.imgur.com/nSL3fPX.png', 
+        'Geo':'https://i.imgur.com/XlWnH6g.png', 
+        'Pyro':'https://i.imgur.com/X8lPFdK.png', 
+        'Cryo':'https://i.imgur.com/uzxtSoN.png', 
+        'Electro':'https://i.imgur.com/56WmQ8I.png'
     }.get(str(element))
 
 def elementEmoji(element):
@@ -31,6 +43,9 @@ def getRarity(rarity):
         '4':'★★★★', 
         '3':'★★★', 
     }.get(str(rarity))
+
+for banner in banners:
+    print(banners[banner])
 
 for character in characters:
     temp = character
@@ -77,7 +92,7 @@ for character in characters:
     embed.add_field(name= 'Constellation',value=data['constellation'],inline=True)
     embed.add_field(name= 'Weapon',value=data['weapon'],inline=True)
     embed.set_thumbnail(url = icon[temp])
-    embed.set_image(url = 'https://i.imgur.com/AnAvjd3.png')
+    embed.set_image(url = getBanner(data['vision']))
     data_info = discord.Embed.to_dict(embed)
     with open(f'{temp2}/introduction.json', 'w', encoding='utf-8') as f:
         json.dump(data_info, f, ensure_ascii=False, indent=4)
