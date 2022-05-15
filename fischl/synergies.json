@@ -2,47 +2,8 @@
     "thumbnail": {
         "url": "https://i.imgur.com/78124Xb.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Elegy for the End"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "The Stringless, Skyward Harp, Slingshot"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Thundering Fury <:2x:957694031343812619>\nShimenawa's Reminiscence <:2x:957694031343812619>*\n• Electro DMG Bonus +15%\n• ATK +18%\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Gladiator's Finale <:2x:957694031343812619>\nShimenawa's Reminiscence <:2x:957694031343812619>*\n• ATK +18%\n• ATK +18%\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Thundersoother <:4x:957694032216215573>*\n• Electro RES increased by 40%\n• Increase DMG against enemies affected by Electro by 35%\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Electro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・ATK %\n・CRIT Rate\n・CRIT DMG\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Nightrider\n**2)** Elemental Burst: Midnight Phantasmagoria\n**3)** Normal Attack: Bolts of Downfall\n        "
-        }
-    ],
     "color": 11104511,
     "type": "rich",
-    "title": "Fischl (Sub DPS)",
-    "footer": {
-        "text": "Character Guide • Synergies: Fischl"
-    }
+    "description": "Information regarding this character's team composition and synergy",
+    "title": "Fischl | Team Composition and Synergy"
 }

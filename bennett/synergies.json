@@ -2,47 +2,8 @@
     "thumbnail": {
         "url": "https://i.imgur.com/Ovy1jMB.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Skyward Blade"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Aquila Favonia, Festering Desire, Prototype Rancour"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Instructor <:4x:957694032216215573>*\n• Increases Elemental Mastery by 80.\n• Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486>Energy Recharge / HP%\n<:gobletofeonothem:957412513958477864> HP%\n<:circletoflogos:957412513820053594> Healing Bonus / HP%\n**Substats**\n・Energy Recharge\n・HP%\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Fantastic Voyage\n**2)** Elemental Skill: Passion Overload\n**3)** Normal Attack: Strike of Fortune \n        "
-        },
-        {
-            "inline": false,
-            "name": "Notes:",
-            "value": "4pc Instructor is only used for 1-Shot Showcase, and is not recommended for daily-base usage."
-        }
-    ],
     "color": 16733525,
     "type": "rich",
-    "title": "Bennett (Support)",
-    "footer": {
-        "text": "Character Guide • Synergies: Bennett"
-    }
+    "description": "Information regarding this character's team composition and synergy",
+    "title": "Bennett | Team Composition and Synergy"
 }

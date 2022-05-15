@@ -2,47 +2,8 @@
     "thumbnail": {
         "url": "https://i.imgur.com/a0E1K9o.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Kagura's Verity"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Skyward Atlas, The Widsith"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Thundering Fury <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Electro DMG Bonus +15%\n• ATK +18%.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Thundering Fury <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• Electro DMG Bonus +15%\n• Elemental Burst DMG +20%.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Electro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・Energy Recharge\n・CRIT DMG\n・CRIT Rate\n・CRIT %  \n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Lightning Rose\n**2)** Elemental Skill: Violet Arc\n**3)** Normal Attack: Lightning Touch \n        "
-        }
-    ],
     "color": 11104511,
     "type": "rich",
-    "title": "Lisa (Sub DPS)",
-    "footer": {
-        "text": "Character Guide • Synergies: Lisa"
-    }
+    "description": "Information regarding this character's team composition and synergy",
+    "title": "Lisa | Team Composition and Synergy"
 }

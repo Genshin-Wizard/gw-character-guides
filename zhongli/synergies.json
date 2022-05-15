@@ -2,47 +2,8 @@
     "thumbnail": {
         "url": "https://i.imgur.com/fqg3O0z.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Black Tassel"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Staff of Homa, Favonious Lance"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Tenacity of the Millelith <:4x:957694032216215573>*\n• HP +20%\n• When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Tenacity of the Millelith <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• HP +20%\n• Elemental Burst DMG +20%.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Archaic Petra <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• Gain a 15% Geo DMG Bonus\n• Elemental Burst DMG +20%\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> HP %\n<:gobletofeonothem:957412513958477864> HP %\n<:circletoflogos:957412513820053594> HP %\n**Substats**\n・HP %\n・HP\n・Energy Recharge \n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Dominus Lapidis\n**2)** Elemental Burst: Planet Befall\n**3)** Normal Attack: Rain of Stone\n        "
-        }
-    ],
     "color": 14994176,
     "type": "rich",
-    "title": "Zhongli (Support)",
-    "footer": {
-        "text": "Character Guide • Synergies: Zhongli"
-    }
+    "description": "Information regarding this character's team composition and synergy",
+    "title": "Zhongli | Team Composition and Synergy"
 }

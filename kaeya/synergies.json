@@ -2,47 +2,8 @@
     "thumbnail": {
         "url": "https://i.imgur.com/dX6g3ys.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Mistsplitter Reforged"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": " Freedom-Sworn, Skyward Blade, Lion's Roar, Favionus Sword, Amenona, Jade Cutter"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Blizzard Strayer <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminisence <:2x:957694031343812619>*\n• Cryo DMG Bonus +15%\n• ATK +18%.\n        "
-        },
-        {
-            "inline": true,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*(Melt) Lavawalker <:4x:957694032216215573>*\n• Pyro RES increased by 40%.\n• Increased DMG against enemies affected by Pyro by 35%.\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Cryo DMG Bonus\n<:circletoflogos:957412513820053594> CRIT DMG\n**Substats**\n・CRIT DMG\n・ATK %\n・CRIT Rate\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Glacial Waltz\n**2)** Elemental Skill: Frostgnaw\n**3)** Normal Attack: Ceremonial Bladework\n        "
-        }
-    ],
     "color": 10147839,
     "type": "rich",
-    "title": "Kaeya (Sub DPS)",
-    "footer": {
-        "text": "Character Guide • Synergies: Kaeya"
-    }
+    "description": "Information regarding this character's team composition and synergy",
+    "title": "Kaeya | Team Composition and Synergy"
 }

@@ -2,47 +2,34 @@
     "thumbnail": {
         "url": "https://i.imgur.com/47mFsx4.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Polar Star"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Thundering Pulse, Skyward Harp, Stringless, Sac Bow, Windblume Ode"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Blizzard Strayer <:2x:957694031343812619>\nNobless Oblige <:2x:957694031343812619>*\n• Cryo DMG Bonus +15%\n• Elemental Burst DMG +20%.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Wanderer's Troupe <:2x:957694031343812619>\nBlizzard Strayer <:2x:957694031343812619>*\n• Increases Elemental Mastery by 80.\n• Cryo DMG Bonus +15%\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % / Elemental Mastery / Energy Recharge\n<:gobletofeonothem:957412513958477864> Cryo DMG Bonus % / ATK%\n<:circletoflogos:957412513820053594> CRIT DMG / CRIT Rate\n**Substats**\n・CRIT Rate\n・CRIT DMG\n・ATK %\n・Elemental Mastery\n・Energy Recharge\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Prophecies of Dawn\n**2)** Elemental Skill: Frozen Wilds\n**3)** Normal Attack: Rapid Fire\n        "
-        }
-    ],
     "color": 10147839,
     "type": "rich",
-    "title": "Aloy (Burst DPS)",
-    "footer": {
-        "text": "Character Guide • Synergies: Aloy"
-    }
+    "fields": [
+        {
+            "inline": true,
+            "name": "Cryo Units",
+            "value": "**Diona** – Provides shields and healing for the team, and can hold 4 set Noblesse Oblige. C6 provides 200 EM to the team while standing in the Elemental Burst with over 50% HP, which can be handy for Melt teams. Can also help funnel particles to Aloy.\n**Kaeya** – Provides off-field damage. His A4 talent makes him uniquely suited to Freeze teams, making him the best Cryo battery in the game. However, his Burst requires you to play in shotgun range. In Melt comps, it’s relatively easy to Melt his Burst and Skills for more damage. Can also help funnel particles to Aloy.\n**Rosaria** – Provides off-field, easily Meltable damage, as well as CRIT Rate share. Can also help funnel particles to Aloy.\n**Shenhe** – Best suited for Freeze teams. She can buff all sources of Aloy’s damage output via her Skill and Passives. Additionally, she shreds Cryo resistance with her Burst. Can make running Freeze teams without Anemo units for VV shred viable. Shenhe is fantastic with a lot of Cryo damage dealers, and Aloy is no exception.\n**Ganyu** – Provides off-field damage as well as buffs. Generally better as the sole main DPS in another team. If added in the team as a support for Aloy Freeze DPS rather than a main DPS playstyle, she can provide a 20% Cryo damage bonus to anyone standing in her burst AOE via her A4 passive.\n**Ayaka** – Provides damage. As with Ganyu, better off in her own team. "
+        },
+        {
+            "inline": true,
+            "name": "Hydro Units",
+            "value": "**Xingqiu** – Provides significant personal damage, as well as consistent Hydro application. Prefers to be used with melee characters such as Ayaka, Kaeya and Rosaria.\n**Mona** – Provides a massive DMG% buff via her Omen, which can be extended through Freeze, as well as some amount of Hydro application. She can also hold TToDS for an ATK% buff, or Prototype Amber for healing. \n**Kokomi/Barbara** – Both Kokomi and Barbara provide healing, TToDS buff and Hydro application. However, Kokomi’s Hydro application is significantly better and does not force you to play in shotgun range. Additionally, Kokomi can use 4 set Tenacity of the Millelith. "
+        },
+        {
+            "inline": true,
+            "name": "Anemo Units",
+            "value": "**Kazuha** – Provides Elemental DMG Bonus, crowd control via his Skill, and personal damage. Also helps Aloy get Coil stacks. Furthermore, his Burst can also provide a fairly decent Elemental application, although it can be relatively hard to master.\n**Venti** – Provides personal damage and powerful crowd control, as well as Energy refund. He does not help Aloyget Coil stacks.\n**Sucrose** – Elemental Skill and Burst provide crowd control and helps Aloy get Coil stacks, and at C6 also grants an Elemental DMG Bonus. Offers a nice attack boost via TToDS (note that TToDS cannot stack multiple times on a single character). However, her ER requirements are significant if you wish to use her Burst often, and controlling what element it absorbs is significantly more difficult than with other Anemo units. Furthermore, her EM share is wasted in Freeze teams.\n**Jean** – Provides healing and minor crowd control via her hold skill. Also helps Aloy get Coil stacks.\n**Anemo Traveler** – Provides crowd control and more resistance shred via their C6. Also helps Aloy to get Coil stacks. However, they have poor AOE due to targeting issues with their Burst. The Burst can also blow enemies out of Aloy’s range, which can be disruptive, especially for Melt teams.\n**Note**: All Anemo units should run 4 set Viridescent Venerer for the resistance shred."
+        },
+        {
+            "inline": true,
+            "name": "Pyro Units",
+            "value": "**Bennett** – Provides healing, a massive ATK buff, 4 set Noblesse Oblige or other buffs, as well as much-needed Pyro particles to support Xiangling’s high Energy requirements.\n**Xiangling** – Provides the off-field Pyro application necessary for the Cryo DPS to Melt, along with non-negligible personal damage."
+        },
+        {
+            "inline": true,
+            "name": "Geo Units",
+            "value": "**Yunjin** – An interesting support. Not much theorycrafting has been done regarding Aloy + Yunjin. She can be slotted into the flex slot of Aloy’s teams to help buff Aloy slightly. However, only put her in teams if there aren’t any better options.\n**Zhongli** – Zhongli’s resistance shred of all elements is highly valuable. If you’re having trouble surviving, a strong shielder like Zhongli can help."
+        }
+    ],
+    "title": "Aloy | Team Composition and Synergy"
 }

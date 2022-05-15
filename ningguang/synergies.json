@@ -2,47 +2,8 @@
     "thumbnail": {
         "url": "https://i.imgur.com/w9LQJFO.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Memory of Dust"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Lost Prayer to the Sacred Wind, Solar Pearl, Dodoco Tales"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Archaic Petra <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Gain a 15% Geo DMG Bonus.\n• ATK +18%.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Archaic Petra <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• Gain a 15% Geo DMG Bonus.\n• Elemental Burst DMG +20%.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Archaic Petra <:4x:957694032216215573>*\n• Gain a 15% Geo DMG Bonus\n• Upon obtaining an Elemental Shard Created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Geo DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・ATK %\n・CRIT Rate\n・CRIT DMG\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Normal Attack: Sparkling Scatter\n**2)** Elemental Burst: Starshatter\n**3)** Elemental Skill: Jade Screen\n        "
-        }
-    ],
     "color": 14994176,
     "type": "rich",
-    "title": "Ningguang (Main DPS)",
-    "footer": {
-        "text": "Character Guide • Synergies: Ningguang"
-    }
+    "description": "Information regarding this character's team composition and synergy",
+    "title": "Ningguang | Team Composition and Synergy"
 }

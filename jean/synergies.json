@@ -2,52 +2,8 @@
     "thumbnail": {
         "url": "https://i.imgur.com/uuGppMs.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Iron Sting"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Jade Cutter, Mistsplitter Reforge, Freedom-Sworn, Skyward Blade, Festering Desire, Amenoma Kageuchim (R5)"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Viridescent Venerer <:4x:957694032216215573>*\n• Anemo DMG Bonus +15%\n• Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n    "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Viridescent Venerer <:2x:957694031343812619>\nEmblem of Severed Fate <:2x:957694031343812619>*\n• Anemo DMG Bonus +15%.\n• Energy Recharge +20%.\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Elemental Mastery\n<:gobletofeonothem:957412513958477864> Elemental Mastery\n<:circletoflogos:957412513820053594> Elemental Masterye\n**Substats**\n・ATK %\n・Energy Recharge\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Gale Blade\n**2)** Elemental Burst: Dandelion Breeze\n**3)** Normal Attack: Favonius Bladework\n        "
-        },
-        {
-            "inline": false,
-            "name": "Notes:",
-            "value": "Swirl Support Characters does not need to Level-up Talents. Just Level up your character for higher Swirl Damage, and keep your Elemental Mastery Sky High"
-        }
-    ],
     "color": 5494962,
     "type": "rich",
-    "title": "Jean (Swirl Support)",
-    "footer": {
-        "text": "Character Guide • Synergies: Jean"
-    }
+    "description": "Jean is an extremely flexible unit. She can be placed in almost any team and provides many things such as healing, crowd control, cleansing, and resistance shred with 4VV and is generally always good. However, she doesn’t really specifically shine in many teams meta-wise (except Sunfire) compared to other Anemo units like Venti, Kazuha, or Sucrose. Generally she can belong in any team, but here are a few templates that I recommend.",
+    "title": "Jean | Team Composition and Synergy"
 }

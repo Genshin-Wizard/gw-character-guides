@@ -2,52 +2,8 @@
     "thumbnail": {
         "url": "https://i.imgur.com/D5tXbxb.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Best Weapon:",
-            "value": "Thundering Pulse"
-        },
-        {
-            "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Skyward Harp, Rust, Hamayumi"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Shimenawa's Reminiscence <:4x:957694032216215573>*\n• ATK +18%.\n• When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charge/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Crimson Witch of Flames <:4x:957694032216215573>*\n• Pyro DMG Bonus +15%.\n• Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases 2-Piece Set effects by 50% for 10s. Max 3 stacks.\n        "
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Crimson Witch of Flames <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Pyro DMG Bonus +15%.\n• ATK +18%\n        "
-        },
-        {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Pyro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate/CRIT DMG\n**Substats**\n・ATK %\n・CRIT DMG\n・CRIT Rate\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Normal Attack: Firework Flare-Up\n**2)** Elemental Skill: Niwabi Fire-Dance\n**3)** Elemental Burst: Ryuukin Saxifrage\n        "
-        },
-        {
-            "inline": false,
-            "name": "Notes:",
-            "value": "Hamayumi bow is **NOT** recommended when Yoimiya is running **4-Piece Shimenawa's Reminiscence**"
-        }
-    ],
     "color": 16733525,
     "type": "rich",
-    "title": "Yoimiya (Pyro DPS)",
-    "footer": {
-        "text": "Character Guide • Synergies: Yoimiya"
-    }
+    "description": "Information regarding this character's team composition and synergy",
+    "title": "Yoimiya | Team Composition and Synergy"
 }
