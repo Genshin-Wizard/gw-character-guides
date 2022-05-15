@@ -1,48 +1,43 @@
 {
+    "footer": {
+        "text": "Character Guide • Constellations: Itto"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/rV4eWpl.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
-            "value": "Redhorn Stonethresher"
+            "name": "Stay a While and Listen Up (C1)",
+            "value": "After using Royal Descent: Behold, Itto the Evil!, Arataki Itto gains 2 stacks of Superlative Superstrength. After 1s, Itto will gain 1 stack of Superlative Superstrength every 0.5s for 1.5s."
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
-            "value": "Whiteblind, Serpent Spine"
+            "name": "Gather 'Round, It's a Brawl! (C2)",
+            "value": "After using Royal Descent: Behold, Itto the Evil!, each party member whose Element is Geo will decrease that skill's CD by 1.5s and restore 6 Energy to Arataki Itto.\nCD can be decreased by up to 4.5s in this manner. Max 18 Energy can be restored in this manner."
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\n*Husk of Opulent Dreams <:4x:957694032216215573>*\n• DEF +30%\n• The wearer gains one Curiosity stack when hitting an opponent with a Geo attack, or every three seconds while the character is off-field. One Curiosity stack grants a 6% Defense and 6% Geo damage bonus (maximum of four stacks).\n        "
+            "name": "Horns Lowered, Coming Through (C3)",
+            "value": "Increases the Level of Masatsu Zetsugi: Akaushi Burst! by 3.\nMaximum upgrade level is 15.."
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\n*Archaic Petra <:2x:957694031343812619>\nHusk of Opulent Dreams <:2x:957694031343812619>*\n• Increases Geo damage by 15%.\n• DEF +30%\n        "
+            "name": "Jailhouse Bread and Butter (C4)",
+            "value": "When the Raging Oni King state caused by Royal Descent: Behold, Itto the Evil! ends, all nearby party members gain 20% DEF and 20% ATK for 10s."
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\n*Husk of Opulent Dreams <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• DEF +30%\n• ATK +18%\n        "
+            "name": "10 Years of Hanamizaka Fame (C5)",
+            "value": "Increases the Level of Royal Descent: Behold, Itto the Evil! by 3.\nMaximum upgrade level is 15."
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> DEF %\n<:gobletofeonothem:957412513958477864> Geo DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・DEF %\n・CRIT DMG\n・CRIT Rate\n・Energy Recharge\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Royal Descent - Behold, Itto the Evil!\n**2)** Elemental Skill: Masatsu Zetsugi - Akaushi Burst!\n**3)** Normal Attack: Fight Club Legend\n        "
+            "inline": false,
+            "name": "Arataki Itto, Present! (C6)",
+            "value": "Arataki Itto's Charged Attacks deal +70% Crit DMG. Additionally, when he uses Arataki Kesagiri, he has a 50% chance to not consume stacks of Superlative Superstrength."
         }
     ],
     "color": 14994176,
     "type": "rich",
-    "title": "Arataki Itto (Main DPS)",
-    "footer": {
-        "text": "Character Guide • Constellations: Itto"
-    }
+    "title": "Itto | Constellations"
 }

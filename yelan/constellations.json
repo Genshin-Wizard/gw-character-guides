@@ -1,48 +1,43 @@
 {
+    "footer": {
+        "text": "Character Guide • Constellations: Yelan"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/dwSZTla.png"
     },
     "fields": [
         {
             "inline": false,
-            "name": "Best Weapon:",
+            "name": "(C1)",
             "value": "Unknown"
         },
         {
             "inline": false,
-            "name": "Replacement Weapon:",
+            "name": "(C2)",
             "value": "Unknown"
         },
         {
             "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "\nUnknown\n"
+            "name": "(C3)",
+            "value": "Unknown"
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "\nUnknown\n        "
+            "name": "(C4)",
+            "value": "Unknown"
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "\nUnknown\n"
+            "name": "(C5)",
+            "value": "Unknown"
         },
         {
-            "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Unknown\n<:gobletofeonothem:957412513958477864> Unknown\n<:circletoflogos:957412513820053594> Unknown\n**Substats**\n・Unknown\n・Unknown\n・Unknown\n        "
-        },
-        {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Unknown\n**2)** Unknown\n**3)** Unknown\n        "
+            "inline": false,
+            "name": "(C6)",
+            "value": "Unknown"
         }
     ],
-    "color": 14994176,
+    "color": 3245055,
     "type": "rich",
-    "title": "Yelan (Speculation Build)",
-    "footer": {
-        "text": "Character Guide • Constellations: Yelan"
-    }
+    "title": "Yelan | Constellations"
 }
