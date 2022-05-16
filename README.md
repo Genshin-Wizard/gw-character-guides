@@ -1,3 +1,4 @@
+
 <h1 align="center">Genshin Wizard Character Guides</h1>
 <p align="center">
     <a href="https://github.com/hattvr/gw-character-guides/releases/latest">
@@ -17,5 +18,5 @@
 ## **Information**  
 Welcome to Genshin Wizard's character guide repository for which knowledgable collaborators are allowed to change information for the character guides that are displayed within our [discord server](https://discord.gg/GenshinWizard). 
 
-## **Want to become involved?**
+### **Want to become involved?**
 If you would like to become a collaborator for this project, contact me on discord or any one of my socials linked on my GitHub profile!
