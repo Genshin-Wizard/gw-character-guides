@@ -21,7 +21,7 @@
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "\n*Wanderer's Troupe <:4x:957694032216215573>*\n• Increases Elemental Mastery by 80.\n• Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow.\n        "
+            "value": "\n*Instructor <:4x:957694032216215573>*\n• Increases Elemental Mastery by 80.\n• Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.\n        "
         },
         {
             "inline": false,
