@@ -16,12 +16,17 @@
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:2x:957694031343812619>\nTenacity of the Millelith <:2x:957694031343812619>*\n• Energy Recharge +20%.\n• HP +20%\n        "
+            "value": "\n*Instructor <:4x:957694032216215573>*\n\u2022 Increases Elemental Mastery by 80.\n\u2022 Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.\n        "
         },
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
             "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
+        },
+        {
+            "inline": false,
+            "name": "Third Best Artifact Set:",
+            "value": "\n*Tenacity of the Millelith <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n\u2022 HP +20%\n\u2022 Elemental Burst DMG +20%.\n        "
         },
         {
             "inline": true,
