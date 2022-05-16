@@ -16,17 +16,17 @@
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "\n*Husk of Opulent Dreams <:4x:957694032216215573>*\n• DEF +30%\n• A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.\n        "
+            "value": "\n*The Exile <:4x:957694032216215573>*\n• Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack\n        "
         },
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
+            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
         },
         {
             "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
+            "value": "\n*ATK% <:2x:957694031343812619>\nATK% <:2x:957694031343812619> *\n• ATK +18%.\n• ATK +18%.\n        "
         },
         {
             "inline": true,
