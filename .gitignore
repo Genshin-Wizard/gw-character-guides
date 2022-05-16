@@ -1,2 +1,6 @@
 .history
-script.py
+*.py
+artifacts.json
+avatars.json
+character_guides.json
+data.json
