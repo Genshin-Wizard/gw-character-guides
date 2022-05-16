@@ -6,37 +6,37 @@
         {
             "inline": false,
             "name": "Best Weapon:",
-            "value": "Unknown"
+            "value": "Elegy for the End"
         },
         {
             "inline": false,
             "name": "Replacement Weapon:",
-            "value": "Unknown"
+            "value": "Aqua Simulacra, Skyward Harp, Polar Star, Thundering Pulse, Favonius Warbow, Sacrificial Bow"
         },
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "x4-oceanhuedclam"
+            "value": "x4-emblemofseveredfate"
         },
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "x2-Pale Flame|x2-Pale Flame"
+            "value": "x4-noblesseoblige"
         },
         {
             "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "\nUnknown\n"
+            "value": "x2-heartofdepth|x2-noblesseoblige"
         },
         {
             "inline": true,
             "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Unknown\n<:gobletofeonothem:957412513958477864> Unknown\n<:circletoflogos:957412513820053594> Unknown\n**Substats**\n・Unknown\n・Unknown\n・Unknown\n        "
+            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> HP % or Energy Recharge\n<:gobletofeonothem:957412513958477864> HP or Hydro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT DMG / CRIT Rate\n**Substats**\n・HP %\n・CRIT Rate\n・CRIT DMG\n        "
         },
         {
             "inline": true,
             "name": "Talent Priority:",
-            "value": "\n**1)** Unknown\n**2)** Unknown\n**3)** Unknown\n        "
+            "value": "\n**1)** Elemental Burst: Depth-Clarion Dice\n**2)** Elemental Skill: Lingering Lifeline\n**3)** Normal Attack: Stealthy Bowshot\n        "
         }
     ],
     "color": 3245055,
