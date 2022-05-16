@@ -21,12 +21,12 @@
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "x2-paleflame|x2-bloodstainedchivalry"
+            "value": "x4-thundersoother"
         },
         {
             "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "x4-thunderingfury"
+            "value": "x2-attack|x2-attack"
         },
         {
             "inline": true,
@@ -41,7 +41,7 @@
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Keqing My Beloved (Main DPS) | Build",
+    "title": "Keqing My Beloved (Electro Main DPS) | Build",
     "footer": {
         "text": "Character Guide • Build: Keqing"
     }
