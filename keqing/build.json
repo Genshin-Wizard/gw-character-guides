@@ -16,17 +16,17 @@
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "\n*Thundering Fury <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Electro DMG Bonus +15%\n• ATK +18%.\n        "
+            "value": "x2-thunderingfury|x2-gladiatorsfinale/shimenawasreminiscence"
         },
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "\n*Pale Flame <:2x:957694031343812619>\nBloodstained Chivalry <:2x:957694031343812619>*\n• Physical DMG +25%\n• Physical DMG +25%\n        "
+            "value": "x2-paleflame|x2-bloodstainedchivalry"
         },
         {
             "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "\n*Thundering Fury <:4x:957694032216215573>*\n• Electro DMG Bonus +15%\n• Increases damage caused by Overloaded, Electro-Charged and Superconduct by 40%. Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s.\n        "
+            "value": "x4-thunderingfury"
         },
         {
             "inline": true,

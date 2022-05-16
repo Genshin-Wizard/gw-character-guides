@@ -16,17 +16,17 @@
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "\n*Viridescent Venerer <:4x:957694032216215573>\n• Anemo DMG Bonus +15%\n• Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.\n        "
+            "value": "x4-viridescentvenerer"
         },
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "\n*Instructor <:4x:957694032216215573>*\n• Increases Elemental Mastery by 80.\n• Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.\n        "
+            "value": "x4-instructor"
         },
         {
             "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
+            "value": "x4-noblesseoblige"
         },
         {
             "inline": true,

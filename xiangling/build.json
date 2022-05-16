@@ -16,17 +16,17 @@
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
+            "value": "x4-emblemofseveredfate"
         },
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "\n*Crimson Witch of Flames <:4x:957694032216215573>*\n• Pyro DMG Bonus +15%.\n• Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases 2-Piece Set effects by 50% for 10s. Max 3 stacks.\n        "
+            "value": "x4-crimsonwitchofflames"
         },
         {
             "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:2x:957694031343812619>\nCrimson Witch of Flames <:2x:957694031343812619>*\n• Elemental Burst DMG +20%.\n• Pyro DMG Bonus +15%.\n        "
+            "value": "x2-noblesseoblige|x2-crimsonwitchofflames"
         },
         {
             "inline": true,

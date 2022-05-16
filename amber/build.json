@@ -16,17 +16,17 @@
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
+            "value": "x4-emblemofseveredfate"
         },
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "\n*Gladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>\nCrimson Witch of Flames <:2x:957694031343812619>*\n• ATK +18%.\n• Pyro DMG Bonus +15%.\n        "
+            "value": "x2-gladiatorsfinale/shimenawasreminiscence|x2-crimsonwitchofflames"
         },
         {
             "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "\n*Crimson Witch of Flames <:2x:957694031343812619>\nNoblesse Oblige <:2x:957694031343812619>*\n• +15% Pyro DMG\n• +20% Elemental Burst DMG\n        "
+            "value": "x2-crimsonwitchofflames|x2-noblesseoblige"
         },
         {
             "inline": true,

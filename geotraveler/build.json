@@ -16,17 +16,17 @@
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "\n*Archaic Petra <:2x:957694031343812619>\nGladiator's Finale <:2x:957694031343812619>*\n• Gain a 15% Geo DMG Bonus\n• ATK +18%\n        "
+            "value": "x2-archaicpetra|x2-gladiatorsfinale"
         },
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "\n*Archaic Petra <:4x:957694032216215573>*\n• Gain a 15% Geo DMG Bonus\n• Upon obtaining an Elemental Shard Created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.\n        "
+            "value": "x4-archaicpetra"
         },
         {
             "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "\n*Gladiator's Finale <:4x:957694032216215573>*\n• ATK +18%.\n• If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.\n        "
+            "value": "x4-gladiatorsfinale"
         },
         {
             "inline": true,

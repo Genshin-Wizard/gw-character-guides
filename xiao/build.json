@@ -16,17 +16,17 @@
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "\n*Vermillion Hereafter <:4x:957694032216215573>*\n• ATK +18%.\n• After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This further increase can occur this way a maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled.\n        "
+            "value": "x4-vermillionhereafter"
         },
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "\n*Gladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>\nViridescent Venerer <:2x:957694031343812619>*\n• ATK +18%.\n• Anemo DMG Bonus +15%\n        "
+            "value": "x2-gladiatorsfinale/shimenawasreminiscence|x2-viridescentvenerer"
         },
         {
             "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "\n*Gladiator's Finale <:2x:957694031343812619>\nShimenawa's Reminiscence <:2x:957694031343812619>*\n• ATK +18%.\n• ATK +18%.\n        "
+            "value": "x2-gladiatorsfinale|x2-shimenawasreminiscence"
         },
         {
             "inline": true,

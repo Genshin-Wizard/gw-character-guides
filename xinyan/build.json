@@ -16,12 +16,12 @@
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "\n*Bloodstained Chivalry <:2x:957694031343812619>\nPale Flame <:2x:957694031343812619>*\n• Physical DMG +25%.\n• Physical DMG +25%\n        "
+            "value": "x2-bloodstainedchivalry|x2-paleflame"
         },
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "\n*Bloodstained Chivalry <:2x:957694031343812619>\n Gladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Physical DMG +25%\n• ATK +18%\n        "
+            "value": "x2-bloodstainedchivalry|x2-gladiatorsfinale/shimenawasreminiscence"
         },
         {
             "inline": true,

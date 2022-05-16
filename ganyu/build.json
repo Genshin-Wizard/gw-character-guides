@@ -16,17 +16,17 @@
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "\n*Wanderer's Troupe <:4x:957694032216215573>*\n• Elemental Mastery +80\n• Charged Attack DMG +35% if the character uses a Catalyst or a Bow\n        "
+            "value": "x4-wandererstroupe"
         },
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "\n*Shimenawa's Reminiscence <:4x:957694032216215573> (Reverse Melt)*\n• ATK +18%.\n• When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charge/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration.\n        "
+            "value": "x4-shimenawasreminiscence"
         },
         {
             "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "\n*Blizzard Strayer <:4x:957694032216215573> (Freeze)*\n• Cryo DMG Bonus +15%\n• When a character attacks an enemy affected by Cryo, their CRIT Rate is increased by 20%. If the enemy is Frozen, CRIT Rate is increased by an additional 20%.\n        "
+            "value": "x4-blizzardstrayer"
         },
         {
             "inline": true,

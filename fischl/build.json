@@ -16,17 +16,17 @@
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "\n*Thundering Fury <:2x:957694031343812619>\nShimenawa's Reminiscence <:2x:957694031343812619>*\n• Electro DMG Bonus +15%\n• ATK +18%\n        "
+            "value": "x2-thunderingfury|x2-shimenawasreminiscence"
         },
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "\n*Gladiator's Finale <:2x:957694031343812619>\nShimenawa's Reminiscence <:2x:957694031343812619>*\n• ATK +18%\n• ATK +18%\n        "
+            "value": "x2-gladiatorsfinale|x2-shimenawasreminiscence"
         },
         {
             "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "\n*Thundersoother <:4x:957694032216215573>*\n• Electro RES increased by 40%\n• Increase DMG against enemies affected by Electro by 35%\n        "
+            "value": "x4-thundersoother"
         },
         {
             "inline": true,

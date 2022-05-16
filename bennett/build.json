@@ -16,12 +16,12 @@
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "\n*Noblesse Oblige <:4x:957694032216215573>*\n• Elemental Burst DMG +20%.\n• Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.\n        "
+            "value": "x4-noblesseoblige"
         },
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "\n*Instructor <:4x:957694032216215573>*\n• Increases Elemental Mastery by 80.\n• Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.\n        "
+            "value": "x4-instructor"
         },
         {
             "inline": true,

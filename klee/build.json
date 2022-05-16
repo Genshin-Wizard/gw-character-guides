@@ -16,17 +16,17 @@
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "\n*Crimson Witch of Flames <:4x:957694032216215573>*\n• Pyro DMG Bonus +15%.\n• Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases 2-Piece Set effects by 50% for 10s. Max 3 stacks.\n        "
+            "value": "x4-crimsonwitchofflames"
         },
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "\n*Crimson Witch of Flames <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Pyro DMG Bonus +15%.\n• ATK +18%.\n        "
+            "value": "x2-crimsonwitchofflames|x2-gladiatorsfinale/shimenawasreminiscence"
         },
         {
             "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "\n*Wanderer's Troupe <:4x:957694032216215573>*\n• Increases Elemental Mastery by 80.\n• Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow.\n        "
+            "value": "x4-wandererstroupe"
         },
         {
             "inline": true,

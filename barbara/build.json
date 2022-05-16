@@ -16,17 +16,17 @@
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "\n*Maiden Beloved <:4x:957694032216215573>*\n• Character Healing Effectiveness +15%.\n• Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s.\n        "
+            "value": "x4-maidenbeloved"
         },
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "\n*Ocean-hued Clam <:4x:957694032216215573>*\n• Healing Bonus +15%\n• When the character with this artifact set heals a party member, 1 Foam will appear. It accumulates healed HP for 3 seconds, then explodes and deals 90% of the HP healed as DMG to nearby enemies. Max accumulated healing is 30,000 HP, including over-heal. There can only be 1 Foam active, but it stays even if you swap out. Foam CD is 3.5s.\n        "
+            "value": "x4-oceanhuedclam"
         },
         {
             "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "\n*Ocean-hued Clam <:2x:957694031343812619>\nMaiden Beloved <:2x:957694031343812619>*\n• Healing Bonus +15%\n• Character Healing Effectiveness +15%.\n        "
+            "value": "x2-oceanhuedclam|x2-maidenbeloved"
         },
         {
             "inline": true,

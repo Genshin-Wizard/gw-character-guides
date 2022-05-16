@@ -16,17 +16,17 @@
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "\n*Thundering Fury <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• Electro DMG Bonus +15%\n• ATK +18%.\n        "
+            "value": "x2-thunderingfury|x2-gladiatorsfinale/shimenawasreminiscence"
         },
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "\n*Shimenawa's Reminiscence <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>*\n• ATK +18%.\n• ATK +18%.\n• Can outperform the best Artifact set with better substats.\n        "
+            "value": "x2-shimenawasreminiscence|x2-gladiatorsfinale/shimenawasreminiscence"
         },
         {
             "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
+            "value": "x4-emblemofseveredfate"
         },
         {
             "inline": true,

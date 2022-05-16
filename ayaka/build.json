@@ -16,17 +16,17 @@
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "\n*Blizzard Strayer <:4x:957694032216215573>*\n• Cryo DMG Bonus +15%\n• When a character attacks an enemy affected by Cryo, their CRIT Rate is increased by 20%. If the enemy is Frozen, CRIT Rate is increased by an additional 20%.\n        "
+            "value": "x4-blizzardstrayer"
         },
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "\n*Gladiator's Finale/Shimenawa's Reminiscence <:2x:957694031343812619>\nBlizzard Strayer <:2x:957694031343812619>*\n• ATK +18%.\n• Cryo DMG Bonus +15%\n        "
+            "value": "x2-gladiatorsfinale/shimenawasreminiscence|x2-blizzardstrayer"
         },
         {
             "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "\n*Blizzard Strayer <:2x:957694031343812619>\nNobless Oblige <:2x:957694031343812619>*\n• Cryo DMG Bonus +15%\n• Elemental Burst DMG +20%.\n        "
+            "value": "x2-blizzardstrayer|x2-noblessoblige"
         },
         {
             "inline": true,

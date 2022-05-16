@@ -16,17 +16,17 @@
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "\n*Blizzard Strayer <:2x:957694031343812619>\nGladiator's Finale/Shimenawa's Reminisence <:2x:957694031343812619>*\n• Cryo DMG Bonus +15%\n• ATK +18%.\n        "
+            "value": "x2-blizzardstrayer|x2-gladiatorsfinale/shimenawasreminisence"
         },
         {
             "inline": true,
             "name": "Second Best Artifact Set:",
-            "value": "\n*Emblem of Severed Fate <:4x:957694032216215573>*\n• Energy Recharge +20%.\n• Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.\n        "
+            "value": "x4-emblemofseveredfate"
         },
         {
             "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "\n*(Melt) Lavawalker <:4x:957694032216215573>*\n• Pyro RES increased by 40%.\n• Increased DMG against enemies affected by Pyro by 35%.\n        "
+            "value": "x4-(melt)lavawalker"
         },
         {
             "inline": true,
