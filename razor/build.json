@@ -16,17 +16,17 @@
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "\n*Bloodstained Chivalry <:2x:957694031343812619>\nPale Flame <:2x:957694031343812619>*\n• Physical DMG +25%\n• Physical DMG +25%\n        "
+            "value": "\n*Pale Flame <:4x:957694032216215573>*\n\u2022 Physical DMG +25%\n\u2022 When an Elemental skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, 2-set effect is doubled.\n        "
         },
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "\n*Bloodstained Chivalry <:4x:957694032216215573>*\n• Physical DMG +25%\n• After defeating an opponent, increases Charged Attack DMG by 50% and reduces its Stamina cost to 0 for 10s.\n        "
+            "value": "\n*ATK% <:2x:957694031343812619>\nATK% <:2x:957694031343812619> *\n• ATK +18%.\n• ATK +18%.\n        "
         },
         {
             "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "\n*Gladiator's Finale <:4x:957694032216215573>*\n• ATK +18%.\n• If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.\n        "
+            "value": "\n*Gladiator's Finale <:4x:957694032216215573>*\n\u2022 ATK +18%.\n\u2022 If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.\n        "
         },
         {
             "inline": true,
