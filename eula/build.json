@@ -21,12 +21,12 @@
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "x4-bloodstainedchivalry"
+            "value": "x2-physical | x2-physical"
         },
         {
             "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "x2-bloodstainedchivalryorpaleflame|x2-emblemofaseveredfate"
+            "value": "x2-physical | x2-emblemofaseveredfate"
         },
         {
             "inline": true,
