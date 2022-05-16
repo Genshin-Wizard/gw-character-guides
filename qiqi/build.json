@@ -11,22 +11,22 @@
         {
             "inline": false,
             "name": "Replacement Weapon:",
-            "value": "Summit Shaper, Aquila Favonia, Sacrificial Sword, Favonious Sword, Prototype Rancour"
+            "value": "Freedom-Sworn, Sacrificial Sword, Favonious Sword"
         },
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "x4-maidenbeloved"
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
             "value": "x4-oceanhuedclam"
         },
         {
             "inline": false,
+            "name": "Second Best Artifact Set:",
+            "value": "x4-tenacityofthemillelith"
+        },
+        {
+            "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "x2-paleflame|x2-bloodstainedchivalry"
+            "value": "x4-maidenbeloved"
         },
         {
             "inline": true,
