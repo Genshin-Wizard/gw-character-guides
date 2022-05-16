@@ -19,11 +19,6 @@
             "value": "x4-emblemofseveredfate"
         },
         {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "Raiden cannot really afford to use any artifact set other than 4 piece Emblem of Severed Fate as it is so far ahead of any competition. It is highly recommended that you farm that set for Raiden if you intend to build her."
-        },
-        {
             "inline": true,
             "name": "Stat Priority",
             "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Energy Recharge or ATK %\n<:gobletofeonothem:957412513958477864> Electro DMG Bonus or ATK %\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・ATK %\n・CRIT DMG\n・CRIT Rate\n・Energy Recharge\n・Elemental Mastery\n        "
@@ -32,6 +27,11 @@
             "inline": true,
             "name": "Talent Priority:",
             "value": "\n**1)** Elemental Burst: Secret Art - Musou Shinsetsu\n**2)** Elemental Skill: Transcedence - Baleful Omen\n**3)** Normal Attack: Origin (Useless)\n        "
+        },
+        {
+            "inline": false,
+            "name": "Note:",
+            "value": "Raiden cannot really afford to use any artifact set other than 4 piece Emblem of Severed Fate as it is so far ahead of any competition. It is highly recommended that you farm that set for Raiden if you intend to build her."
         }
     ],
     "color": 11104511,
