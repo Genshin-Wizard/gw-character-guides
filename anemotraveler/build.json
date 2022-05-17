@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Gust Surge\n**2)** Elemntal Skill: Palm Vortex\n**3)** Normal Attack: Foreign Ironwind\n        "
+            "name": "Substats Priority",
+            "value": "Energy Recharge|CRIT Rate        "
         },
         {
             "inline": "false",
-            "name": "Substats Priority",
-            "value": "Energy Recharge|CRIT Rate        "
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Gust Surge\n**2)** Elemntal Skill: Palm Vortex\n**3)** Normal Attack: Foreign Ironwind\n        "
         }
     ],
     "color": 5494962,

@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Bellowing Thunder\n**2)** Elemntal Skill: Lightning Blade\n**3)** Normal Attack: Foreign Thundershock\n        "
+            "name": "Substats Priority",
+            "value": "ATK %|CRIT Rate|CRIT DMG| Energy Recharge        "
         },
         {
             "inline": "false",
-            "name": "Substats Priority",
-            "value": "ATK %|CRIT Rate|CRIT DMG| Energy Recharge        "
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Bellowing Thunder\n**2)** Elemntal Skill: Lightning Blade\n**3)** Normal Attack: Foreign Thundershock\n        "
         }
     ],
     "color": 11104511,

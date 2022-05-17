@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Talent Priority",
-            "value": "**1)** Normal Attack: Yunlai Swordsmanship\n**2)** Elemental Burst: Starward Sword\n**3)** Elemental Skill: Stellar Restoration\n        "
+            "name": "Substats Priority",
+            "value": "ATK %|CRIT Rate|CRIT DMG        "
         },
         {
             "inline": "false",
-            "name": "Substats Priority",
-            "value": "ATK %|CRIT Rate|CRIT DMG        "
+            "name": "Talent Priority",
+            "value": "**1)** Normal Attack: Yunlai Swordsmanship\n**2)** Elemental Burst: Starward Sword\n**3)** Elemental Skill: Stellar Restoration\n        "
         }
     ],
     "color": 11104511,

@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Talent Priority",
-            "value": "**1)** Normal Attack: Secret Spear of Wangsheng\n**2)** Elemental Skill: Guide to Afterlife\n**3)** Elemental Burst: Spirit Soother\n        "
+            "name": "Substats Priority",
+            "value": "CRIT Rate|HP %|CRIT DMG         "
         },
         {
             "inline": "false",
-            "name": "Substats Priority",
-            "value": "CRIT Rate|HP %|CRIT DMG         "
+            "name": "Talent Priority",
+            "value": "**1)** Normal Attack: Secret Spear of Wangsheng\n**2)** Elemental Skill: Guide to Afterlife\n**3)** Elemental Burst: Spirit Soother\n        "
         }
     ],
     "color": 16733525,

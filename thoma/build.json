@@ -34,19 +34,19 @@
             "value": "<sands>  HP % / Energy Recharge | <goblet>  HP % | <circlet>  HP % / Crit Rate"
         },
         {
-            "inline": "true",
-            "name": "Talent Priority",
-            "value": "**1)** Elemental Skill: Blazing Blessing\n**2)** Elemental Burst: Imbricated Armor\n**3)** Normal Attack: Swiftshatter Spear\n        "
-        },
-        {
             "inline": "false",
             "name": "Notes:",
             "value": "Thoma would want some Crit Rate Sub Stats, if you are running Favonius Lance, to trigger its passive."
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Substats Priority",
             "value": "Energy Recharge|HP %|Crit Rate        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Skill: Blazing Blessing\n**2)** Elemental Burst: Imbricated Armor\n**3)** Normal Attack: Swiftshatter Spear\n        "
         }
     ],
     "color": 16733525,

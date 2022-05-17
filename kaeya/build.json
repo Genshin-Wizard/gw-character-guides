@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Glacial Waltz\n**2)** Elemental Skill: Frostgnaw\n**3)** Normal Attack: Ceremonial Bladework\n        "
+            "name": "Substats Priority",
+            "value": "CRIT DMG|ATK %|CRIT Rate        "
         },
         {
             "inline": "false",
-            "name": "Substats Priority",
-            "value": "CRIT DMG|ATK %|CRIT Rate        "
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Glacial Waltz\n**2)** Elemental Skill: Frostgnaw\n**3)** Normal Attack: Ceremonial Bladework\n        "
         }
     ],
     "color": 10147839,

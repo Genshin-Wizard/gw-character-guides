@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Cliffbreaker's Banner\n**2)** Elemental Skill: Opening Flourish\n**3)** Normal Attack: Cloud-grazing Strike\n        "
+            "name": "Substats Priority",
+            "value": "DEF %|Energy Recharge         "
         },
         {
             "inline": "false",
-            "name": "Substats Priority",
-            "value": "DEF %|Energy Recharge         "
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Cliffbreaker's Banner\n**2)** Elemental Skill: Opening Flourish\n**3)** Normal Attack: Cloud-grazing Strike\n        "
         }
     ],
     "color": 14994176,

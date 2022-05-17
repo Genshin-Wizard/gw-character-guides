@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Talent Priority",
-            "value": "**1)** Normal Attack: Seal of Approval\n**2)** Elemental Burst: Done Deal\n**3)** Elemental Skill: Signed Edict\n        "
+            "name": "Substats Priority",
+            "value": "CRIT Rate|CRIT DMG|ATK %          "
         },
         {
             "inline": "false",
-            "name": "Substats Priority",
-            "value": "CRIT Rate|CRIT DMG|ATK %          "
+            "name": "Talent Priority",
+            "value": "**1)** Normal Attack: Seal of Approval\n**2)** Elemental Burst: Done Deal\n**3)** Elemental Skill: Signed Edict\n        "
         }
     ],
     "color": 16733525,

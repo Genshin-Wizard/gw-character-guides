@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Talent Priority",
-            "value": "**1)** Elemental Skill: Adeptus Art - Herald of Frost\n**2)** Elemental Burst: Adeptus Art - Preserver of Fortune\n**3)** Normal Attack: Ancient Sword Art\n        "
+            "name": "Substats Priority",
+            "value": "ATK %|ATK|Energy Recharge        "
         },
         {
             "inline": "false",
-            "name": "Substats Priority",
-            "value": "ATK %|ATK|Energy Recharge        "
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Skill: Adeptus Art - Herald of Frost\n**2)** Elemental Burst: Adeptus Art - Preserver of Fortune\n**3)** Normal Attack: Ancient Sword Art\n        "
         }
     ],
     "color": 10147839,

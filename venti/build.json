@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Wind's Grand Ode\n**2)** Elemental Skill: Skyward Sonnet\n**3)** Normal Attack: Divine Marksmanship\n        "
+            "name": "Substats Priority",
+            "value": "Elemental Mastery|Energy Recharge        "
         },
         {
             "inline": "false",
-            "name": "Substats Priority",
-            "value": "Elemental Mastery|Energy Recharge        "
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Wind's Grand Ode\n**2)** Elemental Skill: Skyward Sonnet\n**3)** Normal Attack: Divine Marksmanship\n        "
         }
     ],
     "color": 5494962,

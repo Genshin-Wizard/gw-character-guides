@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Talent Priority",
-            "value": "**1)** Elemental Skill: Foul Legacy - Raging Tide\n**2)** Elemental Burst: Havoc - Obliteration\n**3)** Normal Attack: Cutting Torrent\n        "
+            "name": "Substats Priority",
+            "value": "CRIT Rate|CRIT DMG|ATK %|Elemental Mastery        "
         },
         {
             "inline": "false",
-            "name": "Substats Priority",
-            "value": "CRIT Rate|CRIT DMG|ATK %|Elemental Mastery        "
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Skill: Foul Legacy - Raging Tide\n**2)** Elemental Burst: Havoc - Obliteration\n**3)** Normal Attack: Cutting Torrent\n        "
         }
     ],
     "color": 3245055,

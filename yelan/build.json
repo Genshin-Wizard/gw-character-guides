@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Depth-Clarion Dice\n**2)** Elemental Skill: Lingering Lifeline\n**3)** Normal Attack: Stealthy Bowshot\n        "
+            "name": "Substats Priority",
+            "value": "HP %|CRIT Rate|CRIT DMG        "
         },
         {
             "inline": "false",
-            "name": "Substats Priority",
-            "value": "HP %|CRIT Rate|CRIT DMG        "
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Depth-Clarion Dice\n**2)** Elemental Skill: Lingering Lifeline\n**3)** Normal Attack: Stealthy Bowshot\n        "
         }
     ],
     "color": 3245055,
