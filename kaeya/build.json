@@ -4,12 +4,12 @@
     },
     "fields": [
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Best Weapon:",
             "value": "Mistsplitter Reforged"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Replacement Weapon:",
             "value": " Freedom-Sworn, Skyward Blade, Lion's Roar, Favionus Sword, Amenoma, Jade Cutter"
         },

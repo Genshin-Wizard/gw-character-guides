@@ -4,12 +4,12 @@
     },
     "fields": [
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Best Weapon:",
             "value": "Festering Desire"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Replacement Weapon:",
             "value": "Sacrificial Sword, Favonious Sword, Skyward Blade"
         },

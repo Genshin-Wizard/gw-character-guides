@@ -4,12 +4,12 @@
     },
     "fields": [
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Best Weapon:",
             "value": "Elegy for the End"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Replacement Weapon:",
             "value": "Aqua Simulacra, Skyward Harp, Polar Star, Thundering Pulse, Favonius Warbow, Sacrificial Bow"
         },

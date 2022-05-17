@@ -4,12 +4,12 @@
     },
     "fields": [
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Best Weapon:",
             "value": "Engulfing Lightning"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Replacement Weapon:",
             "value": "The Catch (R5), Favonious Lance"
         },

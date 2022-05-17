@@ -4,12 +4,12 @@
     },
     "fields": [
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Best Weapon:",
             "value": "Cinnabar Spindle"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Replacement Weapon:",
             "value": "Harbinger of Dawn, Primordial Jade Cutter"
         },

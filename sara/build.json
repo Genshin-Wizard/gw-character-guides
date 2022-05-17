@@ -4,12 +4,12 @@
     },
     "fields": [
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Best Weapon:",
             "value": "Elegy of the End"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Replacement Weapon:",
             "value": "Polar Star, Thundering Pulse, Favonious Warbow, Sacrificial Bow, Skyward Harp, Alley Hunter"
         },

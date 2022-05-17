@@ -4,12 +4,12 @@
     },
     "fields": [
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Best Weapon:",
             "value": "Iron Sting"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Replacement Weapon:",
             "value": "Jade Cutter, Mistsplitter Reforge, Freedom-Sworn, Skyward Blade, Festering Desire, Amenoma Kageuchim (R5)"
         },

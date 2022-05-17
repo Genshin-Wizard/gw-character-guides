@@ -4,12 +4,12 @@
     },
     "fields": [
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Best Weapon:",
             "value": "Engulfing Lightning"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Replacement Weapon:",
             "value": "Staff of Homa, The Catch (R5), Dragon's Bane, Favonious Lance, Primordial Jade Winged-Spear"
         },

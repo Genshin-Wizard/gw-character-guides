@@ -4,12 +4,12 @@
     },
     "fields": [
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Best Weapon:",
             "value": "Lost Prayer to the Sacred Winds"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Replacement Weapon:",
             "value": "Dodoco Tales, The Widsith, Kaguara's Verity, Skyward Atlas"
         },

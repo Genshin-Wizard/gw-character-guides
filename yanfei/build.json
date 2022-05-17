@@ -4,12 +4,12 @@
     },
     "fields": [
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Best Weapon:",
             "value": "Lost Prayer to the Sacred Wind"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Replacement Weapon:",
             "value": "Skyward Atlas, Oathsworn Eye, Memory of Dust, Widsth, Solar Pearl, Dodoco Tales"
         },

@@ -4,12 +4,12 @@
     },
     "fields": [
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Best Weapon:",
             "value": "Engulfing Lightning"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Replacement Weapon:",
             "value": "Staff of Homa, Wavebreaker's Fin (R5 recommended), The Catch (R5), Primordial Jade Winged-Spear"
         },
