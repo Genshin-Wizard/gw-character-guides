@@ -24,11 +24,6 @@
             "value": "x4-noblesseoblige"
         },
         {
-            "inline": "false",
-            "name": "Notes:",
-            "value": "Swirl Support Characters does not need to Level-up Talents. Just Level up your character for higher Swirl Damage, and keep your Elemental Mastery Sky High"
-        },
-        {
             "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands>  Elemental Mastery | <goblet>  Elemental Mastery | <circlet>  Elemental Mastery"
@@ -42,6 +37,11 @@
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Skill: Chihayabaru\n**2)** Elemental Burst: Kazuha Slash\n**3)** Normal Attack: Garyuu Bladework\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Swirl Support Characters does not need to Level-up Talents. Just Level up your character for higher Swirl Damage, and keep your Elemental Mastery Sky High"
         }
     ],
     "color": 5494962,
