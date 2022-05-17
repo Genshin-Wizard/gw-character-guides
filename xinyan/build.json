@@ -29,11 +29,6 @@
             "value": "x2-physical|x2-attack"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Normal Attack: Dance on Fire\n**2)** Elemental Burst: Riff Evolution\n**3)** Elemental Skill: Sweeping Ferver\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % | <goblet>  Physical DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "CRIT DMG / CRIT Rate|ATK %        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Normal Attack: Dance on Fire\n**2)** Elemental Burst: Riff Evolution\n**3)** Elemental Skill: Sweeping Ferver\n        "
         }
     ],
     "color": 16733525,
     "type": "rich",
     "title": "Xinyan (Main DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Xinyan"
+        "text": "Character Guide â€¢ Build: Xinyan"
     }
 }

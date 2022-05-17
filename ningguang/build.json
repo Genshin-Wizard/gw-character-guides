@@ -29,11 +29,6 @@
             "value": "x2-archaicpetra|x2-noblesseoblige"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Normal Attack: Sparkling Scatter\n**2)** Elemental Burst: Starshatter\n**3)** Elemental Skill: Jade Screen\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % | <goblet>  Geo DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "ATK %|CRIT Rate|CRIT DMG        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Normal Attack: Sparkling Scatter\n**2)** Elemental Burst: Starshatter\n**3)** Elemental Skill: Jade Screen\n        "
         }
     ],
     "color": 14994176,
     "type": "rich",
     "title": "Ningguang (Main DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Ningguang"
+        "text": "Character Guide â€¢ Build: Ningguang"
     }
 }

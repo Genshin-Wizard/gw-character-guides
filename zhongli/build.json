@@ -29,11 +29,6 @@
             "value": "x2-archaicpetra|x2-noblesseoblige"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Skill: Dominus Lapidis\n**2)** Elemental Burst: Planet Befall\n**3)** Normal Attack: Rain of Stone\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  HP % | <goblet>  HP % | <circlet>  HP %"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "HP %|HP|Energy Recharge         "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Skill: Dominus Lapidis\n**2)** Elemental Burst: Planet Befall\n**3)** Normal Attack: Rain of Stone\n        "
         }
     ],
     "color": 14994176,
     "type": "rich",
     "title": "Zhongli (Support) | Build",
     "footer": {
-        "text": "Character Guide • Build: Zhongli"
+        "text": "Character Guide â€¢ Build: Zhongli"
     }
 }

@@ -29,11 +29,6 @@
             "value": "x2-theexile|x2-emblemofseveredfate"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Skill: Inuzaka All-round Defense\n**2)** Elemental Burst: Juuga - Forward Unto Victory\n**3)** Normal Attack: Ripping Fang Fletching\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  DEF % or Energy Recharge | <goblet>  DEF or Geo DMG Bonus | <circlet>  DEF %"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "DEF %|Energy Recharge        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Skill: Inuzaka All-round Defense\n**2)** Elemental Burst: Juuga - Forward Unto Victory\n**3)** Normal Attack: Ripping Fang Fletching\n        "
         }
     ],
     "color": 14994176,
     "type": "rich",
     "title": "Gorou (Support) | Build",
     "footer": {
-        "text": "Character Guide • Build: Gorou"
+        "text": "Character Guide â€¢ Build: Gorou"
     }
 }

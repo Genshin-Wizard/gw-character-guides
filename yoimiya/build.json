@@ -29,11 +29,6 @@
             "value": "x2-crimsonwitchofflames|x2-attack"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Normal Attack: Firework Flare-Up\n**2)** Elemental Skill: Niwabi Fire-Dance\n**3)** Elemental Burst: Ryuukin Saxifrage\n        "
-        },
-        {
             "inline": false,
             "name": "Notes:",
             "value": "Hamayumi bow is **NOT** recommended when Yoimiya is running **4-Piece Shimenawa's Reminiscence**"
@@ -47,12 +42,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "ATK %|CRIT DMG|CRIT Rate        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Normal Attack: Firework Flare-Up\n**2)** Elemental Skill: Niwabi Fire-Dance\n**3)** Elemental Burst: Ryuukin Saxifrage\n        "
         }
     ],
     "color": 16733525,
     "type": "rich",
     "title": "Yoimiya (Pyro DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Yoimiya"
+        "text": "Character Guide â€¢ Build: Yoimiya"
     }
 }

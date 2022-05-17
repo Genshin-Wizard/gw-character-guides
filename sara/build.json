@@ -29,11 +29,6 @@
             "value": "x2-noblesseoblige|x2-emblemofseveredfate"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Burst: Subjugation - Koukou Sendou\n**2)** Elemental Skill: Tengu Stormcall\n**3)** Normal Attack: Tengu Bowmanship\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % or Energy Recharge | <goblet>  Electro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "ATK %|CRIT DMG|CRIT Rate|Energy Recharge        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Subjugation - Koukou Sendou\n**2)** Elemental Skill: Tengu Stormcall\n**3)** Normal Attack: Tengu Bowmanship\n        "
         }
     ],
     "color": 11104511,
     "type": "rich",
     "title": "Kujou Sara (Support) | Build",
     "footer": {
-        "text": "Character Guide • Build: Sara"
+        "text": "Character Guide â€¢ Build: Sara"
     }
 }

@@ -29,11 +29,6 @@
             "value": "x2-attack|x2-blizzardstrayer"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Burst: Spirit Blade - Cloud-Parting Star\n**2)** Elemental Skill: Spirit Blade - Chonghua's Layered Frost\n**3)** Normal Attack: Demonbane\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % or Energy Recharge | <goblet>  Cryo DMG Bonus | <circlet>  ATK % or CRIT Rate / CRIT DMG"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "ATK %|CRIT Rate|CRIT DMG|Elemental Mastery        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Spirit Blade - Cloud-Parting Star\n**2)** Elemental Skill: Spirit Blade - Chonghua's Layered Frost\n**3)** Normal Attack: Demonbane\n        "
         }
     ],
     "color": 10147839,
     "type": "rich",
     "title": "Chongyun (Sub DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Chongyun"
+        "text": "Character Guide â€¢ Build: Chongyun"
     }
 }

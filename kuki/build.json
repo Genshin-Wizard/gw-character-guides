@@ -29,11 +29,6 @@
             "value": "\nUnknown\n"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  Unknown | <goblet>  Unknown | <circlet>  Unknown"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "Unknown|Unknown|Unknown        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown\n        "
         }
     ],
     "color": 11104511,
     "type": "rich",
     "title": "Kuki (Speculation Build) | Build",
     "footer": {
-        "text": "Character Guide • Build: Kuki"
+        "text": "Character Guide â€¢ Build: Kuki"
     }
 }

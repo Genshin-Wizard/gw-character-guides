@@ -29,11 +29,6 @@
             "value": "x4-emblemofseveredfate"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Skill: Yakan Evocation: Sesshou Sakura\n**2)** Elemental Burst: Great Secret Art: Tenko Kenshin\n**3)** Normal Attack: Spiritfox Sin-Eater\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % | <goblet>  Electro DMG Bonus | <circlet>  CRIT DMG or CRIT Rate"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "CRIT DMG|CRIT Rate|ATK %|Energy Recharge %        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Skill: Yakan Evocation: Sesshou Sakura\n**2)** Elemental Burst: Great Secret Art: Tenko Kenshin\n**3)** Normal Attack: Spiritfox Sin-Eater\n        "
         }
     ],
     "color": 11104511,
     "type": "rich",
     "title": "Yae Miko (Sub-DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Yaemiko"
+        "text": "Character Guide â€¢ Build: Yaemiko"
     }
 }

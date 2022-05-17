@@ -29,11 +29,6 @@
             "value": "x4-gladiatorsfinale"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Burst: Gust Surge\n**2)** Elemntal Skill: Palm Vortex\n**3)** Normal Attack: Foreign Ironwind\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  Energy Recharge | <goblet>  Anemo DMG Bonus | <circlet>  CRIT Rate or CRIT DMG"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "Energy Recharge|CRIT Rate        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Gust Surge\n**2)** Elemntal Skill: Palm Vortex\n**3)** Normal Attack: Foreign Ironwind\n        "
         }
     ],
     "color": 5494962,
     "type": "rich",
     "title": "Anemo Traveler (Sub DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Anemotraveler"
+        "text": "Character Guide â€¢ Build: Anemotraveler"
     }
 }

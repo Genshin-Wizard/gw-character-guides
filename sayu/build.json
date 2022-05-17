@@ -29,11 +29,6 @@
             "value": "x4-noblesseoblige"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Burst: Yoohoo Art - Mujina Flurry\n**2)** Elemental Skill: Yoohoo Art - Fuuin Dash\n**3)** Normal Attack: Shuumastuban Ninja Blade\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  Elemental Mastery or ATK % or Energy Recharge | <goblet>  Elemental Mastery or ATK % | <circlet>  Elemental Mastery or ATK % or Healing Bonus"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "ATK %|Energy Recharge|Elemental Mastery        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Yoohoo Art - Mujina Flurry\n**2)** Elemental Skill: Yoohoo Art - Fuuin Dash\n**3)** Normal Attack: Shuumastuban Ninja Blade\n        "
         }
     ],
     "color": 5494962,
     "type": "rich",
     "title": "Sayu (Support) | Build",
     "footer": {
-        "text": "Character Guide • Build: Sayu"
+        "text": "Character Guide â€¢ Build: Sayu"
     }
 }

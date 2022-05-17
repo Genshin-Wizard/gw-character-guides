@@ -29,11 +29,6 @@
             "value": "x4-shimenawasreminiscence"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Skill: Kamisato Art- Kyouka\n**2)** Elemental Burst: Kamisato Art- Suiyuu\n**3)** Normal Attack: Kamisato Art- Marobashi\n        "
-        },
-        {
             "inline": false,
             "name": "Notes:",
             "value": "Amenoma weapon is NOT recommended for Kamisato Ayato when you are running **4-Piece Shimenawa's Reminiscence**"
@@ -47,12 +42,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "ATK %|Energy Recharge|CRIT DMG|CRIT Rate|HP %        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Skill: Kamisato Art- Kyouka\n**2)** Elemental Burst: Kamisato Art- Suiyuu\n**3)** Normal Attack: Kamisato Art- Marobashi\n        "
         }
     ],
     "color": 3245055,
     "type": "rich",
     "title": "Kamisato Ayato (Main DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Ayato"
+        "text": "Character Guide â€¢ Build: Ayato"
     }
 }

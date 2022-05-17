@@ -29,11 +29,6 @@
             "value": "x4-emblemofseveredfate"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Burst: Lightning Rose\n**2)** Elemental Skill: Violet Arc\n**3)** Normal Attack: Lightning Touch \n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % | <goblet>  Electro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "Energy Recharge|CRIT DMG|CRIT Rate|CRIT %          "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Lightning Rose\n**2)** Elemental Skill: Violet Arc\n**3)** Normal Attack: Lightning Touch \n        "
         }
     ],
     "color": 11104511,
     "type": "rich",
     "title": "Lisa (Sub DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Lisa"
+        "text": "Character Guide â€¢ Build: Lisa"
     }
 }

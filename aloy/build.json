@@ -29,11 +29,6 @@
             "value": "x2-wandererstroupe|x2-blizzardstrayer"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Burst: Prophecies of Dawn\n**2)** Elemental Skill: Frozen Wilds\n**3)** Normal Attack: Rapid Fire\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % / Elemental Mastery / Energy Recharge | <goblet>  Cryo DMG Bonus % / ATK% | <circlet>  CRIT DMG / CRIT Rate"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "CRIT Rate|CRIT DMG|ATK %|Elemental Mastery|Energy Recharge        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Prophecies of Dawn\n**2)** Elemental Skill: Frozen Wilds\n**3)** Normal Attack: Rapid Fire\n        "
         }
     ],
     "color": 10147839,
     "type": "rich",
     "title": "Aloy (Burst DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Aloy"
+        "text": "Character Guide â€¢ Build: Aloy"
     }
 }

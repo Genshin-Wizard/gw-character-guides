@@ -29,11 +29,6 @@
             "value": "x4-thundersoother"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Skill: Nightrider\n**2)** Elemental Burst: Midnight Phantasmagoria\n**3)** Normal Attack: Bolts of Downfall\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % | <goblet>  Electro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "ATK %|CRIT Rate|CRIT DMG        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Skill: Nightrider\n**2)** Elemental Burst: Midnight Phantasmagoria\n**3)** Normal Attack: Bolts of Downfall\n        "
         }
     ],
     "color": 11104511,
     "type": "rich",
     "title": "Fischl (Sub DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Fischl"
+        "text": "Character Guide â€¢ Build: Fischl"
     }
 }

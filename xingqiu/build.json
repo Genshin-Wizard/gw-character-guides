@@ -29,11 +29,6 @@
             "value": "x2-heartofdepth|x2-noblesseoblige"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Burst: Guhua Sword - Raincutter\n**2)** Elemental Skill: Guhua Sword - Fatal Rainscreen\n**3)** Normal Attack: Guhua Style\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  Energy Recharge | <goblet>  Hydro DMG Bonus | <circlet>  CRIT DMG / CRIT RATE"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "Energy Recharge|CRIT DMG / CRIT RATE|ATK %        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Guhua Sword - Raincutter\n**2)** Elemental Skill: Guhua Sword - Fatal Rainscreen\n**3)** Normal Attack: Guhua Style\n        "
         }
     ],
     "color": 3245055,
     "type": "rich",
     "title": "Xingqiu (Sub DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Xingqiu"
+        "text": "Character Guide â€¢ Build: Xingqiu"
     }
 }

@@ -29,11 +29,6 @@
             "value": "x2-viridescentvenerer|x2-noblesseoblige"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Burst: Wind's Grand Ode\n**2)** Elemental Skill: Skyward Sonnet\n**3)** Normal Attack: Divine Marksmanship\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  Elemental Mastery | <goblet>  Elemental Mastery | <circlet>  Elemental Mastery"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "Elemental Mastery|Energy Recharge        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Wind's Grand Ode\n**2)** Elemental Skill: Skyward Sonnet\n**3)** Normal Attack: Divine Marksmanship\n        "
         }
     ],
     "color": 5494962,
     "type": "rich",
     "title": "Venti (Swirl Support) | Build",
     "footer": {
-        "text": "Character Guide • Build: Venti"
+        "text": "Character Guide â€¢ Build: Venti"
     }
 }

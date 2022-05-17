@@ -29,11 +29,6 @@
             "value": "x4-noblesseoblige"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Burst: Cliffbreaker's Banner\n**2)** Elemental Skill: Opening Flourish\n**3)** Normal Attack: Cloud-grazing Strike\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  DEF % or Energy Recharge | <goblet>  DEF % | <circlet>  DEF %"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "DEF %|Energy Recharge         "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Cliffbreaker's Banner\n**2)** Elemental Skill: Opening Flourish\n**3)** Normal Attack: Cloud-grazing Strike\n        "
         }
     ],
     "color": 14994176,
     "type": "rich",
     "title": "Yun Jin (Support) | Build",
     "footer": {
-        "text": "Character Guide • Build: Yunjin"
+        "text": "Character Guide â€¢ Build: Yunjin"
     }
 }

@@ -29,11 +29,6 @@
             "value": "x2-thunderingfury|x2-gladiatorsfinale/shimenawasreminiscence"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Burst: Bellowing Thunder\n**2)** Elemntal Skill: Lightning Blade\n**3)** Normal Attack: Foreign Thundershock\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % or Energy Recharge | <goblet>  Electro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "ATK %|CRIT Rate|CRIT DMG| Energy Recharge        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Bellowing Thunder\n**2)** Elemntal Skill: Lightning Blade\n**3)** Normal Attack: Foreign Thundershock\n        "
         }
     ],
     "color": 11104511,
     "type": "rich",
     "title": "Electro Traveler (Sub DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Electrotraveler"
+        "text": "Character Guide â€¢ Build: Electrotraveler"
     }
 }

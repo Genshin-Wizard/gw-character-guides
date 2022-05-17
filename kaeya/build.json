@@ -29,11 +29,6 @@
             "value": "x4-(melt)lavawalker"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Burst: Glacial Waltz\n**2)** Elemental Skill: Frostgnaw\n**3)** Normal Attack: Ceremonial Bladework\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % | <goblet>  Cryo DMG Bonus | <circlet>  CRIT DMG"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "CRIT DMG|ATK %|CRIT Rate        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Glacial Waltz\n**2)** Elemental Skill: Frostgnaw\n**3)** Normal Attack: Ceremonial Bladework\n        "
         }
     ],
     "color": 10147839,
     "type": "rich",
     "title": "Kaeya (Sub DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Kaeya"
+        "text": "Character Guide â€¢ Build: Kaeya"
     }
 }

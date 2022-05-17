@@ -29,11 +29,6 @@
             "value": "x2-attack|x2-attack"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Normal Attack: Yunlai Swordsmanship\n**2)** Elemental Burst: Starward Sword\n**3)** Elemental Skill: Stellar Restoration\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % | <goblet>  Electro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "ATK %|CRIT Rate|CRIT DMG        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Normal Attack: Yunlai Swordsmanship\n**2)** Elemental Burst: Starward Sword\n**3)** Elemental Skill: Stellar Restoration\n        "
         }
     ],
     "color": 11104511,
     "type": "rich",
     "title": "Keqing My Beloved (Electro Main DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Keqing"
+        "text": "Character Guide â€¢ Build: Keqing"
     }
 }

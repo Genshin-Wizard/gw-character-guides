@@ -29,11 +29,6 @@
             "value": "x2-crimsonwitchofflames|x2-noblesseoblige"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Burst: Fiery Rain\n**2)** Elemental Skill: Explosive Puppet\n**3)** Normal Attack: Sharpshooter \n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % | <goblet>  Pyro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "Energy Recharge|CRIT Rate/DMG|ATK %         "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Fiery Rain\n**2)** Elemental Skill: Explosive Puppet\n**3)** Normal Attack: Sharpshooter \n        "
         }
     ],
     "color": 16733525,
     "type": "rich",
     "title": "Amber (Sub DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Amber"
+        "text": "Character Guide â€¢ Build: Amber"
     }
 }

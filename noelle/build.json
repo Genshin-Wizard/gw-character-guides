@@ -29,11 +29,6 @@
             "value": "x4-retracingbolide"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Burst: Sweeping Time\n**2)** Elemental Skill: Breastplate\n**3)** Normal Attack: Favonious Bladework- Maid\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands> DEF % | <goblet>  Geo DMG Bonus or DEF % | <circlet>  DEF %, CRIT Rate, or CRIT DMG"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "DEF %|CRIT DMG|CRIT Rate          "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Sweeping Time\n**2)** Elemental Skill: Breastplate\n**3)** Normal Attack: Favonious Bladework- Maid\n        "
         }
     ],
     "color": 14994176,
     "type": "rich",
     "title": "Noelle (Main DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Noelle"
+        "text": "Character Guide â€¢ Build: Noelle"
     }
 }

@@ -29,11 +29,6 @@
             "value": "x2-huskofopulentdreams|x2-gladiatorsfinale/shimenawasreminiscence"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Burst: Royal Descent - Behold, Itto the Evil!\n**2)** Elemental Skill: Masatsu Zetsugi - Akaushi Burst!\n**3)** Normal Attack: Fight Club Legend\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  DEF % | <goblet>  Geo DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "DEF %|CRIT DMG|CRIT Rate|Energy Recharge        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Royal Descent - Behold, Itto the Evil!\n**2)** Elemental Skill: Masatsu Zetsugi - Akaushi Burst!\n**3)** Normal Attack: Fight Club Legend\n        "
         }
     ],
     "color": 14994176,
     "type": "rich",
     "title": "Arataki Itto (Main DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Itto"
+        "text": "Character Guide â€¢ Build: Itto"
     }
 }

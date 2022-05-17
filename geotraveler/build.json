@@ -29,11 +29,6 @@
             "value": "x4-gladiatorsfinale"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Burst: Wake of Earth \n**2)** Elemental Skill: Starfell Sword \n**3)** Normal Attack: Foreign Rockblade\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  Energy Recharge or ATK % | <goblet>  Geo DMG Bonus or ATK % | <circlet>  ATK % or CRIT Rate"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "Energy Recharge|ATK %        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Wake of Earth \n**2)** Elemental Skill: Starfell Sword \n**3)** Normal Attack: Foreign Rockblade\n        "
         }
     ],
     "color": 14994176,
     "type": "rich",
     "title": "Geo Traveler (Sub DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Geotraveler"
+        "text": "Character Guide â€¢ Build: Geotraveler"
     }
 }

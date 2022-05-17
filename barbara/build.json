@@ -29,11 +29,6 @@
             "value": "x2-oceanhuedclam|x2-maidenbeloved"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Skill: Let the Show Begin\n**2)** Elemental Burst: Shining Miracle\n**3)** Normal Attack: Whisper of Water \n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  HP | <goblet>  HP | <circlet>  HP or Healing Bonus"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "HP         "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Skill: Let the Show Begin\n**2)** Elemental Burst: Shining Miracle\n**3)** Normal Attack: Whisper of Water \n        "
         }
     ],
     "color": 3245055,
     "type": "rich",
     "title": "Barbara (Support) | Build",
     "footer": {
-        "text": "Character Guide • Build: Barbara"
+        "text": "Character Guide â€¢ Build: Barbara"
     }
 }

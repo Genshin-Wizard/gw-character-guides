@@ -29,11 +29,6 @@
             "value": "x2-heartofdepth|x2-noblesseoblige"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Elemental Skill: Foul Legacy - Raging Tide\n**2)** Elemental Burst: Havoc - Obliteration\n**3)** Normal Attack: Cutting Torrent\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % or Elemental Mastery | <goblet>  Hydro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "CRIT Rate|CRIT DMG|ATK %|Elemental Mastery        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Skill: Foul Legacy - Raging Tide\n**2)** Elemental Burst: Havoc - Obliteration\n**3)** Normal Attack: Cutting Torrent\n        "
         }
     ],
     "color": 3245055,
     "type": "rich",
     "title": "Childe (Main DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Childe"
+        "text": "Character Guide â€¢ Build: Childe"
     }
 }

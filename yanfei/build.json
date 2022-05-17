@@ -29,11 +29,6 @@
             "value": "x4-shimenawasreminiscence"
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "**1)** Normal Attack: Seal of Approval\n**2)** Elemental Burst: Done Deal\n**3)** Elemental Skill: Signed Edict\n        "
-        },
-        {
             "inline": "false",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % | <goblet>  Pyro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
@@ -42,12 +37,17 @@
             "inline": "true",
             "name": "Substats Priority",
             "value": "CRIT Rate|CRIT DMG|ATK %          "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Normal Attack: Seal of Approval\n**2)** Elemental Burst: Done Deal\n**3)** Elemental Skill: Signed Edict\n        "
         }
     ],
     "color": 16733525,
     "type": "rich",
     "title": "Yanfei (Main DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Yanfei"
+        "text": "Character Guide â€¢ Build: Yanfei"
     }
 }
