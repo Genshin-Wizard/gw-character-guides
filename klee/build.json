@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Substats Priority",
-            "value": "ATK %|CRIT Rate|CRIT DMG|Elemental Mastery          "
+            "name": "Talent Priority",
+            "value": "**1)** Normal Attack (Charged): Kaboom!\n**2)** Elemental Burst: Sparks 'n' Splash\n**3)** Elemntal Skill: Jumpty Dumpty\n        "
         },
         {
             "inline": "false",
-            "name": "Talent Priority",
-            "value": "**1)** Normal Attack (Charged): Kaboom!\n**2)** Elemental Burst: Sparks 'n' Splash\n**3)** Elemntal Skill: Jumpty Dumpty\n        "
+            "name": "Substats Priority",
+            "value": "ATK %|CRIT Rate|CRIT DMG|Elemental Mastery          "
         }
     ],
     "color": 16733525,

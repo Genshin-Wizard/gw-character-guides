@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Substats Priority",
-            "value": "DEF%|CRIT Rate|CRIT DMG        "
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Skill: Abiogenesis - Solar Isotama\n**2)** Elemntal Burst: Rite of Progeniture - Tectonic Tide\n**3)** Normal Attack: Favonius Bladework- Weiss\n        "
         },
         {
             "inline": "false",
-            "name": "Talent Priority",
-            "value": "**1)** Elemental Skill: Abiogenesis - Solar Isotama\n**2)** Elemntal Burst: Rite of Progeniture - Tectonic Tide\n**3)** Normal Attack: Favonius Bladework- Weiss\n        "
+            "name": "Substats Priority",
+            "value": "DEF%|CRIT Rate|CRIT DMG        "
         }
     ],
     "color": 14994176,

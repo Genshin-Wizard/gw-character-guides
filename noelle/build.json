@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Substats Priority",
-            "value": "DEF %|CRIT DMG|CRIT Rate          "
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Sweeping Time\n**2)** Elemental Skill: Breastplate\n**3)** Normal Attack: Favonious Bladework- Maid\n        "
         },
         {
             "inline": "false",
-            "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Sweeping Time\n**2)** Elemental Skill: Breastplate\n**3)** Normal Attack: Favonious Bladework- Maid\n        "
+            "name": "Substats Priority",
+            "value": "DEF %|CRIT DMG|CRIT Rate          "
         }
     ],
     "color": 14994176,

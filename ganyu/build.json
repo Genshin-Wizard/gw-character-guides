@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Substats Priority",
-            "value": "CRIT DMG|Atk %        "
+            "name": "Talent Priority",
+            "value": "**1)** Normal Attack: Liutian Archery\n**2)** Elemental Burst: Celestial Shower\n**3)** Elemental Skill: Trail of the Qilin\n        "
         },
         {
             "inline": "false",
-            "name": "Talent Priority",
-            "value": "**1)** Normal Attack: Liutian Archery\n**2)** Elemental Burst: Celestial Shower\n**3)** Elemental Skill: Trail of the Qilin\n        "
+            "name": "Substats Priority",
+            "value": "CRIT DMG|Atk %        "
         }
     ],
     "color": 10147839,

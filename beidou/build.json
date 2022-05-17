@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Substats Priority",
-            "value": "Energy Recharge|CRIT Rate|CRIT DMG|ATK %          "
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Stormbreaker\n**2)** Normal Attack: Oceanborne\n**3)** Elemental Skill: Tidecaller\n        "
         },
         {
             "inline": "false",
-            "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Stormbreaker\n**2)** Normal Attack: Oceanborne\n**3)** Elemental Skill: Tidecaller\n        "
+            "name": "Substats Priority",
+            "value": "Energy Recharge|CRIT Rate|CRIT DMG|ATK %          "
         }
     ],
     "color": 11104511,

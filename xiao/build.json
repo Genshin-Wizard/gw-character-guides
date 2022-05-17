@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Substats Priority",
-            "value": "ATK %|Energy Recharge|CRIT DMG|CRIT Rate        "
+            "name": "Talent Priority",
+            "value": "**1)** Normal Attack: Whirlwind Thrust\n**2)** Elemental Burst: Bane of All Evil\n**3)** Elemental Skill: Lamniscatic Wind Cycling\n        "
         },
         {
             "inline": "false",
-            "name": "Talent Priority",
-            "value": "**1)** Normal Attack: Whirlwind Thrust\n**2)** Elemental Burst: Bane of All Evil\n**3)** Elemental Skill: Lamniscatic Wind Cycling\n        "
+            "name": "Substats Priority",
+            "value": "ATK %|Energy Recharge|CRIT DMG|CRIT Rate        "
         }
     ],
     "color": 5494962,

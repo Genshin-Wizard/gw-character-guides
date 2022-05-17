@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Substats Priority",
-            "value": "ATK %|CRIT Rate|CRIT DMG          "
+            "name": "Talent Priority",
+            "value": "**1)** Normal Attack: Steel Fang\n**2)** Elemental Burst: Lightning Fang\n**3)** Elemental Skill: Claw and Thunder\n        "
         },
         {
             "inline": "false",
-            "name": "Talent Priority",
-            "value": "**1)** Normal Attack: Steel Fang\n**2)** Elemental Burst: Lightning Fang\n**3)** Elemental Skill: Claw and Thunder\n        "
+            "name": "Substats Priority",
+            "value": "ATK %|CRIT Rate|CRIT DMG          "
         }
     ],
     "color": 11104511,

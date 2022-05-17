@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Substats Priority",
-            "value": "ATK %|CRIT DMG|CRIT Rate|Energy Recharge          "
+            "name": "Talent Priority",
+            "value": "**1)** Normal Attack: Favonius Bladework - Edel\n**2)** Elemental Burst: Glacial Illumination\n**3)** Elemental Skill: Icetide Vortex \n        "
         },
         {
             "inline": "false",
-            "name": "Talent Priority",
-            "value": "**1)** Normal Attack: Favonius Bladework - Edel\n**2)** Elemental Burst: Glacial Illumination\n**3)** Elemental Skill: Icetide Vortex \n        "
+            "name": "Substats Priority",
+            "value": "ATK %|CRIT DMG|CRIT Rate|Energy Recharge          "
         }
     ],
     "color": 10147839,

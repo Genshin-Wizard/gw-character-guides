@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Substats Priority",
-            "value": "CRIT Rate|CRIT DMG|Elemental Mastery|Energy Recharge|ATK %        "
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Pyronado\n**2)** Elemental Skill: Guoba Attack\n**3)** Normal Attack: Dough-fu\n        "
         },
         {
             "inline": "false",
-            "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Pyronado\n**2)** Elemental Skill: Guoba Attack\n**3)** Normal Attack: Dough-fu\n        "
+            "name": "Substats Priority",
+            "value": "CRIT Rate|CRIT DMG|Elemental Mastery|Energy Recharge|ATK %        "
         }
     ],
     "color": 16733525,

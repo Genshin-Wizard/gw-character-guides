@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Substats Priority",
-            "value": "Unknown|Unknown|Unknown        "
+            "name": "Talent Priority",
+            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown\n        "
         },
         {
             "inline": "false",
-            "name": "Talent Priority",
-            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown\n        "
+            "name": "Substats Priority",
+            "value": "Unknown|Unknown|Unknown        "
         }
     ],
     "color": 11104511,

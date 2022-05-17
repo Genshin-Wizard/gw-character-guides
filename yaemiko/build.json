@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Substats Priority",
-            "value": "CRIT DMG|CRIT Rate|ATK %|Energy Recharge %        "
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Skill: Yakan Evocation: Sesshou Sakura\n**2)** Elemental Burst: Great Secret Art: Tenko Kenshin\n**3)** Normal Attack: Spiritfox Sin-Eater\n        "
         },
         {
             "inline": "false",
-            "name": "Talent Priority",
-            "value": "**1)** Elemental Skill: Yakan Evocation: Sesshou Sakura\n**2)** Elemental Burst: Great Secret Art: Tenko Kenshin\n**3)** Normal Attack: Spiritfox Sin-Eater\n        "
+            "name": "Substats Priority",
+            "value": "CRIT DMG|CRIT Rate|ATK %|Energy Recharge %        "
         }
     ],
     "color": 11104511,

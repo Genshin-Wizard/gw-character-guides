@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Substats Priority",
-            "value": "HP %|HP|Energy Recharge         "
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Skill: Dominus Lapidis\n**2)** Elemental Burst: Planet Befall\n**3)** Normal Attack: Rain of Stone\n        "
         },
         {
             "inline": "false",
-            "name": "Talent Priority",
-            "value": "**1)** Elemental Skill: Dominus Lapidis\n**2)** Elemental Burst: Planet Befall\n**3)** Normal Attack: Rain of Stone\n        "
+            "name": "Substats Priority",
+            "value": "HP %|HP|Energy Recharge         "
         }
     ],
     "color": 14994176,

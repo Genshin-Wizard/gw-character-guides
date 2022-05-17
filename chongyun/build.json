@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Substats Priority",
-            "value": "ATK %|CRIT Rate|CRIT DMG|Elemental Mastery        "
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Spirit Blade - Cloud-Parting Star\n**2)** Elemental Skill: Spirit Blade - Chonghua's Layered Frost\n**3)** Normal Attack: Demonbane\n        "
         },
         {
             "inline": "false",
-            "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Spirit Blade - Cloud-Parting Star\n**2)** Elemental Skill: Spirit Blade - Chonghua's Layered Frost\n**3)** Normal Attack: Demonbane\n        "
+            "name": "Substats Priority",
+            "value": "ATK %|CRIT Rate|CRIT DMG|Elemental Mastery        "
         }
     ],
     "color": 10147839,

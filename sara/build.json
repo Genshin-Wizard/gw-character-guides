@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Substats Priority",
-            "value": "ATK %|CRIT DMG|CRIT Rate|Energy Recharge        "
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Subjugation - Koukou Sendou\n**2)** Elemental Skill: Tengu Stormcall\n**3)** Normal Attack: Tengu Bowmanship\n        "
         },
         {
             "inline": "false",
-            "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Subjugation - Koukou Sendou\n**2)** Elemental Skill: Tengu Stormcall\n**3)** Normal Attack: Tengu Bowmanship\n        "
+            "name": "Substats Priority",
+            "value": "ATK %|CRIT DMG|CRIT Rate|Energy Recharge        "
         }
     ],
     "color": 11104511,

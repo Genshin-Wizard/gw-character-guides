@@ -35,13 +35,13 @@
         },
         {
             "inline": "true",
-            "name": "Substats Priority",
-            "value": "CRIT Rate|Energy Recharge|CRIT DMG|ATK %          "
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Rites of Termination\n**2)** Elemental Skill: Ravaging Confession\n**3)** Normal Attack: Spear of the Church\n        "
         },
         {
             "inline": "false",
-            "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Rites of Termination\n**2)** Elemental Skill: Ravaging Confession\n**3)** Normal Attack: Spear of the Church\n        "
+            "name": "Substats Priority",
+            "value": "CRIT Rate|Energy Recharge|CRIT DMG|ATK %          "
         }
     ],
     "color": 10147839,
