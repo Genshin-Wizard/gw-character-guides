@@ -34,7 +34,7 @@
             "value": "**1)** Elemental Burst: Stormbreaker\n**2)** Normal Attack: Oceanborne\n**3)** Elemental Skill: Tidecaller\n        "
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % or Energy Recharge | <goblet>  Electro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
         },
