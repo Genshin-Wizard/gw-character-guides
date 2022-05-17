@@ -34,11 +34,6 @@
             "value": "<sands>  Elemental Mastery | <goblet>  Elemental Mastery | <circlet>  Elemental Masterye"
         },
         {
-            "inline": "false",
-            "name": "Notes:",
-            "value": "Swirl Support Characters does not need to Level-up Talents. Just Level up your character for higher Swirl Damage, and keep your Elemental Mastery Sky High"
-        },
-        {
             "inline": "true",
             "name": "Substats Priority",
             "value": "ATK %|Energy Recharge        "
@@ -47,6 +42,11 @@
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Skill: Gale Blade\n**2)** Elemental Burst: Dandelion Breeze\n**3)** Normal Attack: Favonius Bladework\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Swirl Support Characters does not need to Level-up Talents. Just Level up your character for higher Swirl Damage, and keep your Elemental Mastery Sky High"
         }
     ],
     "color": 5494962,
