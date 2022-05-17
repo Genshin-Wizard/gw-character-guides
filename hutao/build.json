@@ -4,32 +4,32 @@
     },
     "fields": [
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Weapon:",
             "value": "Staff of Homa"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Replacement Weapon:",
             "value": "Deathmatch, Primordial Jade Winged-Spear, Dragon's Bane"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Artifact Set:",
             "value": "x4-crimsonwitchofflames"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Second Best Artifact Set:",
             "value": "x4-shimenawasreminiscence"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Third Best Artifact Set:",
             "value": "x2-crimsonwitchofflames|x2-wandererstroupe"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands>  HP % | <goblet>  Pyro DMG Bonus | <circlet>  CRIT DMG or CRIT Rate"
         },

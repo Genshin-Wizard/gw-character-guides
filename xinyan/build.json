@@ -4,32 +4,32 @@
     },
     "fields": [
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Weapon:",
             "value": "Wolf's Gravestone"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Replacement Weapon:",
             "value": "Serpent Spine, Song of Broken Pines, Snow-Tombed Starsilver, Skyward Pride"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Artifact Set:",
             "value": "x4-paleflame"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Second Best Artifact Set:",
             "value": "x2-physical|x2-physical"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Third Best Artifact Set:",
             "value": "x2-physical|x2-attack"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % | <goblet>  Physical DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
         },

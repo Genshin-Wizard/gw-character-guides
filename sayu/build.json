@@ -4,32 +4,32 @@
     },
     "fields": [
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Weapon:",
             "value": "Skyward Pride"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Replacement Weapon:",
             "value": "Skyward Spine, Favonius Greatsword, Wolf's Gravestone"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Artifact Set:",
             "value": "x4-viridescentvenerer"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Second Best Artifact Set:",
             "value": "x2-viridescentvenerer|x2-wandererstroupe"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Third Best Artifact Set:",
             "value": "x4-noblesseoblige"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands>  Elemental Mastery or ATK % or Energy Recharge | <goblet>  Elemental Mastery or ATK % | <circlet>  Elemental Mastery or ATK % or Healing Bonus"
         },

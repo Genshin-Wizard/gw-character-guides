@@ -4,32 +4,32 @@
     },
     "fields": [
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Weapon:",
             "value": "Engulfing Lightning"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Replacement Weapon:",
             "value": "The Catch (R5), Favonious Lance"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Artifact Set:",
             "value": "x4-huskofopulentdreams"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Second Best Artifact Set:",
             "value": "x2-emblemofseveredfate|x2-huskofopulentdreams"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Third Best Artifact Set:",
             "value": "x4-noblesseoblige"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands>  DEF % or Energy Recharge | <goblet>  DEF % | <circlet>  DEF %"
         },

@@ -4,32 +4,32 @@
     },
     "fields": [
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Weapon:",
             "value": "Festering Desire"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Replacement Weapon:",
             "value": "Sacrificial Sword, Favonious Sword, Skyward Blade"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Artifact Set:",
             "value": "x2-archaicpetra|x2-gladiatorsfinale"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Second Best Artifact Set:",
             "value": "x4-archaicpetra"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Third Best Artifact Set:",
             "value": "x4-gladiatorsfinale"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands>  Energy Recharge or ATK % | <goblet>  Geo DMG Bonus or ATK % | <circlet>  ATK % or CRIT Rate"
         },

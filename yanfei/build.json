@@ -4,32 +4,32 @@
     },
     "fields": [
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Weapon:",
             "value": "Lost Prayer to the Sacred Wind"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Replacement Weapon:",
             "value": "Skyward Atlas, Oathsworn Eye, Memory of Dust, Widsth, Solar Pearl, Dodoco Tales"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Artifact Set:",
             "value": "x4-crimsonwitchofflames"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Second Best Artifact Set:",
             "value": "x4-wandererstroupe"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Third Best Artifact Set:",
             "value": "x4-shimenawasreminiscence"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % | <goblet>  Pyro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
         },

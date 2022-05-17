@@ -4,37 +4,37 @@
     },
     "fields": [
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Weapon:",
             "value": "Thundering Pulse"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Replacement Weapon:",
             "value": "Skyward Harp, Polar Star, Rust, Hamayumi"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Artifact Set:",
             "value": "x4-shimenawasreminiscence"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Second Best Artifact Set:",
             "value": "x4-crimsonwitchofflames"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Third Best Artifact Set:",
             "value": "x2-crimsonwitchofflames|x2-attack"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Notes:",
             "value": "Hamayumi bow is **NOT** recommended when Yoimiya is running **4-Piece Shimenawa's Reminiscence**"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % | <goblet>  Pyro DMG Bonus | <circlet>  CRIT Rate/CRIT DMG"
         },

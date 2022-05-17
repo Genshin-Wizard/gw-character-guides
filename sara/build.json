@@ -4,32 +4,32 @@
     },
     "fields": [
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Weapon:",
             "value": "Elegy of the End"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Replacement Weapon:",
             "value": "Polar Star, Thundering Pulse, Favonious Warbow, Sacrificial Bow, Skyward Harp, Alley Hunter"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Artifact Set:",
             "value": "x4-emblemofseveredfate"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Second Best Artifact Set:",
             "value": "x4-noblesseoblige"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Third Best Artifact Set:",
             "value": "x2-noblesseoblige|x2-emblemofseveredfate"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % or Energy Recharge | <goblet>  Electro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
         },

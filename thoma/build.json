@@ -4,37 +4,37 @@
     },
     "fields": [
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Weapon:",
             "value": "Black Tassel"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Replacement Weapon:",
             "value": "Skyward Spine, Favonius Lance, The Catch (R5), Black Tassel"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Artifact Set:",
             "value": "x4-instructor"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Second Best Artifact Set:",
             "value": "x4-noblesseoblige"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Third Best Artifact Set:",
             "value": "x2-tenacityofthemillelith|x2-noblesseoblige"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Notes:",
             "value": "Thoma would want some Crit Rate Sub Stats, if you are running Favonius Lance, to trigger its passive."
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands>  HP % / Energy Recharge | <goblet>  HP % | <circlet>  HP % / Crit Rate"
         },

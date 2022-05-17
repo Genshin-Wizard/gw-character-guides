@@ -4,32 +4,32 @@
     },
     "fields": [
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Weapon:",
             "value": "Skyward Blade"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Replacement Weapon:",
             "value": "Aquila Favonia, Festering Desire, Prototype Rancour"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Artifact Set:",
             "value": "x4-noblesseoblige"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Second Best Artifact Set:",
             "value": "x4-instructor"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Notes:",
             "value": "4pc Instructor is only used for 1-Shot Showcase, and is not recommended for daily-base usage."
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands> Energy Recharge / HP% | <goblet>  HP% | <circlet>  Healing Bonus / HP%"
         },

@@ -4,32 +4,32 @@
     },
     "fields": [
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Weapon:",
             "value": "Wolf's Gravestone"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Replacement Weapon:",
             "value": "Redhorn Stonethresher, Serpent Spine, The Unforged, Rainslasher, Luxurious Sea-Lord"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Artifact Set:",
             "value": "x4-crimsonwitchofflames"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Second Best Artifact Set:",
             "value": "x2-attack|x2-crimsonwitchofflames"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Third Best Artifact Set:",
             "value": "x2-crimsonwitchofflames|x2-wandererstroupe"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % or Elemental Mastery | <goblet>  Pyro DMG Bonus | <circlet>  CRIT DMG or CRIT Rate"
         },

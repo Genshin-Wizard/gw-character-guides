@@ -4,37 +4,37 @@
     },
     "fields": [
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Weapon:",
             "value": "Wolf's Gravestone"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Replacement Weapon:",
             "value": "Serpent Spine, Redhorn Stonethresher, The Unforged, Akuoumaru, Skyward Pride"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Artifact Set:",
             "value": "x4-emblemofseveredfate"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Second Best Artifact Set:",
             "value": "x2-noblesseoblige|x2-thunderingfury"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Third Best Artifact Set:",
             "value": "x2-thunderingfury|x2-attack"
         },
         {
-            "inline": true,
+            "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % or Energy Recharge | <goblet>  Electro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
         },
         {
-            "inline": true,
+            "inline": "true",
             "name": "Substats Priority",
             "value": "Energy Recharge|CRIT Rate|CRIT DMG|ATK %          "
         },

@@ -4,37 +4,37 @@
     },
     "fields": [
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Weapon:",
             "value": "Iron Sting"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Replacement Weapon:",
             "value": "Jade Cutter, Mistsplitter Reforge, Freedom-Sworn, Skyward Blade, Festering Desire, Amenoma Kageuchim (R5)"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Artifact Set:",
             "value": "x4-viridescentvenerer"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Second Best Artifact Set:",
             "value": "x4-noblesseoblige"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Third Best Artifact Set:",
             "value": "x2-viridescentvenerer|x2-emblemofseveredfate"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Notes:",
             "value": "Swirl Support Characters does not need to Level-up Talents. Just Level up your character for higher Swirl Damage, and keep your Elemental Mastery Sky High"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands>  Elemental Mastery | <goblet>  Elemental Mastery | <circlet>  Elemental Masterye"
         },

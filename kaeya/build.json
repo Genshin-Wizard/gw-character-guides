@@ -4,32 +4,32 @@
     },
     "fields": [
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Weapon:",
             "value": "Mistsplitter Reforged"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Replacement Weapon:",
             "value": " Freedom-Sworn, Skyward Blade, Lion's Roar, Favionus Sword, Amenoma, Jade Cutter"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Artifact Set:",
             "value": "x2-blizzardstrayer|x2-gladiatorsfinale/shimenawasreminisence"
         },
         {
-            "inline": true,
+            "inline": "false",
             "name": "Second Best Artifact Set:",
             "value": "x4-emblemofseveredfate"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Third Best Artifact Set:",
             "value": "x4-(melt)lavawalker"
         },
         {
-            "inline": "false",
+            "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % | <goblet>  Cryo DMG Bonus | <circlet>  CRIT DMG"
         },
