@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Cryo DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・ATK %\n・CRIT DMG\n・CRIT Rate\n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Elemental Burst: Kamisato Art - Soumetsu\n**2)** Normal Attack: Kamisato Art - Kabuki\n**3)** Elemental Skill: Kamisato Art - Hyouka\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Kamisato Art - Soumetsu\n**2)** Normal Attack: Kamisato Art - Kabuki\n**3)** Elemental Skill: Kamisato Art - Hyouka\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  ATK % | <goblet>  Cryo DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "ATK %|CRIT DMG|CRIT Rate        "
         }
     ],
     "color": 10147839,
     "type": "rich",
     "title": "Kamisato Ayaka (Main DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Ayaka"
+        "text": "Character Guide â€¢ Build: Ayaka"
     }
 }

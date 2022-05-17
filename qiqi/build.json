@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Energy Recharge or ATK %\n<:gobletofeonothem:957412513958477864> ATK %\n<:circletoflogos:957412513820053594> Healing Bonus or ATK %\n**Substats**\n・ATK %\n・ATK\n・Energy Recharge\n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Elemental Skill: Adeptus Art - Herald of Frost\n**2)** Elemental Burst: Adeptus Art - Preserver of Fortune\n**3)** Normal Attack: Ancient Sword Art\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Adeptus Art - Herald of Frost\n**2)** Elemental Burst: Adeptus Art - Preserver of Fortune\n**3)** Normal Attack: Ancient Sword Art\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  Energy Recharge or ATK % | <goblet>  ATK % | <circlet>  Healing Bonus or ATK %"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "ATK %|ATK|Energy Recharge        "
         }
     ],
     "color": 10147839,
     "type": "rich",
     "title": "Qiqi (Support) | Build",
     "footer": {
-        "text": "Character Guide • Build: Qiqi"
+        "text": "Character Guide â€¢ Build: Qiqi"
     }
 }

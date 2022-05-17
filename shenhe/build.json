@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % or Energy Recharge\n<:gobletofeonothem:957412513958477864> ATK % or Cryo DMG Bonus\n<:circletoflogos:957412513820053594> ATK % or CRIT Rate/CRIT DMG\n**Substats**\n・ATK %\n・Energy Recharge\n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Elemental Skill: Spring Spirit Summoning\n**2)** Elemental Burst: Divine Maiden's Deliverance\n**3)** Normal Attack: Dawnstar Piercer\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Spring Spirit Summoning\n**2)** Elemental Burst: Divine Maiden's Deliverance\n**3)** Normal Attack: Dawnstar Piercer\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  ATK % or Energy Recharge | <goblet>  ATK % or Cryo DMG Bonus | <circlet>  ATK % or CRIT Rate/CRIT DMG"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "ATK %|Energy Recharge        "
         }
     ],
     "color": 10147839,
     "type": "rich",
     "title": "Shenhe (Sub DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Shenhe"
+        "text": "Character Guide â€¢ Build: Shenhe"
     }
 }

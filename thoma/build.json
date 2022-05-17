@@ -30,24 +30,29 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> HP % / Energy Recharge\n<:gobletofeonothem:957412513958477864> HP %\n<:circletoflogos:957412513820053594> HP % / Crit Rate\n**Substats**\n・Energy Recharge\n・HP %\n・Crit Rate\n        "
-        },
-        {
-            "inline": true,
             "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Blazing Blessing\n**2)** Elemental Burst: Imbricated Armor\n**3)** Normal Attack: Swiftshatter Spear\n        "
+            "value": "**1)** Elemental Skill: Blazing Blessing\n**2)** Elemental Burst: Imbricated Armor\n**3)** Normal Attack: Swiftshatter Spear\n        "
         },
         {
             "inline": false,
             "name": "Notes:",
             "value": "Thoma would want some Crit Rate Sub Stats, if you are running Favonius Lance, to trigger its passive."
+        },
+        {
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  HP % / Energy Recharge | <goblet>  HP % | <circlet>  HP % / Crit Rate"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "Energy Recharge|HP %|Crit Rate        "
         }
     ],
     "color": 16733525,
     "type": "rich",
     "title": "Thoma (Support) | Build",
     "footer": {
-        "text": "Character Guide • Build: Thoma"
+        "text": "Character Guide â€¢ Build: Thoma"
     }
 }

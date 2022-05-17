@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> DEF % or Energy Recharge\n<:gobletofeonothem:957412513958477864> DEF or Geo DMG Bonus\n<:circletoflogos:957412513820053594> DEF %\n**Substats**\n・DEF %\n・Energy Recharge\n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Elemental Skill: Inuzaka All-round Defense\n**2)** Elemental Burst: Juuga - Forward Unto Victory\n**3)** Normal Attack: Ripping Fang Fletching\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Inuzaka All-round Defense\n**2)** Elemental Burst: Juuga - Forward Unto Victory\n**3)** Normal Attack: Ripping Fang Fletching\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  DEF % or Energy Recharge | <goblet>  DEF or Geo DMG Bonus | <circlet>  DEF %"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "DEF %|Energy Recharge        "
         }
     ],
     "color": 14994176,
     "type": "rich",
     "title": "Gorou (Support) | Build",
     "footer": {
-        "text": "Character Guide • Build: Gorou"
+        "text": "Character Guide â€¢ Build: Gorou"
     }
 }

@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> HP %\n<:gobletofeonothem:957412513958477864> HP %\n<:circletoflogos:957412513820053594> HP %\n**Substats**\n・HP %\n・HP\n・Energy Recharge \n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Elemental Skill: Dominus Lapidis\n**2)** Elemental Burst: Planet Befall\n**3)** Normal Attack: Rain of Stone\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Dominus Lapidis\n**2)** Elemental Burst: Planet Befall\n**3)** Normal Attack: Rain of Stone\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  HP % | <goblet>  HP % | <circlet>  HP %"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "HP %|HP|Energy Recharge         "
         }
     ],
     "color": 14994176,
     "type": "rich",
     "title": "Zhongli (Support) | Build",
     "footer": {
-        "text": "Character Guide • Build: Zhongli"
+        "text": "Character Guide â€¢ Build: Zhongli"
     }
 }

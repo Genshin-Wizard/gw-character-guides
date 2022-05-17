@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n     **Main Stats**\n<:sandsofeon:957412516038844486>DEF %\n<:gobletofeonothem:957412513958477864> Geo DMG Bonus or DEF %\n<:circletoflogos:957412513820053594> DEF %, CRIT Rate, or CRIT DMG\n**Substats**\n・DEF %\n・CRIT DMG\n・CRIT Rate  \n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Elemental Burst: Sweeping Time\n**2)** Elemental Skill: Breastplate\n**3)** Normal Attack: Favonious Bladework- Maid\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Sweeping Time\n**2)** Elemental Skill: Breastplate\n**3)** Normal Attack: Favonious Bladework- Maid\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands> DEF % | <goblet>  Geo DMG Bonus or DEF % | <circlet>  DEF %, CRIT Rate, or CRIT DMG"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "DEF %|CRIT DMG|CRIT Rate          "
         }
     ],
     "color": 14994176,
     "type": "rich",
     "title": "Noelle (Main DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Noelle"
+        "text": "Character Guide â€¢ Build: Noelle"
     }
 }

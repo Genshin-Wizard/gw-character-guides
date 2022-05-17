@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Pyro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・CRIT Rate\n・CRIT DMG\n・ATK %  \n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Normal Attack: Seal of Approval\n**2)** Elemental Burst: Done Deal\n**3)** Elemental Skill: Signed Edict\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Normal Attack: Seal of Approval\n**2)** Elemental Burst: Done Deal\n**3)** Elemental Skill: Signed Edict\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  ATK % | <goblet>  Pyro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "CRIT Rate|CRIT DMG|ATK %          "
         }
     ],
     "color": 16733525,
     "type": "rich",
     "title": "Yanfei (Main DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Yanfei"
+        "text": "Character Guide â€¢ Build: Yanfei"
     }
 }

@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> HP % or Energy Recharge\n<:gobletofeonothem:957412513958477864> HP or Hydro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT DMG / CRIT Rate\n**Substats**\n・HP %\n・CRIT Rate\n・CRIT DMG\n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Elemental Burst: Depth-Clarion Dice\n**2)** Elemental Skill: Lingering Lifeline\n**3)** Normal Attack: Stealthy Bowshot\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Depth-Clarion Dice\n**2)** Elemental Skill: Lingering Lifeline\n**3)** Normal Attack: Stealthy Bowshot\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  HP % or Energy Recharge | <goblet>  HP or Hydro DMG Bonus | <circlet>  CRIT DMG / CRIT Rate"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "HP %|CRIT Rate|CRIT DMG        "
         }
     ],
     "color": 3245055,
     "type": "rich",
     "title": "Yelan (Speculation Build) | Build",
     "footer": {
-        "text": "Character Guide • Build: Yelan"
+        "text": "Character Guide â€¢ Build: Yelan"
     }
 }

@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n **Main Stats**\n<:sandsofeon:957412516038844486>ATK %\n<:gobletofeonothem:957412513958477864> Physical DMG Bonus\n<:circletoflogos:957412513820053594> CRIT DMG or CRIT Rate\n**Substats**\n・ATK %\n・CRIT Rate\n・CRIT DMG  \n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Normal Attack: Steel Fang\n**2)** Elemental Burst: Lightning Fang\n**3)** Elemental Skill: Claw and Thunder\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Normal Attack: Steel Fang\n**2)** Elemental Burst: Lightning Fang\n**3)** Elemental Skill: Claw and Thunder\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands> ATK % | <goblet>  Physical DMG Bonus | <circlet>  CRIT DMG or CRIT Rate"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "ATK %|CRIT Rate|CRIT DMG          "
         }
     ],
     "color": 11104511,
     "type": "rich",
     "title": "Razor (Main DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Razor"
+        "text": "Character Guide â€¢ Build: Razor"
     }
 }

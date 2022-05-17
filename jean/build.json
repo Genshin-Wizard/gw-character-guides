@@ -30,24 +30,29 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Elemental Mastery\n<:gobletofeonothem:957412513958477864> Elemental Mastery\n<:circletoflogos:957412513820053594> Elemental Masterye\n**Substats**\n・ATK %\n・Energy Recharge\n        "
-        },
-        {
-            "inline": true,
             "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Gale Blade\n**2)** Elemental Burst: Dandelion Breeze\n**3)** Normal Attack: Favonius Bladework\n        "
+            "value": "**1)** Elemental Skill: Gale Blade\n**2)** Elemental Burst: Dandelion Breeze\n**3)** Normal Attack: Favonius Bladework\n        "
         },
         {
             "inline": false,
             "name": "Notes:",
             "value": "Swirl Support Characters does not need to Level-up Talents. Just Level up your character for higher Swirl Damage, and keep your Elemental Mastery Sky High"
+        },
+        {
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  Elemental Mastery | <goblet>  Elemental Mastery | <circlet>  Elemental Masterye"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "ATK %|Energy Recharge        "
         }
     ],
     "color": 5494962,
     "type": "rich",
     "title": "Jean (Swirl Support) | Build",
     "footer": {
-        "text": "Character Guide • Build: Jean"
+        "text": "Character Guide â€¢ Build: Jean"
     }
 }

@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Energy Recharge\n<:gobletofeonothem:957412513958477864> Anemo DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate or CRIT DMG\n**Substats**\n・Energy Recharge\n・CRIT Rate\n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Elemental Burst: Gust Surge\n**2)** Elemntal Skill: Palm Vortex\n**3)** Normal Attack: Foreign Ironwind\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Gust Surge\n**2)** Elemntal Skill: Palm Vortex\n**3)** Normal Attack: Foreign Ironwind\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  Energy Recharge | <goblet>  Anemo DMG Bonus | <circlet>  CRIT Rate or CRIT DMG"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "Energy Recharge|CRIT Rate        "
         }
     ],
     "color": 5494962,
     "type": "rich",
     "title": "Anemo Traveler (Sub DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Anemotraveler"
+        "text": "Character Guide â€¢ Build: Anemotraveler"
     }
 }

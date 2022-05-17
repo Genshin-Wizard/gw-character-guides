@@ -30,24 +30,29 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Pyro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate/CRIT DMG\n**Substats**\n・ATK %\n・CRIT DMG\n・CRIT Rate\n        "
-        },
-        {
-            "inline": true,
             "name": "Talent Priority:",
-            "value": "\n**1)** Normal Attack: Firework Flare-Up\n**2)** Elemental Skill: Niwabi Fire-Dance\n**3)** Elemental Burst: Ryuukin Saxifrage\n        "
+            "value": "**1)** Normal Attack: Firework Flare-Up\n**2)** Elemental Skill: Niwabi Fire-Dance\n**3)** Elemental Burst: Ryuukin Saxifrage\n        "
         },
         {
             "inline": false,
             "name": "Notes:",
             "value": "Hamayumi bow is **NOT** recommended when Yoimiya is running **4-Piece Shimenawa's Reminiscence**"
+        },
+        {
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  ATK % | <goblet>  Pyro DMG Bonus | <circlet>  CRIT Rate/CRIT DMG"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "ATK %|CRIT DMG|CRIT Rate        "
         }
     ],
     "color": 16733525,
     "type": "rich",
     "title": "Yoimiya (Pyro DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Yoimiya"
+        "text": "Character Guide â€¢ Build: Yoimiya"
     }
 }

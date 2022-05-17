@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % or Elemental Mastery\n<:gobletofeonothem:957412513958477864> Hydro DMG Bonus/ATK %/E.Mastery\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG / ATK %\n**Substats**\n・CRIT DMG\n・CRIT Rate\n・ATK %\n・Elemental Mastery \n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Elemental Burst: Stellaris Phantasm\n**2)** Normal Attack: Ripple of Fate\n**3)** Elemental Skill: Mirror Reflection of Doom\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Stellaris Phantasm\n**2)** Normal Attack: Ripple of Fate\n**3)** Elemental Skill: Mirror Reflection of Doom\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  ATK % or Elemental Mastery | <goblet>  Hydro DMG Bonus/ATK %/E.Mastery | <circlet>  CRIT Rate / CRIT DMG / ATK %"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "CRIT DMG|CRIT Rate|ATK %|Elemental Mastery         "
         }
     ],
     "color": 3245055,
     "type": "rich",
     "title": "Mona (Sub DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Mona"
+        "text": "Character Guide â€¢ Build: Mona"
     }
 }

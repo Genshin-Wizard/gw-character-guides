@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Geo DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・ATK %\n・CRIT Rate\n・CRIT DMG\n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Normal Attack: Sparkling Scatter\n**2)** Elemental Burst: Starshatter\n**3)** Elemental Skill: Jade Screen\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Normal Attack: Sparkling Scatter\n**2)** Elemental Burst: Starshatter\n**3)** Elemental Skill: Jade Screen\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  ATK % | <goblet>  Geo DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "ATK %|CRIT Rate|CRIT DMG        "
         }
     ],
     "color": 14994176,
     "type": "rich",
     "title": "Ningguang (Main DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Ningguang"
+        "text": "Character Guide â€¢ Build: Ningguang"
     }
 }

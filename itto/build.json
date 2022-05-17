@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> DEF %\n<:gobletofeonothem:957412513958477864> Geo DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・DEF %\n・CRIT DMG\n・CRIT Rate\n・Energy Recharge\n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Elemental Burst: Royal Descent - Behold, Itto the Evil!\n**2)** Elemental Skill: Masatsu Zetsugi - Akaushi Burst!\n**3)** Normal Attack: Fight Club Legend\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Royal Descent - Behold, Itto the Evil!\n**2)** Elemental Skill: Masatsu Zetsugi - Akaushi Burst!\n**3)** Normal Attack: Fight Club Legend\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  DEF % | <goblet>  Geo DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "DEF %|CRIT DMG|CRIT Rate|Energy Recharge        "
         }
     ],
     "color": 14994176,
     "type": "rich",
     "title": "Arataki Itto (Main DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Itto"
+        "text": "Character Guide â€¢ Build: Itto"
     }
 }

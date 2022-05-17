@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> HP %\n<:gobletofeonothem:957412513958477864> Pyro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT DMG or CRIT Rate\n**Substats**\n・CRIT Rate\n・HP %\n・CRIT DMG \n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Normal Attack: Secret Spear of Wangsheng\n**2)** Elemental Skill: Guide to Afterlife\n**3)** Elemental Burst: Spirit Soother\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Normal Attack: Secret Spear of Wangsheng\n**2)** Elemental Skill: Guide to Afterlife\n**3)** Elemental Burst: Spirit Soother\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  HP % | <goblet>  Pyro DMG Bonus | <circlet>  CRIT DMG or CRIT Rate"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "CRIT Rate|HP %|CRIT DMG         "
         }
     ],
     "color": 16733525,
     "type": "rich",
     "title": "Hu Tao (Main DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Hutao"
+        "text": "Character Guide â€¢ Build: Hutao"
     }
 }

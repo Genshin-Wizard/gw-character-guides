@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % or Energy Recharge\n<:gobletofeonothem:957412513958477864> Electro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・ATK %\n・CRIT Rate\n・CRIT DMG\n・ Energy Recharge\n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Elemental Burst: Bellowing Thunder\n**2)** Elemntal Skill: Lightning Blade\n**3)** Normal Attack: Foreign Thundershock\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Bellowing Thunder\n**2)** Elemntal Skill: Lightning Blade\n**3)** Normal Attack: Foreign Thundershock\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  ATK % or Energy Recharge | <goblet>  Electro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "ATK %|CRIT Rate|CRIT DMG| Energy Recharge        "
         }
     ],
     "color": 11104511,
     "type": "rich",
     "title": "Electro Traveler (Sub DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Electrotraveler"
+        "text": "Character Guide â€¢ Build: Electrotraveler"
     }
 }

@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Energy Recharge or HP%\n<:gobletofeonothem:957412513958477864> HP%\n<:circletoflogos:957412513820053594> Healing Bonus / HP%\n**Substats**\n・HP%\n・HP\n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Elemental Skill: Icy Paws\n**2)** Elemental Burst: Signature Mix\n**3)** Normal Attack: KÃƒÂ¤tzlein Style \n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Icy Paws\n**2)** Elemental Burst: Signature Mix\n**3)** Normal Attack: Kätzlein Style \n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  Energy Recharge or HP% | <goblet>  HP% | <circlet>  Healing Bonus / HP%"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "HP%|HP        "
         }
     ],
     "color": 10147839,
     "type": "rich",
     "title": "Diona (Support) | Build",
     "footer": {
-        "text": "Character Guide • Build: Diona"
+        "text": "Character Guide â€¢ Build: Diona"
     }
 }

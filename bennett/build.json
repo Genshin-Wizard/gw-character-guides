@@ -25,24 +25,29 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486>Energy Recharge / HP%\n<:gobletofeonothem:957412513958477864> HP%\n<:circletoflogos:957412513820053594> Healing Bonus / HP%\n**Substats**\n・Energy Recharge\n・HP%\n        "
-        },
-        {
-            "inline": true,
             "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Burst: Fantastic Voyage\n**2)** Elemental Skill: Passion Overload\n**3)** Normal Attack: Strike of Fortune \n        "
+            "value": "**1)** Elemental Burst: Fantastic Voyage\n**2)** Elemental Skill: Passion Overload\n**3)** Normal Attack: Strike of Fortune \n        "
         },
         {
             "inline": false,
             "name": "Notes:",
             "value": "4pc Instructor is only used for 1-Shot Showcase, and is not recommended for daily-base usage."
+        },
+        {
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands> Energy Recharge / HP% | <goblet>  HP% | <circlet>  Healing Bonus / HP%"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "Energy Recharge|HP%        "
         }
     ],
     "color": 16733525,
     "type": "rich",
     "title": "Bennett (Support) | Build",
     "footer": {
-        "text": "Character Guide • Build: Bennett"
+        "text": "Character Guide â€¢ Build: Bennett"
     }
 }

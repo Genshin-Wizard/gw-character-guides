@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK % or Elemental Mastery\n<:gobletofeonothem:957412513958477864> Pyro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT DMG or CRIT Rate\n**Substats**\n・ATK % or Elemental Mastery\n・CRIT Rate / CRIT DMG / ATK %  \n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Elemental Skill: Searing Onslaught\n**2)** Normal Attack: Tempered Sword \n**3)** Elemental Burst: Dawn\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Searing Onslaught\n**2)** Normal Attack: Tempered Sword \n**3)** Elemental Burst: Dawn\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  ATK % or Elemental Mastery | <goblet>  Pyro DMG Bonus | <circlet>  CRIT DMG or CRIT Rate"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "ATK % or Elemental Mastery|CRIT Rate / CRIT DMG / ATK %          "
         }
     ],
     "color": 16733525,
     "type": "rich",
     "title": "Diluc (Main DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Diluc"
+        "text": "Character Guide â€¢ Build: Diluc"
     }
 }

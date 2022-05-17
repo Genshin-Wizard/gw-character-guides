@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Pyro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・ATK %\n・CRIT Rate\n・CRIT DMG\n・Elemental Mastery  \n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Normal Attack (Charged): Kaboom!\n**2)** Elemental Burst: Sparks 'n' Splash\n**3)** Elemntal Skill: Jumpty Dumpty\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Normal Attack (Charged): Kaboom!\n**2)** Elemental Burst: Sparks 'n' Splash\n**3)** Elemntal Skill: Jumpty Dumpty\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  ATK % | <goblet>  Pyro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "ATK %|CRIT Rate|CRIT DMG|Elemental Mastery          "
         }
     ],
     "color": 16733525,
     "type": "rich",
     "title": "Klee (Main DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Klee"
+        "text": "Character Guide â€¢ Build: Klee"
     }
 }

@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> DEF%\n<:gobletofeonothem:957412513958477864> Geo DMG Bonus\n<:circletoflogos:957412513820053594> CRIT Rate / CRIT DMG\n**Substats**\n・DEF%\n・CRIT Rate\n・CRIT DMG\n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Elemental Skill: Abiogenesis - Solar Isotama\n**2)** Elemntal Burst: Rite of Progeniture - Tectonic Tide\n**3)** Normal Attack: Favonius Bladework- Weiss\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Abiogenesis - Solar Isotama\n**2)** Elemntal Burst: Rite of Progeniture - Tectonic Tide\n**3)** Normal Attack: Favonius Bladework- Weiss\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  DEF% | <goblet>  Geo DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "DEF%|CRIT Rate|CRIT DMG        "
         }
     ],
     "color": 14994176,
     "type": "rich",
     "title": "Albedo (Sub DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Albedo"
+        "text": "Character Guide â€¢ Build: Albedo"
     }
 }

@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> Energy Recharge or HP %\n<:gobletofeonothem:957412513958477864> HP % or Hydro DMG Bonus\n<:circletoflogos:957412513820053594> Healing Bonus or HP %\n**Substats**\n・HP %\n・Energy Recharge\n・Elemental Mastery\n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Elemental Skill: Kurage's Oath\n**2)** Elemental Burst: Nereid's Ascension\n**3)** Normal Attack: The Shape of Water\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Kurage's Oath\n**2)** Elemental Burst: Nereid's Ascension\n**3)** Normal Attack: The Shape of Water\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  Energy Recharge or HP % | <goblet>  HP % or Hydro DMG Bonus | <circlet>  Healing Bonus or HP %"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "HP %|Energy Recharge|Elemental Mastery        "
         }
     ],
     "color": 3245055,
     "type": "rich",
     "title": "Sangonomiya Kokomi (Support) | Build",
     "footer": {
-        "text": "Character Guide • Build: Kokomi"
+        "text": "Character Guide â€¢ Build: Kokomi"
     }
 }

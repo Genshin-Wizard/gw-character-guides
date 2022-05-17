@@ -30,24 +30,29 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Hydro DMG Bonus %\n<:circletoflogos:957412513820053594> CRIT DMG or CRIT Rate\n**Substats**\n・ATK %\n・Energy Recharge\n・CRIT DMG\n・CRIT Rate\n・HP %\n        "
-        },
-        {
-            "inline": true,
             "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Kamisato Art- Kyouka\n**2)** Elemental Burst: Kamisato Art- Suiyuu\n**3)** Normal Attack: Kamisato Art- Marobashi\n        "
+            "value": "**1)** Elemental Skill: Kamisato Art- Kyouka\n**2)** Elemental Burst: Kamisato Art- Suiyuu\n**3)** Normal Attack: Kamisato Art- Marobashi\n        "
         },
         {
             "inline": false,
             "name": "Notes:",
             "value": "Amenoma weapon is NOT recommended for Kamisato Ayato when you are running **4-Piece Shimenawa's Reminiscence**"
+        },
+        {
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  ATK % | <goblet>  Hydro DMG Bonus % | <circlet>  CRIT DMG or CRIT Rate"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "ATK %|Energy Recharge|CRIT DMG|CRIT Rate|HP %        "
         }
     ],
     "color": 3245055,
     "type": "rich",
     "title": "Kamisato Ayato (Main DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Ayato"
+        "text": "Character Guide â€¢ Build: Ayato"
     }
 }

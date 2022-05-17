@@ -30,19 +30,24 @@
         },
         {
             "inline": true,
-            "name": "Stat Priority",
-            "value": "\n**Main Stats**\n<:sandsofeon:957412516038844486> ATK %\n<:gobletofeonothem:957412513958477864> Electro DMG Bonus\n<:circletoflogos:957412513820053594> CRIT DMG or CRIT Rate\n**Substats**\n・CRIT DMG\n・CRIT Rate\n・ATK %\n・Energy Recharge %\n        "
+            "name": "Talent Priority:",
+            "value": "**1)** Elemental Skill: Yakan Evocation: Sesshou Sakura\n**2)** Elemental Burst: Great Secret Art: Tenko Kenshin\n**3)** Normal Attack: Spiritfox Sin-Eater\n        "
         },
         {
-            "inline": true,
-            "name": "Talent Priority:",
-            "value": "\n**1)** Elemental Skill: Yakan Evocation: Sesshou Sakura\n**2)** Elemental Burst: Great Secret Art: Tenko Kenshin\n**3)** Normal Attack: Spiritfox Sin-Eater\n        "
+            "inline": "false",
+            "name": "Main Stats Priority",
+            "value": "<sands>  ATK % | <goblet>  Electro DMG Bonus | <circlet>  CRIT DMG or CRIT Rate"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "CRIT DMG|CRIT Rate|ATK %|Energy Recharge %        "
         }
     ],
     "color": 11104511,
     "type": "rich",
     "title": "Yae Miko (Sub-DPS) | Build",
     "footer": {
-        "text": "Character Guide • Build: Yaemiko"
+        "text": "Character Guide â€¢ Build: Yaemiko"
     }
 }
