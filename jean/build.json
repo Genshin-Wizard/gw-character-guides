@@ -1,58 +1,58 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Jean"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/uuGppMs.png"
     },
     "fields": [
         {
-            "inline": "true",
+            "inline": true,
             "name": "Best Weapon:",
-            "value": "Iron Sting"
+            "value": "Freedom Sworn"
         },
         {
-            "inline": "true",
+            "inline": true,
             "name": "Replacement Weapon:",
-            "value": "Jade Cutter, Mistsplitter Reforge, Freedom-Sworn, Skyward Blade, Festering Desire, Amenoma Kageuchim (R5)"
+            "value": "Jade Cutter, Mistsplitter Reforge, Skyward Blade, Festering Desire, Amenoma Kageuchim (R5),Iron Sting"
         },
         {
-            "inline": "false",
+            "inline": false,
             "name": "Best Artifact Set:",
             "value": "x4-viridescentvenerer"
         },
         {
-            "inline": "false",
+            "inline": false,
             "name": "Second Best Artifact Set:",
             "value": "x4-noblesseoblige"
         },
         {
-            "inline": "false",
+            "inline": false,
             "name": "Third Best Artifact Set:",
             "value": "x2-viridescentvenerer|x2-emblemofseveredfate"
         },
         {
-            "inline": "true",
+            "inline": true,
             "name": "Main Stats Priority",
-            "value": "<sands>  Elemental Mastery | <goblet>  Elemental Mastery | <circlet>  Elemental Masterye"
+            "value": "<sands>  Elemental Mastery | <goblet>  Elemental Mastery | <circlet>  Elemental Mastery"
         },
         {
-            "inline": "true",
+            "inline": true,
             "name": "Substats Priority",
             "value": "ATK %|Energy Recharge        "
         },
         {
-            "inline": "false",
+            "inline": false,
             "name": "Talent Priority",
             "value": "**1)** Elemental Skill: Gale Blade\n**2)** Elemental Burst: Dandelion Breeze\n**3)** Normal Attack: Favonius Bladework\n        "
         },
         {
-            "inline": "false",
+            "inline": false,
             "name": "Notes:",
             "value": "Swirl Support Characters does not need to Level-up Talents. Just Level up your character for higher Swirl Damage, and keep your Elemental Mastery Sky High"
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Jean (Swirl Support) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Jean"
-    }
+    "title": "Jean (Swirl Support) | Build"
 }
