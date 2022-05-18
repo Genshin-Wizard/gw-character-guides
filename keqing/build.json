@@ -1,53 +1,53 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Keqing"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/PQDR6HJ.png"
     },
     "fields": [
         {
-            "inline": "true",
+            "inline": true,
             "name": "Best Weapon:",
             "value": "Mistplitter Reforged"
         },
         {
-            "inline": "true",
+            "inline": true,
             "name": "Replacement Weapon:",
             "value": "Primordial Jade Cutter, The Black Sword, Amenoma Kageuchi, Aquila Favonia, Prototype Rancour"
         },
         {
-            "inline": "false",
+            "inline": false,
             "name": "Best Artifact Set:",
             "value": "x2-thunderingfury|x2-attack"
         },
         {
-            "inline": "false",
+            "inline": false,
             "name": "Second Best Artifact Set:",
             "value": "x4-thundersoother"
         },
         {
-            "inline": "false",
+            "inline": false,
             "name": "Third Best Artifact Set:",
             "value": "x2-attack|x2-attack"
         },
         {
-            "inline": "true",
+            "inline": true,
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % | <goblet>  Electro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
         },
         {
-            "inline": "true",
+            "inline": true,
             "name": "Substats Priority",
-            "value": "ATK %|CRIT Rate|CRIT DMG        "
+            "value": "ATK %|CRIT Rate|CRIT DMG"
         },
         {
-            "inline": "false",
+            "inline": false,
             "name": "Talent Priority",
             "value": "**1)** Normal Attack: Yunlai Swordsmanship\n**2)** Elemental Burst: Starward Sword\n**3)** Elemental Skill: Stellar Restoration\n        "
         }
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Keqing (Electro Main DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Keqing"
-    }
+    "title": "Keqing (Electro Main DPS) | Build"
 }
