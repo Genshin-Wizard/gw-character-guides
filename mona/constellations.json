@@ -8,12 +8,12 @@
     "fields": [
         {
             "inline": false,
-            "name": "Prophecy of Submersion (C1)",
+            "name": "[RECOMMENDED] Prophecy of Submersion (C1)",
             "value": "The effects of Hydro-related Elemental Reactions are enhanced for 8s after a character hits an enemy affected by an Omen:\nElectro-Charged DMG is increased by 15%.\nVaporize DMG is increased by 15%.\nHydro Swirl DMG is increased by 15%.\nThe duration for which enemies are Frozen is increased by 15%."
         },
         {
             "inline": false,
-            "name": "Lunar Chain (C2)",
+            "name": "[RECOMMENDED] Lunar Chain (C2)",
             "value": "When a Normal Attack hits, there is a 20% chance that it will be automatically followed by a Charged Attack.\nThis effect can only occur once every 5s."
         },
         {
@@ -23,7 +23,7 @@
         },
         {
             "inline": false,
-            "name": "Prophecy of Oblivion (C4)",
+            "name": "[RECOMMENDED] Prophecy of Oblivion (C4)",
             "value": "When a character attacks an enemy affected by the Omen status effect, their CRIT Rate is increased by 15%."
         },
         {

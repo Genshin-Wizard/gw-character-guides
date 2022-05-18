@@ -13,7 +13,7 @@
         },
         {
             "inline": false,
-            "name": "Rainbow Upon the Azure Sky (C2)",
+            "name": "[RECOMMENDED] Rainbow Upon the Azure Sky (C2)",
             "value": "Extends the duration of Guhua Sword - Raincutter by 3s.\nDecreases the Hydro RES of enemies hit by sword rain attacks by 15% for 4s."
         },
         {
@@ -33,7 +33,7 @@
         },
         {
             "inline": false,
-            "name": "Hence, Call Them My Own Verses (C6)",
+            "name": "[RECOMMENDED] Hence, Call Them My Own Verses (C6)",
             "value": "Activating 2 of Guhua Sword - Raincutter's sword rain attacks greatly increases the DMG of the third. Xingqiu regenerates 3 Energy when sword rain attacks hit enemies."
         }
     ],

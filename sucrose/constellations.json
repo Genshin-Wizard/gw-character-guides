@@ -8,7 +8,7 @@
     "fields": [
         {
             "inline": false,
-            "name": "Clustered Vacuum Field (C1)",
+            "name": "[RECOMMENDED] Clustered Vacuum Field (C1)",
             "value": "Astable Anemohypostasis Creation - 6308 gains 1 additional charge."
         },
         {
@@ -33,7 +33,7 @@
         },
         {
             "inline": false,
-            "name": "Chaotic Entropy (C6)",
+            "name": "[RECOMMENDED] Chaotic Entropy (C6)",
             "value": "If Forbidden Creation - Isomer 75 / Type II triggers an Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for the corresponding absorbed element during its duration."
         }
     ],

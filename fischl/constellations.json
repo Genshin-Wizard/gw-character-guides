@@ -8,7 +8,7 @@
     "fields": [
         {
             "inline": false,
-            "name": "Gaze of the Deep (C1)",
+            "name": "[RECOMMENDED] Gaze of the Deep (C1)",
             "value": "Even when Oz is not present in combat, he can still watch over Fischl through his raven eyes. When Fischl attacks an enemy, Oz fires a joint attack, dealing 22% of ATK DMG."
         },
         {
@@ -33,7 +33,7 @@
         },
         {
             "inline": false,
-            "name": "Evernight Raven (C6)",
+            "name": "[RECOMMENDED] Evernight Raven (C6)",
             "value": "Increases the duration of Oz's summoning by 2s. Additionally, Oz attacks with the current character when present, dealing 30% of Fischl's ATK as Electro DMG."
         }
     ],

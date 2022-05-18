@@ -13,7 +13,7 @@
         },
         {
             "inline": false,
-            "name": "Vitality Burst (C2)",
+            "name": "[RECOMMENDED] Vitality Burst (C2)",
             "value": "Decreases the CD of Let the Show Begin by 15%.\nDuring the ability's duration, the current character gains 15% Hydro DMG Bonus."
         },
         {
@@ -33,7 +33,7 @@
         },
         {
             "inline": false,
-            "name": "Dedicating Everything to You (C6)",
+            "name": "[RECOMMENDED] Dedicating Everything to You (C6)",
             "value": "When Barbara is not on the field, and the character in play falls:\nAutomatically revives this character.\nFully regenerates this characters HP by 100%.\nThis effect can only occur once every 15 mins."
         }
     ],

@@ -13,7 +13,7 @@
         },
         {
             "inline": false,
-            "name": "Atmospheric Revolution (C2)",
+            "name": "[RECOMMENDED] Atmospheric Revolution (C2)",
             "value": "Elemental Skills and Elemental Bursts cast within the Frost Field created by Spirit Blade - Chongyun's Layered Frost have their CD time decreased by 15%."
         },
         {
@@ -33,7 +33,7 @@
         },
         {
             "inline": false,
-            "name": "Rally of Four Blades (C6)",
+            "name": "[RECOMMENDED] Rally of Four Blades (C6)",
             "value": "Spirit Blade - Cloud-parting Star deals 15% more DMG to enemies with a lower percentage of their Max HP remaining than Chongyun.\nThis skill will also summon 1 additional spirt blade."
         }
     ],

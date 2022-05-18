@@ -23,7 +23,7 @@
         },
         {
             "inline": false,
-            "name": "Slowbake (C4)",
+            "name": "[RECOMMENDED] Slowbake (C4)",
             "value": "Pyronado's duration is increased by 40%."
         },
         {
@@ -33,7 +33,7 @@
         },
         {
             "inline": false,
-            "name": "Condensed Pyronado (C6)",
+            "name": "[RECOMMENDED] Condensed Pyronado (C6)",
             "value": "For the duration of Pyronado, all party members receive a 15% Pyro DMG Bonus."
         }
     ],

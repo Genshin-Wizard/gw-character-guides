@@ -13,7 +13,7 @@
         },
         {
             "inline": false,
-            "name": "Shock Effect (C2)",
+            "name": "[RECOMMENDED] Shock Effect (C2)",
             "value": "When Jade Screen is shattered, its CD will reset.\nCan occur once every 6s."
         },
         {
@@ -33,7 +33,7 @@
         },
         {
             "inline": false,
-            "name": "Grandeur be the Seven Stars (C6)",
+            "name": "[RECOMMENDED] Grandeur be the Seven Stars (C6)",
             "value": "When Starshatter is used, Ningguang gains 7 Star Jades."
         }
     ],

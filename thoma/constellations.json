@@ -23,7 +23,7 @@
         },
         {
             "inline": false,
-            "name": "Long-Term Planning (C4)",
+            "name": "[RECOMMENDED] Long-Term Planning (C4)",
             "value": "After using Crimson Ooyoroi, 15 Energy will be restored to Thoma. "
         },
         {
@@ -33,7 +33,7 @@
         },
         {
             "inline": false,
-            "name": "Burning Heart (C6)",
+            "name": "[RECOMMENDED] Burning Heart (C6)",
             "value": "When a Blazing Barrier is obtained or refreshed, the DMG dealt by all party members' Normal, Charged, and Plunging Attacks is increased by 15% for 6s."
         }
     ],

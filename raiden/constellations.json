@@ -13,7 +13,7 @@
         },
         {
             "inline": false,
-            "name": "Steelbreaker (C2)",
+            "name": "[RECOMMENDED] Steelbreaker (C2)",
             "value": "While using Musou no Hitotachi and in the Musou Isshin state applied by Secret Art: Musou Shinsetsu, the Raiden Shogun's attacks ignore 60% of opponents's DEF."
         },
         {
@@ -23,7 +23,7 @@
         },
         {
             "inline": false,
-            "name": "Pledge of Propriety (C4)",
+            "name": "[RECOMMENDED] Pledge of Propriety (C4)",
             "value": "When the Musou Isshin state applied by Secret Art: Musou Shinsetsu expires, all nearby party members (excluding the Raiden Shogun) gain 30% bonus ATK for 10s."
         },
         {
@@ -33,7 +33,7 @@
         },
         {
             "inline": false,
-            "name": "Wishbearer (C6)",
+            "name": "[RECOMMENDED] Wishbearer (C6)",
             "value": "While in the Musou Isshin state applied by Secret Art: Musou Shinsetsu, attacks by the Raiden Shogun that are considered part of her Elemental Burst will decrease all nearby party members' (but not including the Raiden Shogun herself) Elemental Burst CD by 1s when they hit opponents.\nThis effect can trigger once every 1s, and can trigger a total of 5 times during the state's duration."
         }
     ],

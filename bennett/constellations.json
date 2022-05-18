@@ -8,7 +8,7 @@
     "fields": [
         {
             "inline": false,
-            "name": "Grand Expectation (C1)",
+            "name": "[RECOMMENDED] Grand Expectation (C1)",
             "value": "Fantastic Voyage's ATK increases no longer has an HP restriction, and gains an additional 20% Base ATK."
         },
         {
