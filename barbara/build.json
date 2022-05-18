@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Barbara"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/UNI8hh0.png"
     },
@@ -46,8 +49,5 @@
     ],
     "color": 3245055,
     "type": "rich",
-    "title": "Barbara (Support) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Barbara"
-    }
+    "title": "Barbara (Support) | Build"
 }
