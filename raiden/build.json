@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Raiden"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/4NdsZHk.png"
     },
@@ -11,17 +14,12 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Staff of Homa, Wavebreaker's Fin (R5 recommended), The Catch (R5), Primordial Jade Winged-Spear"
+            "value": "Staff of Homa, Wavebreaker's Fin (R5 recommended), The Catch (R5), Primordial Jade Winged-Spear, Skyward Spine"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
             "value": "x4-emblemofseveredfate"
-        },
-        {
-            "inline": "false",
-            "name": "Note:",
-            "value": "Raiden cannot really afford to use any artifact set other than 4 piece Emblem of Severed Fate as it is so far ahead of any competition. It is highly recommended that you farm that set for Raiden if you intend to build her."
         },
         {
             "inline": "true",
@@ -41,8 +39,5 @@
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Raiden Shogun (Main DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Raiden"
-    }
+    "title": "Raiden Shogun (Main DPS) | Build"
 }
