@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Eula"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/J4NNoqO.png"
     },
@@ -46,8 +49,5 @@
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Eula (Main DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Eula"
-    }
+    "title": "Eula (Main DPS) | Build"
 }
