@@ -1,0 +1,47 @@
+{
+    "footer": {
+        "text": "Character Guide • Introduction: Heizou"
+    },
+    "image": {
+        "url": "https://i.imgur.com/nSL3fPX.png"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/Lurgjy6.png"
+    },
+    "fields": [
+        {
+            "inline": true,
+            "name": "Nation",
+            "value": "Inazuma"
+        },
+        {
+            "inline": true,
+            "name": "Affiliation",
+            "value": "Tenryou Commission"
+        },
+        {
+            "inline": true,
+            "name": "Element Type",
+            "value": "Anemo <:Anemo:951729013859155979>"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "★★★★"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Cervus Minor"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "Catalyst"
+        }
+    ],
+    "color": 5494962,
+    "type": "rich",
+    "description": "Doushin Shikanoin has admirable wit and insight. While he is unfettered and unrestrained in demeanor, one should not dismiss his talents. The Tenryou Commission is incredibly fortunate to have such a man in their ranks.",
+    "title": "Heizou | Introduction"
+}

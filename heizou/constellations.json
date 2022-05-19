@@ -1,0 +1,43 @@
+{
+    "footer": {
+        "text": "Character Guide • Constellations: Heizou"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/Lurgjy6.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "(C1)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "(C2)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "(C3)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "(C4)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "(C5)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "(C6)",
+            "value": "Unknown"
+        }
+    ],
+    "color": 5494962,
+    "type": "rich",
+    "title": "Heizou | Constellations"
+}
