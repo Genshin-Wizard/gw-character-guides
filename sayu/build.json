@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Sayu"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/oYiMaic.png"
     },
@@ -11,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Skyward Spine, Favonius Greatsword, Wolf's Gravestone"
+            "value": "Skyward Spine, Favonius Greatsword, Wolf's Gravestone,Sacrificial Greatsword"
         },
         {
             "inline": "false",
@@ -46,8 +49,5 @@
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Sayu (Support) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Sayu"
-    }
+    "title": "Sayu (Support) | Build"
 }
