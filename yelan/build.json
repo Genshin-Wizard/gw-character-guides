@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Yelan"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/dwSZTla.png"
     },
@@ -46,8 +49,5 @@
     ],
     "color": 3245055,
     "type": "rich",
-    "title": "Yelan (Speculation Build) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Yelan"
-    }
+    "title": "Yelan (Speculation Build) | Build"
 }
