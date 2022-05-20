@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Mona"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/nlEKWI3.png"
     },
@@ -11,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Skyward Atlas, Thrilling Tales of Dragon Slayers, Oathsworn Eye"
+            "value": "Lost Prayer, Skyward Atlas, Thrilling Tales of Dragon Slayers, Oathsworn Eye"
         },
         {
             "inline": "false",
@@ -46,8 +49,5 @@
     ],
     "color": 3245055,
     "type": "rich",
-    "title": "Mona (Sub DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Mona"
-    }
+    "title": "Mona (Sub DPS) | Build"
 }
