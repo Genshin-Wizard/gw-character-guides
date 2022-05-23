@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Amber"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/P3EU7xA.png"
     },
@@ -21,7 +24,7 @@
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x2-gladiatorsfinale/shimenawasreminiscence|x2-crimsonwitchofflames"
+            "value": "x2-attack|x2-crimsonwitchofflames"
         },
         {
             "inline": "false",
@@ -46,8 +49,5 @@
     ],
     "color": 16733525,
     "type": "rich",
-    "title": "Amber (Sub DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Amber"
-    }
+    "title": "Amber (Sub DPS) | Build"
 }
