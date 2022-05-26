@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Itto"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/rV4eWpl.png"
     },
@@ -26,7 +29,7 @@
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x2-huskofopulentdreams|x2-gladiatorsfinale/shimenawasreminiscence"
+            "value": "x2-huskofopulentdreams|x2-attack"
         },
         {
             "inline": "true",
@@ -46,8 +49,5 @@
     ],
     "color": 14994176,
     "type": "rich",
-    "title": "Arataki Itto (Main DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Itto"
-    }
+    "title": "Arataki Itto (Main DPS) | Build"
 }
