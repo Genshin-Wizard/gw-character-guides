@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Xiao"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/uSkv5pg.png"
     },
@@ -11,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Staff of Homa, Blackcliff Pole"
+            "value": "Staff of Homa, Blackcliff Pole, Deathmatch"
         },
         {
             "inline": "false",
@@ -46,8 +49,5 @@
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Xiao (Main DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Xiao"
-    }
+    "title": "Xiao (Main DPS) | Build"
 }
