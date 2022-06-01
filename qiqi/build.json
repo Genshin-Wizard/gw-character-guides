@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Qiqi"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/lp93jNn.png"
     },
@@ -21,12 +24,12 @@
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-tenacityofthemillelith"
+            "value": "x4-noblesseoblige"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x4-maidenbeloved"
+            "value": "x4-tenacityofthemillelith"
         },
         {
             "inline": "true",
@@ -46,8 +49,5 @@
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Qiqi (Support) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Qiqi"
-    }
+    "title": "Qiqi (Support) | Build"
 }
