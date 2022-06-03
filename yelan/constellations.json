@@ -8,33 +8,33 @@
     "fields": [
         {
             "inline": false,
-            "name": "(C1)",
-            "value": "Unknown"
+            "name": "Enter the Plotters (C1)",
+            "value": "Lingering Lifeline gains 1 additional charge."
         },
         {
             "inline": false,
-            "name": "(C2)",
-            "value": "Unknown"
+            "name": "Taking All Comers (C2)",
+            "value": "When 'Exquisite Throw' conducts a coordinated attack, fires an additional arrow dealing 14% of Yelan's Max HP as Hydro DMG. Triggers once every 1.8s."
         },
         {
             "inline": false,
-            "name": "(C3)",
-            "value": "Unknown"
+            "name": "Beware the Trickster's Dice (C3)",
+            "value": "Level of Depth-Clarion Dice increased by 3. Maximum level is 15."
         },
         {
             "inline": false,
-            "name": "(C4)",
-            "value": "Unknown"
+            "name": "Bait-and-Switch (C4)",
+            "value": "Increases all party members' Max HP by 10% for 25s for every opponent marked by Lifeline when it explodes. Maximum 40%."
         },
         {
             "inline": false,
-            "name": "(C5)",
-            "value": "Unknown"
+            "name": "Dealer's Sleight (C5)",
+            "value": "Level of Lingering Lifeline increased by 3. Maximum level is 15."
         },
         {
             "inline": false,
-            "name": "(C6)",
-            "value": "Unknown"
+            "name": "Winner Takes All (C6)",
+            "value": "Yelan enters Mastermind state on using Depth-Clarion Dice. All Normal Attacks become Breakthrough Barbs, becoming Charged Attacks and dealing 156% of a normal Breakthrough Barb's DMG. Lasts 20s or after Yelan fires 5 arrows."
         }
     ],
     "color": 3245055,
