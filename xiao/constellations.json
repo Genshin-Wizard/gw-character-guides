@@ -8,7 +8,7 @@
     "fields": [
         {
             "inline": false,
-            "name": "[RECOMMENDED] Dissolution Eon - Destroyer of Worlds (C1)",
+            "name": "Dissolution Eon - Destroyer of Worlds (C1)",
             "value": "Increases Lemniscatic Wind Cycling's charges by 1."
         },
         {
@@ -33,7 +33,7 @@
         },
         {
             "inline": false,
-            "name": "[RECOMMENDED] Evil Conqueror - Vigilant Yaksha (C6)",
+            "name": "Evil Conqueror - Vigilant Yaksha (C6)",
             "value": "During Bane of All Evil, hitting 2 or more enemies with a Charged Attack grants Lemniscatic Wind Cycling 1 additional charge and reduces Lemniscatic Wind Cycling's CD by 1s."
         }
     ],

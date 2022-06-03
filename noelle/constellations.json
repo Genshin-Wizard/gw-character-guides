@@ -33,7 +33,7 @@
         },
         {
             "inline": false,
-            "name": "[RECOMMENDED] Must Be Spotless (C6)",
+            "name": "Must Be Spotless (C6)",
             "value": "Sweeping Time increases Noelle's ATK by an additional 50% of her DEF.\nAdditionally, every enemy defeated during the skill's duration adds 1s to the duration, up to 10s."
         }
     ],

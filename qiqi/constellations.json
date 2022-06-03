@@ -8,7 +8,7 @@
     "fields": [
         {
             "inline": false,
-            "name": "[RECOMMENDED] Ascetics of Frost (C1)",
+            "name": "Ascetics of Frost (C1)",
             "value": "When the Herald of Frost hits an enemy marked by a Fortune-Preserving Talisman, Qiqi regenerates 2 Energy."
         },
         {
@@ -33,7 +33,7 @@
         },
         {
             "inline": false,
-            "name": "[RECOMMENDED] Rite of Resurrection (C6)",
+            "name": "Rite of Resurrection (C6)",
             "value": "Using Adeptus Art: Preserve of Fortune revives all nearby fallen characters and regenerates 50% of their HP.\nThis effect can only occur once every 15 mins."
         }
     ],

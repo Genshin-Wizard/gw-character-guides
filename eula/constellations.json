@@ -8,7 +8,7 @@
     "fields": [
         {
             "inline": false,
-            "name": "[RECOMMENDED] Tidal Illusion (C1)",
+            "name": "Tidal Illusion (C1)",
             "value": "Every time Icetide Vortex's Grimheart stacks are consumed, Eula's Physical DMG is increased by 30% for 6s.\nEach stack consumed will increase the duration of this effect by 6s up to a maximum of 18s."
         },
         {

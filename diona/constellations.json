@@ -8,12 +8,12 @@
     "fields": [
         {
             "inline": false,
-            "name": "[RECOMMENDED] A Lingering Flavor (C1)",
+            "name": "A Lingering Flavor (C1)",
             "value": "Regenerates 15 Energy for Diona after the effects of Signature Mix end."
         },
         {
             "inline": false,
-            "name": "[RECOMMENDED] Shaken, Not Purred (C2)",
+            "name": "Shaken, Not Purred (C2)",
             "value": "Increases Icy Paws' DMG by 15%, and increases its shield's DMG Absorption by 15%. Additionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the Icy Paws shield's DMG Absorption for 5s."
         },
         {
@@ -33,7 +33,7 @@
         },
         {
             "inline": false,
-            "name": "[RECOMMENDED] Cat's Tail Closing Time (C6)",
+            "name": "Cat's Tail Closing Time (C6)",
             "value": "Characters within Signature Mix's radius will gain the following effects based on their HP amounts:\nIncreasing Incoming Healing Bonus by 30% when HP falls below or is equal to 50%.\nElemental Mastery is increased by 200 when HP is above 50%."
         }
     ],

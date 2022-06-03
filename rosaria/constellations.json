@@ -13,7 +13,7 @@
         },
         {
             "inline": false,
-            "name": "[RECOMMENDED] Land Without Promise (C2)",
+            "name": "Land Without Promise (C2)",
             "value": "The duration of the Ice Lance created by Rites of Termination is increased by 4s."
         },
         {
@@ -33,7 +33,7 @@
         },
         {
             "inline": false,
-            "name": "[RECOMMENDED] Divine Retribution (C6)",
+            "name": "Divine Retribution (C6)",
             "value": "Rites of Termination's attack decreases opponents' Physical RES by 20% for 10s."
         }
     ],

@@ -8,7 +8,7 @@
     "fields": [
         {
             "inline": false,
-            "name": "[RECOMMENDED] Dew-Drinker (C1)",
+            "name": "Dew-Drinker (C1)",
             "value": "Taking DMG from a Charge Level 2 Frostflake Arrow or Frostflake Arrow Bloom decreases opponents' Cryo RES by 15% for 6s.\n\nA hit regenerates 2 Energy for Ganyu. This effect can only occur once per Charge Level Frostflake Arrow, regardless if Frostflake Arrow itself or its Bloom hit the target."
         },
         {
@@ -23,7 +23,7 @@
         },
         {
             "inline": false,
-            "name": "[RECOMMENDED] Westward Sojourn (C4)",
+            "name": "Westward Sojourn (C4)",
             "value": "Opponents standing within the AoE of Celestial Shower take increased DMG. This effect strengthens over time. Increased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%.\nThe effect lingers for 3s after the opponent leaves the AoE."
         },
         {

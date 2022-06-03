@@ -13,7 +13,7 @@
         },
         {
             "inline": false,
-            "name": "[RECOMMENDED] Breeze of Reminiscence (C2)",
+            "name": "Breeze of Reminiscence (C2)",
             "value": "Skyward Sonnet decreases enemy Anemo RES by 12% for 10s.\nEnemies launched by Skyward Sonnet suffer an additional 12% Anemo RES and Physical RES decrease while airborne."
         },
         {
@@ -33,7 +33,7 @@
         },
         {
             "inline": false,
-            "name": "[RECOMMENDED] Storm of Defiance (C6)",
+            "name": "Storm of Defiance (C6)",
             "value": "Targets who take DMG from Wind's Grand Ode have their Anemo RES decreased by 20%.\nIf an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%."
         }
     ],

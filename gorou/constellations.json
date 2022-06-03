@@ -23,7 +23,7 @@
         },
         {
             "inline": false,
-            "name": "[RECOMMENDED] Lapping Hound: Warm as Water (C4)",
+            "name": "Lapping Hound: Warm as Water (C4)",
             "value": "When General's Glory is in the \"Impregnable\" or \"Crunch\" states, it will also heal active characters within its AoE by 50% of Gorou's own DEF every 1.5s."
         },
         {
@@ -33,7 +33,7 @@
         },
         {
             "inline": false,
-            "name": "[RECOMMENDED] Valiant Hound: Mountainous Fealty (C6)",
+            "name": "Valiant Hound: Mountainous Fealty (C6)",
             "value": "For 12s after using Inuzaka All-Round Defense or Juuga: Forward Unto Victory, increases the CRIT DMG of all nearby party members' Geo DMG based on the buff level of the skill's field at the time of use:\n- \"Standing Firm\": +10%\n- \"Impregnable\": +20%\n- \"Crunch\": +40%\nThis effect cannot stack and will take reference from the last instance of the effect that is triggered."
         }
     ],
