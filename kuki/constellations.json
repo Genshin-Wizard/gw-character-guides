@@ -8,33 +8,33 @@
     "fields": [
         {
             "inline": false,
-            "name": "(C1)",
-            "value": "Unknown"
+            "name": "To Cloister Compassion (C1)",
+            "value": "Increases Kariyama Rite's AoE by 50%"
         },
         {
             "inline": false,
-            "name": "(C2)",
-            "value": "Unknown"
+            "name": "To Forsake Fortune (C2)",
+            "value": "Increases Grass Ring of Sanctification's duration by three seconds"
         },
         {
             "inline": false,
-            "name": "(C3)",
-            "value": "Unknown"
+            "name": "To Sequester Sorrow (C3)",
+            "value": "Increases Sanctifying Ring's level by three"
         },
         {
             "inline": false,
-            "name": "(C4)",
-            "value": "Unknown"
+            "name": "To Sever Sealing (C4)",
+            "value": "If a character with the Grass Ring active hits opponents with a normal, plunging, or charged attack, it applies a Thundergrass Mark to the foe, which deals Electro AoE damage equal to 9.7% of Shinobu's max HP"
         },
         {
             "inline": false,
-            "name": "(C5)",
-            "value": "Unknown"
+            "name": "To Cease Courtesies (C5)",
+            "value": "Increases Kariyama Rite's level by three"
         },
         {
             "inline": false,
-            "name": "(C6)",
-            "value": "Unknown"
+            "name": "To Ward Weakness (C6)",
+            "value": "When Kuki Shinobu takes damage that would reduce her HP to 0, she will not be knocked out. The effect triggers when her HP reaches 1 and can only occur once every 60 seconds.\nWhen Shinobu's HP drops below 25%, her Elemental Mastery increases by 150 for 15 seconds. This also can only occur once every 60 seconds."
         }
     ],
     "color": 11104511,
