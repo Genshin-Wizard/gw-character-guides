@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Kuki"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/g5ufyVb.png"
     },
@@ -16,12 +19,12 @@
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "\nUnknown\n"
+            "value": "x4-tenacityofthemillelith"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "\nUnknown\n        "
+            "value": "x4-oceanhuedclam"
         },
         {
             "inline": "false",
@@ -46,8 +49,5 @@
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Kuki (Speculation Build) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Kuki"
-    }
+    "title": "Kuki (Speculation Build) | Build"
 }
