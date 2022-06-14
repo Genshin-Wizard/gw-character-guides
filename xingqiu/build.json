@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Xingqiu"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/YpsKjVK.png"
     },
@@ -6,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Sacrificial Sword"
+            "value": "Primordial Jade Cutter"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Primordial Jade Cutter, Favonious Sword, Festering Desire"
+            "value": "Mistsplitter Reforged, Sacrificial Sword, Favonious Sword, Festering Desire"
         },
         {
             "inline": "false",
@@ -46,8 +49,5 @@
     ],
     "color": 3245055,
     "type": "rich",
-    "title": "Xingqiu (Sub DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Xingqiu"
-    }
+    "title": "Xingqiu (Sub DPS) | Build"
 }
