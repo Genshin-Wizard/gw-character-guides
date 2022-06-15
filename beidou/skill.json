@@ -9,7 +9,7 @@
         {
             "inline": false,
             "name": "Oceanborne",
-            "value": "*Normal Attack*\n> Normal Attack\nPerforms up to 5 successive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous slashes.\n\nAt end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact."
+            "value": "*Normal Attack*\n> > **Normal Attack:** Performs up to 5 successive strikes.\n> **Charged attack:** Drains Stamina over time to perform continuous slashes.\n\nAt end of the sequence, perform a more powerful slash.\n> **Plunging Attack:** Plunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact."
         },
         {
             "inline": false,

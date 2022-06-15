@@ -9,7 +9,7 @@
         {
             "inline": false,
             "name": "Liutian Archery",
-            "value": "*Normal Attack*\n> Normal Attack\nPerform up to 6 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG. While aiming, an icy aura will accumulate on the arrowhead before the arrow is fired.\nHas different effects based on how long the energy has been charged\nCharge Level 1\nFires off an icy arrow that deals Cryo DMG.\nCharge Level 2\nFires off a Frostflake Arrow that deals Cryo DMG.\nThe Frostflake Arrow blooms after hitting its target, dealing AoE Cryo DMG."
+            "value": "*Normal Attack*\n> > **Normal Attack:** Perform up to 6 consecutive shots with a bow.\n> **Charged attack:** Perform a more precise Aimed Shot with increased DMG. While aiming, an icy aura will accumulate on the arrowhead before the arrow is fired.\nHas different effects based on how long the energy has been charged\nCharge Level 1\nFires off an icy arrow that deals Cryo DMG.\nCharge Level 2\nFires off a Frostflake Arrow that deals Cryo DMG.\nThe Frostflake Arrow blooms after hitting its target, dealing AoE Cryo DMG."
         },
         {
             "inline": false,

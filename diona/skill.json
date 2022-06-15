@@ -9,7 +9,7 @@
         {
             "inline": false,
             "name": "Katzlein Style",
-            "value": "*Normal Attack*\n> Normal Attack\nPerforms up to 5 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\n\nWhile aiming, biting frost accumulates on the arrowhead. A fully charged frost arrow will deal Cryo DMG.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+            "value": "*Normal Attack*\n> > **Normal Attack:** Performs up to 5 consecutive shots with a bow.\n> **Charged attack:** Perform a more precise Aimed Shot with increased DMG.\n\nWhile aiming, biting frost accumulates on the arrowhead. A fully charged frost arrow will deal Cryo DMG.\n> **Plunging Attack:** Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
         },
         {
             "inline": false,

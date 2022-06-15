@@ -9,7 +9,7 @@
         {
             "inline": false,
             "name": "Guhua Style",
-            "value": "*Normal Attack*\n> Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-aur to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact."
+            "value": "*Normal Attack*\n> > **Normal Attack:** Performs up to 5 rapid strikes.\n> **Charged attack:** Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n> **Plunging Attack:** Plunges from mid-aur to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact."
         },
         {
             "inline": false,

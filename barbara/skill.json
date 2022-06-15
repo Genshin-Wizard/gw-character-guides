@@ -9,7 +9,7 @@
         {
             "inline": false,
             "name": "Whisper of Water",
-            "value": "*Normal Attack*\n> Normal Attack\nPerform up to 4 water splashes attacks that deal Hydro DMG.\nCharged Attack\nConsumes a certain amount of Stamina to deal AoE Hydro DMG after a short casting time.\nPlunging Attack\nGathering the might of Hydro, Barbara plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Hydro DMG upon impact with the ground."
+            "value": "*Normal Attack*\n> > **Normal Attack:** Perform up to 4 water splashes attacks that deal Hydro DMG.\n> **Charged attack:** Consumes a certain amount of Stamina to deal AoE Hydro DMG after a short casting time.\n> **Plunging Attack:** Gathering the might of Hydro, Barbara plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Hydro DMG upon impact with the ground."
         },
         {
             "inline": false,

@@ -9,7 +9,7 @@
         {
             "inline": false,
             "name": "Rapid Fire",
-            "value": "*Normal Attack*\n> Normal Attack\nPerform up to 4 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\nWhile aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal Cryo DMG\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+            "value": "*Normal Attack*\n> > **Normal Attack:** Perform up to 4 consecutive shots with a bow.\n> **Charged attack:** Perform a more precise Aimed Shot with increased DMG.\nWhile aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal Cryo DMG\n> **Plunging Attack:** Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
         },
         {
             "inline": false,

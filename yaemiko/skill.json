@@ -9,7 +9,7 @@
         {
             "inline": false,
             "name": "Spiritfox Sin-Eater",
-            "value": "*Normal Attack*\n> Normal Attack\nSummons forth kitsune spirits, initiating a maximum of 3 attacks that deal Electro DMG\nCharged Attack\nConsumes a certain amount of Stamina to deal AoE Electro DMG after a short casting time.\nPlunging Attack\nPlunges towards the ground from mid-air, damaging all opponents in her path with thunderous might. Deals AoE Electro DMG upon impact with the ground."
+            "value": "*Normal Attack*\n> > **Normal Attack:** Summons forth kitsune spirits, initiating a maximum of 3 attacks that deal Electro DMG\n> **Charged attack:** Consumes a certain amount of Stamina to deal AoE Electro DMG after a short casting time.\n> **Plunging Attack:** Plunges towards the ground from mid-air, damaging all opponents in her path with thunderous might. Deals AoE Electro DMG upon impact with the ground."
         },
         {
             "inline": false,

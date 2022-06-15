@@ -9,7 +9,7 @@
         {
             "inline": false,
             "name": "Ripple of Fate",
-            "value": "*Normal Attack*\n> Normal Attack\nPerforms up to 4 water splash attacks that deal Hydro DMG.\nCharged Attack\nConsumes a certain amount of Stamina and deals AoE Hydro DMG after a short casting time.\nPlunging Attack\nGathering the might of Hydro, Mona plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Hydro DMG upon impact with the ground."
+            "value": "*Normal Attack*\n> > **Normal Attack:** Performs up to 4 water splash attacks that deal Hydro DMG.\n> **Charged attack:** Consumes a certain amount of Stamina and deals AoE Hydro DMG after a short casting time.\n> **Plunging Attack:** Gathering the might of Hydro, Mona plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Hydro DMG upon impact with the ground."
         },
         {
             "inline": false,

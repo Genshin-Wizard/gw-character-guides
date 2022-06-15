@@ -9,7 +9,7 @@
         {
             "inline": false,
             "name": "Tengu Bowmanship",
-            "value": "*Normal Attack*\n> Normal Attack\nPerform up to 5 consecutive shots with a bow.\nCharged Attack\n Perform a more precise Aimed Shot with increased DMG. While aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal Electro DMG. When in the Crowfeather Cover state, a fully-charged arrow will leave a Crowfeather behind after it hits.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+            "value": "*Normal Attack*\n> > **Normal Attack:** Perform up to 5 consecutive shots with a bow.\n> **Charged attack:**  Perform a more precise Aimed Shot with increased DMG. While aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal Electro DMG. When in the Crowfeather Cover state, a fully-charged arrow will leave a Crowfeather behind after it hits.\n> **Plunging Attack:** Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
         },
         {
             "inline": false,

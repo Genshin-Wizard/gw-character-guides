@@ -9,7 +9,7 @@
         {
             "inline": false,
             "name": "Demonbane",
-            "value": "*Normal Attack*\n> Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous swirling attacks against all nearby enemies.\n\nAt end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact."
+            "value": "*Normal Attack*\n> > **Normal Attack:** Performs up to 4 consecutive strikes.\n> **Charged attack:** Drains Stamina over time to perform continuous swirling attacks against all nearby enemies.\n\nAt end of the sequence, perform a more powerful slash.\n> **Plunging Attack:** Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact."
         },
         {
             "inline": false,

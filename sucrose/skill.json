@@ -9,7 +9,7 @@
         {
             "inline": false,
             "name": "Wind Spirit Creation",
-            "value": "*Normal Attack*\n> Normal Attack\nPerforms up to 4 attacks using Wind Spirits, dealing Anemo DMG.\nCharged Attack\nConsumes a certain amount of Stamina and deals AoE Anemo DMG after a short casting time.\nPlunging Attack\nCalling upon the power of her Wind Spirits, Sucrose plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Anemo DMG upon impact with the ground."
+            "value": "*Normal Attack*\n> > **Normal Attack:** Performs up to 4 attacks using Wind Spirits, dealing Anemo DMG.\n> **Charged attack:** Consumes a certain amount of Stamina and deals AoE Anemo DMG after a short casting time.\n> **Plunging Attack:** Calling upon the power of her Wind Spirits, Sucrose plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Anemo DMG upon impact with the ground."
         },
         {
             "inline": false,

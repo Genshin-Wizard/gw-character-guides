@@ -9,7 +9,7 @@
         {
             "inline": false,
             "name": "Favonius Bladework",
-            "value": "*Normal Attack*\n> Normal Attack\nPerforms up to 5 consecutive strikes.\nCharged Attack\nConsumes a certain amount of Stamina to launch an enemy using the power of wind.\n\nLaunched enemies will slowly fall to the ground.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact."
+            "value": "*Normal Attack*\n> > **Normal Attack:** Performs up to 5 consecutive strikes.\n> **Charged attack:** Consumes a certain amount of Stamina to launch an enemy using the power of wind.\n\nLaunched enemies will slowly fall to the ground.\n> **Plunging Attack:** Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact."
         },
         {
             "inline": false,
