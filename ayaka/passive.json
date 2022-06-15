@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Amatsumi Kunitsumi Sanctification",
-            "value": "After using Kamisato Art: Hyouka, Kamisato Ayaka's Normal and Charged attacks deal 30% increased DMG for 6s.\n*Unlocked at Ascension 1*"
+            "name": "Amatsumi Kunitsumi Sanctification",
+            "value": "*Unlocked at Ascension 1*\n> After using Kamisato Art: Hyouka, Kamisato Ayaka's Normal and Charged attacks deal 30% increased DMG for 6s."
         },
         {
             "inline": false,
-            "name": "> Kanten Senmyou Blessing",
-            "value": "When the Cryo application at the end of Kamisato Art: Senho hits an opponent, Kamisato Ayaka gains the following effects:\nRestores 10 Stamina\nGains 18% Cryo DMG Bonus for 10s.\n*Unlocked at Ascension 4*"
+            "name": "Kanten Senmyou Blessing",
+            "value": "*Unlocked at Ascension 4*\n> When the Cryo application at the end of Kamisato Art: Senho hits an opponent, Kamisato Ayaka gains the following effects:\nRestores 10 Stamina\nGains 18% Cryo DMG Bonus for 10s."
         },
         {
             "inline": false,
-            "name": "> Fruits of Shinsa",
-            "value": "When Ayaka crafts Weapon Ascension Materials, she has a 10% chance to receive double the product.\n*Unlocked Automatically*"
+            "name": "Fruits of Shinsa",
+            "value": "*Unlocked Automatically*\n> When Ayaka crafts Weapon Ascension Materials, she has a 10% chance to receive double the product."
         }
     ],
     "color": 10147839,

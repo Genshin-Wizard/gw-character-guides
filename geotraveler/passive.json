@@ -8,13 +8,13 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Shattered Darkrock",
-            "value": "Reduces Starfell Sword's CD by 2s.\n*Unlocked at Ascension 1*"
+            "name": "Shattered Darkrock",
+            "value": "*Unlocked at Ascension 1*\n> Reduces Starfell Sword's CD by 2s."
         },
         {
             "inline": false,
-            "name": "> Frenzied Rockslide",
-            "value": "The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK as AoE Geo DMG.\n*Unlocked at Ascension 4*"
+            "name": "Frenzied Rockslide",
+            "value": "*Unlocked at Ascension 4*\n> The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK as AoE Geo DMG."
         }
     ],
     "color": 14994176,

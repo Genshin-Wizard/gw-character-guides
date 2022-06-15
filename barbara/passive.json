@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Glorious Season",
-            "value": "The Stamina Consumption of characters within Let the Show Begin's Melody Loop is reduced by 12%.\n*Unlocked at Ascension 1*"
+            "name": "Glorious Season",
+            "value": "*Unlocked at Ascension 1*\n> The Stamina Consumption of characters within Let the Show Begin's Melody Loop is reduced by 12%."
         },
         {
             "inline": false,
-            "name": "> Encore",
-            "value": "When a character gains an Elemental Orb/Particle, the duration of Let the Show Begin's Melody Loop is extended by 1s.\nThe maximum extension is 5s.\n*Unlocked at Ascension 4*"
+            "name": "Encore",
+            "value": "*Unlocked at Ascension 4*\n> When a character gains an Elemental Orb/Particle, the duration of Let the Show Begin's Melody Loop is extended by 1s.\nThe maximum extension is 5s."
         },
         {
             "inline": false,
-            "name": "> With My Whole Heart",
-            "value": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.\n*Unlocked Automatically*"
+            "name": "With My Whole Heart",
+            "value": "*Unlocked Automatically*\n> When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product."
         }
     ],
     "color": 3245055,

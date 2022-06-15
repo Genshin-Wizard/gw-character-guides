@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Relentless",
-            "value": "Diluc's Charged Attack Stamina Cost is decreased by 50%, and its duration is increased by 3s.\n*Unlocked at Ascension 1*"
+            "name": "Relentless",
+            "value": "*Unlocked at Ascension 1*\n> Diluc's Charged Attack Stamina Cost is decreased by 50%, and its duration is increased by 3s."
         },
         {
             "inline": false,
-            "name": "> Blessing of Phoenix",
-            "value": "The Pyro Enchantment provided by Dawn lasts for 4s longer. Additionally, Diluc gains 20% Pyro DMG Bonus during the duration of this effect.\n*Unlocked at Ascension 4*"
+            "name": "Blessing of Phoenix",
+            "value": "*Unlocked at Ascension 4*\n> The Pyro Enchantment provided by Dawn lasts for 4s longer. Additionally, Diluc gains 20% Pyro DMG Bonus during the duration of this effect."
         },
         {
             "inline": false,
-            "name": "> Tradition of the Dawn Knight",
-            "value": "Refunds 15% of the ores used when crafting Claymore-type weapons.\n*Unlocked Automatically*"
+            "name": "Tradition of the Dawn Knight",
+            "value": "*Unlocked Automatically*\n> Refunds 15% of the ores used when crafting Claymore-type weapons."
         }
     ],
     "color": 16733525,

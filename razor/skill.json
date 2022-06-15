@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Steel Fang",
-            "value": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous swirling attacks against all nearby enemies.\n\nAt end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.\n*Normal Attack*"
+            "name": "Steel Fang",
+            "value": "*Normal Attack*\n> Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous swirling attacks against all nearby enemies.\n\nAt end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact."
         },
         {
             "inline": false,
-            "name": "> Claw and Thunder",
-            "value": "Hunts his prey using the techniques taught to him by his master and his Lupical.\nPress\nSwings the Thunder Wolf Claw, dealing Electro DMG to enemies in front of Razor.\n\nUpon striking an enemy, Razor will gain an Electro Sigil, which increases his Energy Recharge rate.\n\nRazor can have up to 3 Electro Sigils simultaneously, and gaining a new Electro Sigil refreshes their duration.\nHold\nGathers Electro energy to unleash a lightning storm over a small AoE, causing massive Electro DMG, and clears all of Razor's Electro Sigils.\n\nEach Electro Sigil cleared in this manner will be converted into Energy for Razor.\n*Elemental Skill*"
+            "name": "Claw and Thunder",
+            "value": "*Elemental Skill*\n> Hunts his prey using the techniques taught to him by his master and his Lupical.\nPress\nSwings the Thunder Wolf Claw, dealing Electro DMG to enemies in front of Razor.\n\nUpon striking an enemy, Razor will gain an Electro Sigil, which increases his Energy Recharge rate.\n\nRazor can have up to 3 Electro Sigils simultaneously, and gaining a new Electro Sigil refreshes their duration.\nHold\nGathers Electro energy to unleash a lightning storm over a small AoE, causing massive Electro DMG, and clears all of Razor's Electro Sigils.\n\nEach Electro Sigil cleared in this manner will be converted into Energy for Razor."
         },
         {
             "inline": false,
-            "name": "> Lightning Fang",
-            "value": "Summons the Wolf Within which deals Electro DMG to all nearby opponents. This clears all of Razor's Electro Sigils, which will be converted into elemental energy for him.\n\nThe Wolf Within will fight alongside Razor for the skill's duration.\nThe Wolf Within\n\nStrikes alongside Razor's normal attacks, dealing Electro DMG.\nRaises Razor's ATK SPD and Electro RES.\nCauses Razor to be immune to DMG inflicted by the Electro-Charged status.\nDisables Razor's Charged Attacks.\n\nThe effects end when Razor leaves the battlefield.\n\nWhen Razor leaves the field, a maximum of 10 Energy will be returned to him based off the duration remaining on this skill.\n*Elemental Burst*"
+            "name": "Lightning Fang",
+            "value": "*Elemental Burst*\n> Summons the Wolf Within which deals Electro DMG to all nearby opponents. This clears all of Razor's Electro Sigils, which will be converted into elemental energy for him.\n\nThe Wolf Within will fight alongside Razor for the skill's duration.\nThe Wolf Within\n\nStrikes alongside Razor's normal attacks, dealing Electro DMG.\nRaises Razor's ATK SPD and Electro RES.\nCauses Razor to be immune to DMG inflicted by the Electro-Charged status.\nDisables Razor's Charged Attacks.\n\nThe effects end when Razor leaves the battlefield.\n\nWhen Razor leaves the field, a maximum of 10 Energy will be returned to him based off the duration remaining on this skill."
         }
     ],
     "color": 11104511,

@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Spear of the Church",
-            "value": "Normal Attack\nPerforms up to five rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to lunge forward, dealing damage to enemies along the way.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.\n*Normal Attack*"
+            "name": "Spear of the Church",
+            "value": "*Normal Attack*\n> Normal Attack\nPerforms up to five rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to lunge forward, dealing damage to enemies along the way.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
         },
         {
             "inline": false,
-            "name": "> Ravaging Confession",
-            "value": "Rosaria swiftly positions herself behind her opponent, then pierces and slashes the enemy with her polearm, dealing Cryo DMG.\nRosaria cannot use this ability to move behind larger opponents.\n*Elemental Skill*"
+            "name": "Ravaging Confession",
+            "value": "*Elemental Skill*\n> Rosaria swiftly positions herself behind her opponent, then pierces and slashes the enemy with her polearm, dealing Cryo DMG.\nRosaria cannot use this ability to move behind larger opponents."
         },
         {
             "inline": false,
-            "name": "> Rites of Termination",
-            "value": "Rosaria's unique take on this prayer ritual.\nFirst, she swings her weapon to slash surrounding enemies; then, she summons a frigid Ice Lance that strikes the ground. Both actions deal Cryo DMG.\nWhile active, the Ice Lance periodically releases a blast of cold air, dealing Cryo DMG to surrounding enemies.\n*Elemental Burst*"
+            "name": "Rites of Termination",
+            "value": "*Elemental Burst*\n> Rosaria's unique take on this prayer ritual.\nFirst, she swings her weapon to slash surrounding enemies; then, she summons a frigid Ice Lance that strikes the ground. Both actions deal Cryo DMG.\nWhile active, the Ice Lance periodically releases a blast of cold air, dealing Cryo DMG to surrounding enemies."
         }
     ],
     "color": 10147839,

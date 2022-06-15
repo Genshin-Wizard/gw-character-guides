@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Every Arrow Finds Its Target",
-            "value": "Increases the CRIT Rate of Fiery Rain by 10% and widens its AoE by 30%.\n*Unlocked at Ascension 1*"
+            "name": "Every Arrow Finds Its Target",
+            "value": "*Unlocked at Ascension 1*\n> Increases the CRIT Rate of Fiery Rain by 10% and widens its AoE by 30%."
         },
         {
             "inline": false,
-            "name": "> Precise Shot",
-            "value": "Aimed Shot hits on weak spots increase Base ATK by 15% for 10s.\n*Unlocked at Ascension 4*"
+            "name": "Precise Shot",
+            "value": "*Unlocked at Ascension 4*\n> Aimed Shot hits on weak spots increase Base ATK by 15% for 10s."
         },
         {
             "inline": false,
-            "name": "> Gliding Champion",
-            "value": "Decreases all party members' gliding Stamina Consumption by 20%.\nThe greatest effect out of all Talents of the same type prevails.\n*Unlocked Automatically*"
+            "name": "Gliding Champion",
+            "value": "*Unlocked Automatically*\n> Decreases all party members' gliding Stamina Consumption by 20%.\nThe greatest effect out of all Talents of the same type prevails."
         }
     ],
     "color": 16733525,

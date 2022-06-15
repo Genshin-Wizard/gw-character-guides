@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Light Nourishment",
-            "value": "When Perfect Cooking is achieved on Food with Adventure-related effects, there is a 12% chance to obtain double the product.\n*Unlocked Automatically*"
+            "name": "Light Nourishment",
+            "value": "*Unlocked Automatically*\n> When Perfect Cooking is achieved on Food with Adventure-related effects, there is a 12% chance to obtain double the product."
         },
         {
             "inline": false,
-            "name": "> True to Oneself",
-            "value": "Using Opening Flourish at the precise moment when Yun Jin is attacked will unleash its Level 2 Charged (Hold) form.\n*Unlocked at Ascension 1*"
+            "name": "True to Oneself",
+            "value": "*Unlocked at Ascension 1*\n> Using Opening Flourish at the precise moment when Yun Jin is attacked will unleash its Level 2 Charged (Hold) form."
         },
         {
             "inline": false,
-            "name": "> Breaking Conventions",
-            "value": "The Normal Attack DMG Bonus granted by Flying Cloud Flag Formation is further increased by 2.5%/5%/7.5%/11.5% of Yun Jin's DEF when the party contains characters of 1/2/3/4 Elemental Types, respectively.\n*Unlocked at Ascension 4*"
+            "name": "Breaking Conventions",
+            "value": "*Unlocked at Ascension 4*\n> The Normal Attack DMG Bonus granted by Flying Cloud Flag Formation is further increased by 2.5%/5%/7.5%/11.5% of Yun Jin's DEF when the party contains characters of 1/2/3/4 Elemental Types, respectively."
         }
     ],
     "color": 14994176,

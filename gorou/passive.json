@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Seeker of Shinies",
-            "value": "Displays the location of nearby resources unique to Inazuma on the mini-map.\n*Unlocked Automatically*"
+            "name": "Seeker of Shinies",
+            "value": "*Unlocked Automatically*\n> Displays the location of nearby resources unique to Inazuma on the mini-map."
         },
         {
             "inline": false,
-            "name": "> Heedless of the Wind and Weather",
-            "value": "After using Juuga: Forward Unto Victory, all nearby party members' DEF is increased by 25% for 12s.\n*Unlocked at Ascension 1*"
+            "name": "Heedless of the Wind and Weather",
+            "value": "*Unlocked at Ascension 1*\n> After using Juuga: Forward Unto Victory, all nearby party members' DEF is increased by 25% for 12s."
         },
         {
             "inline": false,
-            "name": "> A Favor Repaid",
-            "value": "Gorou receives the following DMG Bonuses to his attacks based on his DEF:\n- Inuzaka All-Round Defense: Skill DMG increased by 156% of DEF\n- Juuga: Forward Unto Victory: Skill DMG and Crystal Collapse DMG increased by 15.6% of DEF\n*Unlocked at Ascension 4*"
+            "name": "A Favor Repaid",
+            "value": "*Unlocked at Ascension 4*\n> Gorou receives the following DMG Bonuses to his attacks based on his DEF:\n- Inuzaka All-Round Defense: Skill DMG increased by 156% of DEF\n- Juuga: Forward Unto Victory: Skill DMG and Crystal Collapse DMG increased by 15.6% of DEF"
         }
     ],
     "color": 14994176,

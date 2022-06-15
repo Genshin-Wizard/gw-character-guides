@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Backup Plan",
-            "value": "When Ningguang is in possession of Star Jades, her Charged Attack does not consume Stamina.\n*Unlocked at Ascension 1*"
+            "name": "Backup Plan",
+            "value": "*Unlocked at Ascension 1*\n> When Ningguang is in possession of Star Jades, her Charged Attack does not consume Stamina."
         },
         {
             "inline": false,
-            "name": "> Strategic Reserve",
-            "value": "A character that passes through the Jade Screen will gain a 12% Geo DMG Bonus for 10s.\n*Unlocked at Ascension 4*"
+            "name": "Strategic Reserve",
+            "value": "*Unlocked at Ascension 4*\n> A character that passes through the Jade Screen will gain a 12% Geo DMG Bonus for 10s."
         },
         {
             "inline": false,
-            "name": "> Trove of Marvelous Treasure",
-            "value": "Displays the location of nearby ore veins (Iron Ore, White Iron Ore, Crystal Ore, and Magical Crystal Ore) on the mini-map.\n*Unlocked Automatically*"
+            "name": "Trove of Marvelous Treasure",
+            "value": "*Unlocked Automatically*\n> Displays the location of nearby ore veins (Iron Ore, White Iron Ore, Crystal Ore, and Magical Crystal Ore) on the mini-map."
         }
     ],
     "color": 14994176,

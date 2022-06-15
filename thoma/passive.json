@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Imbricated Armor",
-            "value": "When your current active character obtains or refreshes a Blazing Barrier, this character's Shield Strength will increase by 5% for 6s.\nThis effect can be triggered once every 0.3 seconds. Max 5 stacks.\n*Unlocked at Ascension 1*"
+            "name": "Imbricated Armor",
+            "value": "*Unlocked at Ascension 1*\n> When your current active character obtains or refreshes a Blazing Barrier, this character's Shield Strength will increase by 5% for 6s.\nThis effect can be triggered once every 0.3 seconds. Max 5 stacks."
         },
         {
             "inline": false,
-            "name": "> Flaming Assault",
-            "value": "DMG dealt by Crimson Ooyoroi's Fiery Collapse is increased by 2.2% of Thoma's Max HP. \n*Unlocked at Ascension 4*"
+            "name": "Flaming Assault",
+            "value": "*Unlocked at Ascension 4*\n> DMG dealt by Crimson Ooyoroi's Fiery Collapse is increased by 2.2% of Thoma's Max HP. "
         },
         {
             "inline": false,
-            "name": "> Snap and Swing",
-            "value": "When you fish successfully in Inazuma, Thoma's help grants a 20% chance of scoring a double catch.\n*Unlocked Automatically*"
+            "name": "Snap and Swing",
+            "value": "*Unlocked Automatically*\n> When you fish successfully in Inazuma, Thoma's help grants a 20% chance of scoring a double catch."
         }
     ],
     "color": 16733525,

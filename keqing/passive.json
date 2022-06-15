@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Thundering Penance",
-            "value": "Within 5s of recasting Stellar Restoration while a Lightning Stiletto is present, Keqing's Normal and Charged Attacks are converted to Electro DMG.\n*Unlocked at Ascension 1*"
+            "name": "Thundering Penance",
+            "value": "*Unlocked at Ascension 1*\n> Within 5s of recasting Stellar Restoration while a Lightning Stiletto is present, Keqing's Normal and Charged Attacks are converted to Electro DMG."
         },
         {
             "inline": false,
-            "name": "> Aristocratic Dignity",
-            "value": "When casting Starward Sword, Keqing's CRIT Rate is increased by 15%, and her Energy Recharge is increased by 15%. This effect lasts for 8s.\n*Unlocked at Ascension 4*"
+            "name": "Aristocratic Dignity",
+            "value": "*Unlocked at Ascension 4*\n> When casting Starward Sword, Keqing's CRIT Rate is increased by 15%, and her Energy Recharge is increased by 15%. This effect lasts for 8s."
         },
         {
             "inline": false,
-            "name": "> Land's Overseer",
-            "value": "When dispatched on an expedition in Liyue, time consumed is reduced by 25%.\n*Unlocked Automatically*"
+            "name": "Land's Overseer",
+            "value": "*Unlocked Automatically*\n> When dispatched on an expedition in Liyue, time consumed is reduced by 25%."
         }
     ],
     "color": 11104511,

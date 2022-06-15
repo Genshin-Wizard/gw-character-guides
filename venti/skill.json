@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Divine Marksmanship",
-            "value": "Normal Attack\nPerforms up to 6 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\n\nWhile aiming, favorable winds will accumulate on the arrowhead. A fully charged arrow will deal Anemo DMG.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.\n*Normal Attack*"
+            "name": "Divine Marksmanship",
+            "value": "*Normal Attack*\n> Normal Attack\nPerforms up to 6 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\n\nWhile aiming, favorable winds will accumulate on the arrowhead. A fully charged arrow will deal Anemo DMG.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
         },
         {
             "inline": false,
-            "name": "> Skyward Sonnet",
-            "value": "O wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!\nPress\nSummons a Wind Domain at the enemy's location, dealing AoE Anemo DMG and launching enemies into the air.\nHold\nSummons an even larger Wind Domain with Venti as the epicenter, dealing AoE Anemo DMG and launching affected enemies into the air.\n\nAfter unleashing the Hold version of this ability, Venti rides the wind into the air.\nEnemies hit by Skyward Sonnet will fall to the ground slowly.\n*Elemental Skill*"
+            "name": "Skyward Sonnet",
+            "value": "*Elemental Skill*\n> O wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!\nPress\nSummons a Wind Domain at the enemy's location, dealing AoE Anemo DMG and launching enemies into the air.\nHold\nSummons an even larger Wind Domain with Venti as the epicenter, dealing AoE Anemo DMG and launching affected enemies into the air.\n\nAfter unleashing the Hold version of this ability, Venti rides the wind into the air.\nEnemies hit by Skyward Sonnet will fall to the ground slowly."
         },
         {
             "inline": false,
-            "name": "> Wind's Grand Ode",
-            "value": "Fires off an arrow made of countless coalesced winds, creating a huge Stormeye that sucks in objects and enemies along its path, dealing continuous Anemo DMG.\nElemental Absorption\nIf the Stormeye comes into contact with Hydro/Pyro/Cryo/Electro elements, it will deal additional elemental DMG of that type.\n\nElemental Absorption may only occur once per use.\n*Elemental Burst*"
+            "name": "Wind's Grand Ode",
+            "value": "*Elemental Burst*\n> Fires off an arrow made of countless coalesced winds, creating a huge Stormeye that sucks in objects and enemies along its path, dealing continuous Anemo DMG.\nElemental Absorption\nIf the Stormeye comes into contact with Hydro/Pyro/Cryo/Electro elements, it will deal additional elemental DMG of that type.\n\nElemental Absorption may only occur once per use."
         }
     ],
     "color": 5494962,

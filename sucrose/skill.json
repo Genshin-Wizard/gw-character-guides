@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Wind Spirit Creation",
-            "value": "Normal Attack\nPerforms up to 4 attacks using Wind Spirits, dealing Anemo DMG.\nCharged Attack\nConsumes a certain amount of Stamina and deals AoE Anemo DMG after a short casting time.\nPlunging Attack\nCalling upon the power of her Wind Spirits, Sucrose plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Anemo DMG upon impact with the ground.\n*Normal Attack*"
+            "name": "Wind Spirit Creation",
+            "value": "*Normal Attack*\n> Normal Attack\nPerforms up to 4 attacks using Wind Spirits, dealing Anemo DMG.\nCharged Attack\nConsumes a certain amount of Stamina and deals AoE Anemo DMG after a short casting time.\nPlunging Attack\nCalling upon the power of her Wind Spirits, Sucrose plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Anemo DMG upon impact with the ground."
         },
         {
             "inline": false,
-            "name": "> Astable Anemohypostasis Creation - 6308",
-            "value": "Creates a small Wind Spirit that deals Anemo DMG to enemies in an AoE, pulling them towards the location of the Wind Spirit before launching them.\n*Elemental Skill*"
+            "name": "Astable Anemohypostasis Creation - 6308",
+            "value": "*Elemental Skill*\n> Creates a small Wind Spirit that deals Anemo DMG to enemies in an AoE, pulling them towards the location of the Wind Spirit before launching them."
         },
         {
             "inline": false,
-            "name": "> Forbidden Creation - Isomer 75 / Type II",
-            "value": "Sucrose hurls an unstable concoction that creates a Large Wind Spirit. While it persists, the Large Wind Spirit will continuously pull and launch nearby enemies, dealing AoE Anemo DMG.\nElemental Absorption\nIf the Wind Spirit comes into contact with Hydro / Pyro / Cryo / Electro elements, it will deal additional DMG of that type.\n\nElemental Absorption may only occur once per use.\n*Elemental Burst*"
+            "name": "Forbidden Creation - Isomer 75 / Type II",
+            "value": "*Elemental Burst*\n> Sucrose hurls an unstable concoction that creates a Large Wind Spirit. While it persists, the Large Wind Spirit will continuously pull and launch nearby enemies, dealing AoE Anemo DMG.\nElemental Absorption\nIf the Wind Spirit comes into contact with Hydro / Pyro / Cryo / Electro elements, it will deal additional DMG of that type.\n\nElemental Absorption may only occur once per use."
         }
     ],
     "color": 5494962,

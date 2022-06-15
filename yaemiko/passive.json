@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> The Shrine's Sacred Shade",
-            "value": "When casting Great Secret Art: Tenko Kenshin, each Sesshou Sakura destroyed resets the cooldown for 1 charge of Yakan Evocation: Sesshou Sakura.\n*Unlocked at Ascension 1*"
+            "name": "The Shrine's Sacred Shade",
+            "value": "*Unlocked at Ascension 1*\n> When casting Great Secret Art: Tenko Kenshin, each Sesshou Sakura destroyed resets the cooldown for 1 charge of Yakan Evocation: Sesshou Sakura."
         },
         {
             "inline": false,
-            "name": "> Enlightened Blessing",
-            "value": "Every point of Elemental Mastery Yae Miko possesses will increase Sesshou Sakura DMG by 0.15%.\n*Unlocked at Ascension 4*"
+            "name": "Enlightened Blessing",
+            "value": "*Unlocked at Ascension 4*\n> Every point of Elemental Mastery Yae Miko possesses will increase Sesshou Sakura DMG by 0.15%."
         },
         {
             "inline": false,
-            "name": "> Meditations of a Yako",
-            "value": "Has a 25% chance to get 1 regional Character Talent Material (base material excluded) when crafting. The rarity is that of the base material.\n*Unlocked Automatically*"
+            "name": "Meditations of a Yako",
+            "value": "*Unlocked Automatically*\n> Has a 25% chance to get 1 regional Character Talent Material (base material excluded) when crafting. The rarity is that of the base material."
         }
     ],
     "color": 11104511,

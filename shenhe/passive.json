@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Precise Comings and Goings",
-            "value": "Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours.\n*Unlocked Automatically*"
+            "name": "Precise Comings and Goings",
+            "value": "*Unlocked Automatically*\n> Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours."
         },
         {
             "inline": false,
-            "name": "> Deific Embrace",
-            "value": "An active character within the field created by Divine Maiden's Deliverance gains 15% Cryo DMG Bonus.\n*Unlocked at Ascension 1*"
+            "name": "Deific Embrace",
+            "value": "*Unlocked at Ascension 1*\n> An active character within the field created by Divine Maiden's Deliverance gains 15% Cryo DMG Bonus."
         },
         {
             "inline": false,
-            "name": "> Spirit Communion Seal",
-            "value": "After Shenhe uses Spring Spirit Summoning, she will grant all nearby party members the following effects:\n- Press: Elemental Skill and Elemental Burst DMG increased by 15% for 10s.\n- Hold: Normal, Charged, and Plunging Attack DMG increased by 15% for 15s.\n*Unlocked at Ascension 4*"
+            "name": "Spirit Communion Seal",
+            "value": "*Unlocked at Ascension 4*\n> After Shenhe uses Spring Spirit Summoning, she will grant all nearby party members the following effects:\n- Press: Elemental Skill and Elemental Burst DMG increased by 15% for 10s.\n- Hold: Normal, Charged, and Plunging Attack DMG increased by 15% for 15s."
         }
     ],
     "color": 10147839,

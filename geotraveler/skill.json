@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Foreign Rockblade",
-            "value": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.\n*Normal Attack*"
+            "name": "Foreign Rockblade",
+            "value": "*Normal Attack*\n> Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
         },
         {
             "inline": false,
-            "name": "> Starfell Sword",
-            "value": "You disgorge a meteorite from the depths of the earth, dealing AoE Geo DMG. The meteorite is considered a Geo Construct, and can be climbed or used to block attacks.\nHold: This skill's positioning may be adjusted.\n*Elemental Skill*"
+            "name": "Starfell Sword",
+            "value": "*Elemental Skill*\n> You disgorge a meteorite from the depths of the earth, dealing AoE Geo DMG. The meteorite is considered a Geo Construct, and can be climbed or used to block attacks.\nHold: This skill's positioning may be adjusted."
         },
         {
             "inline": false,
-            "name": "> Wake of Earth",
-            "value": "Energizing the Geo elements deep underground, you set off expanding shockwaves.\nLaunches surrounding opponents back and deals AoE Geo DMG.\nA stone wall is erected at the edges of the shockwave.\nThe stone wall is considered a Geo Construct, and may be used to block attacks.\n*Elemental Burst*"
+            "name": "Wake of Earth",
+            "value": "*Elemental Burst*\n> Energizing the Geo elements deep underground, you set off expanding shockwaves.\nLaunches surrounding opponents back and deals AoE Geo DMG.\nA stone wall is erected at the edges of the shockwave.\nThe stone wall is considered a Geo Construct, and may be used to block attacks."
         }
     ],
     "color": 14994176,

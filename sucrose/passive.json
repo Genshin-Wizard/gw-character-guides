@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Catalyst Conversion",
-            "value": "When Sucrose triggers a Swirl effect, characters in the party with the matching element have their Elemental Mastery increased by 50 for 8s.\n*Unlocked at Ascension 1*"
+            "name": "Catalyst Conversion",
+            "value": "*Unlocked at Ascension 1*\n> When Sucrose triggers a Swirl effect, characters in the party with the matching element have their Elemental Mastery increased by 50 for 8s."
         },
         {
             "inline": false,
-            "name": "> Mollis Favonius",
-            "value": "When Astable Anemohypostatis Creation - 6308 or Forbidden Creation - Isomer 75 / Type II hit an enemy, increases other party member's Elemental Mastery based on 20% of Sucrose's Elemental Mastery for 8s.\n*Unlocked at Ascension 4*"
+            "name": "Mollis Favonius",
+            "value": "*Unlocked at Ascension 4*\n> When Astable Anemohypostatis Creation - 6308 or Forbidden Creation - Isomer 75 / Type II hit an enemy, increases other party member's Elemental Mastery based on 20% of Sucrose's Elemental Mastery for 8s."
         },
         {
             "inline": false,
-            "name": "> Astable Invention",
-            "value": "When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% to obtain double the product.\n*Unlocked Automatically*"
+            "name": "Astable Invention",
+            "value": "*Unlocked Automatically*\n> When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% to obtain double the product."
         }
     ],
     "color": 5494962,

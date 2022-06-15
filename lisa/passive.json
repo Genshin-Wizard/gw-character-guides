@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Induced Aftershock",
-            "value": "Hits by charged Attacks apply Violet Arc's Conductive status to enemies.\n*Unlocked at Ascension 1*"
+            "name": "Induced Aftershock",
+            "value": "*Unlocked at Ascension 1*\n> Hits by charged Attacks apply Violet Arc's Conductive status to enemies."
         },
         {
             "inline": false,
-            "name": "> Static Electricity Field",
-            "value": "Enemies hit by Lightning Rose have their DEF decreased by 15% for 10s.\n*Unlocked at Ascension 4*"
+            "name": "Static Electricity Field",
+            "value": "*Unlocked at Ascension 4*\n> Enemies hit by Lightning Rose have their DEF decreased by 15% for 10s."
         },
         {
             "inline": false,
-            "name": "> General Pharmaceutics",
-            "value": "When Lisa crafts a potion, she has a 20% chance to refund a portion of the crafting materials used.\n*Unlocked Automatically*"
+            "name": "General Pharmaceutics",
+            "value": "*Unlocked Automatically*\n> When Lisa crafts a potion, she has a 20% chance to refund a portion of the crafting materials used."
         }
     ],
     "color": 11104511,

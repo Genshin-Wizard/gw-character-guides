@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Undivided Heart",
-            "value": "After firing a Frostflake Arrow, the CRIT Rate of subsequent Frostflake Arrows and their resulting bloom effects is increased by 20% for 5s.\n*Unlocked at Ascension 1*"
+            "name": "Undivided Heart",
+            "value": "*Unlocked at Ascension 1*\n> After firing a Frostflake Arrow, the CRIT Rate of subsequent Frostflake Arrows and their resulting bloom effects is increased by 20% for 5s."
         },
         {
             "inline": false,
-            "name": "> Harmony between Heaven and Earth",
-            "value": "Celestial Shower grants a 20% Cryo DMG Bonus to active members in the AoE.\n*Unlocked at Ascension 4*"
+            "name": "Harmony between Heaven and Earth",
+            "value": "*Unlocked at Ascension 4*\n> Celestial Shower grants a 20% Cryo DMG Bonus to active members in the AoE."
         },
         {
             "inline": false,
-            "name": "> Preserved for the Hunt",
-            "value": "Refunds 15% of the ores used when crafting Bow-type weapons.\n*Unlocked Automatically*"
+            "name": "Preserved for the Hunt",
+            "value": "*Unlocked Automatically*\n> Refunds 15% of the ores used when crafting Bow-type weapons."
         }
     ],
     "color": 10147839,

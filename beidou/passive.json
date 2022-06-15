@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Retribution",
-            "value": "Counterattacking with Tidecaller at the precise moment when the character is hit grants the maximum DMG Bonus.\n*Unlocked at Ascension 1*"
+            "name": "Retribution",
+            "value": "*Unlocked at Ascension 1*\n> Counterattacking with Tidecaller at the precise moment when the character is hit grants the maximum DMG Bonus."
         },
         {
             "inline": false,
-            "name": "> Lightning Storm",
-            "value": "Gain the following effects for 10s after unleashing Tidecaller with its maximum DMG Bonus:\nDMG dealt by Normal and Charged Attacks is increased by 15%. ATK SPD of Normal and Charged Attacks is increased by 15%.\nGreatly reduced delay before unleashing Charged Attacks.\n*Unlocked at Ascension 4*"
+            "name": "Lightning Storm",
+            "value": "*Unlocked at Ascension 4*\n> Gain the following effects for 10s after unleashing Tidecaller with its maximum DMG Bonus:\nDMG dealt by Normal and Charged Attacks is increased by 15%. ATK SPD of Normal and Charged Attacks is increased by 15%.\nGreatly reduced delay before unleashing Charged Attacks."
         },
         {
             "inline": false,
-            "name": "> Conqueror of Tides",
-            "value": "Decreases all party member's swimming Stamina consumption by 20%.\n*Unlocked Automatically*"
+            "name": "Conqueror of Tides",
+            "value": "*Unlocked Automatically*\n> Decreases all party member's swimming Stamina consumption by 20%."
         }
     ],
     "color": 11104511,

@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Crossfire",
-            "value": "Increases the flame range of Guoba by 20%.\n*Unlocked at Ascension 1*"
+            "name": "Crossfire",
+            "value": "*Unlocked at Ascension 1*\n> Increases the flame range of Guoba by 20%."
         },
         {
             "inline": false,
-            "name": "> Beware, It's Super Hot!",
-            "value": "When Guoba Attack's effect ends, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s.\n*Unlocked at Ascension 4*"
+            "name": "Beware, It's Super Hot!",
+            "value": "*Unlocked at Ascension 4*\n> When Guoba Attack's effect ends, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s."
         },
         {
             "inline": false,
-            "name": "> Chef de Cuisine",
-            "value": "When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product.\n*Unlocked Automatically*"
+            "name": "Chef de Cuisine",
+            "value": "*Unlocked Automatically*\n> When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product."
         }
     ],
     "color": 16733525,

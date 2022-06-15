@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Strike of Fortune",
-            "value": "Normal Attack\nPerform up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword swings.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.\n*Normal Attack*"
+            "name": "Strike of Fortune",
+            "value": "*Normal Attack*\n> Normal Attack\nPerform up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword swings.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact."
         },
         {
             "inline": false,
-            "name": "> Passion Overload",
-            "value": "Bennett puts all his fire and passion for adventuring into his sword. Results may very based on how fired up he is.\nPress\nA single, swift flame strike that deals Pyro DMG.\nHold (Short)\nCharges up, resulting in different effects when unleashed based on the Charge Level.\n\nLevel 1: Strikes twice, dealing Pyro DMG and launching enemies.\nLevel 2: Unleashes 3 consecutive attacks that deal impressive Pyro DMG, but the last attack triggers an explosion that launches both Bennett and the enemy.\n\nBennett takes no damage from being launched.\n*Elemental Skill*"
+            "name": "Passion Overload",
+            "value": "*Elemental Skill*\n> Bennett puts all his fire and passion for adventuring into his sword. Results may very based on how fired up he is.\nPress\nA single, swift flame strike that deals Pyro DMG.\nHold (Short)\nCharges up, resulting in different effects when unleashed based on the Charge Level.\n\nLevel 1: Strikes twice, dealing Pyro DMG and launching enemies.\nLevel 2: Unleashes 3 consecutive attacks that deal impressive Pyro DMG, but the last attack triggers an explosion that launches both Bennett and the enemy.\n\nBennett takes no damage from being launched."
         },
         {
             "inline": false,
-            "name": "> Fantastic Voyage",
-            "value": "Bennett leaps towards the enemy and performs a plunging attack, dealing Pyro DMG, creating an Inspiration Field.\nInspiration Field\n\nIf the health of a character in the circle is equal to or falls below 70%, their health will continuously regenerate. Regeneration scales based on Bennett's Max HP.\nIf the health of a character in the circle is higher than 70%, they gain an ATK Bonus that is based on Bennett's Base ATK.\nApplies the Pyro element to characters within the Field.\n\n*Elemental Burst*"
+            "name": "Fantastic Voyage",
+            "value": "*Elemental Burst*\n> Bennett leaps towards the enemy and performs a plunging attack, dealing Pyro DMG, creating an Inspiration Field.\nInspiration Field\n\nIf the health of a character in the circle is equal to or falls below 70%, their health will continuously regenerate. Regeneration scales based on Bennett's Max HP.\nIf the health of a character in the circle is higher than 70%, they gain an ATK Bonus that is based on Bennett's Base ATK.\nApplies the Pyro element to characters within the Field.\n"
         }
     ],
     "color": 16733525,

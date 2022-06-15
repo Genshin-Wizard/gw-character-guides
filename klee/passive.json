@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Pounding Surprise",
-            "value": "When Jumpy Dumpty and Normal Attacks deal DMG, Klee has a 50% chance to obtain an Explosive Spark. This Explosive Spark is consumed by the next Charged Attack, which costs no Stamina and deals 50% increased DMG.\n*Unlocked at Ascension 1*"
+            "name": "Pounding Surprise",
+            "value": "*Unlocked at Ascension 1*\n> When Jumpy Dumpty and Normal Attacks deal DMG, Klee has a 50% chance to obtain an Explosive Spark. This Explosive Spark is consumed by the next Charged Attack, which costs no Stamina and deals 50% increased DMG."
         },
         {
             "inline": false,
-            "name": "> Sparkling Burst",
-            "value": "When a Charged Attack results in a CRIT, all party members gain 2 Elemental Energy.\n*Unlocked at Ascension 4*"
+            "name": "Sparkling Burst",
+            "value": "*Unlocked at Ascension 4*\n> When a Charged Attack results in a CRIT, all party members gain 2 Elemental Energy."
         },
         {
             "inline": false,
-            "name": "> All Of My Treasures!",
-            "value": "Displays the location of nearby resources unique to Mondstadt on the mini-map.\n*Unlocked Automatically*"
+            "name": "All Of My Treasures!",
+            "value": "*Unlocked Automatically*\n> Displays the location of nearby resources unique to Mondstadt on the mini-map."
         }
     ],
     "color": 16733525,

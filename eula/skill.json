@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Favonius Bladework - Edel",
-            "value": "Normal Attack\nPerform up to five consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous slashes. At the end of the sequence, perform a more powerful slash.\nPlunging Attack\n Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.\n*Normal Attack*"
+            "name": "Favonius Bladework - Edel",
+            "value": "*Normal Attack*\n> Normal Attack\nPerform up to five consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous slashes. At the end of the sequence, perform a more powerful slash.\nPlunging Attack\n Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact."
         },
         {
             "inline": false,
-            "name": "> Icetide Vortex",
-            "value": "Sharp frost, swift blade.\nPress\nSlashes swiftly, dealing Cryo DMG. When it hits an opponent, Eula gains a stack of Grimheart that stacks up to two times. These stats can only be gained once every 0.3s.\nGrimheart\nIncreases Eula's resistance to interruption and DEF.\nHold\nWielding her sword, Eula consumes all the stacks of Grimheart and lashes forward, dealing AoE Cryo DMG to opponents in front of her.\nIf Grimheart stacks are consumed, surrounding opponents will have their Physical RES and Cryo RES decreased.\nEach consumed stack of Grimheart will be converted into an Icewhirl Brand that deals Cryo DMG to nearby opponents.\n*Elemental Skill*"
+            "name": "Icetide Vortex",
+            "value": "*Elemental Skill*\n> Sharp frost, swift blade.\nPress\nSlashes swiftly, dealing Cryo DMG. When it hits an opponent, Eula gains a stack of Grimheart that stacks up to two times. These stats can only be gained once every 0.3s.\nGrimheart\nIncreases Eula's resistance to interruption and DEF.\nHold\nWielding her sword, Eula consumes all the stacks of Grimheart and lashes forward, dealing AoE Cryo DMG to opponents in front of her.\nIf Grimheart stacks are consumed, surrounding opponents will have their Physical RES and Cryo RES decreased.\nEach consumed stack of Grimheart will be converted into an Icewhirl Brand that deals Cryo DMG to nearby opponents."
         },
         {
             "inline": false,
-            "name": "> Glacial Illumination",
-            "value": "Brandishes her greatsword, dealing Cryo DMG to nearby opponents and creating a Lightfall Sword that follows her around for a duration of up to 7s.\nWhile present, the Lightfall Sword increases Eula's resistance to interruption. When Eula's own Normal Attack, Elemental Skill, and Elemental Burst deal DMG to opponents, they will charge the Lightfall Sword, which can gain an energy stack once every 0.1s.\nOnce its duration ends, the Lightfall Sword will descend and explode violently, dealing Physical DMG to nearby opponents.\nThis DMG scales on the number of energy stacks the Lightfall Sword has accumulated.\nIf Eula leaves the field, the Lightfall Sword will immediately explode.\n*Elemental Burst*"
+            "name": "Glacial Illumination",
+            "value": "*Elemental Burst*\n> Brandishes her greatsword, dealing Cryo DMG to nearby opponents and creating a Lightfall Sword that follows her around for a duration of up to 7s.\nWhile present, the Lightfall Sword increases Eula's resistance to interruption. When Eula's own Normal Attack, Elemental Skill, and Elemental Burst deal DMG to opponents, they will charge the Lightfall Sword, which can gain an energy stack once every 0.1s.\nOnce its duration ends, the Lightfall Sword will descend and explode violently, dealing Physical DMG to nearby opponents.\nThis DMG scales on the number of energy stacks the Lightfall Sword has accumulated.\nIf Eula leaves the field, the Lightfall Sword will immediately explode."
         }
     ],
     "color": 10147839,

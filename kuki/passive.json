@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Unknown",
-            "value": "Unknown\n*Unlocked at Ascension 1*"
+            "name": "Unknown",
+            "value": "*Unlocked at Ascension 1*\n> Unknown"
         },
         {
             "inline": false,
-            "name": "> Unknown",
-            "value": "Unknown\n*Unlocked at Ascension 4*"
+            "name": "Unknown",
+            "value": "*Unlocked at Ascension 4*\n> Unknown"
         },
         {
             "inline": false,
-            "name": "> Unknown",
-            "value": "Unknown\n*Unlocked Automatically*"
+            "name": "Unknown",
+            "value": "*Unlocked Automatically*\n> Unknown"
         }
     ],
     "color": 11104511,

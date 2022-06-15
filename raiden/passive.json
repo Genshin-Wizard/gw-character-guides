@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Wishes Unnumbered",
-            "value": "When nearby party members gain Elemental Orbs or Particles, Chakra Desiderata gains 2 Resolve stacks.\nThis effect can occur once every 3s.\n*Unlocked at Ascension 1*"
+            "name": "Wishes Unnumbered",
+            "value": "*Unlocked at Ascension 1*\n> When nearby party members gain Elemental Orbs or Particles, Chakra Desiderata gains 2 Resolve stacks.\nThis effect can occur once every 3s."
         },
         {
             "inline": false,
-            "name": "> Enlightened One",
-            "value": "Each 1% above 100% Energy Recharge that the Raiden Shogun possesses grants her:\n0.6% greater Energy restoration from Musou Isshin\n0.4% Electro DMG Bonus\n*Unlocked at Ascension 4*"
+            "name": "Enlightened One",
+            "value": "*Unlocked at Ascension 4*\n> Each 1% above 100% Energy Recharge that the Raiden Shogun possesses grants her:\n0.6% greater Energy restoration from Musou Isshin\n0.4% Electro DMG Bonus"
         },
         {
             "inline": false,
-            "name": "> All-Preserver",
-            "value": "Mora expended when ascending Swords and Polearms is decreased by 50%.\n*Unlocked Automatically*"
+            "name": "All-Preserver",
+            "value": "*Unlocked Automatically*\n> Mora expended when ascending Swords and Polearms is decreased by 50%."
         }
     ],
     "color": 11104511,

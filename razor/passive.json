@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Awakening",
-            "value": "Decreases Claw and Thunder's CD by 18%.\nUsing Lightning Fang resets the CD of Claw and Thunder.\n*Unlocked at Ascension 1*"
+            "name": "Awakening",
+            "value": "*Unlocked at Ascension 1*\n> Decreases Claw and Thunder's CD by 18%.\nUsing Lightning Fang resets the CD of Claw and Thunder."
         },
         {
             "inline": false,
-            "name": "> Hunger",
-            "value": "When Razor's Energy is below 50%, increases Energy Recharge by 30%.\n*Unlocked at Ascension 4*"
+            "name": "Hunger",
+            "value": "*Unlocked at Ascension 4*\n> When Razor's Energy is below 50%, increases Energy Recharge by 30%."
         },
         {
             "inline": false,
-            "name": "> Wolvensprint",
-            "value": "Decreases all party member's sprinting Stamina Consumption by 20%.\n*Unlocked Automatically*"
+            "name": "Wolvensprint",
+            "value": "*Unlocked Automatically*\n> Decreases all party member's sprinting Stamina Consumption by 20%."
         }
     ],
     "color": 11104511,

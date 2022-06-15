@@ -8,13 +8,13 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Slitting Wind",
-            "value": "The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK as Anemo DMG to all opponents in its path.\n*Unlocked at Ascension 1*"
+            "name": "Slitting Wind",
+            "value": "*Unlocked at Ascension 1*\n> The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK as Anemo DMG to all opponents in its path."
         },
         {
             "inline": false,
-            "name": "> Second Wind",
-            "value": "Palm Vortex kills regenerate 2% HP for 5s. This effect can only occur once every 5s.\n*Unlocked at Ascension 4*"
+            "name": "Second Wind",
+            "value": "*Unlocked at Ascension 4*\n> Palm Vortex kills regenerate 2% HP for 5s. This effect can only occur once every 5s."
         }
     ],
     "color": 5494962,

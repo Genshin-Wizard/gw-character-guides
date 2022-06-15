@@ -8,23 +8,23 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Tamanooya's Casket",
-            "value": "If Sangonomiya Kokomi's own Bake-Kurage are on the field when she uses Nereid's Ascension, the Bake-Kurage's duration will be refreshed.\n*Unlocked at Ascension 1*"
+            "name": "Tamanooya's Casket",
+            "value": "*Unlocked at Ascension 1*\n> If Sangonomiya Kokomi's own Bake-Kurage are on the field when she uses Nereid's Ascension, the Bake-Kurage's duration will be refreshed."
         },
         {
             "inline": false,
-            "name": "> Song of Pearls",
-            "value": "While donning the Ceremonial Garment created by Nereid's Ascension, the Normal and Charged Attack DMG Bonus Sangonomiya Kokomi gains based on her Max HP will receive a further increase based on 15% of her Healing Bonus.\n*Unlocked at Ascension 4*"
+            "name": "Song of Pearls",
+            "value": "*Unlocked at Ascension 4*\n> While donning the Ceremonial Garment created by Nereid's Ascension, the Normal and Charged Attack DMG Bonus Sangonomiya Kokomi gains based on her Max HP will receive a further increase based on 15% of her Healing Bonus."
         },
         {
             "inline": false,
-            "name": "> Flawless Strategy",
-            "value": "Sangonomiya Kokomi has a 25% Healing Bonus, but a 100% decrease in CRIT Rate.\n*Unlocked Automatically*"
+            "name": "Flawless Strategy",
+            "value": "*Unlocked Automatically*\n> Sangonomiya Kokomi has a 25% Healing Bonus, but a 100% decrease in CRIT Rate."
         },
         {
             "inline": false,
-            "name": "> Princess of Watatsumi",
-            "value": "Decreases swimming Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.\n*Unlocked Automatically*"
+            "name": "Princess of Watatsumi",
+            "value": "*Unlocked Automatically*\n> Decreases swimming Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects."
         }
     ],
     "color": 3245055,

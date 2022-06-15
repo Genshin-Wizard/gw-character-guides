@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Korobi",
-            "value": "Yelan's Elemental Burst deals AoE Hydro damage and creates an 'Exquisite Throw' which deals Hydro damage based on Yelan's Max HP:\n\n> Once every second when the active character uses a Normal Attack\n> When Yelan's Lifeline explodes and hits opponents\n*Normal Attack*"
+            "name": "Korobi",
+            "value": "*Normal Attack*\n> Yelan's Elemental Burst deals AoE Hydro damage and creates an 'Exquisite Throw' which deals Hydro damage based on Yelan's Max HP:\n\n> Once every second when the active character uses a Normal Attack\n> When Yelan's Lifeline explodes and hits opponents"
         },
         {
             "inline": false,
-            "name": "> Kyouka",
-            "value": "Ayato shifts positions and enters the Takimeguri Kanka state. In this state, Ayato uses his Shunsuiken to engage in blindingly fast attacks, causing DMG from his Normal Attacks to be converted into AoE Hydro DMG; this cannot be overridden. Takimeguri Kanka also has the following properties while it is active: after a Shunsuiken attack hits an opponent, it will grant Ayato the Namisen effect, increasing the DMG dealt by Shunsuiken based on Ayato's current Max HP (for up to four stacks); his resistance to interruption is increased; and he is unable to use Charged or Plunging Attacks. Takimeguri Kanka will be cleared when Ayato leaves the field. Deploying his skill again while in the Takimeguri Kanka state will reset and replace the pre-existing state. Finally, after shifting into the Takimeguri Kanka state, Ayato will leave a watery illusion at his original location. After it is formed, the watery illusion will explode if opponents are nearby or after its duration ends, dealing AoE Hydro DMG.\n*Elemental Skill*"
+            "name": "Kyouka",
+            "value": "*Elemental Skill*\n> Ayato shifts positions and enters the Takimeguri Kanka state. In this state, Ayato uses his Shunsuiken to engage in blindingly fast attacks, causing DMG from his Normal Attacks to be converted into AoE Hydro DMG; this cannot be overridden. Takimeguri Kanka also has the following properties while it is active: after a Shunsuiken attack hits an opponent, it will grant Ayato the Namisen effect, increasing the DMG dealt by Shunsuiken based on Ayato's current Max HP (for up to four stacks); his resistance to interruption is increased; and he is unable to use Charged or Plunging Attacks. Takimeguri Kanka will be cleared when Ayato leaves the field. Deploying his skill again while in the Takimeguri Kanka state will reset and replace the pre-existing state. Finally, after shifting into the Takimeguri Kanka state, Ayato will leave a watery illusion at his original location. After it is formed, the watery illusion will explode if opponents are nearby or after its duration ends, dealing AoE Hydro DMG."
         },
         {
             "inline": false,
-            "name": "> Suiyuu",
-            "value": "Upon activation, a large blue circle appears on the ground, damaging enemies standing inside the area with Bloomwater Blades. These blades deal Hydro damage, and they continuously rain down while the circle is active. Ayato’s party members also benefit from this elemental burst by increasing their attack speed while standing in this area, but the effect doesn’t apply to Ayato himself.\n*Elemental Burst*"
+            "name": "Suiyuu",
+            "value": "*Elemental Burst*\n> Upon activation, a large blue circle appears on the ground, damaging enemies standing inside the area with Bloomwater Blades. These blades deal Hydro damage, and they continuously rain down while the circle is active. Ayato’s party members also benefit from this elemental burst by increasing their attack speed while standing in this area, but the effect doesn’t apply to Ayato himself."
         }
     ],
     "color": 3245055,

@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Never Ending",
-            "value": "Extends Riptide duration by 8s.\n*Unlocked at Ascension 1*"
+            "name": "Never Ending",
+            "value": "*Unlocked at Ascension 1*\n> Extends Riptide duration by 8s."
         },
         {
             "inline": false,
-            "name": "> Sword of Torrents",
-            "value": "When Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, or if his Normal and Charged Attacks do CRIT DMG, they will apply the Riptide status effect on the hit enemy.\n*Unlocked at Ascension 4*"
+            "name": "Sword of Torrents",
+            "value": "*Unlocked at Ascension 4*\n> When Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, or if his Normal and Charged Attacks do CRIT DMG, they will apply the Riptide status effect on the hit enemy."
         },
         {
             "inline": false,
-            "name": "> Master of Weaponry",
-            "value": "Increases your own party member's Normal Attack Level by 1.\n*Unlocked Automatically*"
+            "name": "Master of Weaponry",
+            "value": "*Unlocked Automatically*\n> Increases your own party member's Normal Attack Level by 1."
         }
     ],
     "color": 3245055,

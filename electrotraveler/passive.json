@@ -8,13 +8,13 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Thunderflash",
-            "value": "When another nearby character in the party obtains an Abundance Amulet created by Lightning Blade, Lightning Blade's CD is decreased by 1.5s.\n*Unlocked at Ascension 1*"
+            "name": "Thunderflash",
+            "value": "*Unlocked at Ascension 1*\n> When another nearby character in the party obtains an Abundance Amulet created by Lightning Blade, Lightning Blade's CD is decreased by 1.5s."
         },
         {
             "inline": false,
-            "name": "> Resounding Roar",
-            "value": "Increases the Energy Recharge effect granted by Lightning Blade's Abundance Amulet by 10% of the Traveler's Energy Recharge.\n*Unlocked at Ascension 4*"
+            "name": "Resounding Roar",
+            "value": "*Unlocked at Ascension 4*\n> Increases the Energy Recharge effect granted by Lightning Blade's Abundance Amulet by 10% of the Traveler's Energy Recharge."
         }
     ],
     "color": 11104511,

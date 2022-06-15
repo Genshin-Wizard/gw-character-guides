@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Kaboom!",
-            "value": "Normal Attack\nThrows things that go boom when they hit things! Perform up to 3 explosive attacks, dealing AoE Pyro DMG.\nCharged Attack\nConsumes a certain amount of Stamina and deals Pyro DMG to enemies after a short casting time.\nPlunging Attack\nGathering the power of Pyro, Klee plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Pyro DMG upon impact with the ground.\n*Normal Attack*"
+            "name": "Kaboom!",
+            "value": "*Normal Attack*\n> Normal Attack\nThrows things that go boom when they hit things! Perform up to 3 explosive attacks, dealing AoE Pyro DMG.\nCharged Attack\nConsumes a certain amount of Stamina and deals Pyro DMG to enemies after a short casting time.\nPlunging Attack\nGathering the power of Pyro, Klee plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Pyro DMG upon impact with the ground."
         },
         {
             "inline": false,
-            "name": "> Jumpy Dumpty",
-            "value": "Jumpy Dumpty is tons of boom-bang-fun!\n\nWhen thrown, Jumpy Dumpty bounces thrice, igniting and dealing AoE Pyro DMG with every bounce.\nOn the third bounce, the bomb splits into many mines.\n\nThe mines will explode upon contact with enemies, or after a short period of time, dealing AoE Pyro DMG.\nStarts with 2 charges.\n*Elemental Skill*"
+            "name": "Jumpy Dumpty",
+            "value": "*Elemental Skill*\n> Jumpy Dumpty is tons of boom-bang-fun!\n\nWhen thrown, Jumpy Dumpty bounces thrice, igniting and dealing AoE Pyro DMG with every bounce.\nOn the third bounce, the bomb splits into many mines.\n\nThe mines will explode upon contact with enemies, or after a short period of time, dealing AoE Pyro DMG.\nStarts with 2 charges."
         },
         {
             "inline": false,
-            "name": "> Sparks 'n' Splash",
-            "value": "Klee's Blazing Delight! For the duration of this ability, continuously summons Sparks 'n' Splash to attack nearby enemies, dealing AoE Pyro DMG.\n*Elemental Burst*"
+            "name": "Sparks 'n' Splash",
+            "value": "*Elemental Burst*\n> Klee's Blazing Delight! For the duration of this ability, continuously summons Sparks 'n' Splash to attack nearby enemies, dealing AoE Pyro DMG."
         }
     ],
     "color": 16733525,

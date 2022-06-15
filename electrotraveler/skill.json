@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Foreign Thundershock",
-            "value": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.\n*Normal Attack*"
+            "name": "Foreign Thundershock",
+            "value": "*Normal Attack*\n> Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
         },
         {
             "inline": false,
-            "name": "> Lightning Blade",
-            "value": "Unleashes three swift thunder shadows that deal Electro DMG to opponents and leave an Abundance Amulet behind after hitting an opponent.\n2 Abundance Amulets can be created initially. Using this skill will reset any Abundance Amulets that were generated.\n\nAbundance Amulets\nWhen a character is near an Abundance Amulet, they will absorb it and obtain the following effects:\nRestores Elemental Energy\nIncreases Energy Recharge during the Abundance Amulet's duration.\n*Elemental Skill*"
+            "name": "Lightning Blade",
+            "value": "*Elemental Skill*\n> Unleashes three swift thunder shadows that deal Electro DMG to opponents and leave an Abundance Amulet behind after hitting an opponent.\n2 Abundance Amulets can be created initially. Using this skill will reset any Abundance Amulets that were generated.\n\nAbundance Amulets\nWhen a character is near an Abundance Amulet, they will absorb it and obtain the following effects:\nRestores Elemental Energy\nIncreases Energy Recharge during the Abundance Amulet's duration."
         },
         {
             "inline": false,
-            "name": "> Bellowing Thunder",
-            "value": "You call upon the protection of lightning, knocking nearby opponents back and dealing Electro DMG to them.\nLightning Shroud\nWhen your active character's Normal or Charged Attacks hit opponents, they will call Falling Thunder forth, dealing Electro DMG.\nWhen Falling Thunder hits opponents, it will regenerate Energy for that character.\nOne instance of Falling Thunder can be generated every 0.5s.\n*Elemental Burst*"
+            "name": "Bellowing Thunder",
+            "value": "*Elemental Burst*\n> You call upon the protection of lightning, knocking nearby opponents back and dealing Electro DMG to them.\nLightning Shroud\nWhen your active character's Normal or Charged Attacks hit opponents, they will call Falling Thunder forth, dealing Electro DMG.\nWhen Falling Thunder hits opponents, it will regenerate Energy for that character.\nOne instance of Falling Thunder can be generated every 0.5s."
         }
     ],
     "color": 11104511,

@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Cold-Blooded Strike",
-            "value": "Every hit with Frostgnaw regenerates HP for Kaeya equal to 15% of ATK.\n*Unlocked at Ascension 1*"
+            "name": "Cold-Blooded Strike",
+            "value": "*Unlocked at Ascension 1*\n> Every hit with Frostgnaw regenerates HP for Kaeya equal to 15% of ATK."
         },
         {
             "inline": false,
-            "name": "> Glacial Heart",
-            "value": "Enemies Frozen by Frostgnaw will drop additional Elemental Particles.\nFrostgnaw may only produce a maximum of 2 additional Elemental Particles per use.\n*Unlocked at Ascension 4*"
+            "name": "Glacial Heart",
+            "value": "*Unlocked at Ascension 4*\n> Enemies Frozen by Frostgnaw will drop additional Elemental Particles.\nFrostgnaw may only produce a maximum of 2 additional Elemental Particles per use."
         },
         {
             "inline": false,
-            "name": "> Hidden Strength",
-            "value": "Decreases all party member's sprinting Stamina consumption by 20%.\n*Unlocked Automatically*"
+            "name": "Hidden Strength",
+            "value": "*Unlocked Automatically*\n> Decreases all party member's sprinting Stamina consumption by 20%."
         }
     ],
     "color": 10147839,
