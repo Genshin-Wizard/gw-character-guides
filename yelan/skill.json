@@ -8,17 +8,17 @@
     "fields": [
         {
             "inline": false,
-            "name": "> Stealthy Bowshot",
-            "value": "*Normal Attack*\n> **Normal Attack:** Performs up to 4 consecutive shots with a bow\n**Charged Attack:** Aimed Shot with increased damage: deals Hydro damage when fully charged\n**Plunging Attack:** A 'shower of arrows' dealing AoE damage\n**Breakthrough:** After spending 5s out of combat, Yelan enters 'Breakthrough' state in which her next Charged Aimed Shot cooldown is reduced by 80%, and it fires a 'Breakthrough Barb' dealing AoE Hydro damage based on her Max HP"
+            "name": "Stealthy Bowshot",
+            "value": "*Normal Attack*\n> **Normal Attack:** Performs up to 4 consecutive shots with a bow\n> **Charged Attack:** Aimed Shot with increased damage: deals Hydro damage when fully charged\n> **Plunging Attack:** A 'shower of arrows' dealing AoE damage\n> **Breakthrough:** After spending 5s out of combat, Yelan enters 'Breakthrough' state in which her next Charged Aimed Shot cooldown is reduced by 80%, and it fires a 'Breakthrough Barb' dealing AoE Hydro damage based on her Max HP"
         },
         {
             "inline": false,
-            "name": "> Lingering Lifeline",
+            "name": "Lingering Lifeline",
             "value": "*Elemental Skill*\nFires a 'Lifeline' that marks opponents in its path. Yelan can move rapidly forward, after which the Lifeline explodes and deals Hydro damage to marked opponents based on her Max HP."
         },
         {
             "inline": false,
-            "name": "> Depth-Clarion Dice",
+            "name": "Depth-Clarion Dice",
             "value": "*Elemental Burst*\nYelan's Elemental Burst deals AoE Hydro damage and creates an 'Exquisite Throw' which deals Hydro damage based on Yelan's Max HP:\n\n> Once every second when the active character uses a > **Normal Attack:** > When Yelan's Lifeline explodes and hits opponents"
         }
     ],
