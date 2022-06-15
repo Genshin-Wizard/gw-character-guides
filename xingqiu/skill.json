@@ -14,12 +14,12 @@
         {
             "inline": false,
             "name": "Guhua Sword - Fatal Rainscreen",
-            "value": "*Elemental Skill*\n> Xingqiu performs twin strikes with his sword, dealing Hydro DMG. At the same time, this ability creates the maximum number of Rain Swords, which will orbit the character.\n\nThe Rain Swords have the following properties:\n\nWhen a character takes DMG, the Rain Sword will shatter, reducing the amount of DMG taken.\nIncreases the character's resistance to interruption.\n\n20% of Xingqiu's Hydro DMG Bonus will be converted to additional DMG Reduction for the Rain Swords.\nThe maximum amount of additional DMG Reduction that can be gained this way is 24%.\n\nThe initial maximum number of Rain Swords is 3.\n\nUsing this ability applies the Wet status onto the character."
+            "value": "*Elemental Skill*\nXingqiu performs twin strikes with his sword, dealing Hydro DMG. At the same time, this ability creates the maximum number of Rain Swords, which will orbit the character.\n\nThe Rain Swords have the following properties:\n\nWhen a character takes DMG, the Rain Sword will shatter, reducing the amount of DMG taken.\nIncreases the character's resistance to interruption.\n\n20% of Xingqiu's Hydro DMG Bonus will be converted to additional DMG Reduction for the Rain Swords.\nThe maximum amount of additional DMG Reduction that can be gained this way is 24%.\n\nThe initial maximum number of Rain Swords is 3.\n\nUsing this ability applies the Wet status onto the character."
         },
         {
             "inline": false,
             "name": "Guhua Sword - Raincutter",
-            "value": "*Elemental Burst*\n> Initiate Rainbow Bladework and fight using an illusory sword rain, while creating the maximum number of Rain Swords.\nRainbow Bladework\n\nNormal Attacks will trigger consecutive sword rain attacks, dealing Hydro DMG.\nRain Swords will remain at the maximum number throughout the ability's duration.\n\nThese effects carry over to other characters."
+            "value": "*Elemental Burst*\nInitiate Rainbow Bladework and fight using an illusory sword rain, while creating the maximum number of Rain Swords.\nRainbow Bladework\n\nNormal Attacks will trigger consecutive sword rain attacks, dealing Hydro DMG.\nRain Swords will remain at the maximum number throughout the ability's duration.\n\nThese effects carry over to other characters."
         }
     ],
     "color": 3245055,

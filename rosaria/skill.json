@@ -14,12 +14,12 @@
         {
             "inline": false,
             "name": "Ravaging Confession",
-            "value": "*Elemental Skill*\n> Rosaria swiftly positions herself behind her opponent, then pierces and slashes the enemy with her polearm, dealing Cryo DMG.\nRosaria cannot use this ability to move behind larger opponents."
+            "value": "*Elemental Skill*\nRosaria swiftly positions herself behind her opponent, then pierces and slashes the enemy with her polearm, dealing Cryo DMG.\nRosaria cannot use this ability to move behind larger opponents."
         },
         {
             "inline": false,
             "name": "Rites of Termination",
-            "value": "*Elemental Burst*\n> Rosaria's unique take on this prayer ritual.\nFirst, she swings her weapon to slash surrounding enemies; then, she summons a frigid Ice Lance that strikes the ground. Both actions deal Cryo DMG.\nWhile active, the Ice Lance periodically releases a blast of cold air, dealing Cryo DMG to surrounding enemies."
+            "value": "*Elemental Burst*\nRosaria's unique take on this prayer ritual.\nFirst, she swings her weapon to slash surrounding enemies; then, she summons a frigid Ice Lance that strikes the ground. Both actions deal Cryo DMG.\nWhile active, the Ice Lance periodically releases a blast of cold air, dealing Cryo DMG to surrounding enemies."
         }
     ],
     "color": 10147839,

@@ -14,12 +14,12 @@
         {
             "inline": false,
             "name": "Astable Anemohypostasis Creation - 6308",
-            "value": "*Elemental Skill*\n> Creates a small Wind Spirit that deals Anemo DMG to enemies in an AoE, pulling them towards the location of the Wind Spirit before launching them."
+            "value": "*Elemental Skill*\nCreates a small Wind Spirit that deals Anemo DMG to enemies in an AoE, pulling them towards the location of the Wind Spirit before launching them."
         },
         {
             "inline": false,
             "name": "Forbidden Creation - Isomer 75 / Type II",
-            "value": "*Elemental Burst*\n> Sucrose hurls an unstable concoction that creates a Large Wind Spirit. While it persists, the Large Wind Spirit will continuously pull and launch nearby enemies, dealing AoE Anemo DMG.\nElemental Absorption\nIf the Wind Spirit comes into contact with Hydro / Pyro / Cryo / Electro elements, it will deal additional DMG of that type.\n\nElemental Absorption may only occur once per use."
+            "value": "*Elemental Burst*\nSucrose hurls an unstable concoction that creates a Large Wind Spirit. While it persists, the Large Wind Spirit will continuously pull and launch nearby enemies, dealing AoE Anemo DMG.\nElemental Absorption\nIf the Wind Spirit comes into contact with Hydro / Pyro / Cryo / Electro elements, it will deal additional DMG of that type.\n\nElemental Absorption may only occur once per use."
         }
     ],
     "color": 5494962,

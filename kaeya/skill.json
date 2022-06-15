@@ -14,12 +14,12 @@
         {
             "inline": false,
             "name": "Frostgnaw",
-            "value": "*Elemental Skill*\n> Unleashes a frigit blast, dealing Cryo DMG to enemies in front of Kaeya."
+            "value": "*Elemental Skill*\nUnleashes a frigit blast, dealing Cryo DMG to enemies in front of Kaeya."
         },
         {
             "inline": false,
             "name": "Glacial Waltz",
-            "value": "*Elemental Burst*\n> Coalescing the frost in the air, Kaeya summons 3 icicles that revolve around him.\n\nThese icicles will follow the character around and deal Cryo DMG to enemies in their path for so long as they persist."
+            "value": "*Elemental Burst*\nCoalescing the frost in the air, Kaeya summons 3 icicles that revolve around him.\n\nThese icicles will follow the character around and deal Cryo DMG to enemies in their path for so long as they persist."
         }
     ],
     "color": 10147839,

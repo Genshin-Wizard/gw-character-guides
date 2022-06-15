@@ -14,12 +14,12 @@
         {
             "inline": false,
             "name": "Lemniscatic Wind Cycling",
-            "value": "*Elemental Skill*\n> He lunges forward, dealing Anemo DMG to enemies along the path.\nCan be used in mid-air.\nHas 2 charges to begin with."
+            "value": "*Elemental Skill*\nHe lunges forward, dealing Anemo DMG to enemies along the path.\nCan be used in mid-air.\nHas 2 charges to begin with."
         },
         {
             "inline": false,
             "name": "Bane of All Evil",
-            "value": "*Elemental Burst*\n> Takes on the form of the yaksha that terrified both demons and archons alike millennia ago. For its duration, increases Xiao's attack range and DMG, while converting damage type to Anemo and enhancing Xiao's jumping ability.\nMaintaining this form continuously drains Xiao's HP."
+            "value": "*Elemental Burst*\nTakes on the form of the yaksha that terrified both demons and archons alike millennia ago. For its duration, increases Xiao's attack range and DMG, while converting damage type to Anemo and enhancing Xiao's jumping ability.\nMaintaining this form continuously drains Xiao's HP."
         }
     ],
     "color": 5494962,

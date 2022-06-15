@@ -14,12 +14,12 @@
         {
             "inline": false,
             "name": "Jumpy Dumpty",
-            "value": "*Elemental Skill*\n> Jumpy Dumpty is tons of boom-bang-fun!\n\nWhen thrown, Jumpy Dumpty bounces thrice, igniting and dealing AoE Pyro DMG with every bounce.\nOn the third bounce, the bomb splits into many mines.\n\nThe mines will explode upon contact with enemies, or after a short period of time, dealing AoE Pyro DMG.\nStarts with 2 charges."
+            "value": "*Elemental Skill*\nJumpy Dumpty is tons of boom-bang-fun!\n\nWhen thrown, Jumpy Dumpty bounces thrice, igniting and dealing AoE Pyro DMG with every bounce.\nOn the third bounce, the bomb splits into many mines.\n\nThe mines will explode upon contact with enemies, or after a short period of time, dealing AoE Pyro DMG.\nStarts with 2 charges."
         },
         {
             "inline": false,
             "name": "Sparks 'n' Splash",
-            "value": "*Elemental Burst*\n> Klee's Blazing Delight! For the duration of this ability, continuously summons Sparks 'n' Splash to attack nearby enemies, dealing AoE Pyro DMG."
+            "value": "*Elemental Burst*\nKlee's Blazing Delight! For the duration of this ability, continuously summons Sparks 'n' Splash to attack nearby enemies, dealing AoE Pyro DMG."
         }
     ],
     "color": 16733525,

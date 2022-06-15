@@ -14,12 +14,12 @@
         {
             "inline": false,
             "name": "Lightning Blade",
-            "value": "*Elemental Skill*\n> Unleashes three swift thunder shadows that deal Electro DMG to opponents and leave an Abundance Amulet behind after hitting an opponent.\n2 Abundance Amulets can be created initially. Using this skill will reset any Abundance Amulets that were generated.\n\nAbundance Amulets\nWhen a character is near an Abundance Amulet, they will absorb it and obtain the following effects:\nRestores Elemental Energy\nIncreases Energy Recharge during the Abundance Amulet's duration."
+            "value": "*Elemental Skill*\nUnleashes three swift thunder shadows that deal Electro DMG to opponents and leave an Abundance Amulet behind after hitting an opponent.\n2 Abundance Amulets can be created initially. Using this skill will reset any Abundance Amulets that were generated.\n\nAbundance Amulets\nWhen a character is near an Abundance Amulet, they will absorb it and obtain the following effects:\nRestores Elemental Energy\nIncreases Energy Recharge during the Abundance Amulet's duration."
         },
         {
             "inline": false,
             "name": "Bellowing Thunder",
-            "value": "*Elemental Burst*\n> You call upon the protection of lightning, knocking nearby opponents back and dealing Electro DMG to them.\nLightning Shroud\nWhen your active character's Normal or Charged Attacks hit opponents, they will call Falling Thunder forth, dealing Electro DMG.\nWhen Falling Thunder hits opponents, it will regenerate Energy for that character.\nOne instance of Falling Thunder can be generated every 0.5s."
+            "value": "*Elemental Burst*\nYou call upon the protection of lightning, knocking nearby opponents back and dealing Electro DMG to them.\nLightning Shroud\nWhen your active character's Normal or Charged Attacks hit opponents, they will call Falling Thunder forth, dealing Electro DMG.\nWhen Falling Thunder hits opponents, it will regenerate Energy for that character.\nOne instance of Falling Thunder can be generated every 0.5s."
         }
     ],
     "color": 11104511,

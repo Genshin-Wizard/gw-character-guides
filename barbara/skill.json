@@ -14,12 +14,12 @@
         {
             "inline": false,
             "name": "Let the Show Begin",
-            "value": "*Elemental Skill*\n> Summons water droplets resembling musical notes that form a Melody Loop, dealing Hydro DMG to surrounding enemies and afflicting them with the Wet status.\nMelody Loop\n\nBarbara's Normal Attacks heal all party members and nearby allied characters for a certain amount of HP, which scales with Barbara's Max HP.\nHer Charged Attack generates 4 times the amount of healing.\nRegenerates a certain amount of the current character's HP at regular intervals.\nApplies the Wet status to the character and enemies who come in contact with them.\n"
+            "value": "*Elemental Skill*\nSummons water droplets resembling musical notes that form a Melody Loop, dealing Hydro DMG to surrounding enemies and afflicting them with the Wet status.\nMelody Loop\n\nBarbara's Normal Attacks heal all party members and nearby allied characters for a certain amount of HP, which scales with Barbara's Max HP.\nHer Charged Attack generates 4 times the amount of healing.\nRegenerates a certain amount of the current character's HP at regular intervals.\nApplies the Wet status to the character and enemies who come in contact with them.\n"
         },
         {
             "inline": false,
             "name": "Shining Miracle",
-            "value": "*Elemental Burst*\n> Heals friendly forces and all parties for a large amount of HP that scales with Barbara's Max HP."
+            "value": "*Elemental Burst*\nHeals friendly forces and all parties for a large amount of HP that scales with Barbara's Max HP."
         }
     ],
     "color": 3245055,

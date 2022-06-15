@@ -14,12 +14,12 @@
         {
             "inline": false,
             "name": "Violet Arc",
-            "value": "*Elemental Skill*\n> Channels the power of lightning to sweep bothersome matters away.\nPress\nReleases a homing Lightning Orb. On hit, it deals Electro DMG, and applies a stack of Conductive status (Max 3 stacks) to enemies in a small AoE.\nHold\nAfter an extended casting time, calls down lightning from the heavens, dealing massive Electro DMG to all nearby enemies.\n\nDeals great amounts of extra damage to enemies based on the number of Conductive stacks applied to them, and clears their Conductive status."
+            "value": "*Elemental Skill*\nChannels the power of lightning to sweep bothersome matters away.\nPress\nReleases a homing Lightning Orb. On hit, it deals Electro DMG, and applies a stack of Conductive status (Max 3 stacks) to enemies in a small AoE.\nHold\nAfter an extended casting time, calls down lightning from the heavens, dealing massive Electro DMG to all nearby enemies.\n\nDeals great amounts of extra damage to enemies based on the number of Conductive stacks applied to them, and clears their Conductive status."
         },
         {
             "inline": false,
             "name": "Lightning Rose",
-            "value": "*Elemental Burst*\n> Summons a Lightning Rose that unleashes powerful lightning bolts, launching surrounding enemies and dealing Electro DMG.\n\nThe Lightning Rose will continuously emit lightning to knock back enemies and deal Electro DMG for so long as it persists."
+            "value": "*Elemental Burst*\nSummons a Lightning Rose that unleashes powerful lightning bolts, launching surrounding enemies and dealing Electro DMG.\n\nThe Lightning Rose will continuously emit lightning to knock back enemies and deal Electro DMG for so long as it persists."
         }
     ],
     "color": 11104511,
