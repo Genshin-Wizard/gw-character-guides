@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Chongyun"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/FA8SPoN.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Steady Breathing",
+            "value": "Sword, Claymore, or Polearm-wielding characters within the field created by Spirit Blade - Chonghua's Layered Frost have their Normal Attack SPD increased by 8%.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Rimechaser Blade",
+            "value": "When the field created by Spirit Blade - Chonghua's Layered Frost disappears, another spirit will be summoned to strike nearby enemies, dealing 100% of Chonghua's Layered Frost's Skill DMG as AoE Cryo DMG. Enemies hit by this blade will have their Cryo RES decreased by 10% for 8s.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Gallant Journey",
+            "value": "When dispatched on an expedition in Liyue, time consumed is reduced by 25%.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "title": "Chongyun | Passive Talents"
+}

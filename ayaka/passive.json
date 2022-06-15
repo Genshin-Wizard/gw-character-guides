@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Kamisato Ayaka"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/7hJAGtk.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Amatsumi Kunitsumi Sanctification",
+            "value": "After using Kamisato Art: Hyouka, Kamisato Ayaka's Normal and Charged attacks deal 30% increased DMG for 6s.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Kanten Senmyou Blessing",
+            "value": "When the Cryo application at the end of Kamisato Art: Senho hits an opponent, Kamisato Ayaka gains the following effects:\nRestores 10 Stamina\nGains 18% Cryo DMG Bonus for 10s.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Fruits of Shinsa",
+            "value": "When Ayaka crafts Weapon Ascension Materials, she has a 10% chance to receive double the product.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "title": "Kamisato Ayaka | Passive Talents"
+}

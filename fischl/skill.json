@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Skill Talents: Fischl"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/78124Xb.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Bolts of Downfall",
+            "value": "Normal Attack\nPerforms up to 5 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\n\nWhile aiming, the dark lightning spirits of Immernachtreich shall heed the call of their Prinzessin and indwell the enchanted arrowhead. When fully indwelt, the Rachsuchtig Blitz shall deal immense Electro DMG.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.\n*Normal Attack*"
+        },
+        {
+            "inline": false,
+            "name": "> Nightrider",
+            "value": "Summons Oz, the night raven forged of darkness and lightning descends upon the land, dealing Electro DMG in a small AoE.\n\nFor the ability's duration, Oz will continuously attack nearby enemies with Freikugel.\nHold to adjust the location Oz will be summoned to.\n\nPress again any time during the ability's duration to once again summon him to Fischl's side.\n*Elemental Skill*"
+        },
+        {
+            "inline": false,
+            "name": "> Midnight Phantasmagoria",
+            "value": "Summons Oz to spread his twin swings of twilight and defend Fischl.\n\nHas the following properties during the ability's duration:\n\nFischl takes on Oz's form, greatly increasing her Movement Speed.\nStrikes nearby enemies with lightning, dealing Electro DMG to enemies she comes into contact with. Each enemy can only be struck once.\nOnce this ability's effects end, Oz will remain on the battlefield and attack his Prinzessin's foes. If Oz is already on the field, then this will reset the duration of his presence.\n\n*Elemental Burst*"
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Fischl | Skill Talents"
+}

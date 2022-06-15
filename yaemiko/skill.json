@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Skill Talents: Yae Miko"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/Yfb4g1m.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Spiritfox Sin-Eater",
+            "value": "Normal Attack\nSummons forth kitsune spirits, initiating a maximum of 3 attacks that deal Electro DMG\nCharged Attack\nConsumes a certain amount of Stamina to deal AoE Electro DMG after a short casting time.\nPlunging Attack\nPlunges towards the ground from mid-air, damaging all opponents in her path with thunderous might. Deals AoE Electro DMG upon impact with the ground.\n*Normal Attack*"
+        },
+        {
+            "inline": false,
+            "name": "> Yakan Evocation: Sesshou Sakura",
+            "value": "To Yae, such dull tasks as can be accomplished by driving spirits out need not be done personally.\nMoves swiftly, leaving a Sesshou Sakura behind.\nSesshou Sakura Has the following properties:\nPeriodically strikes one nearby opponent with lightning, dealing Electro DMG.\nWhen there are other Sesshou Sakura nearby, their level will increase, boosting the DMG dealt by these lightning strikes.\nThis skill has three charges.\n A maximum of 3 Sesshou Sakura can exist simultaneously. The initial level of each Sesshou Sakura is 1, and the initial highest level each sakura can reach is 3. If a new Sesshou Sakura is created too close to an existing one, the existing one will be destroyed.\n*Elemental Skill*"
+        },
+        {
+            "inline": false,
+            "name": "> Great Secret Art: Tenko Kenshin",
+            "value": "Legends of 'kitsunetsuki,' or the manifestation of a kitsune's might, are common in Inazuma's folktales. One that particularly captures the imagination is that of the Sky Kitsune, said to cause lightning to fall down upon the foes of the Grand Narukami Shrine. Summons a lightning strike, dealing AoE Electro DMG.  When she uses this skill, Yae Miko will unseal nearby Sesshou Sakura, destroying their outer forms and transforming them into Tenko Thunderbolts that descend from the skies, dealing AoE Electro DMG. Each Sesshou Sakura destroyed in this way will create one Tenko Thunderbolt.\n*Elemental Burst*"
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Yae Miko | Skill Talents"
+}

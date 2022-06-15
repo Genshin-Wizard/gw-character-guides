@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Skill Talents: Keqing"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/PQDR6HJ.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Yunlai Swordsmanship",
+            "value": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemeies along the path and dealing AoE DMG upon impact.\n*Normal Attack*"
+        },
+        {
+            "inline": false,
+            "name": "> Stellar Restoration",
+            "value": "Hurls a Lightning Stiletto that annihilates her enemies like the swift thunder.\n\nWhen the Stiletto hits its target, it deals Electro DMG to enemies in a small AoE, and places a Stiletto Mark on the spot hit.\nHold\nHold to adjust the direction in which the Stiletto shall be thrown.\n\nStilettos thrown by the Hold attack mode can be suspended in mid-air, allowing Keqing to jump to them when using Stellar Restoration a second time.\nLightning Stiletto\nIf Keqing uses Stellar Restoration again or uses a Charged Attack while its duration lasts, it will clear the Stiletto Mark and produce different effects:\n\nIf she uses Stellar Restoration again, she will blink to the location of the Mark and unleashed one slashing attack that deals AoE Electro DMG. When blinking to a Stiletto that was thrown from a Holding attack, Keqing can leap across obstructing terrain.\nIf Keqing uses a Charged Attack, she will ignite a series of thundering cuts at the Mark's location, dealing AoE Electro DMG.\n\n*Elemental Skill*"
+        },
+        {
+            "inline": false,
+            "name": "> Starward Sword",
+            "value": "Keqing unleashes the power of lightning, dealing Electro DMG in an AoE.\nShe then blends into the shadow of her blade, striking a series of thunderclap-blows to nearby enemies simultaneous that deal multiple instance of Electro DMG. The final attack deals massive AoE Electro DMG.\n*Elemental Burst*"
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Keqing | Skill Talents"
+}

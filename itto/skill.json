@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Skill Talents: Itto"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/rV4eWpl.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Fight Club Legend",
+            "value": "**Normal attack:** Perform up to four consecutive strikes, when the second and fourth attack hits opponents, Itto gains two stacks of Superlative Superstrength. Itto’s normal attack combo won’t reset after a short time after using his elemental skill, allowing you to constantly swing his claymore. Max five stacks. This effects refreshes the duration of existing stacks.\n**Charged attack:** Hold for a charge attack and use Arataki Kesagiri slashes without using stamina. Each slash consumes one stack of Superlative Superstrength. When the final stack is consumed, Itto releases a powerful attack.\n**Plunging attack:** A mid-air strike to the ground that damages opponents along the path and deals AoE damage on impact.\n*Normal Attack*"
+        },
+        {
+            "inline": false,
+            "name": "> Masatsu Zetsugi: Akaushi Burst!",
+            "value": "Hurls Ushi, the young akaushi bull and auxiliary member of the Arataki Gang, dealing Geo Damage to opponents. When Ushi hits opponents, it will grant Itto one stack of Superlative Superstrength.\n\nUshi will remain on the field and provide support in the following ways:\n> Taunts surrounding opponents and attracts their aggro.\n> Inherits HP based on a percentage of Itto’s Max Health.\n> When attacked, it will provide Itto with one Superlative Superstrength stack\n> One stack can be gained this way every two seconds.\n> It will flee when its Health reaches zero or its duration ends.\n> It will grant Itto one stack of Superlative Superstrength as it leaves the field.\n\n**Hold**\nBy holding you can adjust the throwing angle of Ushi.\n*Ushi is considering a Geo construct and Itto can only have one Ushi that he has deployed on the field at any one time.*\n*Elemental Skill*"
+        },
+        {
+            "inline": false,
+            "name": "> Royal Descent: Behold, Itto the Evil!",
+            "value": "Time to show ’em the might of the Arataki Clan! For a time, Itto lets his inner Raging Oni King to emerge, using his Oni King’s Kanabou in battle. This state has the following special properties:\n\n> Normal, Charged, and Plunging Attacks will be converted to Geo DMG. This cannot be overidden.\n> Itto’s ATK will be increased based on his DEF. His Normal Attack SPD will also be increased.\n> The first, second, and third combos of his Normal Attack will grant Arataki Itto himself 1 stack of Superlative Superstrength when they hit opponents.\n> Itto gains 20% Elemental and Physical RES.\n\n*The Raging Oni King state will be cleared when Itto leaves the field.*\n*Elemental Burst*"
+        }
+    ],
+    "color": 14994176,
+    "type": "rich",
+    "title": "Itto | Skill Talents"
+}

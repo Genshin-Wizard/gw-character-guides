@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Raiden Shogun"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/4NdsZHk.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Wishes Unnumbered",
+            "value": "When nearby party members gain Elemental Orbs or Particles, Chakra Desiderata gains 2 Resolve stacks.\nThis effect can occur once every 3s.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Enlightened One",
+            "value": "Each 1% above 100% Energy Recharge that the Raiden Shogun possesses grants her:\n0.6% greater Energy restoration from Musou Isshin\n0.4% Electro DMG Bonus\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> All-Preserver",
+            "value": "Mora expended when ascending Swords and Polearms is decreased by 50%.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Raiden Shogun | Passive Talents"
+}

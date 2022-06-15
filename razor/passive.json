@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Razor"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/f1CkKDS.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Awakening",
+            "value": "Decreases Claw and Thunder's CD by 18%.\nUsing Lightning Fang resets the CD of Claw and Thunder.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Hunger",
+            "value": "When Razor's Energy is below 50%, increases Energy Recharge by 30%.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Wolvensprint",
+            "value": "Decreases all party member's sprinting Stamina Consumption by 20%.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Razor | Passive Talents"
+}

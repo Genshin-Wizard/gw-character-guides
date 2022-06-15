@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Hu Tao"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/mvF8rwX.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Flutter By",
+            "value": "When a Paramita Papilio state activated by Guide to Afterlife ends, all allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 8s.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Sanguine Rouge",
+            "value": "When Hu Tao's HP is equal to or less than 50%, her Pyro DMG Bonus is increased by 33%.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> The More the Merrier",
+            "value": "When Hu Tao cooks a dish perfectly, she has anm 18% chance to receive an additional \"Suspicious\" dish of the same type.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 16733525,
+    "type": "rich",
+    "title": "Hu Tao | Passive Talents"
+}

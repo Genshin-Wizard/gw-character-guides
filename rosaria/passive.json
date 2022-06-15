@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Rosaria"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/krSQcCT.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Regina Probationum",
+            "value": "When Rosaria strikes an opponent from behind using Ravaging Confession, Rosaria's CRIT Rate increases by 12% for 5s.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Shadow Samaritan",
+            "value": "Casting Rites of Termination increases CRIT Rate of all nearby party members (except Rosaria herself) by 15% of Rosaria's CRIT Rate for 10s.\nRosaria's CRIT Rate Bonus gained this way cannot exceed 15%.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Night Walk",
+            "value": "At night (18:00 - 6:00), increases the Movement SPD of your own party members by 10%.\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Not stackable with Passive Talents that provide the same effects.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "title": "Rosaria | Passive Talents"
+}

@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Skill Talents: Beidou"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/S14S2Oq.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Oceanborne",
+            "value": "Normal Attack\nPerforms up to 5 successive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous slashes.\n\nAt end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact.\n*Normal Attack*"
+        },
+        {
+            "inline": false,
+            "name": "> Tidecaller",
+            "value": "Nothing to worry about. Should anyone raise a hand against her or her men, she will avenge it ten-fold with sword and thunder.\nPress\nAccumulating the power of lightning, Beidou swings her blade forward fiercely, dealing Electro DMG.\nHold\nLifts her weapon up as a shield. Max DMG absorbed scales off Beidou's Max HP.\n\nAttacks using the energy stored within the greatsword upon release or once this ability's duration expires, dealing Electro DMG. DMG dealt scales with the number of times Beidou is attacked in the skill's duration. The greatest DMG Bonus will be attained once this effect is triggered twice.\n\nThe shield possesses the following properties:\n\nHas 250% Electro DMG Absorption Efficiency.\nApplies the Electro element to Beidou upon activation.\n*Elemental Skill*"
+        },
+        {
+            "inline": false,
+            "name": "> Stormbreaker",
+            "value": "Recalling her slaying of the great beast Haishan. Beidou calls upon that monstrous strength and the lightning to create a Thunderbeast's Targe around herself.\nThunderbeast's Target\n\nWhen Normal and Charged Attacks hit, they create a lightning discharge that can jump between enemies, dealing Electro DMG.\nIncreases the character's resistance to interruption, and decreases DMG taken.\n\n*Elemental Burst*"
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Beidou | Skill Talents"
+}

@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Yun Jin"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/nUR6ZQI.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Light Nourishment",
+            "value": "When Perfect Cooking is achieved on Food with Adventure-related effects, there is a 12% chance to obtain double the product.\n*Unlocked Automatically*"
+        },
+        {
+            "inline": false,
+            "name": "> True to Oneself",
+            "value": "Using Opening Flourish at the precise moment when Yun Jin is attacked will unleash its Level 2 Charged (Hold) form.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Breaking Conventions",
+            "value": "The Normal Attack DMG Bonus granted by Flying Cloud Flag Formation is further increased by 2.5%/5%/7.5%/11.5% of Yun Jin's DEF when the party contains characters of 1/2/3/4 Elemental Types, respectively.\n*Unlocked at Ascension 4*"
+        }
+    ],
+    "color": 14994176,
+    "type": "rich",
+    "title": "Yun Jin | Passive Talents"
+}

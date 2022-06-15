@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Xinyan"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/T6meiSo.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> \"The Show Goes On, Even Without an Audience...\"",
+            "value": "Decreases the number of enemies Sweeping Fervor must hit to trigger each level of shielding.\n\nShield Level 2: Lead-In requirement reduced to 1 enemy hit.\nShield Level 3: Rave requirement reduced to 2 enemies hit or more.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> \"...Now That's Rock 'N' Roll!\"",
+            "value": "Characters shielded by Sweeping Fervor deal 15% increased Physical DMG.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> A Rad Recipe",
+            "value": "When a Perfect Cooking is achieved on an DEF-boosting dish, Xinyan has a 12% chance to obtain double the product.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 16733525,
+    "type": "rich",
+    "title": "Xinyan | Passive Talents"
+}

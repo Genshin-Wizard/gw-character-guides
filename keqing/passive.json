@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Keqing"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/PQDR6HJ.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Thundering Penance",
+            "value": "Within 5s of recasting Stellar Restoration while a Lightning Stiletto is present, Keqing's Normal and Charged Attacks are converted to Electro DMG.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Aristocratic Dignity",
+            "value": "When casting Starward Sword, Keqing's CRIT Rate is increased by 15%, and her Energy Recharge is increased by 15%. This effect lasts for 8s.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Land's Overseer",
+            "value": "When dispatched on an expedition in Liyue, time consumed is reduced by 25%.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Keqing | Passive Talents"
+}

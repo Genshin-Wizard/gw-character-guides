@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Yae Miko"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/Yfb4g1m.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> The Shrine's Sacred Shade",
+            "value": "When casting Great Secret Art: Tenko Kenshin, each Sesshou Sakura destroyed resets the cooldown for 1 charge of Yakan Evocation: Sesshou Sakura.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Enlightened Blessing",
+            "value": "Every point of Elemental Mastery Yae Miko possesses will increase Sesshou Sakura DMG by 0.15%.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Meditations of a Yako",
+            "value": "Has a 25% chance to get 1 regional Character Talent Material (base material excluded) when crafting. The rarity is that of the base material.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Yae Miko | Passive Talents"
+}

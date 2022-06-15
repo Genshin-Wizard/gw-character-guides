@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Skill Talents: Kaeya"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/dX6g3ys.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Ceremonial Bladework",
+            "value": "Normal Attack\nPerforms up to 5 consecutive strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemeies along the path and dealing AoE DMG upon impact.\n*Normal Attack*"
+        },
+        {
+            "inline": false,
+            "name": "> Frostgnaw",
+            "value": "Unleashes a frigit blast, dealing Cryo DMG to enemies in front of Kaeya.\n*Elemental Skill*"
+        },
+        {
+            "inline": false,
+            "name": "> Glacial Waltz",
+            "value": "Coalescing the frost in the air, Kaeya summons 3 icicles that revolve around him.\n\nThese icicles will follow the character around and deal Cryo DMG to enemies in their path for so long as they persist.\n*Elemental Burst*"
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "title": "Kaeya | Skill Talents"
+}

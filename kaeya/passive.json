@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Kaeya"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/dX6g3ys.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Cold-Blooded Strike",
+            "value": "Every hit with Frostgnaw regenerates HP for Kaeya equal to 15% of ATK.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Glacial Heart",
+            "value": "Enemies Frozen by Frostgnaw will drop additional Elemental Particles.\nFrostgnaw may only produce a maximum of 2 additional Elemental Particles per use.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Hidden Strength",
+            "value": "Decreases all party member's sprinting Stamina consumption by 20%.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "title": "Kaeya | Passive Talents"
+}

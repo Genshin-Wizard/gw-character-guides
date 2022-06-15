@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Beidou"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/S14S2Oq.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Retribution",
+            "value": "Counterattacking with Tidecaller at the precise moment when the character is hit grants the maximum DMG Bonus.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Lightning Storm",
+            "value": "Gain the following effects for 10s after unleashing Tidecaller with its maximum DMG Bonus:\nDMG dealt by Normal and Charged Attacks is increased by 15%. ATK SPD of Normal and Charged Attacks is increased by 15%.\nGreatly reduced delay before unleashing Charged Attacks.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Conqueror of Tides",
+            "value": "Decreases all party member's swimming Stamina consumption by 20%.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Beidou | Passive Talents"
+}

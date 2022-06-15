@@ -1,0 +1,33 @@
+{
+    "footer": {
+        "text": "Character Guide • Skill Talents: Kamisato Ayaka"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/7hJAGtk.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Kamisato Art - Kabuki",
+            "value": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash a flurry of sword ki.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.\n*Normal Attack*"
+        },
+        {
+            "inline": false,
+            "name": "> Kamisato Art: Hyouka",
+            "value": "Summons blooming ice to launch nearby opponents, dealing AoE Cryo DMG.\n*Elemental Skill*"
+        },
+        {
+            "inline": false,
+            "name": "> Kamisato Art: Soumetsu",
+            "value": "Summons forth a snowstorm with flawless poise, unleasing a Frostflake Seki no To that moves forward continously.\nFrostflake Seki no To\nA storm of whirling icy winds that slashes repeatedly at every enemy it touches, dealing Cryo DMG.\nThe snowstorm explodes after its duration ends, dealing AoE Cryo DMG.\n*Elemental Burst*"
+        },
+        {
+            "inline": false,
+            "name": "> Kamisato Art: Senho",
+            "value": "Alternate Spirit\nAyaka consumes Stamina and cloaks herself in a frozen fog that moves with her.\n\nIn Senho form, she moves swiftly upon water.\nWhen she reappears, the following effects occur:\nAyaka unleashes frigid energy to apply Cryo on nearby opponents.\nColdness condenses around Ayaka's blade, infusing her attacks with Cryo for a brief period.\n*Right Click*"
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "title": "Kamisato Ayaka | Skill Talents"
+}

@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Aloy"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/47mFsx4.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Combat Override",
+            "value": "When Aloy receives the Coil effect from Frozen Wilds, her ATK is increased by 16%, while nearby party members' ATK is increased by 8%. This effect lasts 10s.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Strong Strike",
+            "value": "When Aloy is in the Rushing Ice state conferred by Frozen Wilds, her Cryo DMG Bonus increases by 3.5% every 1s. A maximum Cryo DMG Bonus increase of 35% can be gained in this way.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Easy Does It",
+            "value": "When Aloy is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat will not be startled when party members approach them.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "title": "Aloy | Passive Talents"
+}

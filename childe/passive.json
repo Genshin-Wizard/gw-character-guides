@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Tartaglia"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/SLuf0m3.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Never Ending",
+            "value": "Extends Riptide duration by 8s.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Sword of Torrents",
+            "value": "When Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, or if his Normal and Charged Attacks do CRIT DMG, they will apply the Riptide status effect on the hit enemy.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Master of Weaponry",
+            "value": "Increases your own party member's Normal Attack Level by 1.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 3245055,
+    "type": "rich",
+    "title": "Tartaglia | Passive Talents"
+}

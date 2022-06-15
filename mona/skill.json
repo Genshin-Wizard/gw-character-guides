@@ -1,0 +1,33 @@
+{
+    "footer": {
+        "text": "Character Guide • Skill Talents: Mona"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/nlEKWI3.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Ripple of Fate",
+            "value": "Normal Attack\nPerforms up to 4 water splash attacks that deal Hydro DMG.\nCharged Attack\nConsumes a certain amount of Stamina and deals AoE Hydro DMG after a short casting time.\nPlunging Attack\nGathering the might of Hydro, Mona plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Hydro DMG upon impact with the ground.\n*Normal Attack*"
+        },
+        {
+            "inline": false,
+            "name": "> Reflection of Doom",
+            "value": "Creates an illusory Phantom of fate from coalesced waterspouts.\n\nThe Phantom has the following special properties:\n\nContinuously taunts nearby enemies, attracting their fire.\nContinuously deals Hydro DMG to nearby enemies.\nWhen its duration expires, the Phantom explodes, dealing AoE Hydro DMG.\n\nHold\nUtilizes water currents to move backwards swiftly before conjuring a Phantom.\n\nOnly one Phantom created by Mirror Reflection of Doom can exist at any time.\n\n*Elemental Skill*"
+        },
+        {
+            "inline": false,
+            "name": "> Stellaris Phantasm",
+            "value": "Mona summons the sparkling waves and creates a reflection of the starry sky, applying the Illusory Bubble status to opponents in a large AoE.\nIllusory Bubble\nTraps opponents inside a pocket of destiny and also makes them Wet. Renders weaker opponents immobile. When an opponent affected by Illusory Bubble sustains DMG, the following effects are produced:\n\nApplies an Omen to the opponent, which gives a DMG Bonus, also increasing the DMG of the attack that causes it.\nRemoves the Illusory Bubble, dealing Hydro Elemental DMG in the process. The DMG Bonus does not apply to the Hydro Elemental DMG dealt in this instance.\n\nOmen\nDuring its duration, increases DMG taken by enemies.\n*Elemental Burst*"
+        },
+        {
+            "inline": false,
+            "name": "> Illusory Torrent",
+            "value": "Alternate Spirit\nMona cloaks herself within the water's flow, consuming Stamina to move rapidly.\n\nWhen under the effect of Illusory Torrent, Mona can move at high speed on water.\n\nApplies the Wet status to nearby enemies when she reappears.\n\n*Right Click*"
+        }
+    ],
+    "color": 3245055,
+    "type": "rich",
+    "title": "Mona | Skill Talents"
+}

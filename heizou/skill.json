@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Skill Talents: Heizou"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/ZrsI0Bj.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Unknown",
+            "value": "Unknown\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Unknown",
+            "value": "Unknown\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Unknown",
+            "value": "Unknown\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 5494962,
+    "type": "rich",
+    "title": "Heizou | Skill Talents"
+}

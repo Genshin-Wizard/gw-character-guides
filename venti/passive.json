@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Venti"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/d4Dceto.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Embrace of Winds",
+            "value": "Holding Skyward Sonnet creates an upcurrent that lasts for 20s.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Stormeye",
+            "value": "Regenerates 15 Energy for Venti after the effects of Wind's Grand Ode end.\nIf an Elemental Absorption occurred, this also restores 15 Energy to all characters of that corresponding element.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Windrider",
+            "value": "Decreases all party member's gliding Stamina Consumption by 20%.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 5494962,
+    "type": "rich",
+    "title": "Venti | Passive Talents"
+}

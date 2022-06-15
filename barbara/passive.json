@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Barbara"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/UNI8hh0.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Glorious Season",
+            "value": "The Stamina Consumption of characters within Let the Show Begin's Melody Loop is reduced by 12%.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Encore",
+            "value": "When a character gains an Elemental Orb/Particle, the duration of Let the Show Begin's Melody Loop is extended by 1s.\nThe maximum extension is 5s.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> With My Whole Heart",
+            "value": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 3245055,
+    "type": "rich",
+    "title": "Barbara | Passive Talents"
+}

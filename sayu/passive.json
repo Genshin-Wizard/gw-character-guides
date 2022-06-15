@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Sayu"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/oYiMaic.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Someone More Capable",
+            "value": "When Sayu triggers a Swirl reaction while active, she heals all your characters and nearby allies for 300 HP. She will also heal an additional 1.2 HP for every point of Elemental Mastery she has.\nThis effect can be triggered once every 2s.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> No Work Today!",
+            "value": "The Muji-Muji Daruma created by Yoohoo Art: Mujina Flurry gains the following effects:\nWhen healing a character, it will also heal characters near that healed character for 20% the amount of HP.\nIncreases the AoE of its attack against opponents.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Yoohoo Art: Silencer's Secret",
+            "value": "When Sayu is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.\nCheck the \"Other\" sub-category of the \"Living Beings / Wildlife\" section in the Archive for creatures this skill works on.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 5494962,
+    "type": "rich",
+    "title": "Sayu | Passive Talents"
+}

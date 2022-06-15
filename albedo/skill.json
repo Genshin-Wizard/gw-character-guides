@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Skill Talents: Albedo"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/oDUkuVY.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Favonius Bladework - Weiss",
+            "value": "Normal Attack\nPerform up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.\n*Normal Attack*"
+        },
+        {
+            "inline": false,
+            "name": "> Abiogenesis: Solar Isotoma",
+            "value": "Albedo creates a Solar Isotoma using alchemy, which deals AoE Geo DMG on appearance.\nSolar Isotoma\n\nWhen enemies within the Solar Isotoma zone are hit, the Solar Isotoma will generate Transient Blossoms which deal AoE Geo DMG. DMG dealt scales off Albedo's DEF.\nTransient Blossoms can only be generated once every 2s.\nWhen a character is located at the locus of the Solar Isotoma, the Solar Isotoma will accumulate Geo power to form a crystallized platform that lifts the character up to a certain height. Only one crystallized platform can exist at a time.\nSolar Isotoma is considered a Geo construct.\n\nHold to designate the location of the skill.\n*Elemental Skill*"
+        },
+        {
+            "inline": false,
+            "name": "> Rite of Progeniture: Tectonic Tide",
+            "value": "Under Albedo's command, Geo crystals surge and burst forth, dealing AoE Geo DMG in front of him.\nIf a Solar Isotoma created by Albedo himself is on the field, 7 Fatal Blossoms will be generated in the Solar Isotoma field, bursting violently into bloom and dealing AoE Geo DMG\nTecotonic Tide DMG and Fatal Blossom DMG will not generate Transient Blossoms.\n*Elemental Burst*"
+        }
+    ],
+    "color": 14994176,
+    "type": "rich",
+    "title": "Albedo | Skill Talents"
+}

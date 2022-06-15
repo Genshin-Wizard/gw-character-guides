@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Skill Talents: Xiangling"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/6VZAvrf.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Dough-Fu",
+            "value": "Normal Attack\nPerforms up to 5 consecutive spear strikes.\nCharged Attack\nConsumes a certain amount of Stamina to lunge forward, dealing damage to enemies along the way.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.\n*Normal Attack*"
+        },
+        {
+            "inline": false,
+            "name": "> Guoba Attack",
+            "value": "Summons Guoba the Panda. Guoba continuously breathes fire, dealing AoE Pyro DMG.\n*Elemental Skill*"
+        },
+        {
+            "inline": false,
+            "name": "> Pyronado",
+            "value": "Displaying her mastery over both fire and polearms, Xiangling sends a Pyronado whirling around her.\n\nThe Pyronado will move with your character for so long as the ability persists, dealing Pyro DMG to all enemies in its path.\n*Elemental Burst*"
+        }
+    ],
+    "color": 16733525,
+    "type": "rich",
+    "title": "Xiangling | Skill Talents"
+}

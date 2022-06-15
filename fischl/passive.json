@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Fischl"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/78124Xb.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Stellar Predator",
+            "value": "When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering Retribution, dealing AoE Electro DMG equal to 152.7% of the arrow's DMG.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Undone Be Thy Sinful Hex",
+            "value": "If a character triggers an Electro-related Elemental Reaction when Oz is on the field, the enemy shall be stricken with Thundering Retribution, dealing Electro DMG equal to 80% of Fischl's ATK.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Mein Hausgarten",
+            "value": "When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Fischl | Passive Talents"
+}

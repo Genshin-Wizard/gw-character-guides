@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Ganyu"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/2Tff8N2.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Undivided Heart",
+            "value": "After firing a Frostflake Arrow, the CRIT Rate of subsequent Frostflake Arrows and their resulting bloom effects is increased by 20% for 5s.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Harmony between Heaven and Earth",
+            "value": "Celestial Shower grants a 20% Cryo DMG Bonus to active members in the AoE.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Preserved for the Hunt",
+            "value": "Refunds 15% of the ores used when crafting Bow-type weapons.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "title": "Ganyu | Passive Talents"
+}

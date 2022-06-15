@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Diona"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/HtKFztj.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Cat's Tail Secret Menu",
+            "value": "Characters shielded by Icy Paws have their Movement SPD increased by 10% and their Stamina Consumption decreased by 10%.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Drunkard's Farce",
+            "value": "Opponents who enter the AoE of Signature Mix have 10% decreased ATK for 15s.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Complimentary Bar Food",
+            "value": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "title": "Diona | Passive Talents"
+}

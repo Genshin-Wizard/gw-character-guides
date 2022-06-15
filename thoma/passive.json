@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Thoma"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/Tr5VWv6.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Imbricated Armor",
+            "value": "When your current active character obtains or refreshes a Blazing Barrier, this character's Shield Strength will increase by 5% for 6s.\nThis effect can be triggered once every 0.3 seconds. Max 5 stacks.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Flaming Assault",
+            "value": "DMG dealt by Crimson Ooyoroi's Fiery Collapse is increased by 2.2% of Thoma's Max HP. \n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Snap and Swing",
+            "value": "When you fish successfully in Inazuma, Thoma's help grants a 20% chance of scoring a double catch.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 16733525,
+    "type": "rich",
+    "title": "Thoma | Passive Talents"
+}

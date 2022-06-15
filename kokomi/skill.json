@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Skill Talents: Sangonomiya Kokomi"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/Rd4Ubga.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> The Shape of Water",
+            "value": "Normal Attack\nPerforms up to 3 consecutive attacks that take the form of swimming fish, dealing Hydro DMG.\nCharged Attack\nConsumes a certain amount of Stamina to deal AoE Hydro DMG after a short casting time.\nPlunging Attack\nGathering the might of Hydro, Kokomi plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Hydro DMG upon impact with the ground.\n*Normal Attack*"
+        },
+        {
+            "inline": false,
+            "name": "> Kurage's Oath",
+            "value": "Summons a \"bake-kurage\" created from water that can heal her allies.\nUsing this skill will apply the Wet status to Sangonomiya Kokomi.\n\nBake-Kurage:\nDeals Hydro DMG to surrounding opponents and heal nearby active characters at fixed intervals. This healing is based on Kokomi's Max HP.\n*Elemental Skill*"
+        },
+        {
+            "inline": false,
+            "name": "> Nereid's Ascension",
+            "value": "The might of Watatsumi descends, dealing Hydro DMG to surrounding opponents, before robing Kokomi in a Ceremonial Garment made from the flowing waters of Sangonomiya.\n\nCeremonial Garment\nSangonomiya Kokomi's Normal Attack, Charged Attack and Bake-Kurage DMG are increased based on her Max HP.\nWhen her Normal and Charged Attacks hit opponents, Kokomi will restore HP for all nearby party members, and the amount restored is based on her Max HP.\nIncreases Sangonomiya Kokomi's resistance to interruption and allows her to move on the water's surface.\n\nThese effects will be cleared once Sangonomiya Kokomi leaves the field.\n*Elemental Burst*"
+        }
+    ],
+    "color": 3245055,
+    "type": "rich",
+    "title": "Sangonomiya Kokomi | Skill Talents"
+}

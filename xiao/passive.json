@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Xiao"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/uSkv5pg.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Evil Conqueror - Tamer of Demons",
+            "value": "Starting Bane of All Evil increases Xiao's DMG by 5%. After this, Xiao's DMG continues to increase by 5% every 3s until the skill ends. Max 25% increase.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Dissolution Eon - Heaven Fall",
+            "value": "When Lemniscatic Wind Cycling is used, increases all subsequent Lemniscatic Wind Cycling's DMG by 10% for 6s. Max 3 stacks. Duration refreshes with new stacks.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Transcension - Gravity Defier",
+            "value": "Decreases all party member's falling DMG by 30%.\nThe greatest effect out of all Talents of the same type prevails.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 5494962,
+    "type": "rich",
+    "title": "Xiao | Passive Talents"
+}

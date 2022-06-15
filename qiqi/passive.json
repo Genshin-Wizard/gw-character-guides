@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Qiqi"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/lp93jNn.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Life-Prolonging Methods",
+            "value": "When a character under the effects of Adeptus Art: Herald of Frost triggers an Elemental Reaction, their Incoming Healing Bonus is increased by 20% for 8s.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> A Glimpse into Arcanum",
+            "value": "When Qiqi hits enemies with her Normal and Charged Attacks, she has a 50% chance to apply a Fortune-Preserving Talisman to them for 6s. This effect can only occur once every 30s.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Former Life Memories",
+            "value": "Displays the location of nearby resources unique to Liyue on the mini-map.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "title": "Qiqi | Passive Talents"
+}

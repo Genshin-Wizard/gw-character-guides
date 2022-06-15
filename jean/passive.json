@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Jean"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/uuGppMs.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Wind Companion",
+            "value": "Hits by Normal Attacks have a 50% chance to regenerate HP equal to 15% of Jean's ATK for all party members.\n*Unlocked at Ascension 1*"
+        },
+        {
+            "inline": false,
+            "name": "> Let the Wind Lead",
+            "value": "Using Dandelion Breeze will regenerate 20% of its Energy.\n*Unlocked at Ascension 4*"
+        },
+        {
+            "inline": false,
+            "name": "> Guiding Breeze",
+            "value": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.\n*Unlocked Automatically*"
+        }
+    ],
+    "color": 5494962,
+    "type": "rich",
+    "title": "Jean | Passive Talents"
+}

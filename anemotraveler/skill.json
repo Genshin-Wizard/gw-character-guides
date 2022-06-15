@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Skill Talents: Traveler"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/B0zBZMi.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Foreign Ironwind",
+            "value": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.\n*Normal Attack*"
+        },
+        {
+            "inline": false,
+            "name": "> Palm Vortex",
+            "value": "Grasping the wind's might, you form a vortex of vacuum in your palm, causing Anemo DMG 6 times in 1.5 seconds to opponents in front of you. The vacuum vortex explodes when the skill duration ends, causing a greater amount of Anemo DMG over a larger area.\nHold\nDMG and AoE will gradually increase.\nElemental Absorption\nIf the vortex comes into contact with Hydro/Pyro/Cryo/Electro elements, it will deal 23% additional elemental DMG of that type. Elemental Absorption may only occur once per use.\nGenerate 2 elemental particles when press and 3.5 when hold, if it hit at least 1 target.\n*Elemental Skill*"
+        },
+        {
+            "inline": false,
+            "name": "> Gust Surge",
+            "value": "Guiding the path of the wind currents, you summon a forward-moving tornado that pulls objects and opponents towards itself, dealing Anemo DMG each 0.5 seconds, 9 times.\nElemental Absorption\nIf the vortex comes into contact with Hydro/Pyro/Cryo/Electro elements, it will deal 30.7% additional elemental DMG of that type. Elemental Absorption may only occur once per use.\n*Elemental Burst*"
+        }
+    ],
+    "color": 5494962,
+    "type": "rich",
+    "title": "Traveler | Skill Talents"
+}

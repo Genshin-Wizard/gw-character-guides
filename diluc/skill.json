@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Skill Talents: Diluc"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/SsCTU9V.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "> Tempered Sword",
+            "value": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous slashes.\n\nAt the end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact.\n*Normal Attack*"
+        },
+        {
+            "inline": false,
+            "name": "> Searing Onslaught",
+            "value": "Performs a forward slash that deals Pyro DMG.\nThis skill can be used 3 times consecutively. Enters CD if not cast again within a short period.\n*Elemental Skill*"
+        },
+        {
+            "inline": false,
+            "name": "> Dawn",
+            "value": "Releases intense flames to knock nearby enemies back, dealing Pyro DMG. The flames then converge into the weapon, summoning a Phoenix that flies forward and deals massive Pyro DMG to all enemies in its path. The Phoenix explodes upon reaching its destination, causing a large amount of AoE Pyro DMG.\n\nThe searing flames that run down his blade cause Diluc's Normal and Charged Attacks to deal Pyro DMG for a time.\n*Elemental Burst*"
+        }
+    ],
+    "color": 16733525,
+    "type": "rich",
+    "title": "Diluc | Skill Talents"
+}
