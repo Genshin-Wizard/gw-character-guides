@@ -1,25 +1,22 @@
 {
-    "footer": {
-        "text": "Character Guide \u2022 Build: Ganyu"
-    },
     "thumbnail": {
-        "url": "https://i.imgur.com/2Tff8N2.png"
+        "url": "https://i.imgur.com/AK3r6mb.png"
     },
     "fields": [
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Amos's Bow"
+            "value": "Lost Prayer to the Sacred Wind"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Skyward Harp, The Viridescent Hunt, Hamayumi, Prototype Cresent (R5)"
+            "value": "Skyward Atlas, Oathsworn Eye, Memory of Dust, Widsth, Solar Pearl, Dodoco Tales"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-shimenawasreminiscence"
+            "value": "x4-crimsonwitchofflames"
         },
         {
             "inline": "false",
@@ -29,25 +26,28 @@
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x2-blizzardstrayer|x2-wandererstroupe"
+            "value": "x4-shimenawasreminiscence"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK % | <goblet>  Cryo DMG Bonus | <circlet>  CRIT DMG"
+            "value": "<sands>  ATK % | <goblet>  Pyro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT DMG|CRIT RATE|ATK %        "
+            "value": "CRIT Rate|CRIT DMG|ATK %          "
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Normal Attack: Liutian Archery\n**2)** Elemental Burst: Celestial Shower\n**3)** Elemental Skill: Trail of the Qilin\n        "
+            "value": "**1)** Normal Attack: Seal of Approval\n**2)** Elemental Burst: Done Deal\n**3)** Elemental Skill: Signed Edict\n        "
         }
     ],
-    "color": 10147839,
+    "color": 16733525,
     "type": "rich",
-    "title": "Ganyu (Melt DPS) | Build"
+    "title": "Yanfei (Burst Support) | Build",
+    "footer": {
+        "text": "Character Guide • Build: Yanfei"
+    }
 }

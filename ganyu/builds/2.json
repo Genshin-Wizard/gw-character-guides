@@ -19,17 +19,17 @@
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-shimenawasreminiscence"
+            "value": "Unknown"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-wandererstroupe"
+            "value": "Unknown"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x2-blizzardstrayer|x2-wandererstroupe"
+            "value": "Unknown"
         },
         {
             "inline": "true",
@@ -49,5 +49,5 @@
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Ganyu (Melt DPS) | Build"
+    "title": "Ganyu (Freeze DPS) | Build"
 }
