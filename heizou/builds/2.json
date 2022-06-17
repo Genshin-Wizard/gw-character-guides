@@ -9,42 +9,42 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Unknown"
+            "value": "Mappa Mare"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Unknown"
+            "value": "Sacrificial Fragments, Hakushin Ring, Emerald Orb"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-wandererstroupe"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-noblesseoblige"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-instructor"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  Unknown | <goblet>  Unknown | <circlet>  Unknown"
+            "value": "<sands>  Elemental Mastery | <goblet> Elemental Mastery | <circlet>  Elemental Mastery"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Unknown"
+            "value": "Elemental Mastery"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown\n        "
+            "value": "**1)** Elemental Skill: Heartstopper Strike\n**2)** Normal Attack:  Fudou Style Martial Arts\n**3)** Elemental Burst: Windmuster Kick"
         }
     ],
     "color": 5494962,
