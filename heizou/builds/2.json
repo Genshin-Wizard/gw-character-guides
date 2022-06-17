@@ -9,45 +9,45 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Skyward Atlas"
+            "value": "Unknown"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Solar Pearl, Lost Prayers, Kagura Verity, The Widsith, Blackcliff Agate, Dodoco Tales"
+            "value": "Unknown"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-viridescentvenerer"
+            "value": "Unknown"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x2-viridescentvenerer|x2-attack"
+            "value": "Unknown"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x4-shimenawasreminiscence"
+            "value": "Unknown"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  Elemental Mastery | <goblet> Elemental Mastery | <circlet>  Elemental Mastery"
+            "value": "<sands>  Unknown | <goblet>  Unknown | <circlet>  Unknown"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Elemental Mastery|ATK|ATK%"
+            "value": "Unknown"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Skill: Heartstopper Strike\n**2)** Normal Attack:  Fudou Style Martial Arts\n**3)** Elemental Burst: Windmuster Kick"
+            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown\n        "
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Heizou (Main/Sub DPS) | Build"
+    "title": "Heizou (Burst/Support) | Build"
 }
