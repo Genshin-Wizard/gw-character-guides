@@ -19,27 +19,27 @@
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-shimenawasreminiscence"
+            "value": "Unknown"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-wandererstroupe"
+            "value": "Unknown"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x2-wandererstroupe|x2-blizzardstrayer"
+            "value": "Unknown"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK % | <goblet>  Cryo DMG Bonus | <circlet>  CRIT DMG"
+            "value": "<sands> Unknown | <goblet>  Unknown | <circlet>  Unknown"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT DMG|CRIT RATE|ATK %        "
+            "value": "Unknown|Unknown"
         },
         {
             "inline": "false",
@@ -49,5 +49,5 @@
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Ganyu (Melt DPS) | Build"
+    "title": "Ganyu (Burst Support) | Build"
 }

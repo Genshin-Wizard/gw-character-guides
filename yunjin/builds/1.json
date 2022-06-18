@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Yunjin"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/nUR6ZQI.png"
     },
@@ -21,7 +24,7 @@
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x2-emblemofseveredfate|x2-huskofopulentdreams"
+            "value": "x2-huskofopulentdreams|x2-emblemofseveredfate"
         },
         {
             "inline": "false",
@@ -46,8 +49,5 @@
     ],
     "color": 14994176,
     "type": "rich",
-    "title": "Yun Jin (Support) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Yunjin"
-    }
+    "title": "Yun Jin (Support) | Build"
 }

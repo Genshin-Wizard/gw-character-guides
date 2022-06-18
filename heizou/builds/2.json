@@ -1,53 +1,53 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Ganyu"
+        "text": "Character Guide \u2022 Build: Heizou"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/2Tff8N2.png"
+        "url": "https://i.imgur.com/ZrsI0Bj.png"
     },
     "fields": [
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Amos's Bow"
+            "value": "Mappa Mare"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Skyward Harp, The Viridescent Hunt, Hamayumi, Prototype Cresent (R5)"
+            "value": "Sacrificial Fragments, Hakushin Ring, Emerald Orb"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-shimenawasreminiscence"
-        },
-        {
-            "inline": "false",
-            "name": "Second Best Artifact Set:",
             "value": "x4-wandererstroupe"
         },
         {
             "inline": "false",
+            "name": "Second Best Artifact Set:",
+            "value": "x4-noblesseoblige"
+        },
+        {
+            "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x2-wandererstroupe|x2-blizzardstrayer"
+            "value": "x4-instructor"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK % | <goblet>  Cryo DMG Bonus | <circlet>  CRIT DMG"
+            "value": "<sands>  Elemental Mastery | <goblet> Elemental Mastery | <circlet>  Elemental Mastery"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT DMG|CRIT RATE|ATK %        "
+            "value": "Elemental Mastery"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Normal Attack: Liutian Archery\n**2)** Elemental Burst: Celestial Shower\n**3)** Elemental Skill: Trail of the Qilin\n        "
+            "value": "**1)** Elemental Skill: Heartstopper Strike\n**2)** Normal Attack:  Fudou Style Martial Arts\n**3)** Elemental Burst: Windmuster Kick"
         }
     ],
-    "color": 10147839,
+    "color": 5494962,
     "type": "rich",
-    "title": "Ganyu (Melt DPS) | Build"
+    "title": "Heizou (Burst/Support) | Build"
 }
