@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Raiden Shogun"
+        "text": "Character Guide • Synergy: Raiden"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/4NdsZHk.png"
     },
     "color": 11104511,
     "type": "rich",
-    "description": "Information regarding this character's team composition and synergy",
-    "title": "Raiden Shogun | Team Composition and Synergy"
+    "description": "xiangling,xingqiu,bennett,raiden|eula,raiden,rosaria,zhongli|raiden,sara,bennett,kazuha",
+    "title": "Raiden | Team Composition and Synergy"
 }

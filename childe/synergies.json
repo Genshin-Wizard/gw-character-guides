@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Tartaglia"
+        "text": "Character Guide • Synergy: Childe"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/SLuf0m3.png"
     },
     "color": 3245055,
     "type": "rich",
-    "description": "Information regarding this character's team composition and synergy",
-    "title": "Tartaglia | Team Composition and Synergy"
+    "description": "childe,xiangling,bennett,kazuha|childe,fischl,beidou,bennett",
+    "title": "Childe | Team Composition and Synergy"
 }

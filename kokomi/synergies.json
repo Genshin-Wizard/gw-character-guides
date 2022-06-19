@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Sangonomiya Kokomi"
+        "text": "Character Guide • Synergy: Kokomi"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/Rd4Ubga.png"
     },
     "color": 3245055,
     "type": "rich",
-    "description": "Information regarding this character's team composition and synergy",
-    "title": "Sangonomiya Kokomi | Team Composition and Synergy"
+    "description": "kokomi,fischl,beidou,kazuha|ganyu,venti,kokomi,ayaka|kokomi,xiangling,bennett,kazuha",
+    "title": "Kokomi | Team Composition and Synergy"
 }

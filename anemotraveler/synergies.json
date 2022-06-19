@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Traveler"
+        "text": "Character Guide • Synergy: Anemo Traveler"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/B0zBZMi.png"
     },
     "color": 5494962,
     "type": "rich",
-    "description": "Information regarding this character's team composition and synergy",
-    "title": "Traveler | Team Composition and Synergy"
+    "description": "xiao,anemotraveler,bennett,zhongli",
+    "title": "Anemo Traveler | Team Composition and Synergy"
 }

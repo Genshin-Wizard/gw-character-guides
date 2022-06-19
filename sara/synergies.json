@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Kujou Sara"
+        "text": "Character Guide • Synergy: Sara"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/yGSQBnz.png"
     },
     "color": 11104511,
     "type": "rich",
-    "description": "Information regarding this character's team composition and synergy",
-    "title": "Kujou Sara | Team Composition and Synergy"
+    "description": "raiden,sara,bennett,kazuha|beidou,sara,bennett,sucrose|childe,fischl,sara,bennett",
+    "title": "Sara | Team Composition and Synergy"
 }

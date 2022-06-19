@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Kaedehara Kazuha"
+        "text": "Character Guide • Synergy: Kazuha"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/Jru7MPN.png"
     },
     "color": 5494962,
     "type": "rich",
-    "description": "Information regarding this character's team composition and synergy",
-    "title": "Kaedehara Kazuha | Team Composition and Synergy"
+    "description": "childe,xiangling,bennett,kazuha|xiangling,venti,bennett,kazuha|ayaka,mona,diona,kazuha",
+    "title": "Kazuha | Team Composition and Synergy"
 }

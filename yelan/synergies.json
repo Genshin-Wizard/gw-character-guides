@@ -3,10 +3,10 @@
         "text": "Character Guide • Synergy: Yelan"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/Q5Tn2PZ.png"
+        "url": "https://i.imgur.com/dwSZTla.png"
     },
     "color": 3245055,
     "type": "rich",
-    "description": "Information regarding this character's team composition and synergy",
-    "title": "Yelan | Synergy"
+    "description": "hutao,xingqiu,yelan,zhongli|xiangling,yelan,bennett,zhongli|eula,fischl,yelan,diona",
+    "title": "Yelan | Team Composition and Synergy"
 }

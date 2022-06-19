@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Ayato"
+        "text": "Character Guide • Synergy: Kamisato Ayato"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/aIcY8dQ.png"
     },
     "color": 3245055,
     "type": "rich",
-    "description": "Information regarding this character's team composition and synergy",
-    "title": "Ayato | Synergy"
+    "description": "ayato,fischl,beidou,venti|ayato,ayaka,kazuha,diona|ayato,ayaka,venti,ganyu",
+    "title": "Kamisato Ayato | Team Composition and Synergy"
 }
