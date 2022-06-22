@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Heizou"
+        "text": "Character Guide \u2022 Synergy: Heizou"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/ZrsI0Bj.png"
     },
     "color": 5494962,
     "type": "rich",
-    "description": "none",
+    "description": "heizou,yelan,zhongli,yaemiko|heizou,fischl,xiangling,barbara",
     "title": "Heizou | Team Composition and Synergy"
 }
