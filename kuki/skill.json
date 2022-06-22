@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "Unknown",
-            "value": "*Normal Attack*\n> Unknown"
+            "name": "Grass Ring of Sanctification",
+            "value": "*Normal Attack*\n> Follows your current active character around. Deals Electro DMG to nearby opponents every 1.5s and restores HP for active character(s) within the ring’s AoE based on Kuki Shinobu’s Max HP\n> The HP consumption from using this skill can only bring her to 20% HP"
         },
         {
             "inline": false,
-            "name": "Unknown",
-            "value": "*Elemental Skill*\nUnknown"
+            "name": "Sanctifying Ring",
+            "value": "*Elemental Skill*\nCreates a Grass Ring of Sanctification at the cost of part of her HP, dealing Electro DMG to nearby opponents."
         },
         {
             "inline": false,
-            "name": "Unknown",
-            "value": "*Elemental Burst*\nUnknown"
+            "name": "Goei Narukami Kariyama Rite",
+            "value": "*Elemental Burst*\n Stabs an evil-excoriating blade into the ground, creating a field that cleanses the area of all that is foul, dealing continuous Electro DMG to opponents within its AoE based on Shinobu’s Max HP\nIf Shinobu’s HP is less than or equal to 50% when this skill is used, the field will last longer"
         }
     ],
     "color": 11104511,
