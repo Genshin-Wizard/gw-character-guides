@@ -24,12 +24,12 @@
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x2-archaicpetra|x2-huskofopulentdreams"
+            "value": "x4-retracingbolide"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x2-huskofopulentdreams|x2-attack"
+            "value": "x2-archaicpetra|x2-huskofopulentdreams"
         },
         {
             "inline": "true",
@@ -39,12 +39,12 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "DEF %|CRIT DMG|CRIT Rate|Energy Recharge        "
+            "value": "Energy Recharge|CRIT DMG|CRIT Rate|DEF %"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Royal Descent - Behold, Itto the Evil!\n**2)** Elemental Skill: Masatsu Zetsugi - Akaushi Burst!\n**3)** Normal Attack: Fight Club Legend\n        "
+            "value": "**1)** Normal Attack: Fight Club Legend\n**2)** Elemental Burst: Royal Descent - Behold, Itto the Evil!\n**3)** Elemental Skill: Masatsu Zetsugi - Akaushi Burst!"
         }
     ],
     "color": 14994176,
