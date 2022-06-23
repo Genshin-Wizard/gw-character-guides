@@ -24,7 +24,7 @@
         {
             "inline": false,
             "name": "To Sever Sealing (C4)",
-            "value": "If a character with the Grass Ring active hits opponents with a normal, plunging, or charged attack, it applies a Thundergrass Mark to the foe, which deals Electro AoE damage equal to 9.7% of Shinobu's max HP"
+            "value": "When the Normal. Charged, or Plunging Attacks of the character affected by Shinobu’s Elemental Skill hit opponents, a Thundergrass Mark will land on the opponent’s position and deal AoE Electro DMG based on 9.7% of Shinobu’s Max HP. This effect can occur once every 5s."
         },
         {
             "inline": false,
