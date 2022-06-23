@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Kaeya"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/dX6g3ys.png"
     },
@@ -26,7 +29,7 @@
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x4-(melt)lavawalker"
+            "value": "x4-lavawalker"
         },
         {
             "inline": "true",
@@ -46,8 +49,5 @@
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Kaeya (Sub DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Kaeya"
-    }
+    "title": "Kaeya (Sub DPS) | Build"
 }
