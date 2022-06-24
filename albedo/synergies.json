@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Albedo"
+        "text": "Character Guide \u2022 Synergy: Albedo"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/oDUkuVY.png"
     },
     "color": 14994176,
     "type": "rich",
-    "description": "xiao,jean,albedo,zhongli|hutao,xingqiu,albedo,zhongli|itto,gorou,albedo,diona",
+    "description": "albedo,xiao,jean,zhongli|albedo,hutao,xingqiu,zhongli|albedo,itto,gorou,diona",
     "title": "Albedo | Team Composition and Synergy"
 }
