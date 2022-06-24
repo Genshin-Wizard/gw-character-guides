@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Arataki Itto"
+        "text": "Character Guide \u2022 Synergy: Arataki Itto"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/rV4eWpl.png"
     },
     "color": 14994176,
     "type": "rich",
-    "description": "itto,gorou,albedo,diona|itto,geotraveler,fischl,beidou|itto,geotraveler,bennett,zhongli",
+    "description": "itto,gorou,albedo,zhongli|itto,gorou,zhongli, bennett|itto,geotraveler,gorou,diona",
     "title": "Arataki Itto | Team Composition and Synergy"
 }
