@@ -7,47 +7,47 @@
     },
     "fields": [
         {
-            "inline": true,
+            "inline": "true",
             "name": "Best Weapon:",
             "value": "Haran Geppaku Futsu"
         },
         {
-            "inline": true,
+            "inline": "true",
             "name": "Replacement Weapon:",
             "value": "Primordial Jade Cutter, Mistsplitter Reforged, The Black Sword, Lion's Roar, Amenoma"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Artifact Set:",
             "value": "x4-gladiatorsfinale"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Second Best Artifact Set:",
             "value": "x4-heartofdepth"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x4-shimenawasreminiscence"
+            "value": "x4-echoesofanoffering"
         },
         {
-            "inline": true,
+            "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands>  ATK % | <goblet>  Hydro DMG Bonus % | <circlet>  CRIT DMG or CRIT Rate"
         },
         {
-            "inline": true,
+            "inline": "true",
             "name": "Substats Priority",
             "value": "ATK %|Energy Recharge|CRIT DMG|CRIT Rate|HP %        "
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Skill: Kamisato Art- Kyouka\n**2)** Elemental Burst: Kamisato Art- Suiyuu\n**3)** Normal Attack: Kamisato Art- Marobashi\n        "
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Notes:",
             "value": "Amenoma weapon is **NOT** recommended for Kamisato Ayato when you are running **4-Piece Shimenawa's Reminiscence**"
         }
