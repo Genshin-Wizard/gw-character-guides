@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Playstyle: Ayato"
+        "text": "Character Guide \u2022 Playstyle: Ayato"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/aIcY8dQ.png"
     },
     "color": 3245055,
     "type": "rich",
-    "description": "Ayato is a rather straightforward character to use, relying on his Elemental Skill to consistently attack when on cooldown, and then buffing himself or his teammates' Normal Strikes for even more frequent attacks when his Burst is available.\nAn on-field DPS Ayato, as the name says, spends a long time on the field and uses two skills every burst. Ayato's Shunsuiken strikes are the major source of damage in this playstyle (the converted Normal Attacks in his Takimeguri Kanka state after casting his Skill).\nAs a Burst DPS, Ayato foregoes one Skill every Burst in order to save field time, opting instead to use his Burst's AoE off-field Hydro application.",
+    "description": "Ayato is a character who can fulfill two different niches, which is an on-field damage dealer or a more burst damage dealer. \nAyato is best played as an on-field DPS, utilizing his kit to the fullest extent via capitalizing on his Elemental Skill, using 2 Skills per Burst. In this manner, Ayato spends an extend period of time on-field split into 2 separate windows, lowering his ER requirements. \nWhile not his best option, Ayato can be used as a Burst DPS, forgoing one skill use per burst to enable his teammates with off-field AoE Hydro application from his burst while taking less field time from them. When opting for this play style, Ayato requires much more ER to compensate the loss of a Skill use per Burst.",
     "title": "Ayato | Playstyle"
 }
