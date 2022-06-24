@@ -45,6 +45,11 @@
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Skill: Kamisato Art- Kyouka\n**2)** Elemental Burst: Kamisato Art- Suiyuu\n**3)** Normal Attack: Kamisato Art- Marobashi\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "4 Echoes should only be considered when player has consistent sub-100 ping. Alternatively, running 2p + 2p sets is still a good option, particularly when playing Ayato as a burst DPS."
         }
     ],
     "color": 3245055,
