@@ -9,27 +9,27 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Amos's Bow"
+            "value": "Aqua Simulacra"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Skyward Harp, The Viridescent Hunt, Hamayumi, Prototype Cresent (R5)"
+            "value": "Skyward Harp, Polar Star, Thundering Pulse, Mounn\u2019s Moon, Favonius Warbow"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x2-noblesseoblige|x2-emblemofseveredfate"
-        },
-        {
-            "inline": "false",
-            "name": "Second Best Artifact Set:",
             "value": "x4-emblemofseveredfate"
         },
         {
             "inline": "false",
+            "name": "Second Best Artifact Set:",
+            "value": "x4-noblesseoblige"
+        },
+        {
+            "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x2-blizzardstrayer|x2-emblemofseveredfate"
+            "value": "x2-blizzardstrayer|x2-noblesseoblige"
         },
         {
             "inline": "true",
@@ -44,7 +44,7 @@
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Normal Attack: Liutian Archery\n**2)** Elemental Burst: Celestial Shower\n**3)** Elemental Skill: Trail of the Qilin\n        "
+            "value": "**1)** Elemental Burst: Celestial Shower\n**2)** Normal Attack: Liutian Archery\n**3)** Elemental Skill: Trail of the Qilin\n        "
         }
     ],
     "color": 10147839,
