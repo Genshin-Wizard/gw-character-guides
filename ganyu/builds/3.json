@@ -19,27 +19,27 @@
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x2-noblesseoblige|x2-emblemofseveredfate"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-emblemofseveredfate"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x2-blizzardstrayer|x2-emblemofseveredfate"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Unknown | <goblet>  Unknown | <circlet>  Unknown"
+            "value": "<sands> ATK%/Energy Recharge | <goblet>  Cryo DMG Bonus | <circlet>  CRIT DMG / CRIT Rate"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Unknown|Unknown"
+            "value": "CRIT Rate | CRIT DMG | Energy Recharge | ATK% | Elemental Mastery"
         },
         {
             "inline": "false",
