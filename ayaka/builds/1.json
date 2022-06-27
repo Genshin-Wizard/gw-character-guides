@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Ayaka"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/7hJAGtk.png"
     },
@@ -36,7 +39,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "ATK %|CRIT DMG|CRIT Rate        "
+            "value": "CRIT DMG|Energy Recharge|ATK %|CRIT Rate        "
         },
         {
             "inline": "false",
@@ -46,8 +49,5 @@
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Kamisato Ayaka (Main DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Ayaka"
-    }
+    "title": "Kamisato Ayaka (Main DPS) | Build"
 }
