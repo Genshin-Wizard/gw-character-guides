@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Albedo"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/oDUkuVY.png"
     },
@@ -36,7 +39,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "DEF%|CRIT Rate|CRIT DMG        "
+            "value": "CRIT Rate|CRIT DMG|DEF%        "
         },
         {
             "inline": "false",
@@ -46,8 +49,5 @@
     ],
     "color": 14994176,
     "type": "rich",
-    "title": "Albedo (Sub DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Albedo"
-    }
+    "title": "Albedo (Sub DPS) | Build"
 }
