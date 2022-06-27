@@ -39,7 +39,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "HP %|CRIT Rate|CRIT DMG        "
+            "value": "CRIT DMG|CRIT Rate|HP %"
         },
         {
             "inline": "false",
