@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Yelan"
+        "text": "Character Guide \u2022 Synergy: Yelan"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/dwSZTla.png"
     },
     "color": 3245055,
     "type": "rich",
-    "description": "hutao,xingqiu,yelan,zhongli|xiangling,yelan,bennett,zhongli|eula,fischl,yelan,diona",
+    "description": "hutao,xingqiu,yelan,zhongli|xiangling,yelan,bennett,raiden|yoimiya,yelan,fischl,bennett",
     "title": "Yelan | Team Composition and Synergy"
 }
