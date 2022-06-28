@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Hu Tao"
+        "text": "Character Guide \u2022 Synergy: Hu Tao"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/mvF8rwX.png"
     },
     "color": 16733525,
     "type": "rich",
-    "description": "hutao,xingqiu,albedo,zhongli|hutao,xingqiu,kazuha,thoma|hutao,xingqiu,kaeya,diona",
+    "description": "hutao,yelan,xingqiu,zhongli|hutao,yelan,kazuha,thoma|hutao,xingqiu,ganyu,zhongli",
     "title": "Hu Tao | Team Composition and Synergy"
 }
