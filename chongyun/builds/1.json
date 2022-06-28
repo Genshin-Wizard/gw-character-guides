@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Chongyun"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/FA8SPoN.png"
     },
@@ -11,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "The Unforged, Skyward Pride, Serpent Spine, Lithic Blade, Akuoumauru "
+            "value": "The Unforged, Skyward Pride, Serpent Spine, Lithic Blade, Akuoumaru"
         },
         {
             "inline": "false",
@@ -46,8 +49,5 @@
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Chongyun (Sub DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Chongyun"
-    }
+    "title": "Chongyun (Sub DPS) | Build"
 }
