@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Kazuha"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/Jru7MPN.png"
     },
@@ -37,17 +40,9 @@
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Skill: Chihayabaru\n**2)** Elemental Burst: Kazuha Slash\n**3)** Normal Attack: Garyuu Bladework\n        "
-        },
-        {
-            "inline": "false",
-            "name": "Notes:",
-            "value": "Swirl Support Characters does not need to Level-up Talents. Just Level up your character for higher Swirl Damage, and keep your Elemental Mastery Sky High"
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Kazuha (Sub DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Kazuha"
-    }
+    "title": "Kazuha (Sub DPS) | Build"
 }
