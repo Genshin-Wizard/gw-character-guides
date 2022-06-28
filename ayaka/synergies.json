@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Kamisato Ayaka"
+        "text": "Character Guide \u2022 Synergy: Kamisato Ayaka"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/7hJAGtk.png"
     },
     "color": 10147839,
     "type": "rich",
-    "description": "ayaka,venti,mona,diona|ayaka,kokomi,shenhe,kazuha|ganyu,venti,kokomi,ayaka",
+    "description": "ayaka,venti,mona,diona|ayaka,kokomi,shenhe,kazuha|ayaka,venti,kokomi,ganyu",
     "title": "Kamisato Ayaka | Team Composition and Synergy"
 }
