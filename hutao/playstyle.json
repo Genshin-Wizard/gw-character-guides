@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Playstyle: Hu Tao"
+        "text": "Character Guide \u2022 Playstyle: Hu Tao"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/mvF8rwX.png"
     },
     "color": 16733525,
     "type": "rich",
-    "description": "Her playstyle is rather unusual; we haven't seen another character risk their own life in order to deal greater harm. Though she can recover herself to full health with her ult, this makes group play with her very difficult.\n\nShe should only have supports that increase her damage and not apply for any healing advantages. You'll have to become used to evading and managing your own HP bar as a Hu Tao main.\n\nCharacters such as Bennett and Mona, with their higher damage boost and melt damage, result in enormous crit numbers.",
+    "description": "Her playstyle is rather unusual, risking her own life to deal greater harm. Although she can recover her health through her ult, keeping her alive can be challenging.\n\nHer teams should not opt-in for extreme healing, but instead focus on units that maximize her personal and team damage. Shielders such as Zhongli, Thoma, and Diona can be used to help with HP management. \n\nShe should utilize N1Cs (one Normal Attack then Charged Attack) or N2Cs (two Normal Attacks then Charged Attack) and the Vaporize reaction in order to maximize her damage.",
     "title": "Hu Tao | Playstyle"
 }
