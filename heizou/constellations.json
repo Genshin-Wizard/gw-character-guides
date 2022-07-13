@@ -8,33 +8,33 @@
     "fields": [
         {
             "inline": false,
-            "name": "(C1)",
-            "value": "Unknown"
+            "name": "Named Juvenile Casebook (C1)",
+            "value": "For 5s after Shikanoin Heizou takes the field, his Normal Attack SPD is increased by 15%. He also gains 1 Declension stack for Heartstopper Strike.\nThis effect can be triggered once every 10s."
         },
         {
             "inline": false,
-            "name": "(C2)",
-            "value": "Unknown"
+            "name": "Investigative Collection (C2)",
+            "value": "The pull effect of the Arresting Windtunnel created by Windmuster Kick is enhanced, and its duration is increased to 1s."
         },
         {
             "inline": false,
-            "name": "(C3)",
-            "value": "Unknown"
+            "name": "Esoteric Puzzle Book (C3)",
+            "value": "Increases the Level of Heartstopper Strike by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "(C4)",
-            "value": "Unknown"
+            "name": "Tome of Lies (C4)",
+            "value": "The first Windmuster Iris explosion in each Windmuster Kick will regenerate 9 Elemental Energy for Shikanoin Heizou. Every subsequent explosion in that Windmuster Kick will each regenerate an additional 1.5 Energy for Heizou.\nOne Windmuster Kick can regenerate a total of 13.5 Energy for Heizou in this manner."
         },
         {
             "inline": false,
-            "name": "(C5)",
-            "value": "Unknown"
+            "name": "Secret Archive (C5)",
+            "value": "Increases the Level of Windmuster Kick by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "(C6)",
-            "value": "Unknown"
+            "name": "Curious Casefiles (C6)",
+            "value": "Each Declension stack will increase the CRIT Rate of the Heartstopper Strike unleashed by 4%. When Heizou possesses Conviction, this Heartstopper Strike's CRIT DMG is increased by 32%."
         }
     ],
     "color": 5494962,
