@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Tighnari"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Tighnari.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Encyclopedic Knowledge",
+            "value": "*Unlocked at Ascension 1*\n> For every point of Elemental Master Tighnari possesses, his Charged Attack and Fashioner's Tanglevine Shaft DMG are increased by 0.05%. The maximum DMG Bonus obtainable this way is 50%."
+        },
+        {
+            "inline": false,
+            "name": "Keen Sight",
+            "value": "*Unlocked at Ascension 4*\n> After Tighnari fires a Wreath Arrow, his Elemental Mastery is increased by 50 for 4 seconds."
+        },
+        {
+            "inline": false,
+            "name": "Scholarly Blade",
+            "value": "*Unlocked Automatically*\n> Displays the location of nearby resources unique to Sumeru on the mini-map"
+        }
+    ],
+    "color": 6794623,
+    "type": "rich",
+    "title": "Tighnari | Passive Talents"
+}

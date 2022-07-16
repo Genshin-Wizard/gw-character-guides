@@ -1,0 +1,47 @@
+{
+    "footer": {
+        "text": "Character Guide • Introduction: Tighnari"
+    },
+    "image": {
+        "url": "https://i.imgur.com/tdg9kqt.png"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Tighnari.png"
+    },
+    "fields": [
+        {
+            "inline": true,
+            "name": "Nation",
+            "value": "Sumeru"
+        },
+        {
+            "inline": true,
+            "name": "Affiliation",
+            "value": "Avidya Forest Rangers"
+        },
+        {
+            "inline": true,
+            "name": "Element Type",
+            "value": "Dendro <:Dendro:951729014106628106>"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "★★★★★"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Vulpes Zerda"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "Bow"
+        }
+    ],
+    "color": 6794623,
+    "type": "rich",
+    "description": "A message for you. I brought back a specialty from the desert, two packs of honeyed dates, which helps to replenish your energy, whether in the morning or at night. Thank you for your patience in teaching and taking care of Collei. Good luck with your work and best wishes for Collei's studies.",
+    "title": "Tighnari | Introduction"
+}

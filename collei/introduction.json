@@ -1,0 +1,47 @@
+{
+    "footer": {
+        "text": "Character Guide • Introduction: Collei"
+    },
+    "image": {
+        "url": "https://i.imgur.com/tdg9kqt.png"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Collei.png"
+    },
+    "fields": [
+        {
+            "inline": true,
+            "name": "Nation",
+            "value": "Sumeru"
+        },
+        {
+            "inline": true,
+            "name": "Affiliation",
+            "value": "Fatui"
+        },
+        {
+            "inline": true,
+            "name": "Element Type",
+            "value": "Dendro <:Dendro:951729014106628106>"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "★★★★"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Leptailurus Cervarius"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "Bow"
+        }
+    ],
+    "color": 6794623,
+    "type": "rich",
+    "description": "Collei is an upcoming Dendro character in Genshin Impact. She has appeared in the official Manga and serves as one of its main characters.",
+    "title": "Collei | Introduction"
+}

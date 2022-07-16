@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "Unknown",
-            "value": "*Unlocked at Ascension 1*\n> Unknown"
+            "name": "Pre-Existing Guilt",
+            "value": "*Unlocked at Ascension 1*\n> Decreases sprinting stamina consumption for the party by 20% (won't stack with other, similar Talents)"
         },
         {
             "inline": false,
-            "name": "Unknown",
-            "value": "*Unlocked at Ascension 4*\n> Unknown"
+            "name": "Paradoxical Practice",
+            "value": "*Unlocked at Ascension 4*\n> When Heizou activates a Swirl reaction, he gains one Declension stack. Can occur every 0.1 seconds"
         },
         {
             "inline": false,
-            "name": "Unknown",
-            "value": "*Unlocked Automatically*\n> Unknown"
+            "name": "Penetrative Reasoning",
+            "value": "*Unlocked Automatically*\n> After Heartstopper Strike hits an opponent, the party's Elemental Mastery (except Heizou's) increases by 80 for 10 seconds."
         }
     ],
     "color": 5494962,

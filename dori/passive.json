@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Dori"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Dori.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Unexpected Order",
+            "value": "*Unlocked at Ascension 1*\n> Has 25% chance to recover some of the materials used when crafting Character and Weapon Materials."
+        },
+        {
+            "inline": false,
+            "name": "An Eye for Gold",
+            "value": "*Unlocked at Ascension 4*\n> After a character connected to the Lamp Spirit triggers an Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, or Spread reaction, the CD of Spirit-Warding Lamp: Troubleshooter Cannon is decreased by 1 second. Can only be triggered once every 3 seconds."
+        },
+        {
+            "inline": false,
+            "name": "Compound Interest",
+            "value": "*Unlocked Automatically*\n> When the Troubleshooter Shots or After-Sales Service Rounds from Spirit-Warding Lamp: Troubleshooter Cannon hit opponents, Dori will restore 5 Elemental Energy for every 100% Energy Recharged possessed. A maximum of 15 Energy can be restored this way per Spirit-Warding Lamp: Troubleshooter Cannon."
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "title": "Dori | Passive Talents"
+}

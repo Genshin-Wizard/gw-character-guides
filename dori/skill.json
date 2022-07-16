@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Skill Talents: Dori"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Dori.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Marvelous Sword-Dance (Modified)",
+            "value": "*Normal Attack*\n> **Normal Attack:** Perform up to 3 consecutive strikes.\n> **Charged attack:** Drains Stamina over time to perform continuously spinning attacks against all nearby opponents. At the end of the sequence, perform a more powerful slash.\n> **Plunging Attack:** Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+        },
+        {
+            "inline": false,
+            "name": "Spirit-Warding Lamp: Troubleshooter Cannon",
+            "value": "*Elemental Skill*\nDirects a Spirit-Warding Lamp to fire off Troubleshooter Shots at opponents, dealing Electro DMG. When Fixer Shots hit opponents, they will create 2 After-Sales Service Rounds that will automatically track opponents and deal Electro DMG."
+        },
+        {
+            "inline": false,
+            "name": "Alcazarzaray's Exactitude",
+            "value": "*Elemental Burst*\nSummons forth the spirit within the lamp to give the client various kinds of aid.\n\n**Lamp Spirit:** Connects to a nearby character. The connected character will continuously restore HP based on Dori's Max HP, and will continuously regenerate Energy. When the connector between the Lamp Spirit and the character touches opponents, it will deal Electro DMG to them every 0.4s. Only one Lamp Spirit can exist at one time."
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "title": "Dori | Skill Talents"
+}

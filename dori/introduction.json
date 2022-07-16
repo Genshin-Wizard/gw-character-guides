@@ -1,0 +1,47 @@
+{
+    "footer": {
+        "text": "Character Guide • Introduction: Dori"
+    },
+    "image": {
+        "url": "https://i.imgur.com/tdg9kqt.png"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Dori.png"
+    },
+    "fields": [
+        {
+            "inline": true,
+            "name": "Nation",
+            "value": "Sumeru"
+        },
+        {
+            "inline": true,
+            "name": "Affiliation",
+            "value": "Sumeru Merchant"
+        },
+        {
+            "inline": true,
+            "name": "Element Type",
+            "value": "Electro <:Electro:951729014165344278>"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "★★★★"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Magicae Lucerna"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "Claymore"
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "description": "No matter how rare the experimental materials are, you can buy them from Dori. I don't know where she gets her goods from... Also, make sure you pay attention to the price when you buy from her. My heart aches every time I pay the bill.",
+    "title": "Dori | Introduction"
+}

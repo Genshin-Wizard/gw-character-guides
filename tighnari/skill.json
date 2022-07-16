@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Skill Talents: Tighnari"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Tighnari.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Khanda Barrier-Buster",
+            "value": "*Normal Attack*\n> **Normal Attack:** Perform up to 4 consecutive shots with a bow.\n> **Charged attack:** Perform a more precise Aimed Shot with increased DMG. While Aiming, the power of Dendro will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:\n\n> **Charge Level 1:** Fires off an arrow carrying the power of flora that deals Dendro DMG.\n> **Charge Level 2:** Fires off a Wreath Arrow that deals Dendro DMG. Upon hit, the Wreath Arrow will create 4 Clusterbloom Arrows that will track nearby opponents automatically and deal Dendro DMG.\n> **Plunging Attack:** Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+        },
+        {
+            "inline": false,
+            "name": "Vijnana-Phala Mine",
+            "value": "*Elemental Skill*\nTighnari throws a Vijnana Stormheart ahead that deals AoE Dendro DMG, creating a Vijnana-Khanda Field that sends opponents within it spiraling into confusion. Additionally, Tighnari gainst the Vijnana Penetrator effect, which will decrease the next Wreath Arrow's charging time by 1.5 seconds. This effect will dissipate once the skill duration ends or after Tighnari has fired 3 Wreath Arrows."
+        },
+        {
+            "inline": false,
+            "name": "Fashioner's Tanglevine Shaft",
+            "value": "*Elemental Burst*\nCombines the power of all seeds to fire 6 Tanglevine Shafts that can track opponents and deal Dendro DMG. After they hit, the Tanglevine Shafts will create a secondary wave of Tanglevine Shafts that can also track opponents and deal Dendro DMG on hit."
+        }
+    ],
+    "color": 6794623,
+    "type": "rich",
+    "title": "Tighnari | Skill Talents"
+}

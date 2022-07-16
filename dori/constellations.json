@@ -1,0 +1,43 @@
+{
+    "footer": {
+        "text": "Character Guide • Constellations: Dori"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Dori.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Beginnings Determined at the Roots (C1)",
+            "value": "Tighnari's Charged Attack CRIT Rate is increased by 15%"
+        },
+        {
+            "inline": false,
+            "name": "Origins Known From the Stem (C2)",
+            "value": "When there are opponents within the Vijnana-Khanda Field created by Vijnana-Phala Mine, Tighnari gains 20% Dendro DMG Bonus. The effect will last up to 6 seconds if the field's duration ends or if it no longer has opponents in it."
+        },
+        {
+            "inline": false,
+            "name": "Fortunes Read Amongst the Branches (C3)",
+            "value": "Increases the level of Fashioner's Tanglevine Shaft by 3."
+        },
+        {
+            "inline": false,
+            "name": "Withering Glimpsed in the Leaves (C4)",
+            "value": "When Fashioner's Tanglevine Shaft is unleashed, all party members gain 60 Elemental Master for 8 seconds. If the Fashioner's Tanglevine Shaft triggers a Burning, Bloom, Aggravate, or Spread reaction, their Elemental Mastery will be further increased by 60. This latter case will also refresh the buff state's duration."
+        },
+        {
+            "inline": false,
+            "name": "Comprehension Amidst the Flowers (C5)",
+            "value": "Increases the Level of Vijnana-Phala Mine by 3."
+        },
+        {
+            "inline": false,
+            "name": "Karma Adjudged From the Leaden Fruit (C6)",
+            "value": "Wreath Arrow's charging time is decreased by 0.9 seconds, and will produce 1 additional Clusterbloom Arrow upon hit."
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "title": "Dori | Constellations"
+}

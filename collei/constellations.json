@@ -1,0 +1,43 @@
+{
+    "footer": {
+        "text": "Character Guide • Constellations: Collei"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Collei.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Deepwood Patrol (C1)",
+            "value": "When in the party and not on the field, Collei's Energy Recharge is increased by 20%"
+        },
+        {
+            "inline": false,
+            "name": "Through Hill and Copse (C2)",
+            "value": "The Floral Ring will grant the character the Sprout effect from Floral Sidewinder upon return, dealing 40% of Collei's ATK as Dendro DMG to nearby opponents for 3 seconds. From the moment of using Floral Brush to the moment when this instance of Sprout effect ends, if any of your party members triggers Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon reactions, the Sprout effect will be extended by 3 seconds.\n\nThe Sprout effect can only be extended this way once. If another Sprout effect is triggered during its initial duration, the initial effect will be removed. Requires you to have the Floral Sidewinder Passive Talent."
+        },
+        {
+            "inline": false,
+            "name": "Scent of Summer (C3)",
+            "value": "Increases the Level of Floral Brush by 3"
+        },
+        {
+            "inline": false,
+            "name": "Gift of the Woods (C4)",
+            "value": "Using Trump-Card Kitty will increase all nearby characters' Elemental Mastery by 60 for 12 seconds excluding Collei."
+        },
+        {
+            "inline": false,
+            "name": "All Embers (C5)",
+            "value": "Increases the Level of Trump-Card Kitty by 3."
+        },
+        {
+            "inline": false,
+            "name": "Forest of Falling Arrows (C6)",
+            "value": "When the Floral Ring hits opponents, it will create a miniature Cuilein-Anbar that will deal 200% of Collei's ATK as Dendro DMG. Each Floral Brush can only create one such miniature Cullein-Anbar."
+        }
+    ],
+    "color": 6794623,
+    "type": "rich",
+    "title": "Collei | Constellations"
+}
