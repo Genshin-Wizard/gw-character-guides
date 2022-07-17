@@ -14,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Staff of Homa, Blackcliff Pole, Deathmatch, Lithic Spear"
+            "value": "Staff of Homa, Calamity Queller, Blackcliff Pole, Deathmatch, Lithic Spear, Favonius Lance"
         },
         {
             "inline": "false",
@@ -39,7 +39,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "ATK %|Energy Recharge|CRIT DMG|CRIT Rate        "
+            "value": "CRIT DMG|CRIT Rate |ATK %|Energy Recharge"
         },
         {
             "inline": "false",
