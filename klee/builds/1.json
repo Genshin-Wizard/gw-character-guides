@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Klee"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/DsfaSum.png"
     },
@@ -11,22 +14,22 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Dodoco Tales, The Widsith, Kaguara's Verity, Skyward Atlas"
+            "value": "The Widsith, Kaguara's Verity, Skyward Atlas,Dodoco Tales"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-crimsonwitchofflames"
+            "value": "x2-crimsonwitchofflames|x2-gladiatorsfinale"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x2-crimsonwitchofflames|x2-gladiatorsfinale/shimenawasreminiscence"
+            "value": "x4-lavawalker"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x4-wandererstroupe"
+            "value": "x4-crimsonwitchofflames"
         },
         {
             "inline": "true",
@@ -41,13 +44,10 @@
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Normal Attack (Charged): Kaboom!\n**2)** Elemental Burst: Sparks 'n' Splash\n**3)** Elemntal Skill: Jumpty Dumpty\n        "
+            "value": "**1)** Normal Attack (Charged): Kaboom!\n**2)** Elemental Burst: Sparks 'n' Splash\n**3)** Elemental Skill: Jumpty Dumpty\n        "
         }
     ],
     "color": 16733525,
     "type": "rich",
-    "title": "Klee (Main DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Klee"
-    }
+    "title": "Klee (Main DPS) | Build"
 }
