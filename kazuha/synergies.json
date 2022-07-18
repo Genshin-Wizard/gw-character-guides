@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Kazuha"
+        "text": "Character Guide \u2022 Synergy: Kazuha"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/Jru7MPN.png"
     },
     "color": 5494962,
     "type": "rich",
-    "description": "childe,xiangling,bennett,kazuha|xiangling,venti,bennett,kazuha|ayaka,mona,diona,kazuha",
+    "description": "childe,xiangling,bennett,kazuha|fischl,venti,kokomi,kazuha|ayaka,kokomi,kaeya,kazuha",
     "title": "Kazuha | Team Composition and Synergy"
 }
