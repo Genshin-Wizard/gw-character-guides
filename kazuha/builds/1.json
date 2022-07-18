@@ -14,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Sacrifical Sword, Primordial Jade Cutter, Iron Sting"
+            "value": "Sacrifical Sword, Favonius Sword, Primordial Jade Cutter, Mistsplitter Reforged, Haran Geppaku Futsu, Summit Shaper, Iron Sting"
         },
         {
             "inline": "false",
@@ -24,7 +24,7 @@
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-noblesseoblige"
+            "value": "x4-thunderingfury"
         },
         {
             "inline": "true",
@@ -34,12 +34,12 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Elemental Mastery|Energy Recharge        "
+            "value": "Elemental Mastery|Energy Recharge|ATK%|CRIT"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Kazuha Slash\n**2)** Elemental Skill: Chihayabaru\n**3)** Normal Attack: Garyuu Bladework\n        "
+            "value": "**1)** Elemental Burst: Kazuha Slash\n**2)** Elemental Skill: Chihayabaru \u2248 Normal Attack: Garyuu Bladework"
         }
     ],
     "color": 5494962,
