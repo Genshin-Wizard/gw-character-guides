@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Bennett"
+        "text": "Character Guide \u2022 Synergy: Bennett"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/Ovy1jMB.png"
     },
     "color": 16733525,
     "type": "rich",
-    "description": "xiangling,xingqiu,bennett,raiden|childe,xiangling,bennett,kazuha|xiangling,venti,bennett,kazuha",
+    "description": "bennett,xiangling,xingqiu,raiden|bennett,childe,xiangling,kazuha|bennett,xiangling,venti,kazuha",
     "title": "Bennett | Team Composition and Synergy"
 }
