@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Skill Talents: Dendro Traveler"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/B0zBZMi.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Foreign Fieldcleaver",
+            "value": "*Normal Attack*\n> **Normal Attack:** Performs up to 5 rapid strikes.\n> **Charged attack:** Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n> **Plunging Attack:** Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+        },
+        {
+            "inline": false,
+            "name": "Razorgrass Blade",
+            "value": "*Elemental Skill*\nWith a flourish of your blade, you unleash a spray of razor-sharp leaves that go before you and deal Dendro DMG."
+        },
+        {
+            "inline": false,
+            "name": "Surgent Manifestation",
+            "value": "*Elemental Burst*\nCalling upon the might of the flora all around you, you create a Lea Lotus Lamp. This Lamp will deal continuous Dendro DMG to opponents within its AoE."
+        }
+    ],
+    "color": 6794623,
+    "type": "rich",
+    "title": "Dendro Traveler | Skill Talents"
+}

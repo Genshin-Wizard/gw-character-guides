@@ -1,0 +1,47 @@
+{
+    "footer": {
+        "text": "Character Guide • Introduction: Dendro Traveler"
+    },
+    "image": {
+        "url": "https://i.imgur.com/tdg9kqt.png"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/B0zBZMi.png"
+    },
+    "fields": [
+        {
+            "inline": true,
+            "name": "Nation",
+            "value": "Outlander"
+        },
+        {
+            "inline": true,
+            "name": "Affiliation",
+            "value": "Sumeru"
+        },
+        {
+            "inline": true,
+            "name": "Element Type",
+            "value": "Dendro <:Dendro:951729014106628106>"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "★★★★★"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Viatrix"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "Sword"
+        }
+    ],
+    "color": 6794623,
+    "type": "rich",
+    "description": "Dendro is the fourth Element the Traveler acquires by resonating with the Statue of The Seven in Sumeru.",
+    "title": "Dendro Traveler | Introduction"
+}
