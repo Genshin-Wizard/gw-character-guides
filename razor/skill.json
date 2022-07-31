@@ -14,7 +14,7 @@
         {
             "inline": false,
             "name": "Claw and Thunder",
-            "value": "*Elemental Skill*\nHunts his prey using the techniques taught to him by his master and his Lupical.\nPress\nSwings the Thunder Wolf Claw, dealing Electro DMG to enemies in front of Razor.\n\nUpon striking an enemy, Razor will gain an Electro Sigil, which increases his Energy Recharge rate.\n\nRazor can have up to 3 Electro Sigils simultaneously, and gaining a new Electro Sigil refreshes their duration.\nHold\nGathers Electro energy to unleash a lightning storm over a small AoE, causing massive Electro DMG, and clears all of Razor's Electro Sigils.\n\nEach Electro Sigil cleared in this manner will be converted into Energy for Razor."
+            "value": "*Elemental Skill*\nHunts his prey using the techniques taught to him by his master and his Lupical.\n`Press`\n> Swings the Thunder Wolf Claw, dealing Electro DMG to enemies in front of Razor.\n\nUpon striking an enemy, Razor will gain an Electro Sigil, which increases his Energy Recharge rate.\n\nRazor can have up to 3 Electro Sigils simultaneously, and gaining a new Electro Sigil refreshes their duration.\n`Hold`\n> Gathers Electro energy to unleash a lightning storm over a small AoE, causing massive Electro DMG, and clears all of Razor's Electro Sigils.\n\nEach Electro Sigil cleared in this manner will be converted into Energy for Razor."
         },
         {
             "inline": false,

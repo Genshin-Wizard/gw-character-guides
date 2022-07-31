@@ -14,7 +14,7 @@
         {
             "inline": false,
             "name": "Violet Arc",
-            "value": "*Elemental Skill*\nChannels the power of lightning to sweep bothersome matters away.\nPress\nReleases a homing Lightning Orb. On hit, it deals Electro DMG, and applies a stack of Conductive status (Max 3 stacks) to enemies in a small AoE.\nHold\nAfter an extended casting time, calls down lightning from the heavens, dealing massive Electro DMG to all nearby enemies.\n\nDeals great amounts of extra damage to enemies based on the number of Conductive stacks applied to them, and clears their Conductive status."
+            "value": "*Elemental Skill*\nChannels the power of lightning to sweep bothersome matters away.\n`Press`\n> Releases a homing Lightning Orb. On hit, it deals Electro DMG, and applies a stack of Conductive status (Max 3 stacks) to enemies in a small AoE.\n`Hold`\n> After an extended casting time, calls down lightning from the heavens, dealing massive Electro DMG to all nearby enemies.\n\nDeals great amounts of extra damage to enemies based on the number of Conductive stacks applied to them, and clears their Conductive status."
         },
         {
             "inline": false,

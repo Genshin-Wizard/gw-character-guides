@@ -14,7 +14,7 @@
         {
             "inline": false,
             "name": "Skyward Sonnet",
-            "value": "*Elemental Skill*\nO wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!\nPress\nSummons a Wind Domain at the enemy's location, dealing AoE Anemo DMG and launching enemies into the air.\nHold\nSummons an even larger Wind Domain with Venti as the epicenter, dealing AoE Anemo DMG and launching affected enemies into the air.\n\nAfter unleashing the Hold version of this ability, Venti rides the wind into the air.\nEnemies hit by Skyward Sonnet will fall to the ground slowly."
+            "value": "*Elemental Skill*\nO wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!\n`Press`\n> Summons a Wind Domain at the enemy's location, dealing AoE Anemo DMG and launching enemies into the air.\n`Hold`\n> Summons an even larger Wind Domain with Venti as the epicenter, dealing AoE Anemo DMG and launching affected enemies into the air.\n\nAfter unleashing the Hold version of this ability, Venti rides the wind into the air.\nEnemies hit by Skyward Sonnet will fall to the ground slowly."
         },
         {
             "inline": false,

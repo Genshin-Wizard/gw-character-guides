@@ -14,7 +14,7 @@
         {
             "inline": false,
             "name": "Reflection of Doom",
-            "value": "*Elemental Skill*\nCreates an illusory Phantom of fate from coalesced waterspouts.\n\nThe Phantom has the following special properties:\n\nContinuously taunts nearby enemies, attracting their fire.\nContinuously deals Hydro DMG to nearby enemies.\nWhen its duration expires, the Phantom explodes, dealing AoE Hydro DMG.\n\nHold\nUtilizes water currents to move backwards swiftly before conjuring a Phantom.\n\nOnly one Phantom created by Mirror Reflection of Doom can exist at any time.\n"
+            "value": "*Elemental Skill*\nCreates an illusory Phantom of fate from coalesced waterspouts.\n\nThe Phantom has the following special properties:\n\nContinuously taunts nearby enemies, attracting their fire.\nContinuously deals Hydro DMG to nearby enemies.\nWhen its duration expires, the Phantom explodes, dealing AoE Hydro DMG.\n\n`Hold`\n> Utilizes water currents to move backwards swiftly before conjuring a Phantom.\n\nOnly one Phantom created by Mirror Reflection of Doom can exist at any time.\n"
         },
         {
             "inline": false,

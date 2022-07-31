@@ -14,7 +14,7 @@
         {
             "inline": false,
             "name": "Icetide Vortex",
-            "value": "*Elemental Skill*\nSharp frost, swift blade.\nPress\nSlashes swiftly, dealing Cryo DMG. When it hits an opponent, Eula gains a stack of Grimheart that stacks up to two times. These stats can only be gained once every 0.3s.\nGrimheart\nIncreases Eula's resistance to interruption and DEF.\nHold\nWielding her sword, Eula consumes all the stacks of Grimheart and lashes forward, dealing AoE Cryo DMG to opponents in front of her.\nIf Grimheart stacks are consumed, surrounding opponents will have their Physical RES and Cryo RES decreased.\nEach consumed stack of Grimheart will be converted into an Icewhirl Brand that deals Cryo DMG to nearby opponents."
+            "value": "*Elemental Skill*\nSharp frost, swift blade.\n`Press`\n> Slashes swiftly, dealing Cryo DMG. When it hits an opponent, Eula gains a stack of Grimheart that stacks up to two times. These stats can only be gained once every 0.3s.\nGrimheart\nIncreases Eula's resistance to interruption and DEF.\n`Hold`\n> Wielding her sword, Eula consumes all the stacks of Grimheart and lashes forward, dealing AoE Cryo DMG to opponents in front of her.\nIf Grimheart stacks are consumed, surrounding opponents will have their Physical RES and Cryo RES decreased.\nEach consumed stack of Grimheart will be converted into an Icewhirl Brand that deals Cryo DMG to nearby opponents."
         },
         {
             "inline": false,

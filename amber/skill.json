@@ -14,7 +14,7 @@
         {
             "inline": false,
             "name": "Explosive Puppet",
-            "value": "*Elemental Skill*\nBaron Bunny\n\nContinuously taunts the enemy, drawing their fire.\nBaron Bunny's HP scales with Amber's Max HP.\nWhen destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.\n\nHold\nAdjusts the throwing direction of Baron Bunny.\n\nThe longer the button is held, the further the throw."
+            "value": "*Elemental Skill*\nBaron Bunny\n\nContinuously taunts the enemy, drawing their fire.\nBaron Bunny's HP scales with Amber's Max HP.\nWhen destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.\n\n`Hold`\n> Adjusts the throwing direction of Baron Bunny.\n\nThe longer the button is held, the further the throw."
         },
         {
             "inline": false,

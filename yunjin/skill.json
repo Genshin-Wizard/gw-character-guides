@@ -14,7 +14,7 @@
         {
             "inline": false,
             "name": "Opening Flourish",
-            "value": "*Elemental Skill*\nPress\nFlourishes her polearm in a cloud-grasping stance, dealing Geo DMG.\nHold\nTakes up the Opening Flourish stance and charges up, forming a shield. DMG Absorption is based on Yun Jin's Max HP and has 150% effectiveness against all Elemental DMG and Physical DMG. The shield lasts until she finishes unleashing her Elemental Skill. When the skill is released, when its duration ends, or when the shield breaks, Yun Jin will unleash the charged energy as an attack, dealing Geo DMG. Based on the time spent charging, it will either unleash an attack at **Charge Level 1** or Level 2."
+            "value": "*Elemental Skill*\n`Press`\n> Flourishes her polearm in a cloud-grasping stance, dealing Geo DMG.\n`Hold`\n> Takes up the Opening Flourish stance and charges up, forming a shield. DMG Absorption is based on Yun Jin's Max HP and has 150% effectiveness against all Elemental DMG and Physical DMG. The shield lasts until she finishes unleashing her Elemental Skill. When the skill is released, when its duration ends, or when the shield breaks, Yun Jin will unleash the charged energy as an attack, dealing Geo DMG. Based on the time spent charging, it will either unleash an attack at **Charge Level 1** or Level 2."
         },
         {
             "inline": false,

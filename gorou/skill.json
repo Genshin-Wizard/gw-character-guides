@@ -14,7 +14,7 @@
         {
             "inline": false,
             "name": "Inuzaka All-Round Defense",
-            "value": "*Elemental Skill*\nDeals AoE Geo DMG and sets up a General's War Banner.\nGeneral's War Banner\nProvides up to 3 buffs to active characters within the skill's AoE based on the number of Geo characters in the party at the time of casting:\n- 1 Geo character: Adds \"Standing Firm\" - DEF Bonus.\n- 2 Geo characters: Adds \"Impregnable\" - Increased resistance to interruption.\n- 3 Geo characters: Adds \"Crunch\" - Geo DMG Bonus.\nGorou can deploy only 1 General's War Banner on the field at any one time. Characters can only benefit from 1 General's War Banner at a time. When a party member leaves the field, the active buff will last for 2s.\nHold\nAdjust the location of the skill."
+            "value": "*Elemental Skill*\nDeals AoE Geo DMG and sets up a General's War Banner.\nGeneral's War Banner\nProvides up to 3 buffs to active characters within the skill's AoE based on the number of Geo characters in the party at the time of casting:\n- 1 Geo character: Adds \"Standing Firm\" - DEF Bonus.\n- 2 Geo characters: Adds \"Impregnable\" - Increased resistance to interruption.\n- 3 Geo characters: Adds \"Crunch\" - Geo DMG Bonus.\nGorou can deploy only 1 General's War Banner on the field at any one time. Characters can only benefit from 1 General's War Banner at a time. When a party member leaves the field, the active buff will last for 2s.\n`Hold`\n> Adjust the location of the skill."
         },
         {
             "inline": false,
