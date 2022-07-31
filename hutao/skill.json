@@ -14,7 +14,7 @@
         {
             "inline": false,
             "name": "Guide to Afterlife",
-            "value": "*Elemental Skill*\nParamita Papilio\nIncreases Hu Tao's ATK based on her Max HP at the time of entering this state. ATK Bonus gained this way cannot exceed 400% of Hu Tao's Base ATK.\nConverts attack DMG to Pyro DMG, which cannot be overridden by any other elemental infusion.\nIncreases Hu Tao's resistance to interruption.\n\nBlood Blossom\nEnemies affected by Blood Blossom will take Pyro DMG every 4s. This DMG is considered Elemental Skill DMG.\nEach enemy can be affected by only one Blood Blossom effect at a time, and its duration may only be refreshed by Hu Tao herself.\n\nParamita Papilio ends when its duration is over, or Hu Tao has left the battlefield or fallen."
+            "value": "*Elemental Skill*\nParamita Papilio\nIncreases Hu Tao's ATK based on her Max HP at the time of entering this state. ATK Bonus gained this way cannot exceed 400% of Hu Tao's Base ATK.\nConverts attack DMG to Pyro DMG, which cannot be overridden by any other elemental infusion.\nIncreases Hu Tao's resistance to interruption.\nBlood Blossom\nEnemies affected by Blood Blossom will take Pyro DMG every 4s. This DMG is considered Elemental Skill DMG.\nEach enemy can be affected by only one Blood Blossom effect at a time, and its duration may only be refreshed by Hu Tao herself.\nParamita Papilio ends when its duration is over, or Hu Tao has left the battlefield or fallen."
         },
         {
             "inline": false,

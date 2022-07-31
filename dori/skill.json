@@ -19,7 +19,7 @@
         {
             "inline": false,
             "name": "Alcazarzaray's Exactitude",
-            "value": "*Elemental Burst*\nSummons forth the spirit within the lamp to give the client various kinds of aid.\n\n**Lamp Spirit:** Connects to a nearby character. The connected character will continuously restore HP based on Dori's Max HP, and will continuously regenerate Energy. When the connector between the Lamp Spirit and the character touches opponents, it will deal Electro DMG to them every 0.4s. Only one Lamp Spirit can exist at one time."
+            "value": "*Elemental Burst*\nSummons forth the spirit within the lamp to give the client various kinds of aid.\n**Lamp Spirit:** Connects to a nearby character. The connected character will continuously restore HP based on Dori's Max HP, and will continuously regenerate Energy. When the connector between the Lamp Spirit and the character touches opponents, it will deal Electro DMG to them every 0.4s. Only one Lamp Spirit can exist at one time."
         }
     ],
     "color": 11104511,

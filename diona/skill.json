@@ -9,7 +9,7 @@
         {
             "inline": false,
             "name": "Katzlein Style",
-            "value": "*Normal Attack*\n> **Normal Attack:** Performs up to 5 consecutive shots with a bow.\n> **Charged attack:** Perform a more precise Aimed Shot with increased DMG.\n\nWhile aiming, biting frost accumulates on the arrowhead. A fully charged frost arrow will deal Cryo DMG.\n> **Plunging Attack:** Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+            "value": "*Normal Attack*\n> **Normal Attack:** Performs up to 5 consecutive shots with a bow.\n> **Charged attack:** Perform a more precise Aimed Shot with increased DMG.\nWhile aiming, biting frost accumulates on the arrowhead. A fully charged frost arrow will deal Cryo DMG.\n> **Plunging Attack:** Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
         },
         {
             "inline": false,
@@ -19,7 +19,7 @@
         {
             "inline": false,
             "name": "Signature Mix",
-            "value": "*Elemental Burst*\nTosses out a special cold brew that deals AoE Cryo DMG and creates a Drunken Mist in an AoE.\nDrunken Mist\n\nDeals continuous Cryo DMG to opponents within the AoE.\nContinuously regenerates the HP of characters within the AoE.\n"
+            "value": "*Elemental Burst*\nTosses out a special cold brew that deals AoE Cryo DMG and creates a Drunken Mist in an AoE.\nDrunken Mist\nDeals continuous Cryo DMG to opponents within the AoE.\nContinuously regenerates the HP of characters within the AoE.\n"
         }
     ],
     "color": 10147839,

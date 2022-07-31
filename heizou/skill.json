@@ -19,7 +19,7 @@
         {
             "inline": false,
             "name": "Windmuster Kick",
-            "value": "*Elemental Burst*\nLeaps into the air and delivers an explosive kick that deals Anemo damage in a broad area of effect using the Fudou Style Vacuum Slugger. When the Slugger connects with an opponent afflicted by Pyro, Hydro, Electro, or Cryo, it applies the Windmuster Iris effect.\n\nThe Iris will explode after a few seconds and deal additional damage of that element, and it can be applied to up to four opponents at one time."
+            "value": "*Elemental Burst*\nLeaps into the air and delivers an explosive kick that deals Anemo damage in a broad area of effect using the Fudou Style Vacuum Slugger. When the Slugger connects with an opponent afflicted by Pyro, Hydro, Electro, or Cryo, it applies the Windmuster Iris effect.\nThe Iris will explode after a few seconds and deal additional damage of that element, and it can be applied to up to four opponents at one time."
         }
     ],
     "color": 5494962,

@@ -9,12 +9,12 @@
         {
             "inline": false,
             "name": "Dance on Fire",
-            "value": "*Normal Attack*\n> **Normal Attack:** Performs up to 4 consecutive strikes.\n> **Charged attack:** Drains Stamina over time to perform continuous spinning attacks against all nearby enemies.\n\nAt the end of the sequence, perform a more powerful slash.\n> **Plunging Attack:** Plunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact."
+            "value": "*Normal Attack*\n> **Normal Attack:** Performs up to 4 consecutive strikes.\n> **Charged attack:** Drains Stamina over time to perform continuous spinning attacks against all nearby enemies.\nAt the end of the sequence, perform a more powerful slash.\n> **Plunging Attack:** Plunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact."
         },
         {
             "inline": false,
             "name": "Sweeping Fervor",
-            "value": "*Elemental Skill*\nXinyan brandishes her instrument, dealing Pyro DMG on nearby enemies, forming a shield made out of her audience's passion.\nThe shield's DMG Absorption scales based on Xinyan's DEF and on the number of enemies hit.\n\nHitting 0-1 enemies grants Shield Level 1: Ad Lib.\nHitting 2 enemies grants Shield Level 2: Lead-In.\nHitting 3 or more enemies grants Shield Level 3: Rave, which will also deal intermittent Pyro DMG to nearby enemies.\n\nThe shield has the following special properties:\n\nWhen unleashed, it infuses Xinyan with Pyro.\nIt has 250% DMG Absorption effectiveness against Pyro DMG.\n"
+            "value": "*Elemental Skill*\nXinyan brandishes her instrument, dealing Pyro DMG on nearby enemies, forming a shield made out of her audience's passion.\nThe shield's DMG Absorption scales based on Xinyan's DEF and on the number of enemies hit.\nHitting 0-1 enemies grants Shield Level 1: Ad Lib.\nHitting 2 enemies grants Shield Level 2: Lead-In.\nHitting 3 or more enemies grants Shield Level 3: Rave, which will also deal intermittent Pyro DMG to nearby enemies.\nThe shield has the following special properties:\nWhen unleashed, it infuses Xinyan with Pyro.\nIt has 250% DMG Absorption effectiveness against Pyro DMG.\n"
         },
         {
             "inline": false,

@@ -14,12 +14,12 @@
         {
             "inline": false,
             "name": "Passion Overload",
-            "value": "*Elemental Skill*\nBennett puts all his fire and passion for adventuring into his sword. Results may very based on how fired up he is.\n`Press`\n> A single, swift flame strike that deals Pyro DMG.\nHold (Short)\nCharges up, resulting in different effects when unleashed based on the Charge Level.\n\nLevel 1: Strikes twice, dealing Pyro DMG and launching enemies.\nLevel 2: Unleashes 3 consecutive attacks that deal impressive Pyro DMG, but the last attack triggers an explosion that launches both Bennett and the enemy.\n\nBennett takes no damage from being launched."
+            "value": "*Elemental Skill*\nBennett puts all his fire and passion for adventuring into his sword. Results may very based on how fired up he is.\n`Press`\n> A single, swift flame strike that deals Pyro DMG.\nHold (Short)\nCharges up, resulting in different effects when unleashed based on the Charge Level.\nLevel 1: Strikes twice, dealing Pyro DMG and launching enemies.\nLevel 2: Unleashes 3 consecutive attacks that deal impressive Pyro DMG, but the last attack triggers an explosion that launches both Bennett and the enemy.\nBennett takes no damage from being launched."
         },
         {
             "inline": false,
             "name": "Fantastic Voyage",
-            "value": "*Elemental Burst*\nBennett leaps towards the enemy and performs a plunging attack, dealing Pyro DMG, creating an Inspiration Field.\nInspiration Field\n\nIf the health of a character in the circle is equal to or falls below 70%, their health will continuously regenerate. Regeneration scales based on Bennett's Max HP.\nIf the health of a character in the circle is higher than 70%, they gain an ATK Bonus that is based on Bennett's Base ATK.\nApplies the Pyro element to characters within the Field.\n"
+            "value": "*Elemental Burst*\nBennett leaps towards the enemy and performs a plunging attack, dealing Pyro DMG, creating an Inspiration Field.\nInspiration Field\nIf the health of a character in the circle is equal to or falls below 70%, their health will continuously regenerate. Regeneration scales based on Bennett's Max HP.\nIf the health of a character in the circle is higher than 70%, they gain an ATK Bonus that is based on Bennett's Base ATK.\nApplies the Pyro element to characters within the Field.\n"
         }
     ],
     "color": 16733525,
