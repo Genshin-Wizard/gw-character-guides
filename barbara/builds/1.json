@@ -9,22 +9,22 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Everlasting Moonglow"
+            "value": "Thrilling Tales of Dragon Slayers"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Thrilling Tales of Dragon Slayer, Prototype Amber"
+            "value": "Prototype Amber, Everlasting Moonglow, Hakushin Ring\n"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-maidenbeloved"
+            "value": "x4-oceanhuedclam"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-oceanhuedclam"
+            "value": "x4-maidenbeloved"
         },
         {
             "inline": "false",
@@ -39,7 +39,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "HP         "
+            "value": "HP | Energy Recharge"
         },
         {
             "inline": "false",

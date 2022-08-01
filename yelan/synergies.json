@@ -5,8 +5,15 @@
     "thumbnail": {
         "url": "https://i.imgur.com/dwSZTla.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Credits to: xf3#3123 (Designer) | KB#1111 & Vladone \u30c4#9281 (Content)"
+        }
+    ],
     "color": 3245055,
     "type": "rich",
-    "description": "hutao,xingqiu,yelan,zhongli|xiangling,yelan,bennett,raiden|yoimiya,yelan,fischl,bennett",
+    "description": "hutao,yelan,xingqiu,zhongli|yomiya,yelan,xingqiu,yunjin|yelan,xingqiu,fischl,kazuha|hutao,yelan,kazuha,amber|raiden,yelan,kazuha,bennett|yoimiya,yelan,yunjin,zhongli",
     "title": "Yelan | Team Composition and Synergy"
 }

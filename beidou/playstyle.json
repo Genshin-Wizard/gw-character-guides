@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Playstyle: Beidou"
+        "text": "Character Guide \u2022 Playstyle: Beidou"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/S14S2Oq.png"
     },
     "color": 11104511,
     "type": "rich",
-    "description": "It's quite simple to play Beidou as your On-Field Main Carry. Because Beidou collects on field particles, it has lower ER needs. In terms of damage, she is mostly supported by her talents, as her normals are woefully inadequate. While it may be tempting to invest in her normals in order to boost their damage, the gain is insignificant.\nOnly if Beidou had the majority of your money would Field Carry be really 'ideal.' In these situations, treating Beidou as a Hypercarry and equipping her with a battery and buffers is an excellent method to take use of her huge multipliers; think of her as Electro Xiao",
+    "description": "Beidou's Burst is the bread and butter of her kit. The Thunderbeast's Targe it generates around the active character shoots out lightning discharges even if Beidou is off-field, as well as providing some Damage Reduction%. It also snapshots on cast. Due to how her discharges jump between targets, she is weakest in single target and strongest against two targets. Beyond two targets, her total damage still remains the same and she does not scale up in AoE.\n\nBecause of her slow and relatively weak Normals, Beidou shines as an off-field character. However, this increases her Energy requirements - something that can be circumvented by learning how to perfect counter with her Elemental Skill.",
     "title": "Beidou | Playstyle"
 }

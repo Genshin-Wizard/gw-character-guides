@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Yoimiya"
+        "text": "Character Guide \u2022 Synergy: Yoimiya"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/D5tXbxb.png"
     },
     "color": 16733525,
     "type": "rich",
-    "description": "yoimiya,fischl,beidou,bennett|yoimiya,xingqiu,bennett,zhongli|yoimiya,yunjin,bennett,kazuha",
+    "description": "yoimiya,xingqiu,bennett,zhongli|yoimiya,xingqiu,fischl,beidou|yoimiya,yunjin,bennett,zhongli",
     "title": "Yoimiya | Team Composition and Synergy"
 }

@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Barbara"
+        "text": "Character Guide \u2022 Synergy: Barbara"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/UNI8hh0.png"
     },
+    "fields": [],
     "color": 3245055,
     "type": "rich",
-    "description": "ayaka,venti,barbara,diona",
+    "description": "ayaka,venti,barbara,diona| barbara,fischl,beidou,sucrose",
     "title": "Barbara | Team Composition and Synergy"
 }
