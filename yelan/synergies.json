@@ -5,6 +5,13 @@
     "thumbnail": {
         "url": "https://i.imgur.com/dwSZTla.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "adwada"
+        }
+    ],
     "color": 3245055,
     "type": "rich",
     "description": "hutao,xingqiu,yelan,zhongli|xiangling,yelan,bennett,raiden|yoimiya,yelan,fischl,bennett",
