@@ -19,12 +19,12 @@
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-maidenbeloved"
+            "value": "x4-oceanhuedclam\n"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-oceanhuedclam"
+            "value": "x4-maidenbeloved"
         },
         {
             "inline": "false",
@@ -39,7 +39,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "HP         "
+            "value": "HP | Energy Recharge"
         },
         {
             "inline": "false",
