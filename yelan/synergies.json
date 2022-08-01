@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "adwada"
+            "value": "Double Hydro is very strong and flexible. The remaining spots can be literally anyone.\n\nFor teams where Yelan is the only Hydro, she can generally be used in the same spot you would have Xingqiu, but it isn't necessarily always an upgrade. It's generally a sidegrade."
         }
     ],
     "color": 3245055,
     "type": "rich",
-    "description": "hutao,xingqiu,yelan,zhongli|xiangling,yelan,bennett,raiden|yoimiya,yelan,fischl,bennett",
+    "description": "hutao,yelan,xingqiu,zhongli|yomiya,yelan,xingqiu,yunjin|yelan,xingqiu,fischl,kazuha|hutao,yelan,kazuha,amber|raiden,yelan,kazuha,bennett|yoimiya,yelan,yunjin,zhongli",
     "title": "Yelan | Team Composition and Synergy"
 }
