@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Elegy for the End"
+            "value": "Aqua Simulacra\nIs very strong in both high and low ER situations, but you might find it harder to build around this weapon at very high ER requirements."
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Aqua Simulacra, Skyward Harp, Polar Star, Thundering Pulse, Favonius Warbow, Sacrificial Bow"
+            "value": "__High ER requirements:__ Elegy for the End, Favonius Warbow\n__Lower ER requirements:__ +R3 Mouun's Moon/The Stringless, Slingshot\n__Worth mentioning:__ +R3 Sacrificial Bow, R5 Fading Twilight, Recurve Bow"
         },
         {
             "inline": "false",
@@ -24,27 +24,27 @@
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-noblesseoblige"
-        },
-        {
-            "inline": "false",
-            "name": "Third Best Artifact Set:",
-            "value": "x2-heartofdepth|x2-noblesseoblige"
+            "value": "x2-emblemofseveredfate|x2-tenacityofthemillelith|x2-heartofdepth|x2-noblesseoblige|"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  HP % or Energy Recharge | <goblet>  HP or Hydro DMG Bonus | <circlet>  CRIT DMG / CRIT Rate"
+            "value": "<sands>  HP% or Energy Recharge | <goblet>  Hydro DMG Bonus or HP% | <circlet>  CRIT DMG/CRIT Rate or HP%\n__More than two HP% main stats are not recommended.__"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT DMG|CRIT Rate|HP %"
+            "value": "Energy Recharge|HP% = CRIT DMG/CRIT Rate"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Burst: Depth-Clarion Dice\n**2)** Elemental Skill: Lingering Lifeline\n**3)** Normal Attack: Stealthy Bowshot\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Yelan needs a lot of Energy Recharge. Do not underestimate the need of it and make sure you can use her Burst every rotation off cooldown."
         }
     ],
     "color": 3245055,
