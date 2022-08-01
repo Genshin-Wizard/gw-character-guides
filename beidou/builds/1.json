@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Beidou"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/S14S2Oq.png"
     },
@@ -41,13 +44,10 @@
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Stormbreaker\n**2)** Normal Attack: Oceanborne\n**3)** Elemental Skill: Tidecaller\n        "
+            "value": "**1)** Elemental Burst: Stormbreaker\n**2)** Elemental Skill: Tidecaller\n**3)** Normal Attack: Oceanborne\n\n        "
         }
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Beidou (Sub DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Beidou"
-    }
+    "title": "Beidou (Sub DPS) | Build"
 }
