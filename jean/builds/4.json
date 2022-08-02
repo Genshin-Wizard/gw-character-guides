@@ -9,47 +9,42 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Freedom Sworn"
+            "value": "*Primordial Jade Cutter*\nThe insanely high CRIT Rate substat helps a lot with building physical jean, the low base attack is mitigated by the passive."
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Jade Cutter, Mistsplitter Reforge, Skyward Blade, Festering Desire, Amenoma Kageuchim (R5),Iron Sting"
+            "value": "Aquila Favonia, The Black Sword, Prototype Rancour"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-viridescentvenerer"
+            "value": "4x-paleflame"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-noblesseoblige"
+            "value": "x2-paleflame|x2-bloodstainedchivalry"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x2-viridescentvenerer|x2-emblemofseveredfate"
+            "value": "x2-physical|x2-attack"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  Elemental Mastery | <goblet>  Elemental Mastery | <circlet>  Elemental Mastery"
+            "value": "<sands>  ATK% | <goblet>  Physical DMG Bonus | <circlet> CRIT Rate or CRIT DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "ATK %|Energy Recharge        "
+            "value": "CRIT Rate or CRIT DMG|ATK%|Energy Recharge "
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Skill: Gale Blade\n**2)** Elemental Burst: Dandelion Breeze\n**3)** Normal Attack: Favonius Bladework\n        "
-        },
-        {
-            "inline": "false",
-            "name": "Notes:",
-            "value": "Swirl Support Characters does not need to Level-up Talents. Just Level up your character for higher Swirl Damage, and keep your Elemental Mastery Sky High"
+            "value": "**1)** Normal Attack: Favonius Bladework\n**2)** Elemental Burst: Dandelion Breeze\n**3)** Elemental Skill: Gale Blade\n        "
         }
     ],
     "color": 5494962,
