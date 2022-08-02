@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Childe"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/SLuf0m3.png"
     },
@@ -11,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Thundering Pulse, Skyward Harp, Rust"
+            "value": "Thundering Pulse, Skyward Harp, Aqua Simulacra, Viridescent Hunt, Rust"
         },
         {
             "inline": "false",
@@ -31,12 +34,12 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  ATK % or Elemental Mastery | <goblet>  Hydro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
+            "value": "<sands>  ATK %  | <goblet>  Hydro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT Rate|CRIT DMG|ATK %|Elemental Mastery        "
+            "value": "CRIT Rate|CRIT DMG|ATK %"
         },
         {
             "inline": "false",
@@ -46,8 +49,5 @@
     ],
     "color": 3245055,
     "type": "rich",
-    "title": "Childe (Main DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Childe"
-    }
+    "title": "Childe (Main DPS) | Build"
 }
