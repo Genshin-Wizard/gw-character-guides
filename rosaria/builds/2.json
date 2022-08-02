@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Rosaria"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/krSQcCT.png"
     },
@@ -6,37 +9,37 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Staff of Homa"
+            "value": "R5 Wavebreaker's Fin"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Favonious Lance, Primordial Jade Winged-Spear, Deathmatch"
+            "value": "Staff of Homa, R1 Wavebreaker's fin, Primordial Winged Jade-spear, The Catch, Favonius Lance"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-lavawalker"
+            "value": "x4-blizzardstrayer"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-emblemofseveredfate"
+            "value": "x4-noblesseoblige"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x4-noblesseoblige"
+            "value": "x4-emblemofseveredfate"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  ATK % or Energy Recharge | <goblet>  Cryo DMG Bonus | <circlet>  CRIT Rate"
+            "value": "<sands>  ATK % or Energy Recharge | <goblet>  Cryo DMG Bonus | <circlet>  CRIT DMG or CRIT Rate"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT Rate|Energy Recharge|CRIT DMG|ATK %          "
+            "value": "Energy Recharge| CRIT DMG | ATK% | CRIT Rate         "
         },
         {
             "inline": "false",
@@ -46,8 +49,5 @@
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Rosaria (Freeze) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Rosaria"
-    }
+    "title": "Rosaria (Freeze) | Build"
 }
