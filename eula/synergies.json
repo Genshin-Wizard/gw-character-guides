@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Lisa has a very useful defense shred passive when her burst is active from her ascension 4 passive, and being a catalyst user she can hold thrilling tales. However her energy requirements are very high, it is recommended to have around 210-220 er on her and give zhongli the favonius lance\n\nYelan's ascension 4 passive is very useful for Eula, and since Eula has a strong interruption resistance during her burst, she can stay on Bennett's field of effect to maximize her damage"
+            "value": "Lisa has a very useful defense shred passive when her burst is active from her ascension 4 passive, and being a catalyst user she can hold thrilling tales. However her energy requirements are very high, it is recommended to have around 210-220 er on her and give zhongli the favonius lance\n\nYelan's ascension 4 passive is very useful for Eula, and since Eula has a strong interruption resistance during her burst, she can stay on Bennett's field of effect to maximize her damage.\n\nShenhe's burst reduces opponent's cryo and physical resistance by upto 15%, and her press skill increases burst damage by 15%. While her hold skill increases normal attack damage, it is not recommended that you use the hold skill because of it's cooldown"
         }
     ],
     "color": 10147839,
     "type": "rich",
-    "description": "eula,fischl,diona,beidou|eula,raiden,rosaria,zhongli|eula,raiden,bennett,zhongli|eula,raiden,lisa,zhongli|eula,raiden,yelan,bennett",
+    "description": "eula,fischl,diona,beidou|eula,raiden,rosaria,zhongli|eula,raiden,bennett,zhongli|eula,raiden,lisa,zhongli|eula,raiden,yelan,bennett|eula,raiden,shenhe,zhongli",
     "title": "Eula | Team Composition and Synergy"
 }
