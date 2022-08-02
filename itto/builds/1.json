@@ -29,7 +29,7 @@
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x2-archaicpetra|x2-huskofopulentdreams"
+            "value": "x2-archaicpetra|x2-huskofopulentdreams|x2-emblemofseveredfate"
         },
         {
             "inline": "true",
@@ -45,6 +45,11 @@
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Normal Attack: Fight Club Legend\n**2)** Elemental Burst: Royal Descent - Behold, Itto the Evil!\n**3)** Elemental Skill: Masatsu Zetsugi - Akaushi Burst!"
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Use 2-pc Husk with 2-pc Emblem **or** 2-pc Archaic Petra"
         }
     ],
     "color": 14994176,
