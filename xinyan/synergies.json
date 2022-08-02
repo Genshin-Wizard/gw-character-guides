@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Xinyan"
+        "text": "Character Guide \u2022 Synergy: Xinyan"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/T6meiSo.png"
     },
+    "fields": [],
     "color": 16733525,
     "type": "rich",
-    "description": "eula,xinyan,raiden,bennett|razor,xinyan,bennett,diona",
+    "description": "eula,xinyan,lisa,diona|razor,xinyan,bennett,diona|xinyan,rosaria,beidou,bennett",
     "title": "Xinyan | Team Composition and Synergy"
 }
