@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Skyward Blade"
+            "value": "Mistsplitter Reforged /\nAquila Favonia"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Aquila Favonia, Festering Desire, Prototype Rancour"
+            "value": "Alley Flash, Skyward Blade, Freedom-Sworn, Prototype Rancour"
         },
         {
             "inline": "false",
@@ -29,12 +29,12 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Energy Recharge / HP% | <goblet>  HP% | <circlet>  Healing Bonus / HP%"
+            "value": "<sands> Energy Recharge / ATK% / Elemental Mastery| <goblet>  Pyro DMG Bonus | <circlet>  CRIT Rate"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge|HP%        "
+            "value": "Energy Recharge|CRIT Rate/CRIT DMG|ATK%        "
         },
         {
             "inline": "false",
@@ -44,7 +44,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "4pc Instructor is only used for 1-shot showcase, and is not recommended for daily-base usage."
+            "value": "He should meet his ER requirements before investing into other stats. Generally speaking, he should have at least 200% ER, though it may vary between teams.\n4p Instructor should only be used early game or for nuke showcases, as 4* artifacts sets have lower main stats, making him less comfortable to use."
         }
     ],
     "color": 16733525,
