@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Rosaria"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/krSQcCT.png"
     },
@@ -11,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Favonious Lance, Primordial Jade Winged-Spear, Deathmatch"
+            "value": "R5 Wavebreaker's Fin, r5 Dragon's Bane, Primordial Jade Winged-Spear, R1 Dragon's bane, R1 Wavebreaker's Fin, Deathmatch"
         },
         {
             "inline": "false",
@@ -26,17 +29,17 @@
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x4-noblesseoblige"
+            "value": "x2-noblesseoblige|x2-blizzardstrayer"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  ATK % or Energy Recharge | <goblet>  Cryo DMG Bonus | <circlet>  CRIT Rate"
+            "value": "-<sands>  ATK% or Energy Recharge | <goblet>  Cryo DMG Bonus | <circlet>  CRIT Rate or CRIT DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT Rate|Energy Recharge|CRIT DMG|ATK %          "
+            "value": "Energy Recharge|CRIT Rate or CRIT DMG|ATK%          "
         },
         {
             "inline": "false",
@@ -46,8 +49,5 @@
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Rosaria (Melt) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Rosaria"
-    }
+    "title": "Rosaria (Melt) | Build"
 }
