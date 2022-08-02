@@ -24,12 +24,7 @@
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x2-noblesseoblige|x2-thunderingfury"
-        },
-        {
-            "inline": "false",
-            "name": "Third Best Artifact Set:",
-            "value": "x2-thunderingfury|x2-attack"
+            "value": "x2-thunderingfury|x2-noblesseoblige|x2-attack"
         },
         {
             "inline": "true",
