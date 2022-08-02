@@ -14,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Solar Pearl, Lost Prayers, Kagura Verity, The Widsith, Blackcliff Agate, Dodoco Tales"
+            "value": "Solar Pearl, Lost Prayers, Kagura Verity, The Widsith, Sacrificial Fragments, Solar Pearl"
         },
         {
             "inline": "false",
@@ -29,22 +29,27 @@
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x4-shimenawasreminiscence"
+            "value": "x2-attack|x2-attack"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  Elemental Mastery | <goblet> Elemental Mastery | <circlet>  Elemental Mastery"
+            "value": "<sands>  ATK % | <goblet> Anemo DMG bonus | <circlet>  CRIT Rate or DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Elemental Mastery|ATK|ATK%"
+            "value": "CRIT Rate|CRIT DMG|ATK %|Energy Recharge        "
         },
         {
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Skill: Heartstopper Strike\n**2)** Normal Attack:  Fudou Style Martial Arts\n**3)** Elemental Burst: Windmuster Kick"
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "4 Viridescent Venerer is Heizou\u2019s best artifact set by far. For teams that already have an anemk running the 4-piece effect, running 2p combination sets on heizou is an option. \n\nWhen playing Heizou in Electrocharge team compositions as an on-field driver, 4VV + Elemental Mastery mainstats and substats can be preferred for its consistent multi-target damage; opting to focus his personal damage on his swirls and electrocharge ownership instead of his Skill and Auto attack talents. "
         }
     ],
     "color": 5494962,
