@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Electro Traveler"
+        "text": "Character Guide \u2022 Synergy: Electro Traveler"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/B0zBZMi.png"
     },
+    "fields": [],
     "color": 11104511,
     "type": "rich",
-    "description": "eula,fischl,diona,electrotraveler",
+    "description": "eula,fischl,diona,electrotraveler|yoimiya,beidou,electrotraveler,xingqiu|childe,beidou,electrotraveler,bennett",
     "title": "Electro Traveler | Team Composition and Synergy"
 }
