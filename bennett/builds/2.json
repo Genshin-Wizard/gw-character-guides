@@ -1,0 +1,53 @@
+{
+    "footer": {
+        "text": "Character Guide \u2022 Build: Bennett"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/Ovy1jMB.png"
+    },
+    "fields": [
+        {
+            "inline": "true",
+            "name": "Best Weapon:",
+            "value": "Skyward Blade"
+        },
+        {
+            "inline": "true",
+            "name": "Replacement Weapon:",
+            "value": "Aquila Favonia, Festering Desire, Prototype Rancour"
+        },
+        {
+            "inline": "false",
+            "name": "Best Artifact Set:",
+            "value": "x4-noblesseoblige"
+        },
+        {
+            "inline": "false",
+            "name": "Second Best Artifact Set:",
+            "value": "x4-instructor"
+        },
+        {
+            "inline": "true",
+            "name": "Main Stats Priority",
+            "value": "<sands> Energy Recharge / HP% | <goblet>  HP% | <circlet>  Healing Bonus / HP%"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "Energy Recharge|HP%        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Fantastic Voyage\n**2)** Elemental Skill: Passion Overload\n**3)** Normal Attack: Strike of Fortune \n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "4pc Instructor is only used for 1-shot showcase, and is not recommended for daily-base usage."
+        }
+    ],
+    "color": 16733525,
+    "type": "rich",
+    "title": "Bennett (Invested Support) | Build"
+}
