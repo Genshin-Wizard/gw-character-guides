@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Sucrose"
+        "text": "Character Guide \u2022 Synergy: Sucrose"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/laV05YF.png"
     },
+    "fields": [],
     "color": 5494962,
     "type": "rich",
-    "description": "ganyu,xiangling,bennett,sucrose|childe,xiangling,bennett,sucrose|diluc,xingqiu,bennett,sucrose",
+    "description": "xiangling,fischl,kokomi,sucrose|childe,xiangling,bennett,sucrose|beidou,xingqiu,fischl,sucrose",
     "title": "Sucrose | Team Composition and Synergy"
 }

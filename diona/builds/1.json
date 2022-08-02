@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Diona"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/HtKFztj.png"
     },
@@ -6,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Sacrificial Bow"
+            "value": "__Favonius Warbow__ - Allows her to function as a battery for non-Cryo units as well.\n__Sacrificial Bow__ - Superior to Fav Bow when additional Cryo Particles are preferred"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Elegy for the End, Favonius Warbow"
+            "value": "Elegy for the End"
         },
         {
             "inline": "false",
@@ -24,30 +27,27 @@
             "value": "x2-tenacityofthemillelith|x2-emblemofseveredfate"
         },
         {
-            "inline": "false",
-            "name": "Third Best Artifact Set:",
-            "value": "x4-tenacityofthemillelith"
-        },
-        {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  Energy Recharge or HP% | <goblet>  HP% | <circlet>  Healing Bonus / HP%"
+            "value": "<sands>  HP% | <goblet>  HP% | <circlet>  HP%/Healing Bonus  "
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "HP%|HP        "
+            "value": "Energy Recharge|Crit Rate(if Fav)|HP%|HP        "
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Skill: Icy Paws\n**2)** Elemental Burst: Signature Mix\n**3)** Normal Attack: Kätzlein Style"
+            "value": "**1)** Elemental Skill: Icy Paws\n**2)** Elemental Burst: Signature Mix\n**3)** Normal Attack: K\u00e4tzlein Style (Not recommended)"
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Use whatever artifacts are at hand, do not specifically farm for her."
         }
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Diona (Support) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Diona"
-    }
+    "title": "Diona (Support) | Build"
 }

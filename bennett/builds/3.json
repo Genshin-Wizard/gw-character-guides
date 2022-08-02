@@ -9,42 +9,47 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Skyward Blade"
+            "value": "Mistsplitter Reforged"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Aquila Favonia, Festering Desire, Prototype Rancour"
+            "value": "Primordial Jade Cutter, Freedom-Sworn, Alley Flash, Iron Sting"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-noblesseoblige"
+            "value": "x4-crimsonwitchofflames"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-instructor"
+            "value": "x2-crimsonwitchofflames|x2-noblesseoblige|x2-attack|x2-wandererstroupe"
+        },
+        {
+            "inline": "false",
+            "name": "Third Best Artifact Set:",
+            "value": "x4-thunderingfury"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Energy Recharge / HP% | <goblet>  HP% | <circlet>  Healing Bonus / HP%"
+            "value": "<sands> Elemental Mastery / ATK% | <goblet>  Pyro DMG Bonus| <circlet>  CRIT Rate / CRIT DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge|HP%        "
+            "value": "CRIT Rate / CRIT DMG|Elemental Mastery|ATK%|Energy Recharge      "
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Fantastic Voyage\n**2)** Elemental Skill: Passion Overload\n**3)** Normal Attack: Strike of Fortune \n        "
+            "value": "**1)** Elemental Skill: Passion Overload\n**2)** Elemental Burst: Fantastic Voyage\n**3)** Normal Attack: Strike of Fortune \n        "
         },
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "4pc Instructor is only used for 1-shot showcase, and is not recommended for daily-base usage."
+            "value": "This build focuses on using Bennett's Elemental Skill to deal damage while his Elemental Burst is active.\nElemental Mastery should be ignored if he's in a Mono Pyro team.\nThundering Fury should only be used in Overload teams, it also increases the value of Elemental Mastery."
         }
     ],
     "color": 16733525,

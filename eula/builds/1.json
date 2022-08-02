@@ -14,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Wolf's Gravestone, Luxurious Sea-lord, Snow-tombed Starsilver"
+            "value": "Wolf's Gravestone, Serpent Spine, Luxurious Sea-lord, Snow-tombed Starsilver"
         },
         {
             "inline": "false",
@@ -29,7 +29,7 @@
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x2-physical|x2-emblemofseveredfate"
+            "value": "x2-physical|x2-attack"
         },
         {
             "inline": "true",
@@ -39,7 +39,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT Rate|CRIT DMG|Energy Recharge|ATK %      "
+            "value": "Energy Recharge|CRIT Rate|ATK %|CRIT DMG"
         },
         {
             "inline": "false",
