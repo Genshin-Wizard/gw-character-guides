@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Playstyle: Sangonomiya Kokomi"
+        "text": "Character Guide \u2022 Playstyle: Sangonomiya Kokomi"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/Rd4Ubga.png"
     },
     "color": 3245055,
     "type": "rich",
-    "description": "Elemental Burst increases the effectiveness of her Normal and Charged Attacks. It also boosts her Bake-Kurage, the harm of the jellyfish, and its duration on the field. Furthermore, all of Kokomi's attacks restore HP to all adjacent party members. Oh, we almost forgot about the finest part. After triggering her Elemental Burst, Kokomi may walk on water.\n\nOne of the reasons many players choose to ignore Kokomi's flag is her passive talent, Flawless Strategy. This skill grants her a 100% reduction in CRIT Rate.\n\nAn optimal rotation for a Kokomi team composition typically:\n> Use Kokomi's Elemental Skill (E)\n> Swap and and recharge Kokomi's burst\n> Swap in and pop Kokomi's Elemental Burst (Q) to attack and heal your team again.",
+    "description": "Kokomi is a hydro healer with the ability to apply hydro in an AoE.\n\n**Off-field Support**\nKokomi is able to maintain 100% uptime on her elemental skill by refreshing it using her elemental burst. This makes her a great user of the tenacity of the millelith set, on top of which she can also use the Thrilling Tales of Dragon Slayers to buff the on field carry unit. This playstyle is generally used in freeze teams, and the recommended main stats on the sands/goblet/circlet is energy recharge/HP%/healing bonus\n\n**On field enabler**\nWhen Kokomi activates her elemental burst, the damage of her normal attacks, charged attack and elemental skill is increased proportional to her total HP. Since her n2 is quick when cancelled either using a dash, a charged attack or a walk, complemented by the AoE hydro application of her elemental skill, she makes for a great enabler for reaction based teams. For this playstyle it is recommended to use the ocean hued clam set with the main stats on the sands/goblet/circlet is energy recharge or HP%/hydro dmg bonus/healing bonus \n\n**Mono Hydro On field DPS**\nThis playstyle is recommended only when running the team Kokomi/Xingqiu/Yelan/Kazuha and using the Everlasting moonglow weapon. In this one exception of a playstyle, the talent upgrade priority changes to normal attacks = elemental burst > elemental skill, since Kokomi stays on field to take advantage of the damage boost from her elemental burst and does normal attacks to trigger Xingqiu and Yelan's elemental bursts. This playstyle allows players to run lower energy recharge builds on Kokomi, Xingqiu and Yelan and build all three of them for more damage. Kokomi is able to use the 4pc Heart of deapth set or the 4pc Ocean hued clam set, the recommended main stats on the sands/goblet/circlet is HP%/hydro dmg bonus/healing bonus.",
     "title": "Sangonomiya Kokomi | Playstyle"
 }
