@@ -5,8 +5,15 @@
     "thumbnail": {
         "url": "https://i.imgur.com/7hJAGtk.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "__Hydro unit:__\nKokomi offers heals and more offensive 2nd Cryo\nMona offers buffing but no survivability and wants ~240 ER\nXingqiu/Yelan are good options but single target focused\nBarbara can be used in a pinch\n\nRotations and more info in full guide linked below."
+        }
+    ],
     "color": 10147839,
     "type": "rich",
-    "description": "ayaka,venti,mona,diona|ayaka,kokomi,shenhe,kazuha|ayaka,venti,kokomi,ganyu",
+    "description": "ayaka,kazuha,kokomi,shenhe|ayaka,kazuha,shenhe,diona|ayaka,venti,xingqiu,rosaria",
     "title": "Kamisato Ayaka | Team Composition and Synergy"
 }
