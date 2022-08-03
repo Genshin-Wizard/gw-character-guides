@@ -14,37 +14,37 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Favonious Warbow, The Stringless, Hamayumi Bow"
+            "value": "Favonious Warbow, The Stringless"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-emblemofseveredfate"
+            "value": "x4-instructor"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x2-attack|x2-crimsonwitchofflames"
-        },
-        {
-            "inline": "false",
-            "name": "Third Best Artifact Set:",
-            "value": "x2-crimsonwitchofflames|x2-noblesseoblige"
+            "value": "x4-noblesseoblige"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  ATK % | <goblet>  Pyro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
+            "value": "<sands>  Energy Recharge% | <goblet>  Pyro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge|CRIT Rate/DMG|ATK %         "
+            "value": "Energy Recharge|CRIT Rate/CRIT DMG|ATK %         "
         },
         {
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Burst: Fiery Rain\n**2)** Elemental Skill: Explosive Puppet\n**3)** Normal Attack: Sharpshooter \n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Offensive stats do not need to be considered outside of Energy Recharge. CRIT Rate is helpful if using Favonius Warbow."
         }
     ],
     "color": 16733525,
