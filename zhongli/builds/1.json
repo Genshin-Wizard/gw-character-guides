@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Zhongli"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/fqg3O0z.png"
     },
@@ -6,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Black Tassel"
+            "value": "Favonius Lance "
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Staff of Homa, Favonious Lance"
+            "value": "Black Tassel"
         },
         {
             "inline": "false",
@@ -21,12 +24,12 @@
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x2-tenacityofthemillelith|x2-noblesseoblige"
+            "value": "x4-archaicpetra"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x2-archaicpetra|x2-noblesseoblige"
+            "value": "x4-instructor"
         },
         {
             "inline": "true",
@@ -36,18 +39,20 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "HP %|HP|Energy Recharge         "
+            "value": "HP %|Crit Rate|HP|Energy Recharge         "
         },
         {
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Skill: Dominus Lapidis\n**2)** Elemental Burst: Planet Befall\n**3)** Normal Attack: Rain of Stone\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Burst and Auto Attack talents need not be levelled. \n\nWhen running Favonius Lance, CRIT Rate substats are much preferred to proc the passive more consistently.\n\n4p Archaic Petra can be situationally strong when the rotation is flexible enough to enable the pick up of a crystallize shard of the preferred element while Zhongli is on-field. \n\n4p Instructors, another situational set, can be effectively used by Zhongli in Vape/Melt teams as he is able to consistently trigger the crystallize reaction when on-field with his hold E. ( as long as there is an aura on the enemy )\n\nFor a purely Shield-Bot build Zhongli, at low investments, can opt to rainbow artifacts with high HP%/ flat HP substats. "
         }
     ],
     "color": 14994176,
     "type": "rich",
-    "title": "Zhongli (Support) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Zhongli"
-    }
+    "title": "Zhongli (Support) | Build"
 }
