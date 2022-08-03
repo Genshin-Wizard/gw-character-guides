@@ -9,42 +9,47 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "The Widsith"
+            "value": "Lost Prayer to the Sacred Winds "
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Lost Prayer, Skyward Atlas, Thrilling Tales of Dragon Slayers, Oathsworn Eye"
+            "value": "The Widsith, Skyward Atlas, Memory of Dust, Favonius Codex"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-emblemofseveredfate"
+            "value": "x2-heartofdepth|x2-attack"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-noblesseoblige"
+            "value": "x4-heartofdepth"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x2-heartofdepth|x2-noblesseoblige"
+            "value": "x4-emblemofseveredfate"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  ATK % or Elemental Mastery | <goblet>  Hydro DMG Bonus/ATK %/E.Mastery | <circlet>  CRIT Rate / CRIT DMG / ATK %"
+            "value": "<sands>  ATK % or Elemental Mastery | <goblet>  Hydro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG "
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT DMG|CRIT Rate|ATK %|Elemental Mastery         "
+            "value": "Energy Recharge|CRIT DMG|CRIT Rate|Elemental Mastery|ATK %"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Burst: Stellaris Phantasm\n**2)** Normal Attack: Ripple of Fate\n**3)** Elemental Skill: Mirror Reflection of Doom\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "\nWhen working as a Burst-DPS (depending on the amount of Energy Recharge Mona has) the Emblem of Severed Fate set will be generally more suitable, being synergetic with her ascension passive which Increases Mona\u2019s Hydro DMG% by 20% of Mona\u2019s total Energy Recharge. The Widsith, especially at higher refinements, will have higher general damage than some 5-star catalysts. The downtime on this catalyst\u2019s buffs can be ignored in the Elemental Burst focused playstyle. Elemental Mastery sands should only be used when she is able to consistently Vaporize her Elemental Burst or other attacks. "
         }
     ],
     "color": 3245055,
