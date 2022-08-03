@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "1) The team of Fischl/Kokomi/Xiangling/Sucrose takes advantage of Kokomi's elemental skill AoE and Sucrose's ability to use her elemental skill to swirl pyro off guoba to trigger overload and vaporize simultaneously on several mobs at once, on top of using Xiangling's pyronado to deal damage. Because of fact that it triggers several reactions continuously, this team is still strong versus Single target opponents. Read more about this team on the official KQM guide!\n\n2) In the team Ganyu/Shenhe/Kokomi/Ayaka, Kokomi using 4pc Teancity simultaneously buffs all three of her teammates greatly increasing all of their damage"
+            "value": "The team of Fischl/Kokomi/Xiangling/Sucrose takes advantage of Kokomi's Elemental skill AoE and Sucrose's ability to use her Elemental skill to swirl pyro off guoba to trigger overload and vaporize simultaneously on several mobs at once, on top of using Xiangling's pyronado to deal damage. Because of fact that it triggers several reactions continuously, this team is still strong versus Single target opponents. Read more about this team on the official KQM guide!"
         }
     ],
     "color": 3245055,
     "type": "rich",
-    "description": "fischl,kokomi,xiangling,sucrose|kokomi,fischl,beidou,kazuha|ganyu,shenhe,kokomi,ayaka|ganyu,venti,kokomi,ayaka|kokomi,cryoflex,cryoflex,anemoflex|kokomi,fischl,electroflex,anemoflex",
+    "description": "fischl,kokomi,xiangling,sucrose|kokomi,fischl,beidou,kazuha|shenhe,kazuha,kokomi,ayaka|kokomi,cryoflex,cryoflex,anemoflex|kokomi,fischl,electroflex,anemoflex|ganyu,shenhe,kokomi,ayaka",
     "title": "Kokomi | Team Composition and Synergy"
 }
