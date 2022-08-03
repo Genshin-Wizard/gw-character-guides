@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Aloy"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/47mFsx4.png"
     },
@@ -6,48 +9,45 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Polar Star"
+            "value": "Thundering Pulse"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Thundering Pulse, Skyward Harp, Stringless, Sac Bow, Windblume Ode"
+            "value": "Polar Star, Skyward Harp, Prototype Crescent, Amos Bow, Rust"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-noblesseoblige"
+            "value": "x4-blizzardstrayer"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x2-blizzardstrayer|x2-noblessoblige"
-        },
-        {
-            "inline": "false",
-            "name": "Third Best Artifact Set:",
-            "value": "x2-wandererstroupe|x2-blizzardstrayer"
+            "value": "x2-blizzardstrayer|x2-attack"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  ATK % / Elemental Mastery / Energy Recharge | <goblet>  Cryo DMG Bonus % / ATK% | <circlet>  CRIT DMG / CRIT Rate"
+            "value": "<sands>  ATK %  | <goblet>  Cryo DMG Bonus %  | <circlet>  CRIT DMG / CRIT Rate"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT Rate|CRIT DMG|ATK %|Elemental Mastery|Energy Recharge        "
+            "value": "CRIT DMG|CRIT rate|ATK %|Energy Recharge        "
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Prophecies of Dawn\n**2)** Elemental Skill: Frozen Wilds\n**3)** Normal Attack: Rapid Fire\n        "
+            "value": "**1)** Normal Attack: Rapid Fire\n**2)** Elemental Burst: Prophecies of Dawn\n**3)** Elemental Skill: Frozen Wilds\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "On-Field DPS build is based around gaining coil stacks and using her normal attack string on a frozen enemy. When played with cryo resonance and Blizzard Strayer, crit rate can be quite low. "
         }
     ],
     "color": 10147839,
     "type": "rich",
-    "title": "Aloy (On-Field DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Aloy"
-    }
+    "title": "Aloy (On-Field DPS) | Build"
 }
