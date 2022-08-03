@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Zhongli"
+        "text": "Character Guide \u2022 Synergy: Zhongli"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/fqg3O0z.png"
     },
+    "fields": [],
     "color": 14994176,
     "type": "rich",
-    "description": "hutao,xingqiu,albedo,zhongli|ganyu,xiangling,bennett,zhongli|ningguang,fischl,bennett,zhongli",
+    "description": "hutao,xingqiu,albedo,zhongli| yoimiya,yelan,yunjin,zhongli| ganyu,xiangling,bennett,zhongli| xiao,sucrose,albedo,zhongli| ningguang,fischl,albedo,zhongli| itto,geotraveler,gorou,zhongli",
     "title": "Zhongli | Team Composition and Synergy"
 }
