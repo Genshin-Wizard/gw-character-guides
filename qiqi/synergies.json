@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Qiqi"
+        "text": "Character Guide \u2022 Synergy: Qiqi"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/lp93jNn.png"
     },
+    "fields": [],
     "color": 10147839,
     "type": "rich",
-    "description": "xiao,venti,qiqi,zhongli",
+    "description": "xiao,venti,qiqi,zhongli|qiqi,xingqiu,beidou,fischl|xiao,qiqi,raiden,rosaria",
     "title": "Qiqi | Team Composition and Synergy"
 }
