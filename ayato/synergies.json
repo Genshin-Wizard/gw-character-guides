@@ -5,8 +5,9 @@
     "thumbnail": {
         "url": "https://i.imgur.com/aIcY8dQ.png"
     },
+    "fields": [],
     "color": 3245055,
     "type": "rich",
-    "description": "ayato,bennett,xiangling,fischl|ayato,beidou,fischl,jean|ayato,ganyu,venti,diona",
+    "description": "ayato,fischl,bennett,kazuha| ayato,bennett,xiangling,fischl|ayato,beidou,fischl,bennett| ayato,yelan,fischl,jean| ayato,yelan,xingqiu,zhongli| ayato,ganyu,venti,diona",
     "title": "Kamisato Ayato | Team Composition and Synergy"
 }
