@@ -9,7 +9,7 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Favonius Greatsword"
+            "value": "__Favonius Greatsword__ has a chance to generate Energy particles whenever the holder hits a CRIT. Holder needs to be on-field.\n\n__Wolf's Gravestone__ grants an ATK% buff to the entire party whenever the holder hits an opponent under 30% HP. Holder needs to be on-field. Consider how often you'll be able to utilize its passive before picking this one."
         },
         {
             "inline": "false",
@@ -24,7 +24,7 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  Energy Recharge or DEF% | <goblet>  DEF% | <circlet>  DEF%"
+            "value": "<sands>  Energy Recharge or DEF% | <goblet>  DEF% | <circlet>  DEF% or CRIT Rate"
         },
         {
             "inline": "true",
@@ -39,7 +39,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "A guaranteed CRIT on Elemental Burst once C2+ means an easier time making use of Favonius."
+            "value": "Xinyan's C2 eliminates the need to build CRIT Rate."
         }
     ],
     "color": 16733525,
