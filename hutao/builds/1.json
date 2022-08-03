@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Staff of Homa"
+            "value": "Staff of Homa\nIs good in all situations, providing various stats which Hu Tao likes. A CRIT Rate circlet is recommended as both this weapon's substat and Hu Tao's ascension stat are CRIT DMG."
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Deathmatch, Primordial Jade Winged-Spear, Dragon's Bane, Lithic Spear"
+            "value": "Deathmatch, Primordial Jade Winged-Spear, Dragon's Bane\n\nLithic Spear is a very strong option (although not better than Staff of Homa) if you have many Liyue party members; for example, in a team with Hu Tao, Zhongli, Yelan and Xingqiu."
         },
         {
             "inline": "false",
@@ -34,12 +34,12 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  HP % or Elemental Mastery | <goblet>  Pyro DMG Bonus | <circlet>  CRIT DMG or CRIT Rate"
+            "value": "<sands>  HP% or Elemental Mastery | <goblet>  Pyro DMG Bonus | <circlet>  CRIT Rate or CRIT DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT Rate|CRIT DMG|Elemental Mastery|HP %         "
+            "value": "CRIT Rate|CRIT DMG|Elemental Mastery|HP%         "
         },
         {
             "inline": "false",
