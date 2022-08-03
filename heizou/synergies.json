@@ -5,9 +5,15 @@
     "thumbnail": {
         "url": "https://i.imgur.com/ZrsI0Bj.png"
     },
-    "fields": [],
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Heizou can be slotted into most teams that want an anemo to apply 4VV"
+        }
+    ],
     "color": 5494962,
     "type": "rich",
-    "description": "heizou,xingqiu,rosaria,kaeya| heizou,kazuha,xingqiu,fischl| heizou,fischl,beidou,xingqiu| heizou,yaemiko,fischl,xingqiu| heizou,kazuha,xiangling,bennett| heizou,yelan,xingqiu,zhongli",
+    "description": "heizou,fischl,beidou,xingqiu| heizou,yaemiko,fischl,xingqiu| heizou,kazuha,xiangling,bennett| heizou,diluc,xingqiu,bennett| heizou,xingqiu,rosaria,kaeya|heizou,kokomi,ayaka,rosaria",
     "title": "Heizou | Team Composition and Synergy"
 }
