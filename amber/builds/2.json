@@ -9,42 +9,47 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Elegy for the End"
+            "value": "Skyward Harp"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Favonious Warbow, The Stringless, Hamayumi Bow"
+            "value": "Thundering Pulse, Amos Bow, Protype Crescent, Compound Bow, Slingshot"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-emblemofseveredfate"
+            "value": "x2-physical|x2-physical"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x2-attack|x2-crimsonwitchofflames"
+            "value": "x2-attack|x2-physical"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x2-crimsonwitchofflames|x2-noblesseoblige"
+            "value": "x4-shimenawasreminiscence"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  ATK % | <goblet>  Pyro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
+            "value": "<sands>  ATK % | <goblet>  Physical DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge|CRIT Rate/DMG|ATK %         "
+            "value": "CRIT Rate/DMG|ATK %         "
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Fiery Rain\n**2)** Elemental Skill: Explosive Puppet\n**3)** Normal Attack: Sharpshooter \n        "
+            "value": "**1)** Normal Attack: Sharpshooter \n**2)** Elemental Skill: Explosive Puppet\n**3)** Elemental Burst: Fiery Rain\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "With the exclusion of those playing a hybrid build focusing on Physical and Pyro damage or with her C6 (Increases Attack), Energy Recharge and Elemental Mastery can be ignored as well as her burst and skill."
         }
     ],
     "color": 16733525,
