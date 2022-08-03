@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Primordial Jade Cutter"
+            "value": "__Primordial Jade Cutter__ Best offensive option for C6, as long as ER requirements are met. Not recommended for non-C6 Xingqiu.\n\n__R3+ Sacrificial Sword__ High Energy Recharge substat and a useful passive help ease reaching ER requirements, and allow for an easier offensive build. Recommended for non-C6 Xingqiu"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Mistsplitter Reforged, Sacrificial Sword, Favonious Sword, Festering Desire"
+            "value": "Mistsplitter Reforged, Favonious Sword, Amenoma Kaegeuchi, Sacrificial Sword"
         },
         {
             "inline": "false",
@@ -34,12 +34,12 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  Energy Recharge | <goblet>  Hydro DMG Bonus | <circlet>  CRIT DMG / CRIT RATE"
+            "value": "<sands>  Energy Recharge or ATK% | <goblet>  Hydro DMG Bonus | <circlet>  CRIT DMG or CRIT Rate"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge|CRIT DMG / CRIT RATE|ATK %        "
+            "value": "Energy Recharge|CRIT DMG or CRIT Rate|ATK%        "
         },
         {
             "inline": "false",
