@@ -1,0 +1,58 @@
+{
+    "footer": {
+        "text": "Character Guide \u2022 Build: Xinyan"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/T6meiSo.png"
+    },
+    "fields": [
+        {
+            "inline": "true",
+            "name": "Best Weapon:",
+            "value": "Redhorn Stonethresher"
+        },
+        {
+            "inline": "true",
+            "name": "Replacement Weapon:",
+            "value": "Wolf's Gravestone, Serpent Spine, Song of Broken Pines, Snow-Tombed Starsilver, Skyward Pride"
+        },
+        {
+            "inline": "false",
+            "name": "Best Artifact Set:",
+            "value": "x2-physical|x2-physical"
+        },
+        {
+            "inline": "false",
+            "name": "Second Best Artifact Set:",
+            "value": "x4-paleflame"
+        },
+        {
+            "inline": "false",
+            "name": "Third Best Artifact Set:",
+            "value": "x2-physical|x2-attack"
+        },
+        {
+            "inline": "true",
+            "name": "Main Stats Priority",
+            "value": "<sands>  ATK % | <goblet>  Physical DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "CRIT DMG / CRIT Rate|ATK %        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Normal Attack: Dance on Fire\n**2)** Elemental Burst: Riff Evolution\n**3)** Elemental Skill: Sweeping Ferver\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "While the Pale Flame will lead to greater damage output than the 2-set Physical Set build with its stacks, it is very difficult to gain them with Xinyan's skill despite its pyro pulses. The 2-set Physical Set build will be far more consistent."
+        }
+    ],
+    "color": 16733525,
+    "type": "rich",
+    "title": "Xinyan (Pyro Support) | Build"
+}

@@ -1,0 +1,53 @@
+{
+    "thumbnail": {
+        "url": "https://i.imgur.com/47mFsx4.png"
+    },
+    "fields": [
+        {
+            "inline": "true",
+            "name": "Best Weapon:",
+            "value": "Polar Star"
+        },
+        {
+            "inline": "true",
+            "name": "Replacement Weapon:",
+            "value": "Thundering Pulse, Skyward Harp, Stringless, Sac Bow, Windblume Ode"
+        },
+        {
+            "inline": "false",
+            "name": "Best Artifact Set:",
+            "value": "x4-noblesseoblige"
+        },
+        {
+            "inline": "false",
+            "name": "Second Best Artifact Set:",
+            "value": "x2-blizzardstrayer|x2-noblessoblige"
+        },
+        {
+            "inline": "false",
+            "name": "Third Best Artifact Set:",
+            "value": "x2-wandererstroupe|x2-blizzardstrayer"
+        },
+        {
+            "inline": "true",
+            "name": "Main Stats Priority",
+            "value": "<sands>  ATK % / Elemental Mastery / Energy Recharge | <goblet>  Cryo DMG Bonus % / ATK% | <circlet>  CRIT DMG / CRIT Rate"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "CRIT Rate|CRIT DMG|ATK %|Elemental Mastery|Energy Recharge        "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Prophecies of Dawn\n**2)** Elemental Skill: Frozen Wilds\n**3)** Normal Attack: Rapid Fire\n        "
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "title": "Aloy (Battery DPS) | Build",
+    "footer": {
+        "text": "Character Guide • Build: Aloy"
+    }
+}
