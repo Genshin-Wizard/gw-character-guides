@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Xingqiu"
+        "text": "Character Guide \u2022 Synergy: Xingqiu"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/YpsKjVK.png"
     },
+    "fields": [],
     "color": 3245055,
     "type": "rich",
-    "description": "xiangling,xingqiu,bennett,raiden|hutao,xingqiu,albedo,zhongli|diluc,xingqiu,bennett,venti",
+    "description": "xiangling,xingqiu,bennett,raiden|hutao,xingqiu,amber,kazuha|sucrose,xingqiu,beidou,fischl|flex,xingqiu,yelan,flex|ayaka,xingqiu,kaeya,sucrose|raiden,xingqiu,bennett,jean",
     "title": "Xingqiu | Team Composition and Synergy"
 }
