@@ -1,0 +1,53 @@
+{
+    "footer": {
+        "text": "Character Guide \u2022 Build: Amber"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/P3EU7xA.png"
+    },
+    "fields": [
+        {
+            "inline": "true",
+            "name": "Best Weapon:",
+            "value": "Elegy for the End"
+        },
+        {
+            "inline": "true",
+            "name": "Replacement Weapon:",
+            "value": "Favonious Warbow, The Stringless, Hamayumi Bow"
+        },
+        {
+            "inline": "false",
+            "name": "Best Artifact Set:",
+            "value": "x4-emblemofseveredfate"
+        },
+        {
+            "inline": "false",
+            "name": "Second Best Artifact Set:",
+            "value": "x2-attack|x2-crimsonwitchofflames"
+        },
+        {
+            "inline": "false",
+            "name": "Third Best Artifact Set:",
+            "value": "x2-crimsonwitchofflames|x2-noblesseoblige"
+        },
+        {
+            "inline": "true",
+            "name": "Main Stats Priority",
+            "value": "<sands>  ATK % | <goblet>  Pyro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "Energy Recharge|CRIT Rate/DMG|ATK %         "
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Fiery Rain\n**2)** Elemental Skill: Explosive Puppet\n**3)** Normal Attack: Sharpshooter \n        "
+        }
+    ],
+    "color": 16733525,
+    "type": "rich",
+    "title": "Amber (Physical DPS) | Build"
+}
