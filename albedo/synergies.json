@@ -5,8 +5,9 @@
     "thumbnail": {
         "url": "https://i.imgur.com/oDUkuVY.png"
     },
+    "fields": [],
     "color": 14994176,
     "type": "rich",
-    "description": "albedo,xiao,jean,zhongli|albedo,hutao,xingqiu,zhongli|albedo,itto,gorou,diona",
+    "description": "albedo,xiao,anemoflex,zhongli|albedo,hutao,xingqiu,zhongli|albedo,itto,gorou,diona",
     "title": "Albedo | Team Composition and Synergy"
 }
