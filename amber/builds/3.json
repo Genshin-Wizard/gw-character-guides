@@ -9,42 +9,47 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Elegy for the End"
+            "value": "Amos' Bow"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Favonious Warbow, The Stringless, Hamayumi Bow"
+            "value": "Thundering Pulse, Sharpshooter\u2019s Oath, Prototype Crescent, Hamayumi, Blackcliff Warbow"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-emblemofseveredfate"
+            "value": "x4-shimenawasreminiscence"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x2-attack|x2-crimsonwitchofflames"
+            "value": "x4-wandererstroupe"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x2-crimsonwitchofflames|x2-noblesseoblige"
+            "value": "x2-attack|x2-crimsonwitchofflames"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  ATK % | <goblet>  Pyro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
+            "value": "<sands>  ATK % / Elemental Mastery | <goblet>  Pyro DMG Bonus | <circlet>  CRIT DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge|CRIT Rate/DMG|ATK %         "
+            "value": "CRIT DMG|ATK %|Elemental Mastery         "
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Fiery Rain\n**2)** Elemental Skill: Explosive Puppet\n**3)** Normal Attack: Sharpshooter \n        "
+            "value": "**1)**Normal Attack: Sharpshooter \n**2)** Elemental Skill: Explosive Puppet\n**3)** Elemental Burst: Fiery Rain\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "The most important part of this play style is to make up for the low scalings on her charged shot by building up high CRIT DMG and consistantly landing headshots for guarenteed crit. Elemental Mastery sands is conditionally better, but she must be in a melt or vape team. "
         }
     ],
     "color": 16733525,
