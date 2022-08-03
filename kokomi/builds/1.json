@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Kokomi"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/Rd4Ubga.png"
     },
@@ -6,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Everlasting Moonglow"
+            "value": "Thrilling Tales of Dragon Slayers"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Prototype Amber, Thrilling Tales of Dragon Slayers"
+            "value": "Prototype Amber, Hakushin Ring, Oathsworn Eye, Everlasting Moonglow"
         },
         {
             "inline": "false",
@@ -26,17 +29,17 @@
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x4-maidenbeloved"
+            "value": "x2-maidenbeloved|x2-tenacityofthemillelith|x2-oceanhuedclam|x2-heartofdepth"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  Energy Recharge or HP % | <goblet>  HP % or Hydro DMG Bonus | <circlet>  Healing Bonus or HP %"
+            "value": "<sands>  Energy Recharge or HP % | <goblet> Hydro DMG Bonus or HP % | <circlet>  Healing Bonus"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "HP %|Energy Recharge|Elemental Mastery        "
+            "value": "Energy Recharge|HP %|Elemental Mastery        "
         },
         {
             "inline": "false",
@@ -46,8 +49,5 @@
     ],
     "color": 3245055,
     "type": "rich",
-    "title": "Sangonomiya Kokomi (Support) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Kokomi"
-    }
+    "title": "Sangonomiya Kokomi (Support) | Build"
 }
