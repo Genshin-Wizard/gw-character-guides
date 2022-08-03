@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Rosaria"
+        "text": "Character Guide \u2022 Synergy: Rosaria"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/krSQcCT.png"
     },
+    "fields": [],
     "color": 10147839,
     "type": "rich",
-    "description": "eula,raiden,rosaria,zhongli|mona,kaeya,rosaria,kazuha|xiangling,kaeya,rosaria,bennett",
+    "description": "eula,raiden,rosaria,zhongli|yoimiya,xingqiu,diona,rosaria|rosaria,kokomi,kaeya,kazuha|ganyu,mona,rosaria,venti|ayaka,xingqiu,rosaria,kazuha|xiangling,kaeya,rosaria,bennett",
     "title": "Rosaria | Team Composition and Synergy"
 }
