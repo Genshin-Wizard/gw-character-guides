@@ -39,7 +39,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT DMG|ATK %|Elemental Mastery         "
+            "value": "CRIT DMG|ATK%|Elemental Mastery         "
         },
         {
             "inline": "false",
