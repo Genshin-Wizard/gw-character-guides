@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Playstyle: Xingqiu"
+        "text": "Character Guide \u2022 Playstyle: Xingqiu"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/YpsKjVK.png"
     },
     "color": 3245055,
     "type": "rich",
-    "description": "**DPS Character**\nMost people utilize Xingqiu as damage support since his elemental skill and elemental burst stay even when switching characters. But he may also serve as your primary DPS.\n\nBecause of the way Xingqiu's elemental burst works, he should be paired with characters whose offensive playstyles center on regular attacks.\n\n**Healer**\nXingqiu's kit additionally makes advantage of his Max HP because one of his passive skills regenerates the active character's HP when one of the Rain Swords is broken or when its time expires. It heals Xingqiu for 6% of his maximum health.",
+    "description": "Xingqiu is an off-field DPS character. His main strength lies in his Elemental Burst Guhua Sword: Raincutter which does Hydro damage whenever the on-field character does a normal attack. This is helpful for setting up reactions like Vaporize, Electrocharged and Freeze.\n\nIn addition to his Elemental Burst doing Hydro damage it also creates a pseudo-shield in the form of Rain Swords that orbits around the character. These Rain Swords can be created by his Elemental Skill as well. They provide additional Hydro application in close contact, some Resistance to Interruption, Damage Reduction and a micro-heal if shattered by an attack or whenever its duration expires. Rain Swords created by Guhua Sword: Raincutter cannot be shattered throughout its duration. \n",
     "title": "Xingqiu | Playstyle"
 }
