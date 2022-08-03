@@ -14,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Thundering Pulse, Skyward Harp, Aqua Simulacra, Viridescent Hunt, Rust"
+            "value": "Aqua Simulacra, Thundering Pulse, Skyward Harp, Viridescent Hunt, Stringless, Mouun's moon, Prototype Crescent"
         },
         {
             "inline": "false",
@@ -39,7 +39,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT Rate|CRIT DMG|ATK %"
+            "value": "CRIT Rate|CRIT DMG|ATK % | EM"
         },
         {
             "inline": "false",
