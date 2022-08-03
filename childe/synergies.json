@@ -5,9 +5,9 @@
     "thumbnail": {
         "url": "https://i.imgur.com/SLuf0m3.png"
     },
+    "fields": [],
     "color": 3245055,
     "type": "rich",
     "description": "childe,xiangling,bennett,kazuha|childe,fischl,beidou,bennett|childe,xiangling,bennett,sucrose",
-    "title": "Childe | Team Composition and Synergy",
-    "fields": []
+    "title": "Childe | Team Composition and Synergy"
 }
