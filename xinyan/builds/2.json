@@ -9,47 +9,37 @@
         {
             "inline": "true",
             "name": "Best Weapon:",
-            "value": "Redhorn Stonethresher"
-        },
-        {
-            "inline": "true",
-            "name": "Replacement Weapon:",
-            "value": "Wolf's Gravestone, Serpent Spine, Song of Broken Pines, Snow-Tombed Starsilver, Skyward Pride"
+            "value": "Favonius Greatsword"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x2-physical|x2-physical"
+            "value": "x4-instructor"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-paleflame"
-        },
-        {
-            "inline": "false",
-            "name": "Third Best Artifact Set:",
-            "value": "x2-physical|x2-attack"
+            "value": "x4-noblesseoblige"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  ATK % | <goblet>  Physical DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
+            "value": "<sands>  Energy Recharge or DEF% | <goblet>  DEF% | <circlet>  DEF%"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT DMG / CRIT Rate|ATK %        "
+            "value": "Energy Recharge|DEF%      "
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Normal Attack: Dance on Fire\n**2)** Elemental Burst: Riff Evolution\n**3)** Elemental Skill: Sweeping Ferver\n        "
+            "value": "**1)** Elemental Skill: Sweeping Fervor\n**2)** Elemental Burst: Riff Revolution\n**3)** Normal Attack: Dance on Fire\n        "
         },
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "While the Pale Flame will lead to greater damage output than the 2-set Physical Set build with its stacks, it is very difficult to gain them with Xinyan's skill despite its pyro pulses. The 2-set Physical Set build will be far more consistent."
+            "value": "A guaranteed CRIT on Elemental Burst once C2+ means an easier time making use of Favonius."
         }
     ],
     "color": 16733525,
