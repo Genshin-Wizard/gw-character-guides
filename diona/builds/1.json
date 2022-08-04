@@ -8,7 +8,7 @@
     "fields": [
         {
             "inline": "true",
-            "name": "Best Weapon:",
+            "name": "Best Weapons:",
             "value": "__Favonius Warbow__ - Allows her to function as a battery for non-Cryo units as well.\n__Sacrificial Bow__ - Superior to Fav Bow when additional Cryo Particles are preferred"
         },
         {
