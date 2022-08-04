@@ -8,7 +8,7 @@
     "fields": [
         {
             "inline": "true",
-            "name": "Best Weapon:",
+            "name": "Best Weapon(s):",
             "value": "__Favonius Sword__ Generates more energy in exchange for damage.\n\n__Primordial Jade Cutter__ Greater damage but requires more energy recharge."
         },
         {

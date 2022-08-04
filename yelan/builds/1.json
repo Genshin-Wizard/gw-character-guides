@@ -8,7 +8,7 @@
     "fields": [
         {
             "inline": "true",
-            "name": "Best Weapon:",
+            "name": "Best Weapon(s):",
             "value": "Aqua Simulacra\nIs very strong in both high and low ER situations, but you might find it harder to build around this weapon at very high ER requirements."
         },
         {

@@ -8,7 +8,7 @@
     "fields": [
         {
             "inline": "true",
-            "name": "Best Weapon:",
+            "name": "Best Weapon(s):",
             "value": "__Mistsplitter Reforged__ - Ayaka's best damage option, always recommended to use"
         },
         {

@@ -8,7 +8,7 @@
     "fields": [
         {
             "inline": "true",
-            "name": "Best Weapon:",
+            "name": "Best Weapon(s):",
             "value": "Mistsplitter Reforged /\nAquila Favonia"
         },
         {

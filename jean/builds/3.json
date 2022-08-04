@@ -8,7 +8,7 @@
     "fields": [
         {
             "inline": "true",
-            "name": "Best Weapon:",
+            "name": "Best Weapon(s):",
             "value": "*Primordial Jade Cutter*\nThe insanely high CRIT Rate substat helps a lot with building physical jean, the low base attack is mitigated by the passive."
         },
         {
