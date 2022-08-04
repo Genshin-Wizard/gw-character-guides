@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Lisa | Update Date: 08/04/2022 | Editor: Samantha#9907"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/a0E1K9o.png"
     },
@@ -6,48 +9,50 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Kagura's Verity"
+            "value": "Thrilling Tales of Dragon Slayers"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Skyward Atlas, The Widsith"
+            "value": "Prototype Amber, Hakushin Ring, Favonius Codex"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x2-thunderingfury|x2-gladiatorsfinale/shimenawasreminiscence"
+            "value": "4x-noblesseoblige"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x2-thunderingfury|x2-noblesseoblige"
+            "value": "x4-emblemofseveredfate"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x4-emblemofseveredfate"
+            "value": "x4-instructor"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  ATK % | <goblet>  Electro DMG Bonus | <circlet>  CRIT Rate / CRIT DMG"
+            "value": "<sands>  Energy Recharge % | <goblet>  Electro DMG Bonus | <circlet>  CRIT Rate"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge|CRIT DMG|CRIT Rate|CRIT %          "
+            "value": "Energy Recharge|CRIT Rate      "
         },
         {
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Burst: Lightning Rose\n**2)** Elemental Skill: Violet Arc\n**3)** Normal Attack: Lightning Touch \n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "\nTalents do not have to be leveled, but she should be leveled up to have at least the 4th ascension passive which reduces enemy defence. \n4-piece Instructor does not help in teams that do not require the Elemental Mastery\nOffensive stats can be ignored, CRIT Rate needs to be decently high if using Favonius weapons.\nEnergy Recharge is needed. "
         }
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Lisa (Support) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Lisa"
-    }
+    "title": "Lisa (Support) | Build"
 }
