@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Shenhe"
+        "text": "Character Guide \u2022 Synergy: Shenhe | Update Date: 08/05/2022 | Editor: Effab1e#2963"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/SYlttcB.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Freeze - Can be used as second Cryo in basically any Freeze team."
+        }
+    ],
     "color": 10147839,
     "type": "rich",
-    "description": "ganyu,ayaka,shenhe,jean|ganyu,bennett,shenhe,kazuha|ganyu,venti,mona,shenhe",
+    "description": "Ayaka,Kokomi,Kazuha,Shenhe|Shenhe, Rosaria, Bennett,Xiangling|Ayaka,Kazuha,Shenhe,Diona|Ganyu,Mona,Venti,Shenhe|Eula,Raiden,Shenhe,Diona|Hutao,xingqiu,Shenhe,Rosaria",
     "title": "Shenhe | Team Composition and Synergy"
 }
