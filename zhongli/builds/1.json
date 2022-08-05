@@ -39,7 +39,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "HP %|Crit Rate|HP|Energy Recharge         "
+            "value": "CRIT Rate (when running Favonius Lance)|HP%|HP "
         },
         {
             "inline": "false",
