@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Sucrose | Update Date: 08/05/2022 | Editor: SirDerpyHerp#7903"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/laV05YF.png"
     },
@@ -6,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Sacrificial Fragments"
+            "value": "Thrilling Tales of Dragon Slayers"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Thrilling Tales of Dragon Slayers, Mappa Mare, Favonious Codex"
+            "value": "Sacrificial Fragments, Magic Guide"
         },
         {
             "inline": "false",
@@ -24,11 +27,6 @@
             "value": "x4-instructor"
         },
         {
-            "inline": "false",
-            "name": "Third Best Artifact Set:",
-            "value": "x4-noblesseoblige"
-        },
-        {
             "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands> Elemental Mastery | <goblet>  Elemental Mastery | <circlet>  Elemental Mastery"
@@ -36,23 +34,20 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Elemental Mastery|Energy Recharge          "
+            "value": "Elemental Mastery"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Forbidden Creation - Isomer Type II\n**2)** Elemental Skill: Astable Anemohypostatsis Creation - 6308\n**3)** Normal Attack: Wind Spirit Creation\n        "
+            "value": "**1)** Elemental Skill: Astable Anemohypostatsis Creation - 6308\n**2)** Elemental Burst: Forbidden Creation - Isomer Type II \n**3)** Normal Attack: Wind Spirit Creation\n        "
         },
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Swirl Support Characters does not need to Level-up Talents. Just Level up your character for higher Swirl Damage, and keep your Elemental Mastery Sky High"
+            "value": "Sucrose only needs to be levelled up to 60/70 to unlock her Ascension 4 Passive. Her talent levels can also be ignored.\n4p Instructor should only be used early game or if you can't swirl your DPS's element like in a Hu Tao team without a 2nd Pyro character.\n\nWhen used with Xiao, her artifact choice doesn't matter as much, you only need to use R5 Thrilling Tales of Dragon Slayers."
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Sucrose (Support) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Sucrose"
-    }
+    "title": "Sucrose (Support) | Build"
 }
