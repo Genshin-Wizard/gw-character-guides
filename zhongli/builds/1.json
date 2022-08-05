@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Zhongli"
+        "text": "Character Guide \u2022 Build: Zhongli | Update Date: 08/05/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/fqg3O0z.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Favonius Lance "
+            "value": "Favonius Lance \nA great weapon for Zhongli to compensate for the otherwise particle deficient character; attain CRIT Rate from artifact substats to proc the passive more consistently. Does not need to be leveled up as the ER and base attack is largely irrelevant on Zhongli in support builds. "
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Black Tassel"
+            "value": "Black Tassel\nWhen running purely for shield strength, this would be the best option purely for the HP% mainstat, on top of being accessible. "
         },
         {
             "inline": "false",
@@ -49,7 +49,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Burst and Auto Attack talents need not be levelled. \n\nWhen running Favonius Lance, CRIT Rate substats are much preferred to proc the passive more consistently.\n\n4p Archaic Petra can be situationally strong when the rotation is flexible enough to enable the pick up of a crystallize shard of the preferred element while Zhongli is on-field. \n\n4p Instructors, another situational set, can be effectively used by Zhongli in Vape/Melt teams as he is able to consistently trigger the crystallize reaction when on-field with his hold E. ( as long as there is an aura on the enemy )\n\nFor a purely Shield-Bot build Zhongli, at low investments, can opt to rainbow artifacts with high HP%/ flat HP substats. "
+            "value": "Burst and Auto Attack talents need not be levelled. \n\n4p Archaic Petra can be situationally strong when the rotation is flexible enough to enable the pick up of a crystallize shard of the preferred element while Zhongli is on-field. \n\n4p Instructors, another situational set, can be effectively used by Zhongli in Vape/Melt teams as he is able to consistently trigger the crystallize reaction when on-field with his hold E. ( as long as there is an aura on the enemy )\n\nFor a purely Shield-Bot build Zhongli, at low investments, can opt to rainbow artifacts with high HP%/ flat HP substats. "
         }
     ],
     "color": 14994176,
