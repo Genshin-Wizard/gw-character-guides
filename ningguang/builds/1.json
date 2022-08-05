@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Ningguang | Update Date: 08/05/2022 | Editor: Effab1e#2963"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/w9LQJFO.png"
     },
@@ -6,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Memory of Dust"
+            "value": "__Lost Prayer to the Sacred Winds__ - Best option when buffed by Bennett and playing on field even with 1 stack.\n__Skyward Atlas__ - Great general option, can be best for quickswap.\n__Memory of Dust__ - Best option when shielded without buffs , falls off with ATK buffs.\n"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Lost Prayer to the Sacred Winds, Solar Pearl, Dodoco Tales"
+            "value": "Kagura's Verity, Solar Pearl, Widsith \nOathsworn Eye and Dodoco Tales are good F2P options"
         },
         {
             "inline": "false",
@@ -36,18 +39,20 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "ATK %|CRIT Rate|CRIT DMG        "
+            "value": "Energy Recharge(till ER requirement)|CRIT Rate/CRIT DMG|ATK %"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Normal Attack: Sparkling Scatter\n**2)** Elemental Burst: Starshatter\n**3)** Elemental Skill: Jade Screen\n        "
+            "value": "**1)** Elemental Burst: Starshatter\n**2)** Normal Attack: Sparkling Scatter\n**3)** Elemental Skill: Jade Screen\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "ER Requirement:  ~120-130%"
         }
     ],
     "color": 14994176,
     "type": "rich",
-    "title": "Ningguang (On-Field DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Ningguang"
-    }
+    "title": "Ningguang (On-Field DPS) | Build"
 }
