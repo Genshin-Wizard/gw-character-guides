@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "For most teams, rotations are fairly simple - the core principle is to setup all your off-field DPS and buffs on your other characters before switching to Hu Tao. \n\nExample rotation: Zhongli E (Hold) > Xingqiu EQ > Yelan EQ > Hu Tao\n\nFor VV Vape (Viridescent Venerer Vaporize) teams, the rotation is a little more complicated, with the added benefit of increasing Hu Tao's damage ceiling. Examples of VV Vape teams are the teams shown here that include Anemo characters.\n\nExample rotation: Yelan EQ > Yanfei EQC > Kazuha ENQ > Hu Tao\n\nThis rotation specifically only works for Yelan, as Xingqiu's orbital rain swords obstruct the precise control of elements needed to execute it. For more information about rotations and VV Vape teams, including those that involve Xingqiu, check out the KQM guide linked below!"
+            "value": "For most teams, rotations are fairly simple - the core principle is to setup all your off-field DPS and buffs on your other characters before switching to Hu Tao. \n\nN = Normal Attack\nC = Charged Attack\nE = Elemental Skill\nQ = Elemental Burst\n\nExample rotation: Zhongli E (Hold) > Xingqiu EQ > Yelan EQ > Hu Tao\n\nFor VV Vape (Viridescent Venerer Vaporize) teams, the rotation is a little more complicated, with the added benefit of increasing Hu Tao's damage ceiling. Examples of VV Vape teams are the teams shown here that include Anemo characters.\n\nExample rotation: Yelan EQ > Xinyan EQ > Kazuha ENQ > Hu Tao\n\nThe idea is to apply Pyro with a second Pyro character for the Anemo character to Swirl, before absorbing Hydro with their Elemental Burst. This rotation only works for Yelan, as Xingqiu's orbital rain swords obstruct the precise control of elements needed to execute it. For more information about rotations and VV Vape teams, including the Xingqiu and Amber team, check out the KQM guide linked below!"
         }
     ],
     "color": 16733525,
     "type": "rich",
-    "description": "hutao,yelan,xingqiu,zhongli|hutao,xingqiu,zhongli,albedo|hutao,xingqiu,rosaria,diona|hutao,xingqiu,fischl,zhongli|hutao,yelan,kazuha,yanfei|hutao,yelan,sucrose,xinyan",
+    "description": "hutao,yelan,xingqiu,zhongli|hutao,xingqiu,zhongli,albedo|hutao,xingqiu,rosaria,diona|hutao,xingqiu,fischl,zhongli|hutao,yelan,kazuha,xinyan|hutao,xingqiu,sucrose,amber",
     "title": "Hu Tao | Team Composition and Synergy"
 }
