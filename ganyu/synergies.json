@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Ganyu"
+        "text": "Character Guide \u2022 Synergy: Ganyu | Update Date: 08/05/2022 | Editor: LordOfEnnui#8710"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/2Tff8N2.png"
     },
+    "fields": [],
     "color": 10147839,
     "type": "rich",
-    "description": "ganyu,xiangling,bennett,zhongli|ganyu,venti,mona,diona|ganyu,kazuha,bennett,zhongli",
+    "description": "ganyu,xiangling,bennett,zhongli|ganyu,kazuha,bennett,zhongli|ganyu,jean,bennett,zhongli|ganyu,venti,mona,diona|ganyu,shenhe,venti,kokomi",
     "title": "Ganyu | Team Composition and Synergy"
 }
