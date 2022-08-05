@@ -1,1 +1,48 @@
-{"thumbnail": {"url": "https://i.imgur.com/laV05YF.png"}, "fields": [{"inline": "true", "name": "Best Weapon(s):", "value": "..."}, {"inline": "true", "name": "Replacement Weapon:", "value": "..."}, {"inline": "false", "name": "Best Artifact Set:", "value": "..."}, {"inline": "true", "name": "Main Stats Priority", "value": "..."}, {"inline": "true", "name": "Substats Priority", "value": "..."}, {"inline": "false", "name": "Talent Priority", "value": "..."}], "color": 5494962, "type": "rich", "title": "Sucrose (Taser Driver) | Build", "footer": {"text": "Character Guide \u2022 Build: Sucrose"}}
+{
+    "footer": {
+        "text": "Character Guide \u2022 Build: Sucrose | Update Date: 08/05/2022 | Editor: SirDerpyHerp#7903"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/laV05YF.png"
+    },
+    "fields": [
+        {
+            "inline": "true",
+            "name": "Best Weapon(s):",
+            "value": "Sacrificial Fragments"
+        },
+        {
+            "inline": "true",
+            "name": "Replacement Weapon:",
+            "value": "Thirlling Tales of Dragon Slayers, Hakushin Ring, Magic Guide"
+        },
+        {
+            "inline": "false",
+            "name": "Best Artifact Set:",
+            "value": "x4-viridescentvenerer"
+        },
+        {
+            "inline": "true",
+            "name": "Main Stats Priority",
+            "value": "<sands> Elemental Mastery | <goblet>  Elemental Mastery | <circlet>  Elemental Mastery"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "Elemental Mastery|Energy Recharge"
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Skill: Astable Anemohypostatsis Creation - 6308\n**2)** Elemental Burst: Forbidden Creation - Isomer Type II \n**3)** Normal Attack: Wind Spirit Creation\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "It is recommended to get her to 90/90 and skip her talent levels as most of her damage come from swirls."
+        }
+    ],
+    "color": 5494962,
+    "type": "rich",
+    "title": "Sucrose (Taser Driver) | Build"
+}
