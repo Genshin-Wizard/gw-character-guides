@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Playstyle: Shenhe"
+        "text": "Character Guide \u2022 Playstyle: Shenhe | Update Date: 08/05/2022 | Editor: Effab1e#2963"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/SYlttcB.png"
     },
     "color": 10147839,
     "type": "rich",
-    "description": "Shenhe works best as a Cryo support who increases your team's DMG. She may, however, be used as a pure ATK Sub-DPS. Spring Spirit Summoning, her Elemental Skill, has two modes: fast push and hold. When used, the Icy Quill effect is applied to all adjacent party members. The Cryo DMG dealt by the Skill is determined on the mode you select.\n\nIf you push to use the Elemental Skill, Shenhe runs ahead and uses a Talisman Spirit to deal Cryo DMG to opponents in her route. Shenhe's Talisman Spirit, on the other hand, delivers Cryo DMG if you hold down on the Skill.\n\nBased on Shenhe's current ATK, the Icy Quill effect enhances the Cryo DMG of Normal, Charged, Plunging Attacks, Elemental Skill and Bursts. When you press the skill, the bonus lasts 10 seconds and 15 seconds when you hold it down.",
+    "description": "Shenhe is a cryo unit with an complex kit that has strong buffing capabilites and the ability to increase the dmg dealt by cryo units. She is generally played as the second cryo in Freeze comps and is currently the best enabler for a \"mono Cryo\" team due to her Cryo focused buffing and decent praticle generation. Shenhe is also viable in Physical and Melt comps.\n\n**Kit Breakdown**\nHer Burst shreds Cryo & Physical Resistance, gives a Cryo damage buff to the on field unit and deals periodic Cryo damage. It is her main way of proccing Quills. It is the majority of her damage share and has good buffing so it is worth building enough Energy Recharge to burst consistently even at the cost of ATK.\n\nHer Skill generates [5-7] Quills that buff instances of Cryo damage dealt by each member of the team based on her total ATK and are counted separately per member. It also gives a [Skill+Burst or Normal+Charged Attack] damage buff. \n\nBoth these abilities let her bring a lot to the table for compositions with Cryo team members.\n\n[*] - Depends on if skill is tapped or held. \nFor an in depth breakdown of her usage check out the KQM guide linked below.",
     "title": "Shenhe | Playstyle"
 }
