@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Shenhe | Update Date: 08/05/2022 | Editor: Effab1e#2963"
+        "text": "Character Guide \u2022 Playstyle: Shenhe | Update Date: 08/05/2022 | Editor: Pneuma#0003"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/SYlttcB.png"
     },
     "color": 10147839,
     "type": "rich",
-    "description": "Shenhe is a cryo unit with an complex kit that has strong buffing capabilites and the ability to increase the dmg dealt by cryo units. She is generally played as the second cryo in Freeze comps and is currently the best enabler for a \"mono Cryo\" team due to her Cryo focused buffing and decent praticle generation. Shenhe is also viable in Physical and Melt comps.\n\n**Kit Breakdown**\nHer Burst shreds Cryo & Physical Resistance, gives a Cryo damage buff to the on field unit and deals periodic Cryo damage. It is her main way of proccing Quills. It is the majority of her damage share and has good buffing so it is worth building enough Energy Recharge to burst consistently even at the cost of ATK.\n\nHer Skill generates [5-7] Quills that buff instances of Cryo damage dealt by each member of the team based on her total ATK and are counted separately per member. It also gives a [Skill+Burst or Normal+Charged Attack] damage buff. \n\nBoth these abilities let her bring a lot to the table for compositions with Cryo team members.\n\n[*] - Depends on if skill is tapped or held. \nFor an in depth breakdown of her usage check out the KQM guide linked below.",
+    "description": "Shenhe is a Cryo character with a complex kit that has strong buffing capabilities, with the ability to increase the damage dealt by Cryo characters. She is generally played as the second Cryo character in Freeze teams and is currently the best enabler for a \"Mono Cryo\" team due to her Cryo focused buffs and decent particle generation. Shenhe is also viable in Physical and Melt teams.\n\n**Kit Breakdown**\nHer Elemental Burst reduces enemy Cryo & Physical RES, gives a Cryo DMG Bonus to the on-field character and deals periodic Cryo damage. It is her main way of triggering her own Quills from her Elemental Skill. It is the majority of her damage output and has strong buffs, so it is worth building enough Energy Recharge to burst consistently, even at the cost of some ATK.\n\nHer Elemental Skill generates [5-7] Quills that buff instances of Cryo damage dealt by each member of the team based on her total ATK, counted separately per member. With her Ascension 4 passive, this ability also increases Elemental Skill and Elemental Burst DMG or Normal, Charged and Plunging Attack DMG* for a short period of time.\n\nBoth these abilities let her bring a lot to the table for team compositions with Cryo team members.\n\n[*] - Depends on if skill is tapped or held. \nFor an in depth breakdown of Shenhe's usage, check out the KQM guide linked below!",
     "title": "Shenhe | Playstyle"
 }
