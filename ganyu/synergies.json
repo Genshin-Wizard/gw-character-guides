@@ -5,9 +5,15 @@
     "thumbnail": {
         "url": "https://i.imgur.com/2Tff8N2.png"
     },
-    "fields": [],
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Ganyu's team options are very flexible. Zhongli can be replaced by Diona, Xinyan, Noelle or Thoma. Kokomi/Mona can be replaced by most hydro units, even Xingqiu if you weave in normal attacks or Barbara if you hug opponents. Shenhe and Rosaria are generally interchangeable. Kazuha can be replaced with Sucrose. "
+        }
+    ],
     "color": 10147839,
     "type": "rich",
-    "description": "ganyu,xiangling,bennett,zhongli|ganyu,kazuha,bennett,zhongli|ganyu,jean,bennett,zhongli|ganyu,venti,mona,diona|ganyu,shenhe,venti,kokomi",
+    "description": "ganyu,xiangling,bennett,zhongli|ganyu,kazuha,bennett,zhongli|ganyu,jean,bennett,zhongli|ganyu,venti,mona,rosaria|ganyu,shenhe,venti,kokomi|ayaka,ganyu,shenhe,kazuha|diluc,xingqiu,ganyu,rosaria",
     "title": "Ganyu | Team Composition and Synergy"
 }
