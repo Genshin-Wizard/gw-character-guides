@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Heizou"
+        "text": "Character Guide \u2022 Build: Shikanoin Heizou | Update Date: 08/05/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/ZrsI0Bj.png"
@@ -9,17 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Mappa Mare"
-        },
-        {
-            "inline": "true",
-            "name": "Replacement Weapon:",
-            "value": "Sacrificial Fragments, Hakushin Ring, Emerald Orb"
+            "value": "__Thrilling Tales of Dragon Slayers__\nAlthough a strong option to predominantly buff one team member, the overall restrictive nature of the passive for rotations makes flexible rotations much less practical to make full use of the weapon\u2019s passive. \n\n__Hakushin Ring__ \nA great weapon to buff both electro and hydro party members in electrocharge teams while having relatively flexible rotations. \n\n__Prototype Amber__ \nA decent option for teams without healers owing to the small yet significant heals. Drops ER requirements by ~80% at R5, enabling Heizou to use 2 Bursts per rotation instead of 1 Burst per rotation for some extra peesonal damage and CC. \n\n__Favonius Codex__ \nA strong option on Heizou as he can proc the passive once or twice per rotation, dropping team ER requirements significantly when afforded the CRIT Rate substats needed to proc the passive more consistently.  "
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-wandererstroupe"
+            "value": "x4-viridescentvenerer"
         },
         {
             "inline": "false",
@@ -39,12 +34,17 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Elemental Mastery"
+            "value": "CRIT Rate ( when running Favonius Codex )|Elemental Mastery|Energy Recharge"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Skill: Heartstopper Strike\n**2)** Normal Attack:  Fudou Style Martial Arts\n**3)** Elemental Burst: Windmuster Kick"
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "4 Viridescent is the best set on Heizou by far, both for his personal damage and his buffing capabilities. Only consider the other artifact sets when using a team that does not enable Heizou to consistently swirl, and if the team does not need VV user. ( mono anemo/ geo, secondary VV holder already in team, etc )\n\nfor mono element teams, running a crit build would be much preferred for his personal damage. "
         }
     ],
     "color": 5494962,
