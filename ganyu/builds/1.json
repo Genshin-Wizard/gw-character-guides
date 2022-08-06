@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Ganyu"
+        "text": "Character Guide \u2022 Build: Ganyu | Update Date: 08/06/2022 | Editor: LordOfEnnui#8710"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/2Tff8N2.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Amos's Bow"
+            "value": "__Amos\u2019 Bow__\nProvides an enormous amount of DMG% bonus to Charged Attacks. 3 stacks of its passive are guaranteed on her Bloom damage. \n\n__Prototype Crescent R5__ \nAssuming she can hit a weakpoint, this bow is competitive with her 5* bows. \n\n**Early Game Option:**\n__Sharpshooter's Oath__\nHits on weakspots are guaranteed to CRIT. Thus, no CRIT Rate is necessary if you're an aim god."
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Skyward Harp, The Viridescent Hunt, Hamayumi, Prototype Cresent (R5)"
+            "value": "__Aqua Simulacra__\n\n__Thundering Pulse__\nExcellent unconditional weapon for DPS capability. Its passive is largely wasted due to it providing Normal Attack DMG. \n\n__Polar Star__\nConditionally excellent if Ganyu stacks its passive by weaving in a Normal Attack before her DPS window (ie. N1EC+). \n \n__Skyward Harp__\n\nThe Viridescent Hunt, Blackcliff Warbow and Hamayumi R5 are all very viable.\n"
         },
         {
             "inline": "false",
