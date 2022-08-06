@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "__Hakushin Ring__ \nA potent weapon option that shines best in electrocharge teams as it can buff both electro, and hydro party members. Given its strong multi character buff, coupled with a much less rotation restrictive trigger condition, makes this weapon an excellent choice for Heizou in monoelectro and electrocharge team compositions. \n\n__Sacrificial Fragments__\nAlthough not a weapon to support party members, the boost in personal damage in addition to an additional charge of his E will usually compensate for the lack of buffs; particularly when Heizou is used as an on field em carry.\n\n__Thrilling Tales of Dragon Slayers__\nLow investment option with a strong buff, albeit only for one team member. Rotations are very restricted when running this weapon to optimally buff the main damage dealer on the team, so only use the weapon when running strict rotations."
+            "value": "__Hakushin Ring__ \nA potent weapon option that shines best in electrocharge teams as it can buff both electro, and hydro party members. Given its strong multi-character buff, coupled with a much less rotation-restrictive trigger condition, makes this weapon an excellent choice for Heizou in monoelectro and electrocharge team compositions. \n\n__Sacrificial Fragments__\nAlthough not a weapon to support party members, the boost in personal damage in addition to a supplemental charge of his E will usually compensate for the lack of buffs; particularly in teams where Heizou can proc many swirls and electrocharge ownership. \n\n__Thrilling Tales of Dragon Slayers__\nA low-investment option with a strong buff, albeit only for one team member. Since the weapon passive limits the flexibility of rotations in order to be more optimally utilised, it is most advisable to run this weapon when playing an already rotation-strict team. \n** **"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "__Prototype Amber__ \nFor teams without healers, Prototype Amber can be a viable option with its small yet significant heals. At R5, the weapon drops his ER requirements by ~80%, enabling Heizou to Burst twice per rotation instead of once for some extra personal damage and additional CC, or to mend his ER needs in teams where Heizou can only feasibly get off 1 skill per burst. \n\n__Favonius Codex__ \nWhen using Heizou in low particle teams, Favonius Codex is a great option to aid his teammates er requirements, particularly when given the opportunity to proc the passive multiple times theoughout the rotation. However, players must be able to afford the crit rate substats necessary in order to proc the passive consistently each rotation. \n"
+            "value": "__Prototype Amber__ \nFor teams without healers, Prototype Amber can be a viable option with its small yet significant heals. At R5, the weapon drops his ER requirements by ~80%, enabling Heizou to Burst twice per rotation instead of once for some extra personal damage and additional CC, or to mend his ER needs in teams where Heizou can only feasibly get off 1 skill per burst. However, it is noted that the value of this weapon diminishes with his C4 as it already reduces ER requirements significantly. \n\n__Favonius Codex__ \nWhen using Heizou in low particle teams, Favonius Codex is a great option to aid his teammates er requirements, particularly when given the opportunity to proc the passive multiple times theoughout the rotation. However, players must be able to afford the crit rate substats necessary in order to proc the passive consistently. \n** **"
         },
         {
             "inline": "false",
@@ -24,7 +24,7 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  Elemental Mastery | <goblet> Elemental Mastery | <circlet>  Elemental Mastery"
+            "value": "<sands> Elemental Mastery | <goblet> Elemental Mastery | <circlet> Elemental Mastery |"
         },
         {
             "inline": "true",
@@ -34,12 +34,12 @@
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Skill: Heartstopper Strike\n**2)** Normal Attack:  Fudou Style Martial Arts\n**3)** Elemental Burst: Windmuster Kick"
+            "value": "Talents can be left at level 1 for EM build. However, should players have the materials to do so, it is worth investing his skill, burst, and auto talents to level 6-8.  "
         },
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "4 Viridescent is the best set on Heizou by far, both for his personal damage and his buffing capabilities. Only consider the other artifact sets when using a team that does not enable Heizou to consistently swirl, and if the team does not need VV user. ( mono anemo/ geo, secondary VV holder already in team, etc )\n\nfor mono anemo/ geo element teams, running a crit build would be much preferred for his personal damage. "
+            "value": "As an On-Field EM Carry/ Driver, Heizou can utilize low base attack/ less offense oriented weapon options in favour of added buffing capabilities; providing additional flexibility and variety to his otherwise limited weapon pool when focusing primarily on his EM stat. \n\n"
         }
     ],
     "color": 5494962,
