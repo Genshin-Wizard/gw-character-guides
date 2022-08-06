@@ -22,16 +22,6 @@
             "value": "x4-viridescentvenerer"
         },
         {
-            "inline": "false",
-            "name": "Second Best Artifact Set:",
-            "value": "x4-noblesseoblige"
-        },
-        {
-            "inline": "false",
-            "name": "Third Best Artifact Set:",
-            "value": "x4-instructor"
-        },
-        {
             "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands>  Elemental Mastery | <goblet> Elemental Mastery | <circlet>  Elemental Mastery"
