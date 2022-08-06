@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Heizou"
+        "text": "Character Guide \u2022 Synergy: Shikanoin Heizou | Update Date: 08/06/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/ZrsI0Bj.png"
@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Heizou can be slotted into most teams that want an anemo to apply 4VV"
+            "value": "Heizou can be used in a variety of teams with anemo-flex slots or teams that generally want a 4VV holder. "
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "description": "heizou,fischl,beidou,xingqiu| heizou,yaemiko,fischl,xingqiu| heizou,kazuha,xiangling,bennett| heizou,diluc,xingqiu,bennett| heizou,xingqiu,rosaria,kaeya|heizou,kokomi,ayaka,rosaria",
+    "description": "heizou,fischl,beidou,xingqiu| heizou,yaemiko,fischl,xingqiu| heizou,xiangling,bennett,kazuha| heizou,diluc,xingqiu,bennett| heizou,xingqiu,rosaria,kaeya|heizou,kokomi,ayaka,rosaria",
     "title": "Heizou | Team Composition and Synergy"
 }
