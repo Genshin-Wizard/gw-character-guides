@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Skyward Atlas"
+            "value": "__Skyward Atlas (DPS)__ \nA general stat-stick and the Best-in-Slot weapon for Heizou when running a crit build. \n\n__Kagura\u2019s Verity (DPS)__ \nAnother strong option for Heizou and a competitor for Heizou\u2019s Best-in-Slot weapon when its passive stacks up. \n\n__Thrilling Tales of Dragon Slayers (Support)__\nA weapon which passive provides a strong buff, albeit only for one team member. Since the weapon passive limits the flexibility of rotations in order to be more optimally utilised, it is most advisable to run this weapon when playing an already rotation-strict team. \n** **"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Solar Pearl, Lost Prayers, Kagura Verity, The Widsith, Sacrificial Fragments, Solar Pearl"
+            "value": "__Solar Pearl (DPS)__\nA strong weapon with an equally good passive that, as a whole, works well with Heizou\u2019s kit.\n\n__Widsith (DPS)__\nIn quickswap, Widsith at high refinements has the ability to outperform Atlas/ Kagura\u2019s Verity when its passive procs. However, due to the 30s cooldown, those weapons will still be better overall when factoring multiple rotations. \n\n__Prototype Amber (Support)__ \nPrototype Amber has the unique ability that aids teams without a healer with its micro-heals. Its passive also helps to reduce ER requirements significantly, which is best utilized in teams where he can only get off one skill use with each burst; although the value of this greatly depends on if the player has his C4 as it already provides a large reduction to his energy needs.\n** **"
         },
         {
             "inline": "false",
@@ -39,10 +39,10 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "4 Viridescent Venerer is the best artifact set by far for Heizou. In teams that already have an anemo running the 4-piece effect or mono ge/ anemo team compositions, running 2-piece set combinations on Heizou is an option. \n\nWhen playing Heizou in Electrocharge team compositions as an on-field driver, 4VV + Elemental Mastery mainstats and substats can be preferred for its consistent multi-target damage; opting to focus on his swirls and electrocharge ownership to make up the bulk of his personal damage instead of his talent multipliers. For such a build in electrocharge team compositions, __refer to the Burst/ Support Heizou build guide__ as the weapon options/ substat priority are more applicable. "
+            "value": "4 Viridescent Venerer is the best artifact set by far for Heizou. In teams that already have an anemo running the 4-piece effect or mono ge/ anemo team compositions, running 2-piece set combinations on Heizou is an option. "
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Heizou (Quickswap DPS/Support) | Build"
+    "title": "Heizou (On-Field/Quickswap DPS) | Build"
 }
