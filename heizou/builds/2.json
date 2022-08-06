@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Shikanoin Heizou | Update Date: 08/05/2022 | Editor: Luno#1337"
+        "text": "Character Guide \u2022 Build: Shikanoin Heizou | Update Date: 08/06/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/ZrsI0Bj.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "__Thrilling Tales of Dragon Slayers__\nAlthough a strong option to predominantly buff one team member, the overall restrictive nature of the passive for rotations makes flexible rotations much less practical to make full use of the weapon\u2019s passive. \n\n__Hakushin Ring__ \nA great weapon to buff both electro and hydro party members in electrocharge teams while having relatively flexible rotations. \n\n__Prototype Amber__ \nA decent option for teams without healers owing to the small yet significant heals. Drops ER requirements by ~80% at R5, enabling Heizou to use 2 Bursts per rotation instead of 1 Burst per rotation for some extra peesonal damage and CC. \n\n__Favonius Codex__ \nA strong option on Heizou as he can proc the passive once or twice per rotation, dropping team ER requirements significantly when afforded the CRIT Rate substats needed to proc the passive more consistently.  "
+            "value": "__Hakushin Ring__ \nA potent weapon option that shines best in electrocharge teams as it can buff both electro, and hydro party members. Given its strong multi character buff, coupled with a much less rotation restrictive trigger condition, makes this weapon an excellent choice for Heizou in monoelectro and electrocharge team compositions. \n\n__Sacrificial Fragments__\nAlthough not a weapon to support party members, the boost in personal damage in addition to an additional charge of his E will usually compensate for the lack of buffs; particularly when Heizou is used as an on field em carry.\n\n__Thrilling Tales of Dragon Slayers__\nLow investment option with a strong buff, albeit only for one team member. Rotations are very restricted when running this weapon to optimally buff the main damage dealer on the team, so only use the weapon when running strict rotations."
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "__Sacrificial Fragments__\nAlthough not a weapon to support party members in any way, it is still an option when opting to boost his personal damage through elemental mastery for swirls in addition to a chance for a refreshed skill use.  "
+            "value": "__Prototype Amber__ \nFor teams without healers, Prototype Amber can be a viable option with its small yet significant heals. At R5, the weapon drops his ER requirements by ~80%, enabling Heizou to Burst twice per rotation instead of once for some extra personal damage and additional CC, or to mend his ER needs in teams where Heizou can only feasibly get off 1 skill per burst. \n\n__Favonius Codex__ \nWhen using Heizou in low particle teams, Favonius Codex is a great option to aid his teammates er requirements, particularly when given the opportunity to proc the passive multiple times theoughout the rotation. However, players must be able to afford the crit rate substats necessary in order to proc the passive consistently each rotation. \n"
         },
         {
             "inline": "false",
