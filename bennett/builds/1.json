@@ -29,7 +29,7 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Energy Recharge / HP% | <goblet>  HP% | <circlet>  Healing Bonus / HP%"
+            "value": "<sands> Energy Recharge / HP% |<goblet>  HP% |<circlet>  Healing Bonus / HP%"
         },
         {
             "inline": "true",

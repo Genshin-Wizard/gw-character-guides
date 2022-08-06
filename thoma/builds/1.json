@@ -31,7 +31,7 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  HP % / Energy Recharge | <goblet>  HP % | <circlet>  HP % / Crit Rate"
+            "value": "<sands> HP % / Energy Recharge |<goblet>  HP % |<circlet>  HP % / Crit Rate"
         },
         {
             "inline": "true",
