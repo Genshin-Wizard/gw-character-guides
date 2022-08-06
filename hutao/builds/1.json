@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Hutao"
+        "text": "Character Guide \u2022 Build: Hu Tao | Update Date: 08/06/2022 | Editor: LordOfEnnui#8710"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/mvF8rwX.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Staff of Homa\nIs good in all situations, providing various stats which Hu Tao likes. A CRIT Rate circlet is recommended as both this weapon's substat and Hu Tao's ascension stat are CRIT DMG."
+            "value": "__Staff of Homa__\nCompletely unrivalled (but also far from necessary - don't spend money on png like me), it increases the value of HP on her even more. She will practically always be below 50%, so its passive will be fully active. A CRIT Rate circlet is recommended. \n\n**F2P Options:**\n__Dragon's Bane__\nEM stat and extra DMG Bonus are great on Hu Tao. Its low Base Attack doesn't matter as much due to her Elemental Skill's buff. The extra EM increases her damage in Overvape teams.  \n\n__Deathmatch__\nPretty unconditionally good, helps soothe Hu Tao's eternal need for more CRIT Rate substats. "
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Deathmatch, Primordial Jade Winged-Spear, Dragon's Bane\n\nLithic Spear is a very strong option (although not better than Staff of Homa) if you have many Liyue party members; for example, in a team with Hu Tao, Zhongli, Yelan and Xingqiu."
+            "value": "__Primordial Jade Winged-Spear__\nHu Tao can stack the passive relatively quickly. The ATK% is still valuable, but not as good as on other characters. \n\n__Lithic Spear__\nVery conditional. This position is based on running both Hu Tao and Xingqiu. Running more Liyue characters or higher refinements will move this weapon further up, to the point that an R5 4Liyue spear is her second best option after Staff of Homa. \n\n__White Tassel R5__\nHu Tao's dual scaling makes a 3 star weapon good on her. Most other weapons listed here are ~10% more damage than it, and it is about as good as a Blackcliff Pole.\n\n__Blackcliff Pole__\n"
         },
         {
             "inline": "false",
@@ -39,7 +39,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT Rate|CRIT DMG|Elemental Mastery|HP%         "
+            "value": "100 EM|CRIT Rate|CRIT DMG|Elemental Mastery|HP%         "
         },
         {
             "inline": "false",
