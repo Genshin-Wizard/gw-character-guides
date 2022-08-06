@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Arataki Itto"
+        "text": "Character Guide \u2022 Synergy: Arataki Itto | Update Date: 08/06/2022 | Editor: Pneuma#0003"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/rV4eWpl.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Itto generally likes at least two other Geo party members on his team to provide him with energy to keep his Elemental Burst constantly available. This can be achieved through a Mono Geo configuration, with all 4 party members being Geo, or a Triple Geo configuration, where 3 out of 4 party members are Geo. Geo teammate options include Gorou (damage buffs), Zhongli (shielding and RES shred), Albedo (off-field damage) and Geo Traveler (CRIT Rate buff). All of them provide energy for Itto.\n\nAlthough Triple Geo at minimum is recommended, the fourth slot in this configuration is _extremely_ flexible. This can be attributed to the fact that Itto more or less already has a complete team with 3 Geo party members, so the fourth slot can be adjusted according to your needs based on the combat situation you're facing. Some options include Bennett (damage buffs and shield breaking; Itto typically struggles to deal with elemental shields on his own), Venti (crowd control) and Ganyu (off-field damage and shield breaking)."
+        }
+    ],
     "color": 14994176,
     "type": "rich",
-    "description": "itto,gorou,albedo,zhongli|itto,gorou,zhongli, fischl|itto,geotraveler,gorou,diona",
+    "description": "itto,gorou,albedo,zhongli|itto,geotraveler,gorou,diona|itto,gorou,zhongli, bennett|itto,gorou,zhongli,venti|itto,gorou,zhongli,ganyu|itto,gorou,zhongli,flex",
     "title": "Arataki Itto | Team Composition and Synergy"
 }
