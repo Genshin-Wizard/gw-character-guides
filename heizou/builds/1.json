@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Shikanoin Heizou | Update Date: 08/05/2022 | Editor: Luno#1337"
+        "text": "Character Guide \u2022 Build: Shikanoin Heizou | Update Date: 08/06/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/ZrsI0Bj.png"
@@ -20,16 +20,6 @@
             "inline": "false",
             "name": "Best Artifact Set:",
             "value": "x4-viridescentvenerer"
-        },
-        {
-            "inline": "false",
-            "name": "Second Best Artifact Set:",
-            "value": "x2-viridescentvenerer|x2-attack"
-        },
-        {
-            "inline": "false",
-            "name": "Third Best Artifact Set:",
-            "value": "x2-attack|x2-attack"
         },
         {
             "inline": "true",
