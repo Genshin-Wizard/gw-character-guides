@@ -29,7 +29,7 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> HP% or Energy Recharge |<goblet>  Hydro DMG Bonus or HP% |<circlet>  CRIT DMG/CRIT Rate or HP%\n__More than two HP% main stats are not recommended.__"
+            "value": "<sands>  HP% or Energy Recharge | <goblet>  Hydro DMG Bonus or HP% | <circlet>  CRIT DMG/CRIT Rate or HP%\n__More than two HP% main stats are not recommended.__"
         },
         {
             "inline": "true",

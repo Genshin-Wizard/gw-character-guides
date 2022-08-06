@@ -34,7 +34,7 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> HP |<goblet>  HP |<circlet>  HP or Healing Bonus"
+            "value": "<sands>  HP | <goblet>  HP | <circlet>  HP or Healing Bonus"
         },
         {
             "inline": "true",

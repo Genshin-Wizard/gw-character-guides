@@ -24,7 +24,7 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK % |<goblet> Anemo DMG bonus |<circlet>  CRIT Rate or DMG"
+            "value": "<sands>  ATK % | <goblet> Anemo DMG bonus | <circlet>  CRIT Rate or DMG"
         },
         {
             "inline": "true",

@@ -24,7 +24,7 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> HP/ATK |<goblet> Physical DMG% |<circlet> Crit Rate/Dmg"
+            "value": "<sands> HP/ATK | <goblet> Physical DMG% | <circlet> Crit Rate/Dmg"
         },
         {
             "inline": "true",
