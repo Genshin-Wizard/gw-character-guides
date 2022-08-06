@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Playstyle: Ningguang"
+        "text": "Character Guide \u2022 Playstyle: Ningguang | Update Date: 08/05/2022 | Editor: Effab1e#2963"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/w9LQJFO.png"
     },
     "color": 14994176,
     "type": "rich",
-    "description": "You can pass through Jade Screen as Ningguang or any of your party members to earn Geo damage boost, in addition to blocking enemy projectiles. To maximize your basic combo string, try to accomplish this before striking with Ningguang. Because Jade Screen's endurance scales with Ningguang's maximum health, selecting the correct Genshin Impact artifacts is critical in order to create an optimum setup.",
+    "description": "Ningguang is a Geo catalyst user whose kit can be used for both consistent on field damage and burst damage options. An extremely low cooldown and 40 energy cost on the Burst can allow her to run very short 15 second rotations provided she is paired with the right characters.\n\nHer Skill summons a Jade Screen and deals damage on cast, this is counted as a Geo construct. It also gives a Geo damage bonus on passing through which is worth doing if feasible. Her Elemental Burst summons 6 Starjades that track and hit a target, but if a Jade Screen is also present on burst cast it shatters and generates 6 extra Starjades. \n\n**Playstyle Tips**\n> It is always recommended to burst with the skill up to maximize damage.\n> When played on field it is recommended to do N2C (2 Normal and 1 Charged attack) combo to maximise damage.\n\nFor a more in depth breakdown of her usage check out the KQM guide linked below",
     "title": "Ningguang | Playstyle"
 }
