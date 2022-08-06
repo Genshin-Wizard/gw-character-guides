@@ -1,13 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Kamisato Ayato"
+        "text": "Character Guide \u2022 Synergy: Kamisato Ayato | Update Date: 08/06/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/aIcY8dQ.png"
     },
-    "fields": [],
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Ayato in most team compostions will utilize 2 skills per burst. In freeze teams, Ayato will opt to forgo 1 skill use per burst in order to free up field time for other team members. "
+        }
+    ],
     "color": 3245055,
     "type": "rich",
-    "description": "ayato,fischl,bennett,kazuha| ayato,bennett,xiangling,fischl|ayato,beidou,fischl,bennett| ayato,yelan,fischl,jean| ayato,yelan,xingqiu,zhongli| ayato,bennett,xiangling,sucrose",
+    "description": "ayato,fischl,bennett,kazuha| ayato,fischl,bennett,xiangling|ayato,bennett,xiangling,sucrose|ayato,fischl,beidou,bennett| ayato,yelan,fischl,jean|ayato,ganyu,venti,diona",
     "title": "Kamisato Ayato | Team Composition and Synergy"
 }
