@@ -31,7 +31,7 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> DEF % | <goblet>  Geo DMG Bonus or DEF % | <circlet>  DEF %, CRIT Rate, or CRIT DMG"
+            "value": "<sands> DEF % |<goblet>  Geo DMG Bonus or DEF % |<circlet>  DEF %, CRIT Rate, or CRIT DMG"
         },
         {
             "inline": "true",

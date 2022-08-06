@@ -24,7 +24,7 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  Energy Recharge or DEF% | <goblet>  DEF% | <circlet>  DEF% or CRIT Rate"
+            "value": "<sands> Energy Recharge or DEF% |<goblet>  DEF% |<circlet>  DEF% or CRIT Rate"
         },
         {
             "inline": "true",

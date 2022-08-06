@@ -34,7 +34,7 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands>  Energy Recharge or HP % | <goblet> Hydro DMG Bonus or HP % | <circlet>  Healing Bonus"
+            "value": "<sands> Energy Recharge or HP % |<goblet> Hydro DMG Bonus or HP % |<circlet>  Healing Bonus"
         },
         {
             "inline": "true",
