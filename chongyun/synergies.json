@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Chongyun"
+        "text": "Character Guide \u2022 Synergy: Chongyun | Update Date: 08/05/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/FA8SPoN.png"
     },
+    "fields": [],
     "color": 10147839,
     "type": "rich",
-    "description": "xiangling,chongyun,rosaria,bennett",
+    "description": "chongyun,rosaria,xiangling,bennett|chongyun,xingqiu,xiangling,bennett|chongyun,rosaria,xingqiu,kazuha",
     "title": "Chongyun | Team Composition and Synergy"
 }
