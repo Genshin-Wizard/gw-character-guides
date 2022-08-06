@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Playstyle: Fischl"
+        "text": "Character Guide \u2022 Playstyle: Fischl | Update Date: 08/06/2022 | Editor: LordOfEnnui#8710"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/78124Xb.png"
     },
     "color": 11104511,
     "type": "rich",
-    "description": "The primary purpose of Fischl is to place Oz and kite rings around crowds. This is one of the characters who is inherently squishy and can be killed by a monster's basic combination. Moving and kiting back and forth is essential when playing a carry Fischl.\n\nIf you wish to play a support Fischl, you need drop Oz and swap to a carry, then utilize the overwhelm damage to build higher damage for basic abilities.\n\n**Additional Skill Tip**\n> Animation Cancelling. Mastering this technique plays a huge role in dealing the maximum amount of damage as you can with Fischl. Once you pick this skill up, you'll be surprised by how much damage you've actually been missing out on all this time.",
+    "description": "Oz (cough cough), I mean Fischl, is a stellar sub-DPS unit capable of applying Electro incredibly fast and acting as a very good Electro Battery. Fischl\u2019s primary playstyle is to ensure that Oz is on field. She can do this with her Elemental Skill and her Elemental Burst. Oz stays on field for 10s regardless of how he is summoned. As such, with a 25s cooldown on her Elemental Skill and a 15s cooldown on her Elemental Burst, Oz can be kept on-field with only a 5s downtime. At C6, he can essentially always be on-field. Note that you can switch characters to cancel out of her Elemental Burst transformation. It is recommended to first use her Elemental Burst, so that she can utilize Oz\u2019s energy generation. \n\nWith Fischl\u2019s A4 passive, Oz can provide near constant Electro Application, as he will almost instantly refresh any Electro Aura consumed in a reaction. Her A4 has a 0.5s internal cooldown, so it will only trigger once if two Electro reactions occur within that timeframe. However, it has no internal cooldown on Electro Application. \n\nOz deals considerable damage, do not neglect your Fischl, even in reaction based compositions. \n\nOz\u2019s attacks have a 67% chance of generating one Particle. This means she generates around 6 particles on average per 25s. \n",
     "title": "Fischl | Playstyle"
 }
