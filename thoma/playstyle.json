@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Playstyle: Thoma"
+        "text": "Character Guide \u2022 Playstyle: Thoma | Update Date: 08/07/2022 | Editor: Luanjo#5886"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/Tr5VWv6.png"
     },
     "color": 16733525,
     "type": "rich",
-    "description": "Thoma works best as a Pyro shielder/support. His Elemental Skill and Burst form a transparent red shield around the active character, blocking incoming Pyro DMG and inflicting it on opponents.\n\nTo begin, the Housekeeper's Elemental Skill Burning Blessing of the Kamisato Clan is a blazing barrier that scales off of Thoma's maximum HP. When Thoma is struck, the barrier is reinforced and stacks. Thoma's Elemental Burst Crimson Ooyoroi, on the other hand, delivers AoE Pyro DMG and summons another shield akin to Xingqui's Rainswords.\n\nA solid rotation for a team comp containing Thoma would be something along the lines of:\n> Use Elemental Skill (E) until you have enough energy for a shield\n> Switch to your DPS carry with the activated shield\n> Swap back to Thoma before the shield wears off or breaks, and use his Elemental Burst (Q) to prolong the duration of Thoma's shield",
+    "description": "Inazuma's beloved fixer is arguably one of the most unique characters in Genshin Impact. Even though he's got an ATK% ascension, Thoma's strength lies in his shielding capabilities among other things.\n\nUnlike other shielders that are able to provide one big shield, Thoma's shield scales off his Max HP and comes mostly from stacking and refreshing it through active character's Normal Attacks while in effect of his Elemental Burst Scorching Ooyoroi. Having the ability to refresh shields even when off-field is what sets him apart from the others, as it can provide something akin to infinite Resistance to Interruption during his Elemental Burst uptime.\n\nHaving a 80 cost Elemental Burst and spending most of the time off-field means Thoma's Energy Recharge requirements are bound to be extremely high. Luckily enough, all of his Constellations are very good, especially C4 which reduces his Energy Recharge requirements substantially. Both C1 and C2 increase his Elemental Burst uptime; C6 further amplifies his supporting capabilities.\n\nThoma synergizes very well with Hu Tao and Yoimiya not only for the amount of Normal Attacks they perform in a rotation: He's the other half of Pyro Resonance and he's able to apply Pyro for an Anemo unit to swirl off of it, reducing enemies' resistance to Pyro, something that both Yoimiya and Hu Tao cannot do on their own.",
     "title": "Thoma | Playstyle"
 }
