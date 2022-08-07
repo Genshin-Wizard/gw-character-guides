@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Ayaka"
+        "text": "Character Guide \u2022 Build: Kamisato Ayaka | Update Date: 08/07/2022 | Editor: Effab1e#2963"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/7hJAGtk.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "__Mistsplitter Reforged__ - Ayaka's best damage option, always recommended to use"
+            "value": "__Mistsplitter Reforged__ - Ayaka's best damage option. Doing dash>NA>Skill>Burst guarantees all stacks."
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Haran Gepakku Futsu, Summitshaper(shielded), Jade Cutter,  Amenoma"
+            "value": "__Haran Gepakku Futsu__/__ Summitshaper(shielded)__/__Jade Cutter__ - Comparable options that can be better or worse depending on teams/substats.\n\n__Amenoma Kageuchi__ - Negates all energy issues and allows building more offensive substats. Ayaka's best and only free to play option and is highly recommended to craft and refine."
         },
         {
             "inline": "false",
