@@ -1,1 +1,53 @@
-{"thumbnail": {"url": "https://i.imgur.com/a0E1K9o.png"}, "fields": [{"inline": "true", "name": "Best Weapon(s):", "value": "..."}, {"inline": "true", "name": "Replacement Weapon:", "value": "..."}, {"inline": "false", "name": "Best Artifact Set:", "value": "..."}, {"inline": "true", "name": "Main Stats Priority", "value": "..."}, {"inline": "true", "name": "Substats Priority", "value": "..."}, {"inline": "false", "name": "Talent Priority", "value": "..."}], "color": 11104511, "type": "rich", "title": "Lisa (EM Carry) | Build", "footer": {"text": "Character Guide \u2022 Build: Lisa"}}
+{
+    "footer": {
+        "text": "Character Guide \u2022 Build: Lisa | Update Date: 08/07/2022 | Editor: Samantha#9907"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/a0E1K9o.png"
+    },
+    "fields": [
+        {
+            "inline": "true",
+            "name": "Best Weapon(s):",
+            "value": "Sacrificial Fragments"
+        },
+        {
+            "inline": "true",
+            "name": "Replacement Weapon:",
+            "value": "Favonius Codex, Magic Guide, Mappa Mare, Hakushin Ring, Widsith"
+        },
+        {
+            "inline": "false",
+            "name": "Best Artifact Set:",
+            "value": "2x-emblemofseveredfate|2x-wandererstroupe"
+        },
+        {
+            "inline": "false",
+            "name": "Second Best Artifact Set:",
+            "value": "4x-instructor"
+        },
+        {
+            "inline": "false",
+            "name": "Third Best Artifact Set:",
+            "value": "4x-thunderingfury"
+        },
+        {
+            "inline": "true",
+            "name": "Main Stats Priority",
+            "value": "..."
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "..."
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "..."
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Lisa (EM Carry) | Build"
+}
