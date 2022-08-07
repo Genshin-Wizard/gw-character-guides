@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Albedo"
+        "text": "Character Guide \u2022 Build: Albedo | Update Date: 08/06/2022 | Editor: Luanjo#5886"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/oDUkuVY.png"
@@ -34,7 +34,7 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> DEF% |<goblet>  Geo DMG Bonus |<circlet>  CRIT Rate / CRIT DMG"
+            "value": "<sands> DEF% |<goblet>  Geo DMG Bonus |<circlet>  CRIT Rate or CRIT DMG"
         },
         {
             "inline": "true",
