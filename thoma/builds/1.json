@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Thoma | Update Date: 08/06/2022 | Editor: Luanjo#5886"
+        "text": "Character Guide \u2022 Build: Thoma | Update Date: 08/07/2022 | Editor: Luanjo#5886"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/Tr5VWv6.png"
@@ -9,22 +9,22 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "__Engulfing Lightning__\nThe biggest Energy Recharge stat stick on the game. You'd use this on another character more often than not. "
+            "value": "__Favonius Lance__\nAble to generate Energy particles for the entire team. Build enough CRIT Rate to utilize its passive; easier to do as you get refinements on it.\n"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "__Favonius Lance__\nAble to generate Energy particles for the entire team. Build enough CRIT Rate to utilize its passive; easier to do as you get refinements on it.\n\n__Prototype Starglitter__\nF2P Energy Recharge stat stick.\n\n__The Catch__\nA F2P Energy Recharge stat stick just like Prototype Starglitter. And just like Engulfing Lightning, you'd use this on another character more often than not.\n\n__Black Tassel__\nHP% stat stick to provide a bigger shield. Reaching Thoma's Energy Recharge tresholds with it can be a hassle."
+            "value": "__Engulfing Lightning__\nThe biggest Energy Recharge stat stick on the game. You'd use this on another character more often than not. \n\n__Prototype Starglitter__\nF2P Energy Recharge stat stick.\n\n__The Catch__\nA F2P Energy Recharge stat stick just like Prototype Starglitter. And just like Engulfing Lightning, you'd use this on another character more often than not.\n\n__Black Tassel__\nHP% stat stick to provide a bigger shield. Reaching Thoma's Energy Recharge tresholds with it can be a hassle."
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-instructor|"
+            "value": "x4-noblesseoblige"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-noblesseoblige"
+            "value": "x4-instructor"
         },
         {
             "inline": "false",
@@ -49,7 +49,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Being able to provide Elemental Mastery for the entire team makes the 4-piece Instructor Thoma's best set when slotted in Hu Tao or Yoimiya teams. Has a slimmer shield and harder to achieve Energy Recharge requirements due to its 4-star maximum rarity.\n\nNoblesse Oblige can be an option for both Vaporize and non-Vaporize teams. Opt for his third best set when another Noblesse Oblige holder is already on the team."
+            "value": "Although the 4-piece Instructor is Thoma's theoretical best set in Hu Tao or Yoimiya teams, it comes with the caveat of being a 4-star maximum rarity artifact set. This means lower scalings on mainstats and substats and with that, a slimmer shield and harder to achieve Energy Recharge requirements. "
         }
     ],
     "color": 16733525,
