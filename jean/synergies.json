@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Jean"
+        "text": "Character Guide \u2022 Synergy: Jean | Update Date: 08/08/2022 | Editor: Sew#2409"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/uuGppMs.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Jean has a special interaction with Bennett. If you use both of their bursts together, Jean's burst will continuously apply Pyro with her swirls. "
+        }
+    ],
     "color": 5494962,
     "type": "rich",
-    "description": "xiao,jean,albedo,zhongli|venti,jean,ningguang,zhongli|jean,rosaria,fischl,bennett",
+    "description": "jean,xiao,albedo,zhongli|jean,venti,ningguang,zhongli|jean,rosaria,fischl,bennett|jean,bennett,raiden,xingqiu|jean,bennett,cryoflex,flex|jean,cryoflex,cryoflex,hydroflex",
     "title": "Jean | Team Composition and Synergy"
 }
