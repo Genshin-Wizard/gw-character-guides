@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Yun Jin"
+        "text": "Character Guide \u2022 Synergy: Yun Jin | Update Date: 08/08/2022 | Editor: Sew#2409"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/nUR6ZQI.png"
     },
+    "fields": [],
     "color": 14994176,
     "type": "rich",
-    "description": "yoimiya,yunjin,bennett,kazuha|razor,yunjin,kaeya,qiqi|noelle,yunjin,albedo,gorou",
+    "description": "yoimiya,yunjin,bennett,kazuha|razor,yunjin,kaeya,qiqi|noelle,yunjin,albedo,gorou|hutao,xingqiu,zhongli,yunjin|qiqi,fischl,yunjin,flex|zhongli,yunjin,electroflex,cryoflex",
     "title": "Yun Jin | Team Composition and Synergy"
 }
