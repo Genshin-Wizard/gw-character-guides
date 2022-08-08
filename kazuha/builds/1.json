@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Kazuha"
+        "text": "Character Guide \u2022 Build: Kaedehara Kazuha | Update Date: 08/07/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/Jru7MPN.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Freedom-Sworn"
+            "value": "__Freedom-Sworn__\nKazuha\u2019s signature weapon which is also the best weapon in terms of both his personal damage, and his support capabilities. \n\n__Favonius Sword__\nProvides extreme comfort with an ER mainstat, as well as a passive that aids in further reducing his ER requirements, alongside his team\u2019s. When using this weapon, crit rate substats are a high priority in order to proc the passive more consistently. \n** **"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Sacrifical Sword, Favonius Sword, Primordial Jade Cutter, Mistsplitter Reforged, Haran Geppaku Futsu, Summit Shaper, Iron Sting"
+            "value": "__Sacrifical Sword__\n\n__Iron Sting__\n\n__Dark Iron Sword__"
         },
         {
             "inline": "false",
@@ -22,24 +22,19 @@
             "value": "x4-viridescentvenerer"
         },
         {
-            "inline": "false",
-            "name": "Second Best Artifact Set:",
-            "value": "x4-thunderingfury"
-        },
-        {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Elemental Mastery |<goblet>  Elemental Mastery |<circlet>  Elemental Mastery"
+            "value": "<sands> Elemental Mastery OR Energy Recharge |<goblet>  Elemental Mastery |<circlet>  Elemental Mastery"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Elemental Mastery|Energy Recharge|ATK%|CRIT"
+            "value": "Crit Rate ( when using Favonius Sword )|Energy Recharge|Elemental Mastery|ATK%"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Kazuha Slash\n**2)** Elemental Skill: Chihayaburu \u2248 Normal Attack: Garyuu Bladework"
+            "value": "**1)** Elemental Burst: Kazuha Slash\n**2)** Normal Attack: Garyuu Bladework\n**3)** Elemental Skill: Chihayaburu"
         }
     ],
     "color": 5494962,
