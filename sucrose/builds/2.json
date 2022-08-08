@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Sucrose | Update Date: 08/05/2022 | Editor: SirDerpyHerp#7903"
+        "text": "Character Guide \u2022 Build: Sucrose | Update Date: 08/07/2022 | Editor: SirDerpyHerp#7903"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/laV05YF.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Sacrificial Fragments"
+            "value": "__Sacrificial Fragments__\nElemental Mastery substat makes her swirls hit harder and Elemental Skill reset makes gives her more swirls."
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Thirlling Tales of Dragon Slayers, Hakushin Ring, Magic Guide"
+            "value": "__Thirlling Tales of Dragon Slayers__\nLowers Sucrose's personal damage but buffs your one of your teammates by 48% ATK.\n__Hakushin Ring__\nGives Hydro and Electro DMG Bonus to your team when you swirl them, ER substat also helps with getting her burst up more often.\n__Magic Guide__\nElemental Mastery stat stick, makes her swirl stronger."
         },
         {
             "inline": "false",
