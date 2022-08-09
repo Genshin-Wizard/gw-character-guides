@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Kaedehara Kazuha | Update Date: 08/07/2022 | Editor: Luno#1337"
+        "text": "Character Guide \u2022 Build: Kaedehara Kazuha | Update Date: 08/09/2022 | Editor: Ayzel#7399"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/Jru7MPN.png"
@@ -29,7 +29,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Crit Rate ( when using Favonius Sword )|Energy Recharge|Elemental Mastery|ATK%"
+            "value": "Energy Recharge|Elemental Mastery|Crit Rate (when using Favonius Sword)|ATK% (without Bennett/ATK Buffs)|CRIT (with Bennett/ATK Buffs)"
         },
         {
             "inline": "false",
