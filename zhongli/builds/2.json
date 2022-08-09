@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Zhongli | Update Date: 08/05/2022 | Editor: ~Z~#0009"
+        "text": "Character Guide \u2022 Build: Zhongli | Update Date: 08/08/2022 | Editor: ~Z~#0009"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/fqg3O0z.png"
@@ -22,9 +22,19 @@
             "value": "x4-paleflame"
         },
         {
+            "inline": "false",
+            "name": "Second Best Artifact Set:",
+            "value": "x2-paleflame|x2-bloodstainedchivalry"
+        },
+        {
+            "inline": "false",
+            "name": "Third Best Artifact Set:",
+            "value": "x4-gladiatorsfinale"
+        },
+        {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> HP/ATK |<goblet> Physical DMG% |<circlet> Crit Rate/Dmg"
+            "value": "<sands> HP % or  Atk % |<goblet> Physical Dmg % |<circlet> Crit Rate or Dmg"
         },
         {
             "inline": "true",
