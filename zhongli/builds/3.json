@@ -1,1 +1,48 @@
-{"footer": {"text": "Character Guide \u2022 Build: Zhongli | Update Date: 08/05/2022 | Editor: Luno#1337"}, "thumbnail": {"url": "https://i.imgur.com/fqg3O0z.png"}, "fields": [{"inline": "true", "name": "Best Weapon(s):", "value": "..."}, {"inline": "true", "name": "Replacement Weapon:", "value": "..."}, {"inline": "false", "name": "Best Artifact Set:", "value": "..."}, {"inline": "true", "name": "Main Stats Priority", "value": "..."}, {"inline": "true", "name": "Substats Priority", "value": "..."}, {"inline": "false", "name": "Talent Priority", "value": "..."}], "color": 14994176, "type": "rich", "title": "Zhongli (Burst Support) | Build"}
+{
+    "footer": {
+        "text": "Character Guide \u2022 Build: Zhongli | Update Date: 08/08/2022 | Editor: ~Z~#0009"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/fqg3O0z.png"
+    },
+    "fields": [
+        {
+            "inline": "true",
+            "name": "Best Weapon(s):",
+            "value": "Staff of Homa"
+        },
+        {
+            "inline": "true",
+            "name": "Replacement Weapon:",
+            "value": " Lithic Spear, Primordial Jade Winged-Spear"
+        },
+        {
+            "inline": "false",
+            "name": "Best Artifact Set:",
+            "value": "x2-archaicpetra|x2-noblesseoblige"
+        },
+        {
+            "inline": "true",
+            "name": "Main Stats Priority",
+            "value": "<sands>HP %|<goblet>Geo Dmg %| <circlet> Crit Rate or Dmg"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "Crit Dmg | Crit Rate | HP % | Atk %"
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "1) Elemental Burst: Planet Befall\n2) Elemental Skill: Dominus Lapidis\n3) Normal Attack: Rain of Stone"
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "This is an option that trades off stronger shields for a more Burst dmg to try and offset the usual DPS loss due to Zhongli's long burst animation.\n\nLithic Spear with 4 Liyue characters will actually outperform Staff of Homa r1 unless Zhongli is under 50% HP.\n\nBuild is significantly better at c2 where casting the Burst will also grant Jade Shield but can be used for players that prefer better enemy control via his petrification."
+        }
+    ],
+    "color": 14994176,
+    "type": "rich",
+    "title": "Zhongli (Burst Support) | Build"
+}
