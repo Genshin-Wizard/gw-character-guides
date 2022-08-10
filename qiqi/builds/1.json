@@ -34,12 +34,12 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Energy Recharge or ATK % |<goblet>  ATK % |<circlet>  Healing Bonus or ATK %"
+            "value": "<sands> Energy Recharge or ATK% |<goblet>  ATK% |<circlet>  Healing Bonus or ATK%"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "ATK %|ATK|Energy Recharge        "
+            "value": "ATK%|ATK|Energy Recharge        "
         },
         {
             "inline": "false",

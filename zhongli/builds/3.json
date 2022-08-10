@@ -29,7 +29,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Crit Dmg or Crit Rate | HP % | Atk %"
+            "value": "Crit Dmg or Crit Rate | HP % | ATK%"
         },
         {
             "inline": "false",

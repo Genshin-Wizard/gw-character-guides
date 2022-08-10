@@ -34,12 +34,12 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK %  |<goblet>  Hydro DMG Bonus |<circlet>  CRIT Rate / CRIT DMG"
+            "value": "<sands> ATK%  |<goblet>  Hydro DMG Bonus |<circlet>  CRIT Rate / CRIT DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT Rate|CRIT DMG|ATK % | EM | ER (to an extent)"
+            "value": "CRIT Rate|CRIT DMG|ATK% | EM | ER (to an extent)"
         },
         {
             "inline": "false",
@@ -49,7 +49,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Childe's Talents:\nBurst and Skill contribute roughly the same amount of damage in the rotation, so both should be levelled equally, NAs is the last priority but shouldn't be neglected since he CAs in Downtime as well\n\nChilde's Artifacts:\nMost 4HoD and variations of 2p2p of Hod and any other set such as WT, NO, ATK %, so go with what makes you get better subs. "
+            "value": "Childe's Talents:\nBurst and Skill contribute roughly the same amount of damage in the rotation, so both should be levelled equally, NAs is the last priority but shouldn't be neglected since he CAs in Downtime as well\n\nChilde's Artifacts:\nMost 4HoD and variations of 2p2p of Hod and any other set such as WT, NO, ATK%, so go with what makes you get better subs. "
         }
     ],
     "color": 3245055,

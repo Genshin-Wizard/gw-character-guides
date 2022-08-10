@@ -34,12 +34,12 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Elemental Mastery or ATK % or Energy Recharge |<goblet>  Elemental Mastery or ATK % |<circlet>  Elemental Mastery or ATK % or Healing Bonus"
+            "value": "<sands> Elemental Mastery or ATK% or Energy Recharge |<goblet>  Elemental Mastery or ATK% |<circlet>  Elemental Mastery or ATK% or Healing Bonus"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "ATK %|Energy Recharge|Elemental Mastery        "
+            "value": "ATK%|Energy Recharge|Elemental Mastery        "
         },
         {
             "inline": "false",

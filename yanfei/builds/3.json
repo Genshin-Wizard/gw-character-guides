@@ -29,12 +29,12 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "Elemental Mastery OR ATK %|Pyro DMG Bonus|CRIT Rate or DMG"
+            "value": "Elemental Mastery OR ATK%|Pyro DMG Bonus|CRIT Rate or DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT Rate|CRIT DMG|Elemental Mastery|ATK %"
+            "value": "CRIT Rate|CRIT DMG|Elemental Mastery|ATK%"
         },
         {
             "inline": "false",

@@ -24,12 +24,12 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK % |<goblet> Anemo DMG bonus |<circlet>  CRIT Rate or DMG"
+            "value": "<sands> ATK% |<goblet> Anemo DMG bonus |<circlet>  CRIT Rate or DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT Rate|CRIT DMG|ATK %|Energy Recharge        "
+            "value": "CRIT Rate|CRIT DMG|ATK%|Energy Recharge        "
         },
         {
             "inline": "false",

@@ -34,12 +34,12 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK % or Elemental Mastery |<goblet>  Pyro DMG Bonus |<circlet>  CRIT DMG or CRIT Rate"
+            "value": "<sands> ATK% or Elemental Mastery |<goblet>  Pyro DMG Bonus |<circlet>  CRIT DMG or CRIT Rate"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT DMG|CRIT Rate|Elemental Mastery|ATK %"
+            "value": "CRIT DMG|CRIT Rate|Elemental Mastery|ATK%"
         },
         {
             "inline": "false",

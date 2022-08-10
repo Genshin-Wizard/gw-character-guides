@@ -36,7 +36,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT Rate|CRIT DMG|Elemental Mastery|Energy Recharge|ATK %        "
+            "value": "CRIT Rate|CRIT DMG|Elemental Mastery|Energy Recharge|ATK%        "
         },
         {
             "inline": "false",

@@ -34,12 +34,12 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK % or EM (vape teams only) |<goblet>  Pyro DMG Bonus |<circlet>  CRIT Rate/CRIT DMG"
+            "value": "<sands> ATK% or EM (vape teams only) |<goblet>  Pyro DMG Bonus |<circlet>  CRIT Rate/CRIT DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "ATK %|CRIT DMG|CRIT Rate|EM        "
+            "value": "ATK%|CRIT DMG|CRIT Rate|EM        "
         },
         {
             "inline": "false",

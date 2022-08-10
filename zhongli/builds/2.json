@@ -34,12 +34,12 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> HP % or  Atk % |<goblet> Physical Dmg % |<circlet> Crit Rate or Dmg"
+            "value": "<sands> HP % or  ATK% |<goblet> Physical Dmg % |<circlet> Crit Rate or Dmg"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Crit Dmg | Crit Rate | ATK % | HP%"
+            "value": "Crit Dmg | Crit Rate | ATK% | HP%"
         },
         {
             "inline": "false",
@@ -49,7 +49,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "For Physical DPS specifically the weapon effect of r5 Crescent Pike will out DPS even Staff of Homa unless you have multiple Homa refines. \n\nThe choice between HP% or ATK % Sands is between a better shield or more damage. Whichever isn't selected should be pursued on the sub stats. \n\nYou may choose to pursue better shield capabilities by leveling his Elemental Skill over his Elemental Burst. "
+            "value": "For Physical DPS specifically the weapon effect of r5 Crescent Pike will out DPS even Staff of Homa unless you have multiple Homa refines. \n\nThe choice between HP% or ATK% Sands is between a better shield or more damage. Whichever isn't selected should be pursued on the sub stats. \n\nYou may choose to pursue better shield capabilities by leveling his Elemental Skill over his Elemental Burst. "
         }
     ],
     "color": 14994176,

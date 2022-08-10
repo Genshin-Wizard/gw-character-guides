@@ -31,12 +31,12 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK % or Energy Recharge |<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate / CRIT DMG"
+            "value": "<sands> ATK% or Energy Recharge |<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate / CRIT DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "ATK %|CRIT Rate|CRIT DMG| Energy Recharge        "
+            "value": "ATK%|CRIT Rate|CRIT DMG| Energy Recharge        "
         },
         {
             "inline": "false",
