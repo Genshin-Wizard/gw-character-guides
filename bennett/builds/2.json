@@ -29,12 +29,12 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Energy Recharge / ATK% / Elemental Mastery|<goblet>  Pyro DMG Bonus |<circlet>  CRIT Rate"
+            "value": "<sands> Energy Recharge / ATK % / Elemental Mastery|<goblet>  Pyro DMG Bonus |<circlet>  CRIT Rate"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge|CRIT Rate/CRIT DMG|ATK%        "
+            "value": "Energy Recharge|CRIT Rate/CRIT DMG|ATK %        "
         },
         {
             "inline": "false",

@@ -29,7 +29,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge|Elemental Mastery|Crit Rate (when using Favonius Sword)|ATK% (without Bennett/ATK Buffs)|CRIT (with Bennett/ATK Buffs)"
+            "value": "Energy Recharge|Elemental Mastery|Crit Rate (when using Favonius Sword)|ATK % (without Bennett/ATK Buffs)|CRIT (with Bennett/ATK Buffs)"
         },
         {
             "inline": "false",

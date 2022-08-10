@@ -24,7 +24,7 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK% |<goblet>  Cryo DMG Bonus |<circlet>  CRIT DMG/ATK%"
+            "value": "<sands> ATK % |<goblet>  Cryo DMG Bonus |<circlet>  CRIT DMG/ATK %"
         },
         {
             "inline": "true",
@@ -39,7 +39,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Building ER substats to reach requirements is the biggest priority.\nNot using Amenoma  - 130 to 140%\nUsing Amenoma - 100%(R5) to 120%(R1)\n\nBecause of Blizzard Strayer aim for a maximum 30-40% CRIT Rate on the build.\nATK% circlets can be competitive or better, especially on Mistsplitter builds."
+            "value": "Building ER substats to reach requirements is the biggest priority.\nNot using Amenoma  - 130 to 140%\nUsing Amenoma - 100%(R5) to 120%(R1)\n\nBecause of Blizzard Strayer aim for a maximum 30-40% CRIT Rate on the build.\nATK % circlets can be competitive or better, especially on Mistsplitter builds."
         }
     ],
     "color": 10147839,

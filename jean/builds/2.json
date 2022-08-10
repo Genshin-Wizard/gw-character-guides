@@ -39,7 +39,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge|Elemental Mastery|ATK%"
+            "value": "Energy Recharge|Elemental Mastery|ATK %"
         },
         {
             "inline": "false",
