@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Aloy"
+        "text": "Character Guide \u2022 Build: Aloy | Update Date: 08/10/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/47mFsx4.png"
@@ -34,7 +34,7 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Energy Recharge |<goblet>  Cryo DMG Bonus % |<circlet>  CRIT DMG / CRIT Rate"
+            "value": "<sands> Energy Recharge |<goblet>  Cryo DMG Bonus |<circlet>  CRIT DMG or CRIT Rate"
         },
         {
             "inline": "true",
