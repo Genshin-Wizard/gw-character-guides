@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Aloy"
+        "text": "Character Guide \u2022 Build: Aloy | Update Date: 08/10/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/47mFsx4.png"
@@ -29,12 +29,12 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK %  |<goblet>  Cryo DMG Bonus %  |<circlet>  CRIT DMG / CRIT Rate"
+            "value": "<sands> ATK%  |<goblet>  Cryo DMG Bonus%  |<circlet>  CRIT DMG or CRIT Rate"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT DMG|CRIT rate|ATK %|Energy Recharge        "
+            "value": "CRIT DMG|CRIT rate|ATK%|Energy Recharge        "
         },
         {
             "inline": "false",
@@ -44,7 +44,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "On-Field DPS build is based around gaining coil stacks and using her normal attack string on a frozen enemy. When played with cryo resonance and Blizzard Strayer, crit rate can be quite low. "
+            "value": "On-Field DPS build is based around gaining Coil Stacks and using her Normal Attack string on a frozen enemy. When played with Cryo resonance and Blizzard Strayer, CRIT Rate can be quite low. "
         }
     ],
     "color": 10147839,
