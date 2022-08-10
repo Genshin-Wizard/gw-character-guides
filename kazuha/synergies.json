@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Kazuha"
+        "text": "Character Guide \u2022 Synergy: Kaedehara Kazuha | Update Date: 08/10/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/Jru7MPN.png"
     },
+    "fields": [],
     "color": 5494962,
     "type": "rich",
-    "description": "childe,xiangling,bennett,kazuha|fischl,venti,kokomi,kazuha|ayaka,kokomi,kaeya,kazuha",
+    "description": "kazuha,childe,xiangling,bennett| kazuha,diluc,bennett,xingqiu|kazuha,hutao,yelan,xingqiu| kazuha,ayato,fischl,bennett| kazuha,kokomi,fischl,beidou|kazuha,ayaka,kokomi,rosaria",
     "title": "Kazuha | Team Composition and Synergy"
 }
