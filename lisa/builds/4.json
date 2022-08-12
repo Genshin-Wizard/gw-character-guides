@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Lisa | Update Date: 08/07/2022 | Editor: Luno#1337"
+        "text": "Character Guide \u2022 Build: Lisa | Update Date: 08/12/2022 | Editor: Pneuma#0003"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/a0E1K9o.png"
@@ -34,7 +34,7 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": ":SandsofEon: Elemental Mastery\n:GobletofEonothem: Elemental Mastery\n:CircletofLogo: Elemental Mastery"
+            "value": "<sands> Elemental Mastery\n<goblet> Elemental Mastery\n<circlet> Elemental Mastery"
         },
         {
             "inline": "true",
