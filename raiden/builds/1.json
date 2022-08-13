@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Raiden"
+        "text": "Character Guide \u2022 Build: Raiden Shogun | Update Date: 08/13/2022 | Editor: ~Z~#0009"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/4NdsZHk.png"
@@ -14,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Staff of Homa, Wavebreaker's Fin (R5 recommended), The Catch (R5), Primordial Jade Winged-Spear, Skyward Spine"
+            "value": "The Catch (R5), Staff of Homa, Wavebreaker's Fin (R5 recommended), Primordial Jade Winged-Spear, Skyward Spine"
         },
         {
             "inline": "false",
@@ -35,6 +35,11 @@
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Burst: Secret Art - Musou Shinsetsu\n**2)** Elemental Skill: Transcedence - Baleful Omen\n**3)** Normal Attack: Origin (Useless)\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "The Catch at r5 is arguably better than any non-Engulfing Lightning option due to the better energy regeneration it offers for a minimal dmg difference.\n\nAtk% Sands will generally deal more dmg but will lower Raiden's energy regeneration for the team.\n\nDue to the high amount of Dmg % in Raiden's kit, her Goblet can also be better as Atk% instead of Electro Dmg in some cases. \n\n4 piece Emblem is the only artifact set that should be used on Raiden. Nothing else comes close. "
         }
     ],
     "color": 11104511,
