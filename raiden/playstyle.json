@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Playstyle: Raiden Shogun"
+        "text": "Character Guide \u2022 Playstyle: Raiden Shogun | Update Date: 08/13/2022 | Editor: ~Z~#0009"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/4NdsZHk.png"
     },
     "color": 11104511,
     "type": "rich",
-    "description": "Raiden's Elemental Skill (E) buffs all elemental bursts emitted from other characters in your party, therefore, it is recommended that you use Raiden in the following sequence:\n\n> Use Raiden's Elemental Skill (E)\n> Swap out your Raiden, and start using all available Elemental Bursts (Q) from your other characters with this additional buff activated.\n> Once you have use all your Elemental Bursts, you may swap back to your Raiden and use her Elemental Burst (Q) as well.\n> **Repeat.**",
+    "description": "Raiden's Elemental Skill (E) buffs all Elemental Bursts (Q) which in turn give Raiden Resolve stacks that buff her Burst. Raiden's Burst will then restore energy to the entire party to repeat the process. Therefore, you should generally use Raiden in the following rotation: \n\n> Use Raiden's Elemental Skill (E)\n> Activate any Elemental Bursts (Q) you have available\n> Activate Raiden's Elemental Burst (Q).\n> **Repeat.**",
     "title": "Raiden Shogun | Playstyle"
 }
