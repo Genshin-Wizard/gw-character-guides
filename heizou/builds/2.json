@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Shikanoin Heizou | Update Date: 08/06/2022 | Editor: Luno#1337"
+        "text": "Character Guide \u2022 Build: Shikanoin Heizou | Update Date: 08/14/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/ZrsI0Bj.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "__Hakushin Ring__ \nA potent weapon option that shines best in electrocharge teams as it can buff both electro, and hydro party members. Given its strong multi-character buff, coupled with a much less rotation-restrictive trigger condition, makes this weapon an excellent choice for Heizou in monoelectro and electrocharge team compositions. \n\n__Sacrificial Fragments__\nAlthough not a weapon to support party members, the boost in personal damage in addition to a supplemental charge of his skill will usually compensate for the lack of buffs; particularly in teams where Heizou can proc many swirls and electrocharge ownership. \n\n__Thrilling Tales of Dragon Slayers__\nA low-investment option with a strong buff, albeit only for one team member. Since the weapon passive limits the flexibility of rotations in order to be more optimally utilised, it is most advisable to run this weapon when playing an already rotation-strict team. \n** **"
+            "value": "__Hakushin Ring__ \nA potent weapon option that shines best in electrocharge teams as it can buff both electro, and hydro party members. Given its strong multi-character buff, coupled with a much less rotation-restrictive trigger condition, makes this weapon an excellent choice for Heizou in monoelectro and electrocharge team compositions. \n\n__Sacrificial Fragments__\nAlthough not a weapon to support party members, the boost in personal damage and an additional charge of his skill will usually compensate for the lack of team buffs; particularly in teams where Heizou can proc many swirls and gain electrocharge ownership. \n\n__Thrilling Tales of Dragon Slayers__\nA low-investment option with a strong buff, albeit only for one team member. Since the weapon passive limits the flexibility of rotations in order to be optimally utilised, it is most advisable to run this weapon when playing an already rotation-strict team. \n** **"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "__Prototype Amber__ \nFor teams without healers, Prototype Amber can be a viable option with its small yet significant heals. At R5, the weapon drops his ER requirements by ~80%; enabling Heizou to either burst twice per rotation instead of once for some extra personal damage and additional CC, or to mend his ER needs in teams where Heizou can only feasibly get off 1 skill per burst. However, it is noted that the value of this weapon diminishes with his C4 as it already reduces ER requirements significantly. \n\n__Favonius Codex__ \nWhen using Heizou in low particle teams, Favonius Codex is a great option to aid his teammates er requirements, particularly when given the opportunity to proc the passive multiple times theoughout the rotation. However, players must be able to afford the crit rate substats necessary in order to proc the passive consistently. \n** **"
+            "value": "__Prototype Amber__ \nFor teams without healers, Prototype Amber can be a viable option with its small yet significant heals. At R5, the weapon drops his ER requirements by ~80%; enabling Heizou to either burst twice per rotation instead of once for some extra personal damage and additional CC, or to mend his ER needs in teams where Heizou can only feasibly get off 1 skill per burst. However, it is noted that the value of this weapon diminishes with his C4 as it already reduces ER requirements significantly. \n\n__Favonius Codex__ \nWhen Heizou is in low particle teams or teams that would benefit from auxiliary particle generation, Favonius Codex is a great option to aid his teammates er requirements, notably when given the opportunity to proc the passive multiple times throughout the rotation. However, players must be able to afford the crit rate substats necessary in order to proc the passive consistently. \n** **"
         },
         {
             "inline": "false",
