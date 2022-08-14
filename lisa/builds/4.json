@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Lisa | Update Date: 08/12/2022 | Editor: Pneuma#0003"
+        "text": "Character Guide \u2022 Build: Lisa | Update Date: 08/13/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/a0E1K9o.png"
@@ -39,12 +39,12 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Elemental Matery|Energy Recharge"
+            "value": "Elemental Mastery|Energy Recharge"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "..."
+            "value": "Talent levels often do not matter for an EM carry Lisa, since she does not scale with EM for her combat talents. However, she does ascend with Elemental Mastery, so it is recommended to raise her as high as possible. "
         }
     ],
     "color": 11104511,
