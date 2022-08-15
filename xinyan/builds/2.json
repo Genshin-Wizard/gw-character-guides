@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Xinyan"
+        "text": "Character Guide \u2022 Build: Xinyan | Update Date: 08/15/2022 | Editor: Luanjo#5886"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/T6meiSo.png"
@@ -9,17 +9,17 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "__Favonius Greatsword__ has a chance to generate Energy particles whenever the holder hits a CRIT. Holder needs to be on-field.\n\n__Wolf's Gravestone__ grants an ATK% buff to the entire party whenever the holder hits an opponent under 30% HP. Holder needs to be on-field. Consider how often you'll be able to utilize its passive before picking this one."
+            "value": "__Favonius Greatsword__ has a chance to generate Energy Particles for the entire team whenever the holder hits a CRIT. Xinyan's C2 eliminates the need to build CRIT Rate. Holder needs to be on-field.\n\n__Wolf's Gravestone__ grants an ATK% buff to the entire party whenever the holder hits an opponent under 30% HP. Holder needs to be on-field. Consider how often you'll be able to utilize its passive before picking this one."
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-instructor"
+            "value": "x4-noblesseoblige"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-noblesseoblige"
+            "value": "x4-instructor"
         },
         {
             "inline": "true",
@@ -39,7 +39,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Xinyan's C2 eliminates the need to build CRIT Rate."
+            "value": "4-piece Instructor is able to share Elemental Mastery for the entire party, most importantly to Hu Tao or Yoimiya making it Xinyan's best set for buffing. This comes at the cost of a slimmer shield and lower Energy Recharge due to it's 4-star maximum rarity."
         }
     ],
     "color": 16733525,
