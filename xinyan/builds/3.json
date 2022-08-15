@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Xinyan"
+        "text": "Character Guide \u2022 Build: Xinyan | Update Date: 08/15/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/T6meiSo.png"
@@ -9,47 +9,37 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Redhorn Stonethresher"
+            "value": "__Sacrificial Greatsword__\nMaximizes uptime. The shield is best considered at Level 3 which can be casted immediately after Bursting or hitting multiple enemies. If the additional Elemental Skill charge is used prematurely, you may lose the stronger shield and gain a weaker one. \n__Whiteblind__\nMaximizes shieldstrength, but will require strong investment into Energy Recharge. Has enough Defence to allow for an Energy Recharge sands to be run."
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Wolf's Gravestone, Serpent Spine, Song of Broken Pines, Snow-Tombed Starsilver, Skyward Pride"
+            "value": "Favonius Greatsword"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x2-physical|x2-physical"
-        },
-        {
-            "inline": "false",
-            "name": "Second Best Artifact Set:",
-            "value": "x4-paleflame"
-        },
-        {
-            "inline": "false",
-            "name": "Third Best Artifact Set:",
-            "value": "x2-physical|x2-attack"
+            "value": "x4-tenacityofthemillelith"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK% |<goblet>  Physical DMG Bonus |<circlet>  CRIT Rate / CRIT DMG"
+            "value": "<sands> DEF% or Energy Recharge|<goblet>  DEF% |<circlet>  DEF%"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT DMG / CRIT Rate|ATK%        "
+            "value": "DEF%|Energy Recharge|CRIT Rate   "
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Normal Attack: Dance on Fire\n**2)** Elemental Burst: Riff Evolution\n**3)** Elemental Skill: Sweeping Ferver\n        "
+            "value": "**1)** Elemental Skill: Sweeping Ferver\n**2)** Elemental Burst: Riff Evolution\n**3)** Normal Attack: Dance on Fire\n        "
         },
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "While the Pale Flame will lead to greater damage output than the 2-set Physical Set build with its stacks, it is very difficult to gain them with Xinyan's skill despite its pyro pulses. The 2-set Physical Set build will be far more consistent."
+            "value": "For the sake of reliability, this playstyle is only recommended when owning Xinyan at C2 or higher. This playstyle is generally only worth using if looking to run the Tenacity of the Millelith set when Diona or Zhongli are not available."
         }
     ],
     "color": 16733525,
