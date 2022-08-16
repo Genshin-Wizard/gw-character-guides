@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Playstyle: Gorou"
+        "text": "Character Guide \u2022 Playstyle: Gorou | Update Date: 08/16/2022 | Editor: SirDerpyHerp#7903"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/TsnQcuP.png"
     },
     "color": 14994176,
     "type": "rich",
-    "description": "Gorou is most suited to supporting his teammates, since he enhances their defense and can even heal and augment geo crit damage at higher constellations. He has interruption resistance and can deliver significant damage, but he need geo players in your squad to properly utilize his powers, and his elemental burst has a large energy cost.\n\nThe following is a typical rotation for a Gorou team composition: \n> Using Goroou's Elemental Skill \n> Switching to your Geo carry character until you have enough energy to unleash Gorou's burst \n> Switching back to Gorou and using his Elemental Burst to enhance your team's Geo carriers \n> Repeat!",
+    "description": "Gorou is mostly used in Noelle and Itto teams, as he buffs their DEF and Geo DMG Bonus. He can also battery them by generating 2 Geo Particles on his Elemental Skill.\nHis Playstyle is very simple, just use his Elemental Skill, Burst, then swap out. Though it should be noted that you can't alt-swap to Itto, as he won't receive Gorou's DEF buffs.",
     "title": "Gorou | Playstyle"
 }
