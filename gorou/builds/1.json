@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Gorou | Update Date: 08/16/2022 | Editor: SirDerpyHerp#7903"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/TsnQcuP.png"
     },
@@ -6,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Elegy for the End"
+            "value": "__Favonius Warbow__\nER stat stick + extra particles from its passive, you get one for free too. It does require CRIT Rate to proc the passive reliably, but it's not an issue for Gorou as he can use a CRIT Rate circlet without losing buffs."
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Favonius Warbow, Sacificial Bow"
+            "value": "Sacificial Bow, Elegy for the End"
         },
         {
             "inline": "false",
@@ -31,23 +34,25 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> DEF % or Energy Recharge |<goblet>  DEF or Geo DMG Bonus |<circlet>  DEF %"
+            "value": "<sands> DEF% or Energy Recharge |<goblet> DEF% |<circlet> CRIT Rate or DEF%"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "DEF %|Energy Recharge        "
+            "value": "Energy Recharge|CRIT Rate|DEF%"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Skill: Inuzaka All-round Defense\n**2)** Elemental Burst: Juuga - Forward Unto Victory\n**3)** Normal Attack: Ripping Fang Fletching\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "He only needs to stack ER and CRIT Rate if he's using Fav, DEF% is only wanted when he's C4 for his heals. \nYou only need to level up his Elemental Skill as his buff scale exclusively from his Elemental Skill."
         }
     ],
     "color": 14994176,
     "type": "rich",
-    "title": "Gorou (Support) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Gorou"
-    }
+    "title": "Gorou (Support) | Build"
 }
