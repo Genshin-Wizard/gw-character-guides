@@ -1,10 +1,17 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Gorou"
+        "text": "Character Guide \u2022 Synergy: Gorou | Update Date: 08/16/2022 | Editor: SirDerpyHerp#7903"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/TsnQcuP.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Gorou's buffs depend on how many Geo characters are in the team, which is why you'd want to have 3 Geo characters in your team."
+        }
+    ],
     "color": 14994176,
     "type": "rich",
     "description": "itto,gorou,albedo,diona|noelle,gorou,albedo,fischl",
