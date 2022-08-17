@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Kaeya"
+        "text": "Character Guide \u2022 Build: Kaeya | Update Date: 08/17/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/dX6g3ys.png"
@@ -14,12 +14,12 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": " Freedom-Sworn, Skyward Blade, Lion's Roar, Favionus Sword, Amenoma, Jade Cutter"
+            "value": " Primordial Jade Cutter, Freedom Sworn, Lions Roar, Alley Flash, Amenoma Kageuchi"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x2-blizzardstrayer|x2-gladiatorsfinale/shimenawasreminisence"
+            "value": "x4-lavawalker"
         },
         {
             "inline": "false",
@@ -29,17 +29,17 @@
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x4-lavawalker"
+            "value": "2-piece set combinations of Nobless Oblige, Wanderers Troupe, Blizzard Strayer, and 18% ATK "
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK% |<goblet>  Cryo DMG Bonus |<circlet>  CRIT DMG"
+            "value": "<sands> ATK% |<goblet> Cryo DMG Bonus |<circlet> CRIT Rate or DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT DMG|ATK%|CRIT Rate        "
+            "value": "CRIT Rate|CRIT DMG|Atk%|Energy Recharge|Elemental Mastery "
         },
         {
             "inline": "false",
