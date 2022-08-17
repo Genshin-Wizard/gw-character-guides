@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Kaeya"
+        "text": "Character Guide \u2022 Synergy: Kaeya | Update Date: 08/17/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/dX6g3ys.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Kaeya when paired with Rosaria forms a formidable cryo duo. Leaning into the quickswap playstyle, players are encouraged to use the duo in teams that allow for this playstyle to best utilize both Kaeya\u2019s as well as Rosaria\u2019s short skill CD\u2019s. \n\nOutside of the Kaeya + Rosaria duo, players can run Kaeya as either a secondary cryo to one\u2019s cryo main damage dealer, or as an off-field burst DPS/ support.  "
+        }
+    ],
     "color": 10147839,
     "type": "rich",
-    "description": "ayaka,xingqiu,kaeya,kazuha|mona,kaeya,rosaria,kazuha|hutao,xingqiu,kaeya,diona",
+    "description": "kaeya,ayaka,kazuha,kokomi|kaeya,rosaria,kazuha,xingqiu|kaeya,rosaria,xiangling,bennett|kaeya,rosaria,klee,bennett|kaeya,diona,hutao,xingqiu",
     "title": "Kaeya | Team Composition and Synergy"
 }
