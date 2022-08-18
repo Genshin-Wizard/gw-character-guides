@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Fischl | Update Date: 08/18/2022 | Editor: Luno#1337"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/78124Xb.png"
     },
@@ -6,27 +9,17 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Elegy for the End"
+            "value": "__Skyward Harp, Thundering Pulse, Polar Star, Aqua Simulacra__ \nFischl\u2019s 5 star weapon options are generally within similar margins to one another. Skyward Harp, Thundering Pulse, and Aqua Simulacra provide consistent damage while Polar Star has a conditional passives that, when maintained, pulls ahead over her other weapon options. \n** **"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "The Stringless, Skyward Harp, Slingshot"
+            "value": "__The Stringless, Alley Hunter__ \nGacha 4 star weapons that are extremely potent options on Fischl. \nAt equal refinements, Alley Hunter usually performs (marginally) better than The Stringless as the high Base Attack and ATK% is much more appreciated in Fischl\u2019s team compositions compared to the EM stat that The Stringless provides. \n\n__Elegy of the End__ \nAlthough Elegy of the End is one of her weakest options with regards to her personal damage, the weapon passive\u2019s party buff can outweigh the loss in personal damage in certain team compositions. ( most common when Fischl is run in the flex slot of vape teams ) \n\n__Prototype Crescent__ \nF2P option which performs rather well at high refinements. However, this assumes players will go out of their way to proc the weapon\u2019s passive and snapshot it unto Oz. Should players not want to deal with a high-maintenance weapon, it is best to look for other weapon options instead. \n** **"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x2-thunderingfury|x2-attack"
-        },
-        {
-            "inline": "false",
-            "name": "Second Best Artifact Set:",
-            "value": "x2-attack|x2-attack"
-        },
-        {
-            "inline": "false",
-            "name": "Third Best Artifact Set:",
-            "value": "x4-thundersoother"
+            "value": "2-piece combinations of +18% ATK work fine on Fischl. However, in numerous cases, the quality of the substats takes a much higher priority compared to forcing the set bonus\u2019. "
         },
         {
             "inline": "true",
@@ -36,18 +29,20 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "ATK%|CRIT Rate|CRIT DMG        "
+            "value": "Energy Recharge ( see notes ) |CRIT Rate|CRIT DMG|ATK%"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Skill: Nightrider\n**2)** Elemental Burst: Midnight Phantasmagoria\n**3)** Normal Attack: Bolts of Downfall\n        "
+            "value": "**1)** Elemental Skill: Nightrider\n**2)** Elemental Burst: Midnight Phantasmagoria\n\nNormal attacks are irrelevant to upgrade in this playstyle.  "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Fischl\u2019s ER requirements varies wildly depending on the scenario she is used in. Thus, it is best to check with the Energy Recharge Calculstor to find out her ER requirements in player\u2019s specific team compositions.\n\n**Niche Artifact sets:**\n__4 Thundersoother__\nStrong option when playing Fischl in monoelectro/ most electrocharge compositions where electro aura is maintained. However, the damage gained is rarely worthwhile. Thus, players should not farm specifically for the 4-set bonus on Fischl when 2-piece options perform competitively.\n\n__4 TotM__ \nAn artifact set that, although can be better for certain team compositions owing to the high buff-uptime she provides, is not generally worth recommending as her personal damage suffers significantly when running this 4-set bonus. Unless hyperinvesting into one\u2019s Fischl, it is best to drop farming for this artifact set entirely. "
         }
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Fischl (Off-Field DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Fischl"
-    }
+    "title": "Fischl (Off-Field DPS) | Build"
 }
