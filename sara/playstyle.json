@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Playstyle: Kujou Sara"
+        "text": "Character Guide \u2022 Playstyle: Kujou Sara | Update Date: 08/20/2022 | Editor: Sew#2409"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/yGSQBnz.png"
     },
     "color": 11104511,
     "type": "rich",
-    "description": "Kujou Sara's playstyle appears to be between between a DPS and a support, but in practice, all you have to do is equip her up like any other DPS. Her battle strategy consists of keeping a safe enough distance to shoot her arrows while also increasing the ATK of her comrades.\n\nA typical rotation for Sara would be something along the lines of:\n> Using Sara's Elemental Skill (E) to move away from enemies and then shoot a *charged shot* to activate her ATK buff\n> After receiving the buff, swapping to your main DPS carry and utilizing the buff to deal heavy damage should be your next move\n> Once the ATK buff wears off, you should swap back to Sara and use her Elemental Burst (Q) to deal even **more** damage.",
+    "description": "Kujou Sara is an Electro Bow character usually played as a buffer for Electro characters. Her buff comes from her skill which gives flat ATK to the character it activates on. At C2 you need to use a fully charged aimed shot to activate her buff, but with C2 she doesn't to do that. Keep in mind that skipping her charged shot with C2 doesn't generate any energy.\n\nAlthough her main purpose in a lot of teams is as a buffer she still does a decent amount of damage in those teams. Therefore it is recommended to build damage stats after meeting her required Energy Recharge which vary from 180 to 230 Energy Recharge depending on the team.",
     "title": "Kujou Sara | Playstyle"
 }
