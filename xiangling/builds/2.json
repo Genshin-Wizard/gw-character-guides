@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Xiangling | Update Date: 08/21/2022 | Editor: kitkat#1305"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/6VZAvrf.png"
     },
@@ -36,7 +39,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT Rate|CRIT DMG|Elemental Mastery|Energy Recharge|ATK%        "
+            "value": "CRIT Rate|CRIT DMG|Energy Recharge|ATK%        "
         },
         {
             "inline": "false",
@@ -46,8 +49,5 @@
     ],
     "color": 16733525,
     "type": "rich",
-    "title": "Xiangling (Monopyro) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Xiangling"
-    }
+    "title": "Xiangling (Monopyro) | Build"
 }
