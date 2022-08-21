@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Ningguang | Update Date: 08/05/2022 | Editor: Effab1e#2963"
+        "text": "Character Guide \u2022 Synergy: Ningguang | Update Date: 08/21/2022 | Editor: Effab1e#2963"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/w9LQJFO.png"
@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Geo Flex will usually be zhongli, albedo or C6 gorou.\nFischl/Sara can be used in flex slots\n\nAlbedo - Due to 30s duration on skill he can use it alternate rotations."
+            "value": "Geo Flex will usually be zhongli, albedo or C6 gorou.\n\nAlbedo - Due to 30s duration on skill he can use it alternate rotations."
         }
     ],
     "color": 14994176,
     "type": "rich",
-    "description": "ningguang,zhongli,fischl,albedo|ningguang,zhongli,fischl,bennett|ningguang,geoflex,bennett,xiangling|ningguang,geoflex,fischl,yaemiko|ningguang,zhongli,geoflex,flex",
+    "description": "ningguang,zhongli,fischl,albedo|ningguang,zhongli,fischl,bennett|ningguang,geoflex,bennett,xiangling|ningguang,geoflex,fischl,yaemiko|ningguang,zhongli,geoflex,flex|ningguang, zhongli,albedo,sara",
     "title": "Ningguang | Team Composition and Synergy"
 }
