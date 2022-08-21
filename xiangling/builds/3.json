@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Xiangling | Update Date: 08/21/2022 | Editor: kitkat#1305"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/6VZAvrf.png"
     },
@@ -6,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Engulfing Lightning"
+            "value": "Wavebreaker's Fin (R5)"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Staff of Homa, The Catch (R5), Dragon's Bane, Favonious Lance, Primordial Jade Winged-Spear"
+            "value": "Staff of Homa, The Catch (R5), Engulfing Lightning, Deathmatch, Wavebreaker's Fin (R3), Kitain Cross Spear, Favonius Spear"
         },
         {
             "inline": "false",
@@ -42,12 +45,14 @@
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Burst: Pyronado\n**2)** Elemental Skill: Guoba Attack\n**3)** Normal Attack: Dough-fu\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Generally, Xiangling requires around 180% ER. Her main source of damage Pyronado, has a hefty 80 burst cost.\n"
         }
     ],
     "color": 16733525,
     "type": "rich",
-    "title": "Xiangling (Off-Field DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Xiangling"
-    }
+    "title": "Xiangling (Off-Field DPS) | Build"
 }
