@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Xiangling | Update Date: 08/21/2022 | Editor: kitkat#1305"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/6VZAvrf.png"
     },
@@ -6,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Engulfing Lightning"
+            "value": "Wavebreaker's Fin (R5)\n"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Staff of Homa, The Catch (R5), Dragon's Bane, Favonious Lance, Primordial Jade Winged-Spear"
+            "value": "Staff of Homa, Engulfing Lightning, The Catch (R5), Deathmatch (R5), Dragon's Bane (R5), Skyward Spine, Kitain Cross Spear"
         },
         {
             "inline": "false",
@@ -46,8 +49,5 @@
     ],
     "color": 16733525,
     "type": "rich",
-    "title": "Xiangling (Vape) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Xiangling"
-    }
+    "title": "Xiangling (Vape) | Build"
 }
