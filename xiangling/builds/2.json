@@ -34,7 +34,7 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Energy Recharge |<goblet>  Pyro DMG Bonus |<circlet>  CRIT Rate / CRIT DMG"
+            "value": "<sands> Energy Recharge or ATK% |<goblet>  Pyro DMG Bonus |<circlet>  CRIT Rate / CRIT DMG"
         },
         {
             "inline": "true",
@@ -45,6 +45,11 @@
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Burst: Pyronado\n**2)** Elemental Skill: Guoba Attack\n**3)** Normal Attack: Dough-fu\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Generally, Xiangling requires around 180% ER. Her main source of damage Pyronado, has a hefty 80 burst cost. \n\nElemental Mastery is not needed in Mono Pyro compositions due to the lack of reactions."
         }
     ],
     "color": 16733525,
