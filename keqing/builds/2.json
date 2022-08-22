@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Keqing"
+        "text": "Character Guide \u2022 Build: Keqing | Update Date: 08/22/2022 | Editor: Pneuma#0003"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/PQDR6HJ.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Aquila Favonia"
+            "value": "__Aquila Favonia, Primordial Jade Cutter__\nBoth of these options rank closely as the best in slot for Physical Keqing, although Primordial Jade Cutter pulls ahead significantly with external ATK buffers such as Bennett or Sara due to its massive CRIT Rate substat."
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Primordial Jade Cutter, Summit Shaper, Haran Geppaku Futsu, Mistsplitter Reforged, The Black Sword, Prototype Rancour"
+            "value": "__Summit Shaper, Haran Geppaku Futsu, Mistsplitter Reforged__\nOrdered in terms of potency, these 5-star options are all decent choices for Physical Keqing. Mistsplitter Reforged is the worst of the three because this build does not take advantage of its Elemental DMG bonuses; Summit Shaper without a shield is also slightly worse than Haran Geppaku Futsu.\n\n__The Black Sword, Prototype Rancour__\nThe Black Sword is generally better if you can afford it. Prototype Rancour, the free option, is not too far behind and can improve very slightly with refinements, but it is not recommended to use your billets in that manner."
         },
         {
             "inline": "false",
@@ -45,6 +45,11 @@
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Normal Attack: Yunlai Swordsmanship\n**2)** Elemental Burst: Starward Sword\n**3)** Elemental Skill: Stellar Restoration\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Physical DPS Keqing is a niche build that does not scale well in the late game. Generally speaking, it is easy to build for the early game and has very few requirements other than a Cryo teammate to trigger Superconduct, but it is generally recommended to avoid investing too much in this build as physical damage is very limited as a damage type."
         }
     ],
     "color": 11104511,
