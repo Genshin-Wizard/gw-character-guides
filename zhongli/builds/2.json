@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Zhongli | Update Date: 08/08/2022 | Editor: ~Z~#0009"
+        "text": "Character Guide \u2022 Build: Zhongli | Update Date: 08/21/2022 | Editor: ~Z~#0009"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/fqg3O0z.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Crescent Pike"
+            "value": "__Crescent Pike__\nFor Physical DPS specifically the weapon effect of  r5 Crescent Pike will out DPS even Staff of Homa  unless you have multiple Homa refines. "
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Staff of Homa"
+            "value": "__Staff of Homa__\nHoma is still a solid option especially if you cannot get multiple Crescent Pike refines or want a little better shield"
         },
         {
             "inline": "false",
@@ -49,7 +49,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "For Physical DPS specifically the weapon effect of r5 Crescent Pike will out DPS even Staff of Homa unless you have multiple Homa refines. \n\nThe choice between HP% or ATK% Sands is between a better shield or more damage. Whichever isn't selected should be pursued on the sub stats. \n\nYou may choose to pursue better shield capabilities by leveling his Elemental Skill over his Elemental Burst. "
+            "value": "The choice between HP% or ATK% Sands is between a better shield or more damage. Whichever isn't selected should be pursued on the sub stats. \n\nYou may choose to pursue better shield capabilities by leveling his Elemental Skill over his Elemental Burst. "
         }
     ],
     "color": 14994176,
