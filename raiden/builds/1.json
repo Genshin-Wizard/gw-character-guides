@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Raiden Shogun | Update Date: 08/13/2022 | Editor: ~Z~#0009"
+        "text": "Character Guide \u2022 Build: Raiden Shogun | Update Date: 08/21/2022 | Editor: ~Z~#0009"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/4NdsZHk.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Engulfing Lightning"
+            "value": "__Engulfing Lightning__\nThe best in slot for Raiden as it's easily the best choice for both Dmg and Energy generation"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "The Catch (R5), Staff of Homa, Wavebreaker's Fin (R5 recommended), Primordial Jade Winged-Spear, Skyward Spine"
+            "value": "__The Catch (R5)__\nThe Catch at r5 is arguably better than any non-Engulfing Lightning option due to the better energy regeneration it offers for a minimal dmg difference\nThis is free, there's no reason to not get this if you don't have Engulfing (We all know fishing isn't fun, do it anyways)\n\n__Staff of Homa, Primordial Jade Winged-Spear__\nBoth offer comparable dmg or better dmg than anything not named Engulfing Lightning but honestly are better used elsewhere since the Catch is free\n\n__Skyward Spine__\nOne of the few instances where Skyward Spine might be preferable to the other options as its Atk Spd increase makes Raiden combos easier to do "
         },
         {
             "inline": "false",
@@ -39,7 +39,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "The Catch at r5 is arguably better than any non-Engulfing Lightning option due to the better energy regeneration it offers for a minimal dmg difference.\n\nAtk% Sands will generally deal more dmg but will lower Raiden's energy regeneration for the team.\n\nDue to the high amount of Dmg % in Raiden's kit, her Goblet can also be better as Atk% instead of Electro Dmg in some cases. \n\n4 piece Emblem is the only artifact set that should be used on Raiden. Nothing else comes close. "
+            "value": "Atk% Sands will generally deal more dmg but will lower Raiden's energy regeneration for the team\n\nDue to the high amount of Dmg % in Raiden's kit, her Goblet can also be better as Atk% instead of Electro Dmg in some cases\n\n4 piece Emblem is the only artifact set that should be used on Raiden. Nothing else comes close"
         }
     ],
     "color": 11104511,
