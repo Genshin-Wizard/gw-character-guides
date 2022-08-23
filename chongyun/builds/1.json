@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Chongyun"
+        "text": "Character Guide \u2022 Build: Chongyun | Update Date: 08/23/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/FA8SPoN.png"
@@ -24,17 +24,17 @@
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x2-noblesseoblige|x2-blizzardstrayer"
+            "value": "x4-lavawalker"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x2-attack|x2-blizzardstrayer"
+            "value": "x2-noblesseoblige|x2-blizzardstrayer"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK% or Energy Recharge |<goblet>  Cryo DMG Bonus |<circlet>  ATK% or CRIT Rate / CRIT DMG"
+            "value": "<sands> ATK% or Elemental Mastery |<goblet>  Cryo DMG Bonus |<circlet> CRIT Rate or CRIT DMG"
         },
         {
             "inline": "true",
@@ -45,6 +45,11 @@
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Burst: Spirit Blade - Cloud-Parting Star\n**2)** Elemental Skill: Spirit Blade - Chonghua's Layered Frost\n**3)** Normal Attack: Demonbane\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Emblem of Severed Fate provides the highest personal damage by a very small margin over 4-piece Noblesse Oblige, and if not hyper-invested, loses out in general team DPS. Lavawalker is niche and generally resin-inefficent, but will perform somewhere between 4-piece Noblesse Oblige and Emblem of Severed Fate. (Only in teams where he has Pyro aura to Melt off.)"
         }
     ],
     "color": 10147839,
