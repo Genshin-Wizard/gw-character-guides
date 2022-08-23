@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Shikanoin Heizou | Update Date: 08/14/2022 | Editor: Luno#1337"
+        "text": "Character Guide \u2022 Build: Shikanoin Heizou | Update Date: 08/23/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/ZrsI0Bj.png"
@@ -39,7 +39,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "ER requirements can vary majorly depending on the context of the team Heizou is used in. Generally, Heizou is most commonly found performimg 2 fully-stacked skill uses each rotation. In this scenario, a range of 110-120% ER should be enough to burst every rotation. \nFor more specific situations, be sure to check out the Energy Recharge Calculator tool.\n\n4 Viridescent Venerer is the best artifact set by far for Heizou. In teams that already have an anemo running the 4-piece set or monogeo/ anemo team compositions, running 2-piece set combinations on Heizou is an option. "
+            "value": "ER requirements can vary majorly depending on the context of the team Heizou is used in and the number of skills used per burst. Generally, Heizou is most commonly found performing 2 fully-stacked skill uses each rotation. In this scenario, a range of 110-120% ER should be enough to burst every rotation. \nFor more specific situations, be sure to check out the Energy Recharge Calculator tool.\n\n4 Viridescent Venerer is the best artifact set by far for Heizou. In teams that already have an anemo running the 4-piece set or mono geo/ anemo team compositions, running 2-piece set combinations on Heizou is an option. "
         }
     ],
     "color": 5494962,
