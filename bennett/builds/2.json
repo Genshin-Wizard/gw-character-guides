@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Bennett"
+        "text": "Character Guide \u2022 Build: Bennett | Update Date: 08/24/2022 | Editor: SirDerpyHerp#7903"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/Ovy1jMB.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Mistsplitter Reforged /\nAquila Favonia"
+            "value": "__Mistsplitter Reforged__ /\n__Aquila Favonia__\nHighest Base ATK weapons, makes his buffs even better.\n\n__Freedom-Sworn__\nHonourable mention, it can potentially give a bigger ATK buff than the weapons above if you can reliably proc the passive. "
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Alley Flash, Skyward Blade, Freedom-Sworn, Prototype Rancour"
+            "value": "__Skyward Blade__\nHigh Base ATK + a hefty amount of ER, very solid option.\n__Alley Flash__\nHighest 4* Base ATK, use it if you have it but with the addition of Sapwood Blade, it's not worth pulling for as it is a limited weapon banner exclusive.\n__Sapwood Blade__\n2nd highest Base ATK for a 4* with an ER substat, it's also craftable!"
         },
         {
             "inline": "false",
