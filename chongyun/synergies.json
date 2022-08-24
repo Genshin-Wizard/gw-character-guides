@@ -1,13 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Chongyun | Update Date: 08/05/2022 | Editor: Luno#1337"
+        "text": "Character Guide \u2022 Synergy: Chongyun | Update Date: 08/24/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/FA8SPoN.png"
     },
-    "fields": [],
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "The flex character slots can be anyone that deals acceptable off-field damage but doesn't fully mess up Bennett's Melts. Someone like Albedo is good, but characters providing shielding or crowd control is nice too."
+        }
+    ],
     "color": 10147839,
     "type": "rich",
-    "description": "chongyun,rosaria,xiangling,bennett|chongyun,xingqiu,xiangling,bennett|chongyun,rosaria,xingqiu,kazuha",
+    "description": "chongyun,rosaria,xiangling,bennett|chongyun,xingqiu,xiangling,bennett|chongyun,sucrose,kaeya,bennett|chongyun,rosaria,xingqiu,kazuha|chongyun,xingqiu,lisa,rosaria|chongyun,bennett,flex,flex",
     "title": "Chongyun | Team Composition and Synergy"
 }
