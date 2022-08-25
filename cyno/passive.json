@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Cyno"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/SoCflUy.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Unknown",
+            "value": "*Unlocked at Ascension 1*\n> Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Unknown",
+            "value": "*Unlocked at Ascension 4*\n> Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Unknown",
+            "value": "*Unlocked Automatically*\n> Unknown"
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Cyno | Passive Talents"
+}

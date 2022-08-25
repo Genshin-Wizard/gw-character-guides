@@ -1,0 +1,43 @@
+{
+    "footer": {
+        "text": "Character Guide • Constellations: Nilou"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/KxMQIkX.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Unknown (C1)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Unknown (C2)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Unknown (C3)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Unknown (C4)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Unknown (C5)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Unknown (C6)",
+            "value": "Unknown"
+        }
+    ],
+    "color": 3245055,
+    "type": "rich",
+    "title": "Nilou | Constellations"
+}

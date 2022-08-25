@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide • Passive Talents: Candace"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/iUCbIjQ.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Unknown",
+            "value": "*Unlocked at Ascension 1*\n> Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Unknown",
+            "value": "*Unlocked at Ascension 4*\n> Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Unknown",
+            "value": "*Unlocked Automatically*\n> Unknown"
+        }
+    ],
+    "color": 3245055,
+    "type": "rich",
+    "title": "Candace | Passive Talents"
+}

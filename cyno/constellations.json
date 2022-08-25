@@ -1,0 +1,43 @@
+{
+    "footer": {
+        "text": "Character Guide • Constellations: Cyno"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/SoCflUy.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Unknown (C1)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Unknown (C2)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Unknown (C3)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Unknown (C4)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Unknown (C5)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Unknown (C6)",
+            "value": "Unknown"
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Cyno | Constellations"
+}

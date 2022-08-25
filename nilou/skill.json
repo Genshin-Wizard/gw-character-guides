@@ -1,0 +1,33 @@
+{
+    "footer": {
+        "text": "Character Guide • Skill Talents: Nilou"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/KxMQIkX.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Ripple of Fate",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Reflection of Doom",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Stellaris Phantasm",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Illusory Torrent",
+            "value": "Unknown"
+        }
+    ],
+    "color": 3245055,
+    "type": "rich",
+    "title": "Nilou | Skill Talents"
+}

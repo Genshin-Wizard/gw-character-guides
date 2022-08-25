@@ -1,0 +1,33 @@
+{
+    "footer": {
+        "text": "Character Guide • Skill Talents: Cyno"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/SoCflUy.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Ripple of Fate",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Reflection of Doom",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Stellaris Phantasm",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Illusory Torrent",
+            "value": "Unknown"
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Cyno | Skill Talents"
+}
