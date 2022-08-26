@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Kaeya"
+        "text": "Character Guide \u2022 Build: Kaeya | Update Date: 08/26/2022 | Editor: hatter#6666"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/dX6g3ys.png"
@@ -19,7 +19,7 @@
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x2-blizzardstrayer|x2-gladiatorsfinale/shimenawasreminisence"
+            "value": "x2-blizzardstrayer|x2-attack"
         },
         {
             "inline": "false",
