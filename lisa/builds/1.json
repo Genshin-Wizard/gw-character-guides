@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Lisa | Update Date: 08/25/2022 | Editor: Samantha#9907"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/a0E1K9o.png"
     },
@@ -11,12 +14,12 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Skyward Atlas, The Widsith"
+            "value": "Skyward Atlas, The Widsith, Favonius Codex, Oathsworn eye"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x2-thunderingfury|x2-gladiatorsfinale/shimenawasreminiscence"
+            "value": "x4-emblemofseveredfate"
         },
         {
             "inline": "false",
@@ -26,17 +29,17 @@
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x4-emblemofseveredfate"
+            "value": "x2-thunderingfury|x2-attack"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK% |<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate / CRIT DMG"
+            "value": "<sands> Energy Recharge |<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate or CRIT DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge|CRIT DMG|CRIT Rate|CRIT %          "
+            "value": "Energy Recharge|CRIT DMG|CRIT Rate  "
         },
         {
             "inline": "false",
@@ -46,8 +49,5 @@
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Lisa (Off-Field DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Lisa"
-    }
+    "title": "Lisa (Off-Field DPS) | Build"
 }
