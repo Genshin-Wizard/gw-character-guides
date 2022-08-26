@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Yanfei | Update Date: 08/11/2022 | Editor: Luno#1337"
+        "text": "Character Guide \u2022 Build: Yanfei | Update Date: 08/26/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/AK3r6mb.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "__Sacrificial Fragments__\n\n\n__Thrilling Tales of Dragon Slayers__\n** **"
+            "value": "__Sacrificial Fragments__\nStrongest option for Yanfei\u2019s personal damage owing to a high EM substat. Spacing out of skill uses when the weapon passive procs is advised in order for electro auras to be maintained.\n\n__Thrilling Tales of Dragon Slayers__\nProvides a potent buff to a single party member, but mandates a structured rotation in order to properly pass the TTDS buff to the character who benefits most from it. \n** **"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "__Magic Guide__\n\n\n__Hakushin Ring__ \n** **"
+            "value": "__Magic Guide__\nInexpensive variant of sacrificial fragments but with slightly less damage potential. \n \n__Hakushin Ring__ \nHakushin Ring\u2019s weapon passive is extremely easy both to proc and maintain as Yanfei claims ownership over most, if not all overloads. Great multi-buffing qualities coupled with more flexible rotations makes this weapon comparable to the buff of Thrilling Tales of Dragon Slayers.  \n\n** **"
         },
         {
             "inline": "false",
