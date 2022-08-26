@@ -45,6 +45,11 @@
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Burst\n**2)** Skill\nAuto attacks may be left unlevelled.\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Elemental Mastery goblet can be utilized should players not have a Dendro DMG Bonus goblet. "
         }
     ],
     "color": 6794623,
