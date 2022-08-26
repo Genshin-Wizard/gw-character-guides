@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Electro Traveler | Update Date: 08/26/2022 | Editor: hatter#6666"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/B0zBZMi.png"
     },
@@ -26,7 +29,7 @@
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x2-thunderingfury|x2-gladiatorsfinale/shimenawasreminiscence"
+            "value": "x2-thunderingfury|x2-attack"
         },
         {
             "inline": "true",
@@ -46,8 +49,5 @@
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Electro Traveler (Off-Field DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Electrotraveler"
-    }
+    "title": "Electro Traveler (Off-Field DPS) | Build"
 }
