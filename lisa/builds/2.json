@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Lisa | Update Date: 08/25/2022 | Editor: Samantha#9907"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/a0E1K9o.png"
     },
@@ -16,38 +19,40 @@
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x2-thunderingfury|x2-gladiatorsfinale/shimenawasreminiscence"
+            "value": "x4-thundersoother"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x2-thunderingfury|x2-noblesseoblige"
+            "value": "x2-thunderingfury|x2-attack"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x4-emblemofseveredfate"
+            "value": "x2-thunderingfury|x2-noblesseoblige"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK% |<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate / CRIT DMG"
+            "value": "<sands> ATK% |<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate or CRIT DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge|CRIT DMG|CRIT Rate|CRIT %          "
+            "value": "ATK%|Energy Recharge|CRIT DMG|CRIT Rate       "
         },
         {
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Burst: Lightning Rose\n**2)** Elemental Skill: Violet Arc\n**3)** Normal Attack: Lightning Touch \n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "For a main on-field DPS build, all talents being raised as high as possible is recommended. Thundersoother is only the best if an Electro Aura is continuously maintained. This shouldn't be too difficult in most of Lisa's teams."
         }
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Lisa (On-Field DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Lisa"
-    }
+    "title": "Lisa (On-Field DPS) | Build"
 }
