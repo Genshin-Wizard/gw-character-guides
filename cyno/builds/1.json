@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Cyno"
+        "text": "Character Guide \u2022 Build: Cyno | Update Date: 08/26/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/SoCflUy.png"
@@ -9,42 +9,42 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Unknown"
+            "value": "Staff of the Scarlet Sands"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Unknown"
+            "value": "Deathmatch"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-gildeddreams"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-gladiatorsfinale"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-thunderingfury"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Unknown |<goblet>  Unknown |<circlet>  Unknown"
+            "value": "<sands> Elemental Mastery OR ATK % |<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate OR DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Unknown|Unknown|Unknown"
+            "value": "Energy Recharge ( ~140% ER )|CRIT Rate|CRIT DMG|Elemental Mastery|ATK %"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+            "value": "**1)** Burst \n**2)** Skill\nAuto Attacks do __NOT__ need to be levelled as his Electro-infused Normal and Charged attacks during his Burst status. These attacks in his Burst have a different set of multipliers based on his __Burst talent level__. Despite scaling off of Burst talent, the attacks dealt are not Burst DMG but instead NA/ CA DMG. "
         }
     ],
     "color": 11104511,
