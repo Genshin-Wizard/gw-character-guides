@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Nilou"
+        "text": "Character Guide \u2022 Build: Nilou | Update Date: 08/25/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/KxMQIkX.png"
@@ -9,42 +9,42 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Unknown"
+            "value": "Key of Hierophany "
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Unknown"
+            "value": "Primordial Jade Cutter, Sapwood Blade"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x2-tenacityofthemillelith|x2-heartofdepth"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-heartofdepth"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x2-heartofdepth|x2-noblesseoblige"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Unknown |<goblet>  Unknown |<circlet>  Unknown"
+            "value": "<sands> HP% or Energy Recharge |<goblet> Hydro Dmg% |<circlet>  CRIT Rate or CRIT DMG or HP%"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Unknown|Unknown|Unknown"
+            "value": "HP%|Energy Recharge|CRIT DMG|CRIT Rate"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+            "value": "**1)** Elemental Skill: Dance of the Seven Realms\n**2)** Elemental Burst: Dance of the Lotus: Distant Dreams, Listening Spring\n**3)** Normal Attack: Dance of the Bowstring Moon"
         }
     ],
     "color": 3245055,
