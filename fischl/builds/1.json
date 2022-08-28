@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Fischl | Update Date: 08/28/2022 | Editor: Pile6Zero#6228"
+        "text": "Character Guide \u2022 Build: Fischl | Update Date: 08/28/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/78124Xb.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "__Skyward Harp, Thundering Pulse, Polar Star, Aqua Simulacra__ \nFischl\u2019s 5 star weapon options are generally within similar margins to one another. Skyward Harp, Thundering Pulse, and Aqua Simulacra provide consistent damage while Polar Star has a conditional passives that, when maintained, pulls ahead over her other weapon options. \n** **"
+            "value": "__Skyward Harp, Thundering Pulse, Polar Star, Aqua Simulacra__ \nFischl\u2019s 5 star weapon options are generally within similar margins to one another, with Polar Star having a conditional passive that, when stacked before using her skill, outperforms these other 5 stars. \n** **"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "__The Stringless, Alley Hunter__ \nPowerful gacha 4-star weapons that are competitive with her 5* options. Alley Hunter usually performs a bit better than Stringless due to it's higher base atk and more useful substat\n\n__Elegy of the End__ \nThe team buff provided by Elegy can outweight the loss of Fischl's personal damage in certain reaction dependent teams(often vaporize teams)\n\n__Prototype Crescent__ \nThis weapon performs well but requires complicated rotations to trigger and snapshot it's passive, generally not recommended\n** **"
+            "value": "__The Stringless, Alley Hunter__ \nPowerful gacha 4-star weapons that are competitive with her 5* options. The Stringless performs better in aggravate-based teams while Alley Hunter performs better in most other compositions.\n\n__Elegy of the End__ \nLosses Fischl\u2019s personal damage for a team buff which, in certain reaction dependent teams like vape teams, can be better overall for team damage. \n\n__Prototype Crescent__ \nF2P weapon that performs well but complicates rotations to trigger and snapshot it's passive. \n** **"
         },
         {
             "inline": "false",
