@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Fischl | Update Date: 08/25/2022 | Editor: Luno#1337"
+        "text": "Character Guide \u2022 Build: Fischl | Update Date: 08/28/2022 | Editor: Pile6Zero#6228"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/78124Xb.png"
@@ -14,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "__The Stringless, Alley Hunter__ \nGacha 4-star weapons that are extremely potent options on Fischl, which at high refinements can perform competitively to her 5-star weapon options.\nAt equal refinements, Alley Hunter usually performs (marginally) better than The Stringless as the high Base Attack and ATK% is much more appreciated in Fischl\u2019s team compositions compared to the EM stat that The Stringless provides. \n\n__Elegy of the End__ \nAlthough Elegy of the End is one of her weakest options with regards to her personal damage, the weapon passive\u2019s party buff can outweigh the loss in personal damage in certain team compositions. ( most common when Fischl is run in the flex slot of vape teams ) \n\n__Prototype Crescent__ \nF2P option which performs rather well at high refinements. However, this assumes players will go out of their way to proc the weapon\u2019s passive and snapshot it unto Oz. Should players not want to deal with a high-maintenance weapon, it is best to look for other weapon options instead. \n** **"
+            "value": "__The Stringless, Alley Hunter__ \nPowerful gacha 4-star weapons that are competitive with her 5* options. Alley Hunter usually performs a bit better than Stringless due to it's higher base atk and more useful substat\n\n__Elegy of the End__ \nThe team buff provided by Elegy can outweight the loss of Fischl's personal damage in certain reaction dependent teams(often vaporize teams)\n\n__Prototype Crescent__ \nThis weapon performs well but requires complicated rotations to trigger and snapshot it's passive, generally not recommended\n** **"
         },
         {
             "inline": "false",
@@ -39,7 +39,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Fischl\u2019s ER requirements varies wildly depending on the scenario she is used in. Thus, it is best to check with the Energy Recharge Calculator to find out her ER requirements in player\u2019s specific team compositions.\n\n**Niche Artifact sets:**\n__4 Thundersoother__\nStrong option when playing Fischl in monoelectro/ most electrocharge compositions where electro aura is maintained. However, the damage gained is rarely worthwhile. Thus, players should not farm specifically for the 4-set bonus on Fischl when 2-piece options perform competitively.\n\n__4 TotM__ \nAn artifact set that, although can be better for certain team compositions owing to the high buff-uptime she provides, is not generally worth recommending as her personal damage suffers significantly when running this 4-set bonus. Unless hyperinvesting into one\u2019s Fischl, it is best to drop farming for this artifact set entirely. "
+            "value": "Fischl\u2019s ER requirements varies wildly depending on the scenario she is used in. Thus, it is best to check with the Energy Recharge Calculator to find out her ER requirements in player\u2019s specific team compositions.\n\n**Niche Artifact sets:**\n__4 Thundersoother__\nStrong option when playing Fischl in most team compositions where electro aura is maintained. However, the damage gained is not worth farming this 4-pc set over 2-piece options.\n\n__4 TotM__ \nAn artifact set that may be useful in certain teams as Fischl can maintain almost 100% uptime of the 4-set. However this set lowers her personal damage, and since the domain that drops the set is not useful to most characters, it is not recommended to farm this set."
         }
     ],
     "color": 11104511,
