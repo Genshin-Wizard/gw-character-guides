@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Fischl | Update Date: 08/06/2022 | Editor: LordOfEnnui#8710"
+        "text": "Character Guide \u2022 Synergy: Fischl | Update Date: 08/28/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/78124Xb.png"
@@ -14,6 +14,6 @@
     ],
     "color": 11104511,
     "type": "rich",
-    "description": "childe,fischl,beidou,bennett|ayato,fischl,kazuha,bennett|beidou,fischl,xingqiu,sucrose|eula,fischl,diona,beidou|ninguang,zhongli,albedo,fischl|yaemiko,kokomi,fischl,kazuha",
+    "description": "fischl,sucrose,beidou,xingqiu|fischl,kokomi,yaemiko,kazuha|fischl,childe,beidou,bennett|fischl,ayato,kazuha,bennett| fischl,eula,rosaria,zhongli|fischl,ningguang,albedo,zhongli",
     "title": "Fischl | Team Composition and Synergy"
 }
