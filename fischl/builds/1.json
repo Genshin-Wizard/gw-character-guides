@@ -19,17 +19,17 @@
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "2-piece combinations of +18% ATK work fine on Fischl. However, in numerous cases, the quality of the substats takes a much higher priority compared to forcing the set bonus\u2019. "
+            "value": "__2+2 piece combinations of 18% atk__\nWorks fine on Fischl but the quality of the substats takes a much higher priority compared to forcing the set bonuses. \n\n__4 Gilded Dreams__\nWhen playing Fischl in **Aggravate-based teams**, Fischl can take advantage of and abuse this artifact sets high EM with her high rate of application and A4; making this set her BiS for this situation. \n** **"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK% |<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate / CRIT DMG"
+            "value": "<sands> ATK% ( Elemental Mastery can be an option in Aggravate teams ) |<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate OR DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge ( see notes ) |CRIT Rate|CRIT DMG|ATK%"
+            "value": "Energy Recharge ( see notes ) |CRIT Rate|CRIT DMG|ATK%|Elemental Mastery ( Aggravate )"
         },
         {
             "inline": "false",
