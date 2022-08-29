@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Fischl | Update Date: 08/28/2022 | Editor: Luno#1337"
+        "text": "Character Guide \u2022 Build: Fischl | Update Date: 08/29/2022 | Editor: LordOfEnnui#8710"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/78124Xb.png"
@@ -19,17 +19,17 @@
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "__2+2 piece combinations of 18% atk__\nWorks fine on Fischl but the quality of the substats takes a much higher priority compared to forcing the set bonuses. \n\n__4 Gilded Dreams__\nWhen playing Fischl in **Aggravate-based teams**, Fischl can take advantage of and abuse this artifact sets high EM with her high rate of application and A4; making this set her BiS for this situation. \n** **"
+            "value": "__2+2 piece combinations of 18% ATK or Thundering Fury__\nWorks fine on Fischl but the quality of the substats takes a much higher priority compared to forcing the set bonuses. \n** **"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK% ( Elemental Mastery can be an option in Aggravate teams ) |<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate OR DMG"
+            "value": "<sands> ATK% |<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate OR DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge ( see notes ) |CRIT Rate|CRIT DMG|ATK%|Elemental Mastery ( Aggravate )"
+            "value": "Energy Recharge ( see notes ) |CRIT Rate|CRIT DMG|ATK%"
         },
         {
             "inline": "false",
