@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Yae Miko | Update Date: 08/29/2022 | Editor: hatter#6666"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/Yfb4g1m.png"
     },
@@ -46,8 +49,5 @@
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Yae Miko (Sub-DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Yaemiko"
-    }
+    "title": "Yae Miko (Sub-DPS) | Build"
 }
