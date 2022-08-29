@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "__Skyward Harp, Thundering Pulse, Polar Star, Aqua Simulacra, Elegy of the End__ \nFischl\u2019s 5 star weapon options are generally within similar margins to one another.\n\n__The Stringless__\nThe massive DMG% and EM Stringless provides makes it perfect for Aggravate Fischl, just use it. For QuickBloom or Hyperbloom compositions, her EM needs will vary based on how many Hyperblooms she can reliably trigger. For a rule of thumb, Stringless is good as long as she is the primary Hyperbloom trigger. "
+            "value": "__Skyward Harp, Thundering Pulse, Polar Star, Aqua Simulacra, Elegy for the End__ \nFischl\u2019s 5 star weapon options are generally within similar margins to one another.\n\n__The Stringless__\nThe massive DMG% and EM Stringless provides makes it perfect for Aggravate Fischl, just use it. For QuickBloom or Hyperbloom compositions, her EM needs will vary based on how many Hyperblooms she can reliably trigger. For a rule of thumb, Stringless is good as long as she is the primary Hyperbloom trigger. "
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "__Alley Hunter__\nStill a great bow in Aggravate teams due to the DMG% in the passive.\n\n__Slingshot__\nA decent 3 star option, it is viable due to the lowered value of ATK and heightened value of Crit stats in Quicken teams.  \n\nIn general, Fischl wants DMG%, Crit Stats more than ATK%/EM for Aggravate, and EM for Hyperbloom.  "
+            "value": "__Alley Hunter__\nStill a great bow in Aggravate teams due to the DMG% in the passive.\n\n__Slingshot__\nA decent 3 star option, it is viable due to the lowered value of ATK and heightened value of CRIT stats in Quicken teams.  \n\nIn general, Fischl wants DMG%, CRIT Stats more than ATK%/EM for Aggravate, and EM for Hyperbloom.  "
         },
         {
             "inline": "false",
@@ -34,7 +34,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT Rate or CRIT DMG\nATK% or EM"
+            "value": "CRIT Rate or CRIT DMG|ATK% or EM"
         },
         {
             "inline": "false",
