@@ -1,1 +1,48 @@
-{"footer": {"text": "Character Guide \u2022 Build: Fischl | Update Date: 08/28/2022 | Editor: Luno#1337"}, "thumbnail": {"url": "https://i.imgur.com/78124Xb.png"}, "fields": [{"inline": "true", "name": "Best Weapon(s):", "value": "..."}, {"inline": "true", "name": "Replacement Weapon:", "value": "..."}, {"inline": "false", "name": "Best Artifact Set:", "value": "..."}, {"inline": "true", "name": "Main Stats Priority", "value": "..."}, {"inline": "true", "name": "Substats Priority", "value": "..."}, {"inline": "false", "name": "Talent Priority", "value": "..."}], "color": 11104511, "type": "rich", "title": "Fischl (Dendro Reaction based sub-DPS) | Build"}
+{
+    "footer": {
+        "text": "Character Guide \u2022 Build: Fischl | Update Date: 08/29/2022 | Editor: LordOfEnnui#8710"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/78124Xb.png"
+    },
+    "fields": [
+        {
+            "inline": "true",
+            "name": "Best Weapon(s):",
+            "value": "__Skyward Harp, Thundering Pulse, Polar Star, Aqua Simulacra, Elegy of the End__ \nFischl\u2019s 5 star weapon options are generally within similar margins to one another.\n\n__The Stringless__\nThe massive DMG% and EM Stringless provides makes it perfect for Aggravate Fischl, just use it. For QuickBloom or Hyperbloom compositions, her EM needs will vary based on how many Hyperblooms she can reliably trigger. For a rule of thumb, Stringless is good as long as she is the primary Hyperbloom trigger. "
+        },
+        {
+            "inline": "true",
+            "name": "Replacement Weapon:",
+            "value": "__Alley Hunter__\nStill a great bow in Aggravate teams due to the DMG% in the passive.\n\n__Slingshot__\nA decent 3 star option, it is viable due to the lowered value of ATK and heightened value of Crit stats in Quicken teams.  \n\nIn general, Fischl wants DMG%, Crit Stats more than ATK%/EM for Aggravate, and EM for Hyperbloom.  "
+        },
+        {
+            "inline": "false",
+            "name": "Best Artifact Set:",
+            "value": "__4 Thundersoother__\nGreat set for Aggravate specifically. Aggravate teams want to apply a ton of Electro, which maintains an invisible underlying Electro aura under the Catalyze aura. TLDR: Thundersoother is mostly up. Outside of Aggravate teams, the Electro aura will generally not be up consistently. \n\n__4 Gilded Dreams__\nAs this set provides a lot of EM, it is perfect for Hyperbloom teams where Fischl is the trigger. The EM it provides makes it quite valuable on Aggravate as well. "
+        },
+        {
+            "inline": "false",
+            "name": "Second Best Artifact Set:",
+            "value": "__2+2 of ATK% sets, Thundering Fury or EM sets__ \nSolid options depending on how good the substats are. \n\n__4 Thundering Fury__\nThis set now has a 20% bonus to Aggravates and a 40% bonus to Hyperblooms. This makes it decent in Aggravate and Hyperbloom teams, and its cooldown reduction can theoretically be used in niche teams to shorten rotations but is mostly useless. "
+        },
+        {
+            "inline": "true",
+            "name": "Main Stats Priority",
+            "value": "<sands> ATK% or EM\n<goblet> Electro DMG%\n<circlet> CRIT Rate or CRIT DMG"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "CRIT Rate or CRIT DMG\nATK% or EM"
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "Elemental Skill\nElemental Burst\nNormal Attack (basically pointless)"
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Fischl (Dendro Reaction based sub-DPS) | Build"
+}
