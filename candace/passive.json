@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "Unknown",
-            "value": "*Unlocked at Ascension 1*\n> Unknown"
+            "name": "Featherflow Guard  ",
+            "value": "*Unlocked at Ascension 1*\n> If Candace is hit by an attack in the Hold duration of Sacred Rite: Heron's Sanctum, that skill will finish charging instantly."
         },
         {
             "inline": false,
-            "name": "Unknown",
-            "value": "*Unlocked at Ascension 4*\n> Unknown"
+            "name": "Sand Arch",
+            "value": "*Unlocked at Ascension 4*\n> Characters affected by the Prayer of the Crimson Crown caused by Sacred Rite: Wagtail's Tide will deal 0.5% increased DMG to opponents for every 1,000 points of Candace's Max HP when they deal Elemental DMG with their Normal Attacks."
         },
         {
             "inline": false,
-            "name": "Unknown",
-            "value": "*Unlocked Automatically*\n> Unknown"
+            "name": "To Dawn's First Light",
+            "value": "*Unlocked Automatically*\n> Decreases climbing Stamina consumption for your own party members by 20%. \nNot stackable with Passive Talents that provide the exact same effects."
         }
     ],
     "color": 3245055,
