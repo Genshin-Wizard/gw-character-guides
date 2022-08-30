@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Tighnari"
+        "text": "Character Guide \u2022 Build: Tighnari | Update Date: 08/30/2022 | Editor: Foxy#5797"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Tighnari.png"
@@ -19,32 +19,32 @@
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-Gilded Dreams\n"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-Wanderer's Troupe"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-Deepwood Memories"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Unknown |<goblet> Unknown |<circlet> Unknown"
+            "value": "<sands> Elemental Mastery |<goblet> Dendro DMG Bonus|<circlet> CRIT DMG or CRIT Rate"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Unknown|Unknown|Unknown        "
+            "value": "Energy Recharge|Elemental Mastery|CRIT Rate|CRIT DMG    "
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown\n        "
+            "value": "**1)** Normal Attack: Khanda Barrier-Buster\n**2)** Elemental Burst: Fashioner's Tanglevine Shaft\n**3)** Elemental Skill: Vijnana-Phala Mine\n\n        "
         }
     ],
     "color": 6794623,
