@@ -8,33 +8,33 @@
     "fields": [
         {
             "inline": false,
-            "name": "Beginnings Determined at the Roots (C1)",
-            "value": "Tighnari's Charged Attack CRIT Rate is increased by 15%"
+            "name": "Additional Investment (C1)",
+            "value": "The number of After-Sales Service Rounds created by Troubleshooter Shots is increased by 1."
         },
         {
             "inline": false,
-            "name": "Origins Known From the Stem (C2)",
-            "value": "When there are opponents within the Vijnana-Khanda Field created by Vijnana-Phala Mine, Tighnari gains 20% Dendro DMG Bonus. The effect will last up to 6 seconds if the field's duration ends or if it no longer has opponents in it."
+            "name": "Special Franchise (C2)",
+            "value": "When you are in combat and the Jinni heals the character it is connected to, it will fire a Jinni Toop from that character's position that deals 50% of Dori's ATK DMG."
         },
         {
             "inline": false,
-            "name": "Fortunes Read Amongst the Branches (C3)",
-            "value": "Increases the level of Fashioner's Tanglevine Shaft by 3."
+            "name": "Wonders Never Cease (C3)",
+            "value": "Increases the Level of Alcazarzaray's Exactitude by 3. \nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Withering Glimpsed in the Leaves (C4)",
-            "value": "When Fashioner's Tanglevine Shaft is unleashed, all party members gain 60 Elemental Master for 8 seconds. If the Fashioner's Tanglevine Shaft triggers a Burning, Bloom, Aggravate, or Spread reaction, their Elemental Mastery will be further increased by 60. This latter case will also refresh the buff state's duration."
+            "name": "Discretionary Supplement (C4)",
+            "value": "The character connected to the Jinni will obtain the following buffs based on their current HP and Energy:\n>·When their HP is lower than 50%, they gain 50% Incoming Healing Bonus. \n·When their Energy is less than 50%, they gain 30% Energy Recharge."
         },
         {
             "inline": false,
-            "name": "Comprehension Amidst the Flowers (C5)",
-            "value": "Increases the Level of Vijnana-Phala Mine by 3."
+            "name": "Value for Mora (C5)",
+            "value": "Increases the Level of Spirit-Warding Lamp: Troubleshooter Cannon by 3. \nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Karma Adjudged From the Leaden Fruit (C6)",
-            "value": "Wreath Arrow's charging time is decreased by 0.9 seconds, and will produce 1 additional Clusterbloom Arrow upon hit."
+            "name": "Sprinkling Weight (C6)",
+            "value": "Dori gains the following effects for 3s after using Spirit-Warding Lamp: Troubleshooter Cannon: \n> ·Electro Infusion. \n·When Normal Attacks hit opponents, all nearby party members will heal HP equivalent to 4% of Dori's Max HP. This type of healing can occur once every 0.1s."
         }
     ],
     "color": 11104511,
