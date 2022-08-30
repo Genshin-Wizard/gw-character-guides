@@ -9,7 +9,7 @@
         {
             "inline": false,
             "name": "Korobi",
-            "value": "*Normal Attack*\n> Yelan's Elemental Burst deals AoE Hydro damage and creates an 'Exquisite Throw' which deals Hydro damage based on Yelan's Max HP:\n> Once every second when the active character uses a > **Normal Attack:** > When Yelan's Lifeline explodes and hits opponents"
+            "value": "*Normal Attack*\n> **Normal Attack:** Perform up to 5 rapid strikes.\n> **Charged attack:** Consumes a certain amount of Stamina to dash forward and perform an iai.\n> **Plunging Attack:** Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
         },
         {
             "inline": false,
