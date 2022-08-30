@@ -9,7 +9,7 @@
         {
             "inline": false,
             "name": "To Cloister Compassion (C1)",
-            "value": "Increases Kariyama Rite's AoE by 50%"
+            "value": "Gyoei Narukami Kariyama Rite's AoE is increased by 50%."
         },
         {
             "inline": false,
@@ -19,17 +19,17 @@
         {
             "inline": false,
             "name": "To Sequester Sorrow (C3)",
-            "value": "Increases Sanctifying Ring's level by three"
+            "value": "Increases the Level of Sanctifying Ring by 3. \nMaximum upgrade level is 15."
         },
         {
             "inline": false,
             "name": "To Sever Sealing (C4)",
-            "value": "When the Normal. Charged, or Plunging Attacks of the character affected by Shinobu’s Elemental Skill hit opponents, a Thundergrass Mark will land on the opponent’s position and deal AoE Electro DMG based on 9.7% of Shinobu’s Max HP. This effect can occur once every 5s."
+            "value": "When the Normal, Charged, or Plunging Attacks of the character affected by Shinobu’s Elemental Skill hit opponents, a Thundergrass Mark will land on the opponent’s position and deal AoE Electro DMG based on 9.7% of Shinobu’s Max HP. This effect can occur once every 5s."
         },
         {
             "inline": false,
             "name": "To Cease Courtesies (C5)",
-            "value": "Increases Kariyama Rite's level by three"
+            "value": "Increases the Level of Gyoei Narukami Kariyama Rite by 3. \nMaximum upgrade level is 15."
         },
         {
             "inline": false,
