@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Dendro Traveler | Update Date: 09/05/2022 | Editor: Pile6Zero#6228"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/B0zBZMi.png"
     },
@@ -6,48 +9,50 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Unknown"
+            "value": "Favonius Sword"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Unknown"
+            "value": "Sacrificial Sword, Primordial Jade Cutter, Freedom Sworn, Iron Sting"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "Unknown"
+            "value": "4x-deepwoodmemories"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "Unknown"
+            "value": "4x-noblesseoblige"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "Unknown"
+            "value": "2x-gildeddreams"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Unknown |<goblet> Unknown |<circlet> Unknown"
+            "value": "<sands> Energy Recharge or Elemental Mastery or ATK% |<goblet> Dendro DMG or Elemental Mastery or ATK% |<circlet> CRIT Rate or CRIT DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Unknown|Unknown"
+            "value": "Energy Recharge(till requirements)|CRIT Rate|CRIT DMG|Elemental Mastery"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown\n        "
+            "value": "**1)** Elemental Burst: Surgent Manifestation\n**2)** Elemental Skill: Razorgrass Blade\n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Note: Traveler's Energy requirements vary a lot by team, use an energy recharge calculator to calculate Traveler's Energy requirements for your team."
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Anemo Traveler (Off-Field DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Dendro Traveler"
-    }
+    "title": "Anemo Traveler (Off-Field DPS) | Build"
 }
