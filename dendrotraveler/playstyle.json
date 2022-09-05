@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Playstyle: Dendro Traveler"
+        "text": "Character Guide \u2022 Playstyle: Dendro Traveler | Update Date: 09/05/2022 | Editor: Pile6Zero#6228"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/B0zBZMi.png"
     },
     "color": 6794623,
     "type": "rich",
-    "description": "Unknown",
+    "description": "Dendro Traveler is an off field Dendro DPS, and a capable Dendro applier.\n\nTraveler's basic playstyle involves casting their Elemental Skill, followed by their Elemental Burst and switching to another character.\n\nTraveler's Elemental Burst leaves behind a Lea Lotus Lamp that lasts for 12 seconds(15 seconds if you have their Constellation 2), the Lamp has several properties.\n1) The Lamp periodically attacks enemies within it's AoE dealing Dendro damage\n2) Traveler's Ascension Passive 1 increases the Elemental Mastery of the character on field by 6 every second, this buff goes upto a maximum of 60 Elemental Mastery\n3) Applying Hydro on the Lamp increases the AoE of both the Lamp and it's attacks\n4) Applying Electro on the Lamp increases the frequency of it's attacks. Note that this does not change the rate of Dendro application.\n5) Applying Pyro on the Lamp causes the Lamp to explode in an AoE. It is HIGHLY recommended to never use this, as it is a loss in both damage and Dendro application over time.\n\nTraveler's Ascension Passive 4 increases the damage dealt by their Elemental Skill and Elemental burst by a factor of 0.15% and 0.1% respectively for each point of Elemental Mastery Traveler possesses ",
     "title": "Dendro Traveler | Playstyle"
 }
