@@ -14,13 +14,13 @@
         {
             "inline": false,
             "name": "The Languid Wood",
-            "value": "*Unlocked at Ascension 1*\n> When a character within the Cuilein-Anbar Zone triggers Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon reactions, the Zone's duration will be increased by 1 seconds. A single Trump-Card Kitty can be extended by up to 3 seconds."
+            "value": "*Unlocked at Ascension 4*\n> When a character within the Cuilein-Anbar Zone triggers Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon reactions, the Zone's duration will be increased by 1 seconds. A single Trump-Card Kitty can be extended by up to 3 seconds."
         },
         {
             "inline": false,
             "name": "Gliding Champion of Sumeru",
             "value": "*Unlocked automatically*\n> Decreases gliding Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effect."
-        },
+        }
     ],
     "color": 6794623,
     "type": "rich",
