@@ -39,7 +39,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge\nCrit Rate or Crit DMG\nDEF% \nATK%      "
+            "value": "Energy Recharge|Crit Rate or Crit DMG|DEF%|ATK%      "
         },
         {
             "inline": "false",
