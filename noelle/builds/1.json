@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Noelle | Update Date: 09/09/2022 | Editor: Sew#2409"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/klBUgnZ.png"
     },
@@ -11,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "The Unforged, Whiteblind, White Iron Greatsword"
+            "value": "Serpents spine, Whiteblind, Skyward Pride "
         },
         {
             "inline": "false",
@@ -31,23 +34,25 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> DEF % |<goblet>  Geo DMG Bonus or DEF % |<circlet>  DEF %, CRIT Rate, or CRIT DMG"
+            "value": "<sands> DEF% or ATK% |<goblet>  Geo DMG Bonus |<circlet> CRIT Rate or CRIT DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "DEF %|CRIT DMG|CRIT Rate          "
+            "value": "Energy Recharge\nCrit Rate or Crit DMG\nDEF% \nATK%      "
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Sweeping Time\n**2)** Elemental Skill: Breastplate\n**3)** Normal Attack: Favonious Bladework- Maid\n        "
+            "value": "**1)** Normal Attack: Favonious Bladework- Maid\n**2)** Elemental Burst: Sweeping Time\n**3)** Elemental Skill: Breastplate \n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Pre C6 ATK% sands may be better than DEF%."
         }
     ],
     "color": 14994176,
     "type": "rich",
-    "title": "Noelle (On-Field DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Noelle"
-    }
+    "title": "Noelle (On-Field DPS) | Build"
 }
