@@ -8,12 +8,12 @@
     "fields": [
         {
             "inline": false,
-            "name": "Featherflow Guard  ",
+            "name": "Aegis of Crossed Arrows",
             "value": "*Unlocked at Ascension 1*\n> If Candace is hit by an attack in the Hold duration of Sacred Rite: Heron's Sanctum, that skill will finish charging instantly."
         },
         {
             "inline": false,
-            "name": "Sand Arch",
+            "name": "Celestial Dome of Sand",
             "value": "*Unlocked at Ascension 4*\n> Characters affected by the Prayer of the Crimson Crown caused by Sacred Rite: Wagtail's Tide will deal 0.5% increased DMG to opponents for every 1,000 points of Candace's Max HP when they deal Elemental DMG with their Normal Attacks."
         },
         {
