@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Dori"
+        "text": "Character Guide \u2022 Synergy: Dori | Update Date: 09/20/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Dori.png"
     },
+    "fields": [],
     "color": 11104511,
     "type": "rich",
-    "description": "dori,dori,dori,dori|dori,dori,dori,dori|dori,dori,dori,dori",
+    "description": "itto,gorou,geoflex,dori|eula,dori,rosaria,zhongli|dori,xingqiu,collei,fischl",
     "title": "Dori | Team Composition and Synergy"
 }
