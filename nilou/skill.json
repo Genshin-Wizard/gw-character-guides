@@ -8,17 +8,17 @@
     "fields": [
         {
             "inline": false,
-            "name": "Dance of the Bowstring Moon",
+            "name": "Dance of Haftkarsvar",
             "value": "*Normal Attack*\n> **Normal Attack:** Performs up to 3 consecutive sword strikes.\n> **Charged attack:** Consumes a certain amount of Stamina to perform a twirling slash.\n> **Plunging Attack:** Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
         },
         {
             "inline": false,
             "name": "Dance of the Seven Realms",
-            "value": "Enters the Pirouette state, dealing Hydro DMG to nearby opponents based on Nilou's Max HP. \nWhile she is in the Pirouette state, Nilou's Normal Attacks and Elemental Attacks will cause her to enter the Sword Dance and Whirling Steps stances respectively, causing DMG she deals to be converted to Hydro DMG that cannot be overridden and that is considered Elemental Skill DMG. \n> In these stances, Nilou's third dance step will end Pirouette, and has the following effects: \n·Sword Dance: unleashes a watery moon that deals Hydro DMG to opponents it touches and grants Nilou the Lunar Prayer effect. This effect converts Nilou's Normal Attacks into Sword Dance techniques, and her final hit will unleash a watery moon. \n·Whirling Steps: Nilou unleashes a hurtling Water Wheel that deals AoE Hydro DMG and creates a Tranquility aura that follows your active character around and applies Wet to opponents within its AoE. \n>Nilou is unable to perform Charged Attacks when under the effect of Pirouette or Lunar Prayer. \nThese effects will be removed once she leaves the field or exits these states."
+            "value": "Enters the Pirouette state, dealing Hydro DMG to nearby opponents based on Nilou's Max HP.\n While she is in the Pirouette state, Nilou's Normal Attacks and Elemental Attacks will cause her to enter the Sword Dance and Whirling Steps stances respectively, causing DMG she deals to be converted to Hydro DMG that cannot be overridden and that is considered Elemental Skill DMG. \n> In these stances, Nilou's third dance step will end Pirouette, and has the following effects: \n·Sword Dance: unleashes a watery moon that deals Hydro DMG to opponents it touches and grants Nilou the Lunar Prayer effect. This effect converts Nilou's Normal Attacks into Sword Dance techniques, and her final hit will unleash a watery moon.\n ·Whirling Steps: Nilou unleashes a hurtling Water Wheel that deals AoE Hydro DMG and creates a Tranquility aura that follows your active character around and applies Wet to opponents within its AoE.\n> Nilou is unable to perform Charged Attacks when under the effect of Pirouette or Lunar Prayer.\n These effects will be removed once she leaves the field or exits these states."
         },
         {
             "inline": false,
-            "name": "Dance of the Lotus: Distant Dreams, Listening Spring",
+            "name": "Dance of Abzendegi: Distant Dreams, Listening Spring",
             "value": "Begins the dance of faraway dreams and springs that hear, causing a Lotus of Distant Waters to bloom, dealing AoE Hydro DMG based on Nilou's Max HP and applying the Lingering Aeon effect to all opponents hit. \nAfter an interval, opponents affected by Lingering Aeon will take Hydro DMG."
         },
    
