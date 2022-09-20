@@ -8,33 +8,33 @@
     "fields": [
         {
             "inline": false,
-            "name": "Unknown (C1)",
-            "value": "Unknown"
+            "name": "Returning Heiress of the Scarlet Sands (C1)",
+            "value": "The duration of Prayer of the Crimson Crown effect triggered by Sacred Rite: Wagtail's Tide is increased by 3s."
         },
         {
             "inline": false,
-            "name": "Unknown (C2)",
-            "value": "Unknown"
+            "name": "Moon-Piercing Brilliance (C2)",
+            "value": "When Sacred Rite: Heron's Sanctum hits opponents, Candace's Max HP will be increased by 20% for 15s."
         },
         {
             "inline": false,
-            "name": "Unknown (C3)",
-            "value": "Unknown"
+            "name": "Hunter's Supplication(C3)",
+            "value": "Increases the Level of Sacred Rite: Wagtail's Tide by 3. \nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Unknown (C4)",
-            "value": "Unknown"
+            "name": "Sentinel Oath (C4)",
+            "value": "Shortens the Hold CD of Sacred Rite: Heron's Sanctum to be the same as that of the Tapping CD."
         },
         {
             "inline": false,
-            "name": "Unknown (C5)",
-            "value": "Unknown"
+            "name": "Heterochromatic Gaze (C5)",
+            "value": "Increases the Level of Sacred Rite: Heron's Sanctum by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Unknown (C6)",
-            "value": "Unknown"
+            "name": "The Overflow (C6)",
+            "value": "When characters (excluding Candace herself) affected by the Prayer of the Crimson Crown caused by Sacred Rite: Wagtail's Tide deal Elemental DMG to opponents using Normal Attacks, an attack wave will be unleashed that deals AoE Hydro DMG equal to 15% of Candace's Max HP. \nThis effect can trigger once every 2.3s and is considered Elemental Burst DMG."
         }
     ],
     "color": 3245055,
