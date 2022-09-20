@@ -8,24 +8,20 @@
     "fields": [
         {
             "inline": false,
-            "name": "Unknown",
-            "value": "Unknown"
+            "name": "Invoker's Spear",
+            "value": "*Normal Attack*\n> **Normal attack:** Performs up to 4 consecutive spear strikes.\n> **Charged attack:** Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n> **Plunging attack:** Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
         },
         {
             "inline": false,
-            "name": "Unknown",
-            "value": "Unknown"
+            "name": "Secret Rite: Chasmic Soulfarer",
+            "value": "*Elemental Skill*\nPerforms a swift thrust, dealing Electro DMG to opponents along the path. \nWhen Cyno is under the Pactsworn Pathclearer state triggered by Sacred Rite: Wolf's Swiftness, he will instead unleash a Mortuary Rite that deals thunderous AoE Electro DMG and extends the duration of Pactsworn Pathclearer."
         },
         {
             "inline": false,
-            "name": "Unknown",
-            "value": "Unknown"
+            "name": "Sacred Rite: Wolf's Swiftness",
+            "value": "Calls upon a divine spirit to possess him, morphing into the Pactsworn Pathclearer. \nPactsworn Pathclearer \n> ·Cyno's Normal, Charged, and Plunging Attacks will be converted to Electro DMG that cannot be overridden. \n> ·Cyno's Elemental Mastery and resistance to interruption will increase, and he gains immunity to Electro-Charged DMG. \nThis effect will be canceled when Cyno leaves the field and lasts a maximum of 18s."
         },
-        {
-            "inline": false,
-            "name": "Unknown",
-            "value": "Unknown"
-        }
+       
     ],
     "color": 11104511,
     "type": "rich",
