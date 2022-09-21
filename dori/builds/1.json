@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Dori"
+        "text": "Character Guide \u2022 Build: Dori | Update Date: 09/21/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Dori.png"
@@ -9,42 +9,47 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Unknown"
+            "value": "Favonius Greatsword"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Unknown"
+            "value": "Forest Regalia, Sacrificial Greatsword, Wolf\u2019s Gravestone, Bloodtainted Greatsword, Rainslasher\n"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-noblesseoblige"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-deepwoodmemories"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-instructor"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Unknown |<goblet> Unknown |<circlet> Unknown"
+            "value": "<sands> Energy Recharge or Elemental Mastery or HP% |<goblet> HP% or Elemental Mastery |<circlet> HP% or Elemental Mastery"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Unknown|Unknown|Unknown        "
+            "value": "CRIT Rate|Energy Recharge|Elemental Mastery|HP%      "
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown\n        "
+            "value": "**1)** Elemental Burst: Alcazarzaray's Exactitude\nElemental Skill and Normal Attacks are not needed for a Healer or Support build. \n        "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "The Bell has an HP% substat, but will generally fall behind from how much Energy Recharge Dori needs.\nThe Ocean-Hued Clam can work on Dori if she has a lot of investment into her healing."
         }
     ],
     "color": 11104511,
