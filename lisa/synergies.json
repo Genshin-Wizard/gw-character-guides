@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Lisa"
+        "text": "Character Guide \u2022 Synergy: Lisa | Update Date: 09/21/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/a0E1K9o.png"
     },
+    "fields": [],
     "color": 11104511,
     "type": "rich",
-    "description": "bennett,lisa,beidou,xingqiu|raiden,lisa,bennett,kazuha|eula,fischl,diona,lisa",
+    "description": "bennett,lisa,beidou,xingqiu|raiden,lisa,bennett,kazuha|eula,fischl,diona,lisa|lisa,dendrotraveler,collei,kokomi|dendroflex,lisa,venti,kokomi|tighnari,lisa,kazuha,kukishinobu|lisa,fischl,dendrotraveler,kazuha",
     "title": "Lisa | Team Composition and Synergy"
 }
