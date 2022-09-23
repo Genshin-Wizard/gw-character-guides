@@ -1,1 +1,58 @@
-{"footer": {"text": "Character Guide \u2022 Build: Kuki"}, "thumbnail": {"url": "https://i.imgur.com/g5ufyVb.png"}, "fields": [{"inline": "true", "name": "Best Weapon(s):", "value": "..."}, {"inline": "true", "name": "Replacement Weapon:", "value": "..."}, {"inline": "false", "name": "Best Artifact Set:", "value": "..."}, {"inline": "true", "name": "Main Stats Priority", "value": "..."}, {"inline": "true", "name": "Substats Priority", "value": "..."}, {"inline": "false", "name": "Talent Priority", "value": "..."}], "color": 11104511, "type": "rich", "title": "Kuki (Reaction support) | Build"}
+{
+    "footer": {
+        "text": "Character Guide \u2022 Build: Kuki Shinobu | Update Date: 09/23/2022 | Editor: Sew#2409"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/g5ufyVb.png"
+    },
+    "fields": [
+        {
+            "inline": "true",
+            "name": "Best Weapon(s):",
+            "value": "__Freedom Sworn__ The EM substat provides extra damage for her reactions. The passive helps to boost her teams total damage."
+        },
+        {
+            "inline": "true",
+            "name": "Replacement Weapon:",
+            "value": "Xiphos' Moonlight, Iron sting, Favonius Sword, Dark Iron Sword"
+        },
+        {
+            "inline": "false",
+            "name": "Best Artifact Set:",
+            "value": "x4-gildeddreams"
+        },
+        {
+            "inline": "false",
+            "name": "Second Best Artifact Set:",
+            "value": "x4-thunderingfury"
+        },
+        {
+            "inline": "false",
+            "name": "Third Best Artifact Set:",
+            "value": "x2-wandererstroupe"
+        },
+        {
+            "inline": "true",
+            "name": "Main Stats Priority",
+            "value": "<sands> Elemental Mastery |<goblet>  Elemental Mastery |<circlet>  Elemental Mastery"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "Elemental Mastery|HP%"
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Skill: Sanctifying Ring"
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "For a full EM build Kuki doesn't use her burst or normals as the EM stacking results in a lack of other stats which reduces her damage output."
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Kuki (Reaction support) | Build"
+}
