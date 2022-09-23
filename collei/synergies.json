@@ -1,10 +1,11 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Collei"
+        "text": "Character Guide \u2022 Synergy: Collei | Update Date: 09/23/2022 | Editor: hatter#6666"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Collei.png"
     },
+    "fields": [],
     "color": 6794623,
     "type": "rich",
     "description": "collei,collei,collei,collei|collei,collei,collei,collei|collei,collei,collei,collei",
