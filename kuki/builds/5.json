@@ -1,1 +1,53 @@
-{"footer": {"text": "Character Guide \u2022 Build: Kuki"}, "thumbnail": {"url": "https://i.imgur.com/g5ufyVb.png"}, "fields": [{"inline": "true", "name": "Best Weapon(s):", "value": "..."}, {"inline": "true", "name": "Replacement Weapon:", "value": "..."}, {"inline": "false", "name": "Best Artifact Set:", "value": "..."}, {"inline": "true", "name": "Main Stats Priority", "value": "..."}, {"inline": "true", "name": "Substats Priority", "value": "..."}, {"inline": "false", "name": "Talent Priority", "value": "..."}], "color": 11104511, "type": "rich", "title": "Kuki (Aggravate support) | Build"}
+{
+    "footer": {
+        "text": "Character Guide \u2022 Build: Kuki Shinobu | Update Date: 09/23/2022 | Editor: Sew#2409"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/g5ufyVb.png"
+    },
+    "fields": [
+        {
+            "inline": "true",
+            "name": "Best Weapon(s):",
+            "value": "__Primordial Jade Cutter__ The high Crit Rate substat and HP% passive makes it the best choice for Kuki's personal damage."
+        },
+        {
+            "inline": "true",
+            "name": "Replacement Weapon:",
+            "value": "Lion's Roar, Festering Desire, Iron Sting, Favonius Sword"
+        },
+        {
+            "inline": "false",
+            "name": "Best Artifact Set:",
+            "value": "x4-emblemofseveredfate"
+        },
+        {
+            "inline": "false",
+            "name": "Second Best Artifact Set:",
+            "value": "x4-thunderingfury"
+        },
+        {
+            "inline": "false",
+            "name": "Third Best Artifact Set:",
+            "value": "x4-gildeddreams"
+        },
+        {
+            "inline": "true",
+            "name": "Main Stats Priority",
+            "value": "<sands> Elemental Mastery or HP% |<goblet>  Electro DMG Bonus |<circlet>  CRIT DMG or CRIT Rate"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "Energy Recharge|Crit Rate or Crit DMG| Elemental Mastery|HP%"
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)**  Elemental Skill: Sanctifying Ring\n**2)** Elemental Burst: Gyoei Narukami Kariyama Rite\n**3)** Normal Attack: Shinobu's Shadowsword"
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Kuki (Aggravate support) | Build"
+}
