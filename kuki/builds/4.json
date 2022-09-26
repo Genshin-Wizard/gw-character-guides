@@ -1,1 +1,58 @@
-{"footer": {"text": "Character Guide \u2022 Build: Kuki"}, "thumbnail": {"url": "https://i.imgur.com/g5ufyVb.png"}, "fields": [{"inline": "true", "name": "Best Weapon(s):", "value": "..."}, {"inline": "true", "name": "Replacement Weapon:", "value": "..."}, {"inline": "false", "name": "Best Artifact Set:", "value": "..."}, {"inline": "true", "name": "Main Stats Priority", "value": "..."}, {"inline": "true", "name": "Substats Priority", "value": "..."}, {"inline": "false", "name": "Talent Priority", "value": "..."}], "color": 11104511, "type": "rich", "title": "Kuki (Healer) | Build"}
+{
+    "footer": {
+        "text": "Character Guide \u2022 Build: Kuki Shinobu | Update Date: 09/26/2022 | Editor: Sew#2409"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/g5ufyVb.png"
+    },
+    "fields": [
+        {
+            "inline": "true",
+            "name": "Best Weapon(s):",
+            "value": "__Key of Khaj-Nisut__ The HP% substat and passive in addition to the Elemental Mastery scaling nature of the weapon make it the best weapon for a healer Kuki.\n"
+        },
+        {
+            "inline": "true",
+            "name": "Replacement Weapon:",
+            "value": "Freedom Sworn, Iron Sting, Favonius Sword"
+        },
+        {
+            "inline": "false",
+            "name": "Best Artifact Set:",
+            "value": "x4-tenacityofthemillelith"
+        },
+        {
+            "inline": "false",
+            "name": "Second Best Artifact Set:",
+            "value": "x2-maidenbeloved|x2-oceanhuedclam"
+        },
+        {
+            "inline": "false",
+            "name": "Third Best Artifact Set:",
+            "value": "x2-wandererstroupe|x2-tenacityofthemillelith"
+        },
+        {
+            "inline": "true",
+            "name": "Main Stats Priority",
+            "value": "<sands> HP% or Elemental Master |<goblet>  HP% or Elemental Mastery |<circlet>  Healing Bonus or HP% or Elemental Mastery"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "HP%|Elemental Mastery"
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "1) Elemental Skill: Sanctifying Ring\n"
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Kuki's Burst is not a priority for a healing build as it does not provide any utility unless she has a 4 piece Noblesse Oblige."
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Kuki (Healer) | Build"
+}
