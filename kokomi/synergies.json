@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Kokomi"
+        "text": "Character Guide \u2022 Synergy: Sangonomiya Kokomi | Update Date: 09/27/2022 | Editor: Pile6Zero#6228"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/Rd4Ubga.png"
@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "The team of Fischl/Kokomi/Xiangling/Sucrose takes advantage of Kokomi's Elemental skill AoE and Sucrose's ability to use her Elemental skill to swirl pyro off guoba to trigger overload and vaporize simultaneously on several mobs at once, on top of using Xiangling's pyronado to deal damage. Because of fact that it triggers several reactions continuously, this team is still strong versus Single target opponents. Read more about this team on the official KQM guide!"
+            "value": "The team of Fischl/Kokomi/Xiangling/Sucrose takes advantage of Kokomi's Elemental skill AoE and Sucrose's ability to use her Elemental skill to swirl pyro off guoba to trigger overload and vaporize simultaneously on several mobs at once, on top of using Xiangling's pyronado to deal damage. Because of fact that it triggers several reactions continuously, this team is still strong versus Single target opponents. Read more about this team on the official KQM guide!\n\nKokomi's AoE Hydro application makes her great for Hyperbloom teams. When paired with Fischl, Kazuha and Dendro Traveler, Kazuha is able to absorb electro into his Elemental Burst from Oz's electro application, making for powerful Hyperbloom damage"
         }
     ],
     "color": 3245055,
     "type": "rich",
-    "description": "fischl,kokomi,xiangling,sucrose|kokomi,fischl,beidou,kazuha|shenhe,kazuha,kokomi,ayaka|kokomi,cryoflex,cryoflex,anemoflex|kokomi,fischl,electroflex,anemoflex|ganyu,shenhe,kokomi,ayaka",
+    "description": "fischl,kokomi,xiangling,sucrose|kokomi,fischl,beidou,kazuha|shenhe,kazuha,kokomi,ayaka|kokomi,cryoflex,cryoflex,anemoflex|kokomi,fischl,electroflex,anemoflex|ganyu,shenhe,kokomi,ayaka|fischl,kazuha,kokomi,dendrotraveler",
     "title": "Kokomi | Team Composition and Synergy"
 }
