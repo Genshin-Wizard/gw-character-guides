@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Anemo Traveler | Update Date: 09/28/2022 | Editor: Samantha#9907"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/B0zBZMi.png"
     },
@@ -6,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Iron Sting"
+            "value": "Favonius Sword"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Festering Desire, Sacrificial Sword"
+            "value": "Festering Desire, Sacrificial Sword, Freedom-Sworn, Xiphos's Moonlight, Skyrider Sword, Iron Sting, Sapwood Blade"
         },
         {
             "inline": "false",
@@ -21,12 +24,12 @@
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x2-attack|x2-viridescentvenerer"
+            "value": "x4-instructor"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x4-gladiatorsfinale"
+            "value": "x4-noblesseoblige"
         },
         {
             "inline": "true",
@@ -42,12 +45,14 @@
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Burst: Gust Surge\n**2)** Elemntal Skill: Palm Vortex\n**3)** Normal Attack: Foreign Ironwind\n"
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Unless the Traveler has a large amount of Energy Recharge, building Elemental Mastery and 4-piece Viridescent Venerer is recommended. "
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "title": "Anemo Traveler (Support) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Anemotraveler"
-    }
+    "title": "Anemo Traveler (Off-Field DPS) | Build"
 }
