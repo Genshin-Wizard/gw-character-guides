@@ -19,9 +19,8 @@
         {
             "inline": false,
             "name": "Sacred Rite: Wagtail's Tide",
-            "value": "Raising her weapon on high, Candace calls upon a divine blessing that deals AoE Hydro DMG based on her Max HP and continuously confers the Prayer of the Crimson Crown on your active character.\nPrayer of the Crimson Crown\nThis effect has the following properties:\n>·Characters deal increased Elemental DMG with their Normal Attacks.\n·Whenever a character takes the field, they will unleash a rippling wave of water that deals Hydro DMG to nearby opponents. There is a limited number of waves that can be triggered in the duration of this skill.\n·Sword, Claymore, and Polearm-wielding character(s) under this effect will obtain a Hydro Infusion.\nThis secret rite has been passed down through Candace's clan from generation to generation. Though the old faiths have become lost over the years, the sands still protect the heirs of the ancient realm."
-        },
-     
+            "value": "Raising her weapon on high, Candace calls upon a divine blessing that deals AoE Hydro DMG based on her Max HP and continuously confers the Prayer of the Crimson Crown on your active character.\nPrayer of the Crimson Crown\nThis effect has the following properties:\n>• Characters deal increased Elemental DMG with their Normal Attacks.\n• Whenever a character takes the field, they will unleash a rippling wave of water that deals Hydro DMG to nearby opponents. There is a limited number of waves that can be triggered in the duration of this skill.\n• Sword, Claymore, and Polearm-wielding character(s) under this effect will obtain a Hydro Infusion.\nThis secret rite has been passed down through Candace's clan from generation to generation. Though the old faiths have become lost over the years, the sands still protect the heirs of the ancient realm."
+        }
     ],
     "color": 3245055,
     "type": "rich",
