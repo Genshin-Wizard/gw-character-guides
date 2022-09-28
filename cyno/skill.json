@@ -14,14 +14,13 @@
         {
             "inline": false,
             "name": "Secret Rite: Chasmic Soulfarer",
-            "value": "*Elemental Skill*\nPerforms a swift thrust, dealing Electro DMG to opponents along the path. \nWhen Cyno is under the Pactsworn Pathclearer state triggered by Sacred Rite: Wolf's Swiftness, he will instead unleash a Mortuary Rite that deals thunderous AoE Electro DMG and extends the duration of Pactsworn Pathclearer."
+            "value": "*Elemental Skill*\nPerforms a swift thrust, dealing Electro DMG to opponents along the path.\nWhen Cyno is under the Pactsworn Pathclearer state triggered by Sacred Rite: Wolf's Swiftness, he will instead unleash a Mortuary Rite that deals thunderous AoE Electro DMG and extends the duration of Pactsworn Pathclearer."
         },
         {
             "inline": false,
             "name": "Sacred Rite: Wolf's Swiftness",
-            "value": "Calls upon a divine spirit to indwell him, morphing into the Pactsworn Pathclearer. \nPactsworn Pathclearer \n> ·Cyno's Normal, Charged, and Plunging Attacks will be converted to Electro DMG that cannot be overridden. \n> ·Cyno's Elemental Mastery and resistance to interruption will increase, and he gains immunity to Electro-Charged DMG. \nThis effect will be canceled when Cyno leaves the field and lasts a maximum of 18s."
-        },
-       
+            "value": "Calls upon a divine spirit to indwell him, morphing into the Pactsworn Pathclearer.\nPactsworn Pathclearer\n> ·Cyno's Normal, Charged, and Plunging Attacks will be converted to Electro DMG that cannot be overridden.\n> ·Cyno's Elemental Mastery and resistance to interruption will increase, and he gains immunity to Electro-Charged DMG.\nThis effect will be canceled when Cyno leaves the field and lasts a maximum of 18s."
+        }
     ],
     "color": 11104511,
     "type": "rich",

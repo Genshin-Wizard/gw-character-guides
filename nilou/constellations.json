@@ -14,12 +14,12 @@
         {
             "inline": false,
             "name": "The Starry Skies Their Flowers Rain (C2)",
-            "value": "After characters affected by the Golden Chalice's Bounty deal Hydro DMG to opponents, that opponent's Hydro RES will be decreased by 35% for 10s. After a triggered Bloom reaction deals DMG to opponents, their Dendro RES will be decreased by 35% for 10s. \nYou need to have unlocked the 'Court of Dancing Petals' Talent."
+            "value": "After characters affected by the Golden Chalice's Bounty deal Hydro DMG to opponents, that opponent's Hydro RES will be decreased by 35% for 10s. After a triggered Bloom reaction deals DMG to opponents, their Dendro RES will be decreased by 35% for 10s.\nYou need to have unlocked the 'Court of Dancing Petals' Talent."
         },
         {
             "inline": false,
             "name": "Beguiling Shadowstep (C3)",
-            "value": "Increases the Level of Dance of the Lotus: Distant Dreams, Listening Spring by 3. \nMaximum upgrade level is 15."
+            "value": "Increases the Level of Dance of the Lotus: Distant Dreams, Listening Spring by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
@@ -29,12 +29,12 @@
         {
             "inline": false,
             "name": "Twirling Light (C5)",
-            "value": "Increases the Level of Dance of the Seven Realms by 3. \nMaximum upgrade level is 15."
+            "value": "Increases the Level of Dance of the Seven Realms by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
             "name": "Frostbreaker's Melody (C6)",
-            "value": "For every 1,000 points of Max HP, Nilou's CRIT Rate and CRIT DMG will increase by 0.6% and 1.2% respectively. \nThe maximum increase in CRIT Rate and CRIT DMG is 30% and 60% respectively."
+            "value": "For every 1,000 points of Max HP, Nilou's CRIT Rate and CRIT DMG will increase by 0.6% and 1.2% respectively.\nThe maximum increase in CRIT Rate and CRIT DMG is 30% and 60% respectively."
         }
     ],
     "color": 3245055,

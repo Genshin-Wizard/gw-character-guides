@@ -19,7 +19,7 @@
         {
             "inline": false,
             "name": "Hunter's Supplication(C3)",
-            "value": "Increases the Level of Sacred Rite: Wagtail's Tide by 3. \nMaximum upgrade level is 15."
+            "value": "Increases the Level of Sacred Rite: Wagtail's Tide by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
@@ -34,7 +34,7 @@
         {
             "inline": false,
             "name": "The Overflow (C6)",
-            "value": "When characters (excluding Candace herself) affected by the Prayer of the Crimson Crown caused by Sacred Rite: Wagtail's Tide deal Elemental DMG to opponents using Normal Attacks, an attack wave will be unleashed that deals AoE Hydro DMG equal to 15% of Candace's Max HP. \nThis effect can trigger once every 2.3s and is considered Elemental Burst DMG."
+            "value": "When characters (excluding Candace herself) affected by the Prayer of the Crimson Crown caused by Sacred Rite: Wagtail's Tide deal Elemental DMG to opponents using Normal Attacks, an attack wave will be unleashed that deals AoE Hydro DMG equal to 15% of Candace's Max HP.\nThis effect can trigger once every 2.3s and is considered Elemental Burst DMG."
         }
     ],
     "color": 3245055,
