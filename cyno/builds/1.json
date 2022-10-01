@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Cyno | Update Date: 10/01/2022 | Editor: ~Z~#0009"
+        "text": "Character Guide \u2022 Build: Cyno | Update Date: 10/01/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/SoCflUy.png"
@@ -9,22 +9,22 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Staff of the Scarlet Sands"
+            "value": "__Staff of the Scarlet Sands__\nCyno\u2019s signature weapon and Best-in-Slot providing bountiful stat boosts, especially when using an EM sands as it double dips into Cyno\u2019s EM + ATK scaling.\n\n__White Tassel R5__ \nExcellent low investment, F2P weapon choice for Cyno owing to the large, uncoditional NA DMG% and crit rate mainstat it has \u2014 even with its notably low base attack. \n** **"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Deathmatch"
+            "value": "__Primordial Jade Winged Spear__\nOne of the few times PJWS\u2019 passive stacks can be utilized to the fullest extent, showing its potential on sustained On-Field characters. \n\n__Deathmatch__\nStrong 4 star weapon that provides a large amount of Crit Rate for Cyno to better balance his Crit ratio, but is not worth purchasing a copy of/ refining for should players have an R5 White Tassel.\n\n__Staff of Homa__\nAlthough better than his F2P weapons and marginally better than a low-refinement Deathmatch, it is far more recommendable to use homa on other characters that benefits more significantly in comparison to Cyno. ( With the exception of aesthetics )\n\n__Missive Windspear R5__\nEvent weapon that \u2014 although viable \u2014 does not perform better than the already impressive and mostly uncontested White Tassel R5. Only consider upgrading if the player had foddered their White Tassel. \n** **"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-gildeddreams"
+            "value": "x4-gladiatorsfinale"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-gladiatorsfinale"
+            "value": "x4-gildeddreams"
         },
         {
             "inline": "false",
@@ -39,7 +39,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge ( ~140% ER )|CRIT Rate|CRIT DMG|Elemental Mastery|ATK %"
+            "value": "Energy Recharge ( check notes for ER requirements )|CRIT Rate|CRIT DMG|Elemental Mastery|ATK %"
         },
         {
             "inline": "false",
@@ -49,7 +49,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "A note about Thundering Fury, the set does work well for Cyno but requires a specific combo and execution or it will lose dmg against other sets."
+            "value": "**Artifact Notes**\n*EM vs ATK?*\nOverall, they have similar performance with a few exceptions; use the one with better substats. Generally, low base attacks prefer EM sands while high base attack weapons would prefer ATK sands. \n\n*ER Requirements*\nSolo Electro ~ 160-180%+\nDouble Electro ( Fischl ) ~ 100-120% \nDouble Electro ( non-Fischl ) ~ 120-150%\n*ER requirements assume 1 favonius proc; 4 TF lowers ER requirements further* \n\n*Regarding 4 Thundering Fury*\n Works well for Cyno \u2014 both to lower ER requirements and increase personal damage \u2014 when executing a fixed combo. However, the reduction in E CD can be more detrimental  than helpful as players are prone to miss Endseer timings. For a general audience, it is more recommended to ditch 4 Thundering Fury on Cyno unless confident in executing the specific combos."
         }
     ],
     "color": 11104511,
