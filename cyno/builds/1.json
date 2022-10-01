@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Cyno | Update Date: 08/26/2022 | Editor: Samantha#9907"
+        "text": "Character Guide \u2022 Build: Cyno | Update Date: 10/01/2022 | Editor: ~Z~#0009"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/SoCflUy.png"
@@ -45,6 +45,11 @@
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Burst: Sacred Rite: Wolf's Swiftness\n**2)** Elemental Skill: Secret Rite: Chasmic Soulfarer\nNormal Attack: Invoker's Spear does __NOT__ need to be levelled as his Electro-infused Normal and Charged attacks during his Burst status. These attacks in his Burst have a different set of multipliers based on his __Burst talent level__. Despite scaling off of Burst talent, the attacks dealt are not Burst DMG but instead NA/ CA DMG. "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "A note about Thundering Fury, the set does work well for Cyno but requires a specific combo and execution or it will lose dmg against other sets. For more details, check the KQM guide. "
         }
     ],
     "color": 11104511,
