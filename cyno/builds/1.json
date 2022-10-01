@@ -44,7 +44,7 @@
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Sacred Rite: Wolf's Swiftness\n**2)** Elemental Skill: Secret Rite: Chasmic Soulfarer\nNormal Attack: Invoker's Spear does __NOT__ need to be levelled as his Electro-infused Normal and Charged attacks during his Burst status. These attacks in his Burst have a different set of multipliers based on his __Burst talent level__. Despite scaling off of Burst talent, the attacks dealt are not Burst DMG but instead NA/ CA DMG. "
+            "value": "**1)** Elemental Burst: Sacred Rite: Wolf's Swiftness\n**2)** Elemental Skill: Secret Rite: Chasmic Soulfarer\nNormal Attack: Invoker's Spear should remain __unlevelled__ as his Electro-infused Normal and Charged attacks during his Burst status scale based off of his Burst talent \u2014 not his AA, but are still treated as NA/CA/PA damage. "
         },
         {
             "inline": "false",
