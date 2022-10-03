@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Candace"
+        "text": "Character Guide \u2022 Build: Candace | Update Date: 10/03/2022 | Editor: Sew#2409"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/iUCbIjQ.png"
@@ -9,42 +9,47 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Unknown"
+            "value": "__Favonius Lance__ The Energy Recharge substat helps Candace meet her required energy threshold while the passive generates energy for the whole team.\n"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Unknown"
+            "value": "Engulfing Lightning, The Catch, Black Tassel, Wavebreaker's Fin, Prototype Starglitter"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-noblesseoblige"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-emblemofseveredfate"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-instructor"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Unknown |<goblet>  Unknown |<circlet>  Unknown"
+            "value": "<sands> Energy Recharge or HP% |<goblet>  Hydro DMG Bonus |<circlet>  Crit Rate or Crit DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Unknown|Unknown|Unknown"
+            "value": "Energy Recharge|Crit Rate or Crit DMG|HP%"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+            "value": "**1)** Elemental Burst: Sacred Rite: Wagtail's Tide \n**2)** Elemental Skill: Sacred Rite: Heron's Sanctum \n**3)**  Normal Attack: Gleaming Spear - Guardian Stance "
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "4pc Instructors is only viable in teams that want the extra Elemental mastery."
         }
     ],
     "color": 3245055,
