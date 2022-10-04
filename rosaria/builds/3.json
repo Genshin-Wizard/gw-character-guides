@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Rosaria"
+        "text": "Character Guide \u2022 Build: Rosaria | Update Date: 10/04/2022 | Editor: Sew#2409"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/krSQcCT.png"
@@ -9,22 +9,22 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Staff of Homa"
+            "value": "__Staff of Scarlet Sands__ The weapons high amounts of Crit Rate and Elemental Mastery conversion make it the best choice for reverse melt Rosaria who benefits from all 3 stats."
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "R5 Wavebreaker's Fin, r5 Dragon's Bane, Primordial Jade Winged-Spear, R1 Dragon's bane, R1 Wavebreaker's Fin, Deathmatch"
+            "value": "Staff of Homa, Deathmatch, R5 Wavebreaker's Fin, r5 Dragon's Bane, Primordial Jade Winged-Spear, R1 Wavebreaker's Fin, R1 Dragon's bane"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-lavawalker"
+            "value": "x4-gildeddreams"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-emblemofseveredfate"
+            "value": "x4-lavawalker"
         },
         {
             "inline": "false",
@@ -34,12 +34,12 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "-<sands> ATK% or Energy Recharge |<goblet>  Cryo DMG Bonus |<circlet>  CRIT Rate or CRIT DMG"
+            "value": "<sands> Elemental Mastery or ATK%|<goblet>  Cryo DMG Bonus |<circlet>  CRIT Rate or CRIT DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge|CRIT Rate or CRIT DMG|ATK%          "
+            "value": "Energy Recharge|CRIT Rate or CRIT DMG|Elemental Mastery|ATK%      "
         },
         {
             "inline": "false",
