@@ -1,1 +1,53 @@
-{"footer": {"text": "Character Guide \u2022 Build: Mona | Update Date: 10/03/2022 | Editor: Ultimate Noob#2955"}, "thumbnail": {"url": "https://i.imgur.com/nlEKWI3.png"}, "fields": [{"inline": "true", "name": "Best Weapon(s):", "value": "..."}, {"inline": "true", "name": "Replacement Weapon:", "value": "..."}, {"inline": "false", "name": "Best Artifact Set:", "value": "..."}, {"inline": "true", "name": "Main Stats Priority", "value": "..."}, {"inline": "true", "name": "Substats Priority", "value": "..."}, {"inline": "false", "name": "Talent Priority", "value": "..."}], "color": 3245055, "type": "rich", "title": "Mona (On-Field DPS) | Build"}
+{
+    "footer": {
+        "text": "Character Guide \u2022 Build: Mona | Update Date: 10/04/2022 | Editor: Ultimate Noob#2955"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/nlEKWI3.png"
+    },
+    "fields": [
+        {
+            "inline": "true",
+            "name": "Best Weapon(s):",
+            "value": "Lost Prayer to the Sacred Winds\nis the BiS weapon for Mona while playing this playstyle. Keep in mind that you do need to maintain 1 stack for it to be the best option (4 seconds)"
+        },
+        {
+            "inline": "true",
+            "name": "Replacement Weapon:",
+            "value": "Second BiS: The Widsith, Skyward Atlas\nHas a shield: Memory of Dust\nStat Stick: Solar Pearl, Kagura's Verity, Blackcliff Agate"
+        },
+        {
+            "inline": "false",
+            "name": "Best Artifact Set:",
+            "value": "x4-heartofdepth"
+        },
+        {
+            "inline": "false",
+            "name": "Second Best Artifact Set:",
+            "value": "x4-emblemofseveredfate"
+        },
+        {
+            "inline": "false",
+            "name": "Third Best Artifact Set:",
+            "value": "x4-wandererstroupe"
+        },
+        {
+            "inline": "true",
+            "name": "Main Stats Priority",
+            "value": "<sands> Energy Recharge/Attack |<goblet>  Hydro DMG Bonus |<circlet>  CRIT Rate/CRIT Damage"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "CRIT Rate/CRIT Damage | Energy Recharge"
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: Stellaris Phantasm\n**2)** Normal Attack: Ripple of Fate \n**3)** Elemental Skill: Mirror Reflection of Doom"
+        }
+    ],
+    "color": 3245055,
+    "type": "rich",
+    "title": "Mona (On-Field DPS) | Build"
+}
