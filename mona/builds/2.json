@@ -14,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "__A lot of time for resets__:The Widsith\n__I don\u2019t have Lost Prayers to the Sacred Winds__: Skyward Atlas\n__Has a shield__: Memory of Dust\n__Stat Stick__: Solar Pearl, Kagura's Verity, Blackcliff Agate\n"
+            "value": "__Resets__:The Widsith\n__Second BiS__: Skyward Atlas\n__Has a shield__: Memory of Dust\n__Stat Stick__: Solar Pearl, Kagura's Verity, Blackcliff Agate\n"
         },
         {
             "inline": "false",
@@ -34,12 +34,12 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK% or Elemental Mastery |<goblet>  Hydro DMG Bonus |<circlet>  CRIT Rate / CRIT DMG "
+            "value": "<sands> ATK% or Elemental Mastery |<goblet>  Hydro DMG Bonus |<circlet>  CRIT DMG "
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT DMG|CRIT Rate|Elemental Mastery|ATK%|Energy Recharge"
+            "value": "CRIT DMG|Elemental Mastery|ATK%|Energy Recharge"
         },
         {
             "inline": "false",
@@ -49,7 +49,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "\nWhen working as a Burst-DPS (depending on the amount of Energy Recharge Mona has) the Emblem of Severed Fate set will be generally more suitable, being synergetic with her ascension passive which Increases Mona\u2019s Hydro DMG% by 20% of Mona\u2019s total Energy Recharge. The Widsith, especially at higher refinements, will have higher general damage than most  5-star catalysts, at the expense of your time. The downtime on this catalyst\u2019s buffs can be ignored in the Elemental Burst focused playstyle. Elemental Mastery sands should only be used when she is able to consistently Vaporize her Elemental Burst or other attacks. "
+            "value": "When working as a Burst-DPS (depending on the amount of Energy Recharge Mona has) the Emblem of Severed Fate set will be generally more suitable, being synergetic with her ascension passive which Increases Mona\u2019s Hydro DMG% by 20% of Mona\u2019s total Energy Recharge. The Widsith, especially at higher refinements, will have higher general damage than most  5-star catalysts, at the expense of your time. The downtime on this catalyst\u2019s buffs can be ignored in the Elemental Burst focused playstyle. Elemental Mastery sands should only be used when she is able to consistently Vaporize her Elemental Burst or other attacks. \n\n**__Disclaimer__:**\nThis is only useful for getting 1 big damage number, and cannot be used for sustained damage over multiple rotations."
         }
     ],
     "color": 3245055,
