@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Mona"
+        "text": "Character Guide \u2022 Synergy: Mona | Update Date: 10/04/2022 | Editor: Ultimate Noob#2955"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/nlEKWI3.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Anemo Flex should have someone capable of grouping, Cryo Flex should be a Battery such as Diona."
+        }
+    ],
     "color": 3245055,
     "type": "rich",
-    "description": "ganyu,venti,mona,diona|ayaka,venti,mona,diona|mona,kaeya,rosaria,kazuha",
+    "description": "ganyu,anemoflex,mona,cryoflex|ayaka,anemoflex,mona,cryoflex|mona,kaeya,rosaria,kazuha",
     "title": "Mona | Team Composition and Synergy"
 }
