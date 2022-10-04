@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Mona | Update Date: 10/03/2022 | Editor: Ultimate Noob#2955"
+        "text": "Character Guide \u2022 Build: Mona | Update Date: 10/04/2022 | Editor: Ultimate Noob#2955"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/nlEKWI3.png"
@@ -34,12 +34,12 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Energy Recharge |<goblet>  Hydro DMG Bonus |<circlet>  CRIT Rate"
+            "value": "<sands> Energy Recharge |<goblet>  Hydro DMG Bonus |<circlet>  CRIT Rate/CRIT Damage"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge|CRIT Rate"
+            "value": "CRIT Rate/CRIT Damage | Energy Recharge"
         },
         {
             "inline": "false",
