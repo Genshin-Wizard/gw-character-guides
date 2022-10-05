@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "For Xiao, the Anemo slot oftentims consists of a battery such as Jean. The 2 Geo flex slots next to Noelle can be any element, not just Geo."
+            "value": "For Xiao, the Anemo slot oftentimes consists of a battery such as Jean. "
         }
     ],
     "color": 14994176,
     "type": "rich",
-    "description": "xiao,anemoflex,geotraveler,zhongli|hutao,xingqiu,geotraveler,zhongli| noelle,geotraveler,geoflex,geoflex| geotraveler,zhongli,xiangling,bennett| geotraveler,zhongli,albedo,gorou| itto,geotraveler,bennett,geoflex",
+    "description": "xiao,anemoflex,geotraveler,zhongli|hutao,xingqiu,geotraveler,zhongli| noelle,geotraveler,flex,flex| geotraveler,zhongli,xiangling,bennett| geotraveler,zhongli,albedo,gorou| itto,geotraveler,bennett,geoflex",
     "title": "Geo Traveler | Team Composition and Synergy"
 }
