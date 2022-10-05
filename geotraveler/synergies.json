@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Geo Traveler"
+        "text": "Character Guide \u2022 Synergy: Geo Traveler | Update Date: 10/05/2022 | Editor: Ultimate Noob#2955"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/B0zBZMi.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "For Xiao, the Anemo slot oftentims consists of a battery such as Jean. The 2 Geo flex slots next to Noelle can be any element, not just Geo."
+        }
+    ],
     "color": 14994176,
     "type": "rich",
-    "description": "xiao,jean,geotraveler,zhongli|hutao,xingqiu,geotraveler,zhongli|noelle,geotraveler,albedo,zhongli",
+    "description": "xiao,anemoflex,geotraveler,zhongli|hutao,xingqiu,geotraveler,zhongli| noelle,geotraveler,geoflex,geoflex| geotraveler,zhongli,xiangling,bennett| geotraveler,zhongli,albedo,gorou| itto,geotraveler,bennett,geoflex",
     "title": "Geo Traveler | Team Composition and Synergy"
 }
