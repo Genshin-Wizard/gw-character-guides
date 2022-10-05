@@ -1,4 +1,7 @@
 {
+    "footer": {
+        "text": "Character Guide \u2022 Build: Geo Traveler | Update Date: 10/04/2022 | Editor: Ultimate Noob#2955"
+    },
     "thumbnail": {
         "url": "https://i.imgur.com/B0zBZMi.png"
     },
@@ -6,48 +9,50 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Festering Desire"
+            "value": "Primordial Jade Cutter\nis a great stat stick and unconditional ATK  that scales off of Max HP"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Sacrificial Sword, Favonious Sword, Skyward Blade"
+            "value": "__Other 5 Stars Options__: Haran Geppaku Futsu, Mistsplitter Reforged, Summit Shaper\n__Best 4 Star Options (In order)__: Lion\u2019s Roar, Festering Desire, The Black Sword"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x2-archaicpetra|x2-gladiatorsfinale"
+            "value": "x2-archaicpetra|x2-noblesseoblige"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-archaicpetra"
+            "value": "x4-huskofopulentdreams"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x4-gladiatorsfinale"
+            "value": "x2-archaicpetra|x2-attack"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Energy Recharge or ATK% |<goblet>  Geo DMG Bonus or ATK% |<circlet>  ATK% or CRIT Rate"
+            "value": "<sands> Energy Recharge or ATK% |<goblet>  Geo DMG Bonus |<circlet> CRIT Rate/CRIT DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge|ATK%        "
+            "value": "CRIT Rate/CRIT DMG|ATK%|Energy Recharge"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Wake of Earth\n**2)** Elemental Skill: Starfell Sword\n**3)** Normal Attack: Foreign Rockblade\n"
+            "value": "**1)** Elemental Skill: Starfell Sword\n**2)** Elemental Burst: Wake of Earth\n**3)** Normal Attack: Foreign Rockblade\n"
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Lion's Roar will outperform many 5 Star weapons if the passive can be maintained, such as running Xiangling within the comp. If 4 piece Thundersoother or Lavawalker passive can be maintained, it is the best option."
         }
     ],
     "color": 14994176,
     "type": "rich",
-    "title": "Geo Traveler (Off-Field DPS) | Build",
-    "footer": {
-        "text": "Character Guide • Build: Geotraveler"
-    }
+    "title": "Geo Traveler (Off-Field DPS) | Build"
 }
