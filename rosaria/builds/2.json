@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Rosaria | Update Date: 10/04/2022 | Editor: Sew#2409"
+        "text": "Character Guide \u2022 Build: Rosaria | Update Date: 10/06/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/krSQcCT.png"
@@ -39,7 +39,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge| CRIT DMG | ATK% | CRIT Rate         "
+            "value": "Energy Recharge|CRIT DMG |ATK% |CRIT Rate         "
         },
         {
             "inline": "false",
