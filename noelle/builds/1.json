@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Noelle | Update Date: 09/09/2022 | Editor: Sew#2409"
+        "text": "Character Guide \u2022 Build: Noelle | Update Date: 10/06/2022 | Editor: Sew#2409"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/klBUgnZ.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Redhorn Stonethresher"
+            "value": "__Redhorn Stonethresher__ Redhorn as a weapon is tailor made for Noelle's kit. High Crit mainstat, additional DEF and DEF to Normal and Charged ATK DMG bonus make it Noelle's best weapon."
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Serpents spine, Whiteblind, Skyward Pride "
+            "value": "Serpents spine, Skyward Pride, Whiteblind"
         },
         {
             "inline": "false",
