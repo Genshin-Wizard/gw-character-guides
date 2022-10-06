@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Collei | Update Date: 09/23/2022 | Editor: hatter#6666"
+        "text": "Character Guide \u2022 Synergy: Collei | Update Date: 10/06/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Collei.png"
@@ -8,6 +8,6 @@
     "fields": [],
     "color": 6794623,
     "type": "rich",
-    "description": "collei,collei,collei,collei|collei,collei,collei,collei|collei,collei,collei,collei",
+    "description": "collei,tighnari,fischl,kazuha|collei,dendrotraveler,kuki,kokomi|collei,thoma,xingqiu,kuki|venti,thoma,collei,xingqiu|collei,kazuha,yaemiko,fischl",
     "title": "Collei | Team Composition and Synergy"
 }
