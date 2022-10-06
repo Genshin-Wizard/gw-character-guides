@@ -1,13 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Sayu | Update Date: 08/05/2022 | Editor: hatter#6666"
+        "text": "Character Guide \u2022 Synergy: Sayu | Update Date: 10/06/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/oYiMaic.png"
     },
-    "fields": [],
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "The last team is generally for overworld exploration mainly. Sayu's roll's duration can be used to take players from the start of a domain to where rewards are claimed. \nNote that Sayu's roll (Elemental Skill) __does not__ trigger things such as Yelan/Xingqiu's Elemental Bursts or Beidou's Elemental Burst."
+        }
+    ],
     "color": 5494962,
     "type": "rich",
-    "description": "sayu,xiangling,bennett,zhongli|sayu,diluc,xingqiu,zhongli",
+    "description": "sayu,xiangling,bennett,zhongli|sayu,fischl,albedo,kaeya|yaemiko,dendrotraveler,fischl,sayu|ayaka,mona,kazuha,sayu|yoimiya,yelan,yunjin,sayu|xiao,sayu,albedo,zhongli|kazuha,sayu,yelan,yaemiko",
     "title": "Sayu | Team Composition and Synergy"
 }
