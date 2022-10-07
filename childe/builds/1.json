@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Childe"
+        "text": "Character Guide \u2022 Build: Childe | Update Date: 10/07/2022 | Editor: ~Z~#0009"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/SLuf0m3.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Polar Star"
+            "value": "__Polar Star__\nBest overall for a main DPS build as the effect is easy to keep up with Childe on the field.\n\n__Aqua Simulacra__ \nBest overall for a burst DPS build as you don't need to fulfill any conditions to keep the effect active"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Aqua Simulacra, Thundering Pulse, Skyward Harp, Viridescent Hunt, Stringless, Mouun's moon, Prototype Crescent"
+            "value": "__Thundering Pulse, Skyward Harp__ \nThese weapons are comparable to Polar Star and Aqua to the point that using any of them is valid instead of pulling for 1 specifically.\n\n__Viridescent Hunt__\nBest 4 star option and easy to get with battle pass. Effect helps grouping and the main stat helps your Crit Rate needs.\n\n__Blackcliff, Mouun's Moon, Prototype Crescent, Rust, Stringless__\nAlternative F2P options depending on what you have available. Dmg is comparable between these. "
         },
         {
             "inline": "false",
@@ -49,7 +49,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Childe's Talents:\nBurst and Skill contribute roughly the same amount of damage in the rotation, so both should be levelled equally, NAs is the last priority but shouldn't be neglected since he CAs in Downtime as well\n\nChilde's Artifacts:\nMost 4HoD and variations of 2p2p of Hod and any other set such as WT, NO, ATK%, so go with what makes you get better subs. "
+            "value": "Childe's Talents:\nBurst and Skill contribute roughly the same amount of damage in the main DPS rotation, so both should be levelled equally. If built as a Burst DPS then obviously Burst should be the primary talent. If you plan to use Childe on-field during his downtime you will also want to level his Normals to help his Charged Shot dmg. \n\nChilde's Artifacts:\nYou can use 4 piece Heart of Depth, 2 piece HoD with Atk% or Noblesse, or 4 piece Shimenawa's as they are roughly the same dmg output although Shimenawa will have a higher ER requirement to comfortably cycle. "
         }
     ],
     "color": 3245055,
