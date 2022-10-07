@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Dendro Traveler | Update Date: 09/05/2022 | Editor: Pile6Zero#6228"
+        "text": "Character Guide \u2022 Build: Dendro Traveler | Update Date: 10/06/2022 | Editor: Pile6Zero#6228"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/B0zBZMi.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Favonius Sword"
+            "value": "__Favonius Sword, Sacrificial Sword:__\nTraveler is a capable off field Dendro applier, however Traveler generates little energy for themselves, therefore weapons with an Energy Recharge substat is ideal to ensure that Traveler is capable of maintaining uptime on their Elemental Burst. Favonius Sword has the added benefit of being able to restore energy for the entire team"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Sacrificial Sword, Primordial Jade Cutter, Freedom Sworn, Iron Sting"
+            "value": "__Freedom Sworn, Iron Sting:__\nThis weapon enhances Traveler's damage if used in a Spread team. Freedom Sworn has the added benefit of being able to buff the entire team as well. "
         },
         {
             "inline": "false",
