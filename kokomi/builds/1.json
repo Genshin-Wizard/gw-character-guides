@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Kokomi"
+        "text": "Character Guide \u2022 Build: Sangonomiya Kokomi | Update Date: 10/06/2022 | Editor: Pile6Zero#6228"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/Rd4Ubga.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Thrilling Tales of Dragon Slayers"
+            "value": "__Thrilling Tales of Dragon Slayers:__\nIn most teams Kokomi functions as a healer and an off field hydro applier, Thrilling Tales of Dragon slayers having a HP% substat as well as a massive atk% buff for a team member makes it the ideal weapon of choice for Kokomi as a support. Additionally it's HP% substat allows her to still deal competent damage if the team requires it"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Prototype Amber, Hakushin Ring, Oathsworn Eye, Everlasting Moonglow"
+            "value": "__Hakushin Ring:__\nThe Energy Recharge substat helps with Kokomi's energy requirements allowing you to easily maintain 100% uptime on her elemental skill. Additionally its passive buffs multiple teammates at once, making it an especially powerful option for taser teams.\n__Prototype Amber, Everlasting Moonglow:__\nShould you find yourself playing a team that requires Kokomi to contribute significantly to team damage then these weapons may be useful. Everlasting Moonglow being her signature weapon has a HP% substat, as well as a passive that helps with her on field damage and energy needs. Prototype Amber does the same but to a much smaller extent due to it's lower stats as a 4* weapon"
         },
         {
             "inline": "false",
