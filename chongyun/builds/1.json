@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Chongyun | Update Date: 08/23/2022 | Editor: Samantha#9907"
+        "text": "Character Guide \u2022 Build: Chongyun | Update Date: 10/07/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/FA8SPoN.png"
@@ -14,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "The Unforged, Skyward Pride, Serpent Spine, Lithic Blade, Akuoumaru"
+            "value": "The Unforged, Skyward Pride, Serpent Spine, Lithic Blade, Akuoumaru, Sacrificial Greatsword"
         },
         {
             "inline": "false",
@@ -49,7 +49,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Emblem of Severed Fate provides the highest personal damage by a very small margin over 4-piece Noblesse Oblige, and if not hyper-invested, loses out in general team DPS. Lavawalker is niche and generally resin-inefficent, but will perform somewhere between 4-piece Noblesse Oblige and Emblem of Severed Fate. (Only in teams where he has Pyro aura to Melt off.)"
+            "value": "Emblem of Severed Fate provides the highest personal damage by a very small margin over 4-piece Noblesse Oblige, and if not hyper-invested, loses out in general team DPS. If paired with Sacrificial Greatsword, he risks having too much Energy Recharge for his 40 Energy Elemental Burst.\n\nLavawalker is niche and generally resin-inefficent, but will perform somewhere between 4-piece Noblesse Oblige and Emblem of Severed Fate. (Only in teams where he has Pyro aura to Melt off.)"
         }
     ],
     "color": 10147839,
