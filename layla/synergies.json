@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Layla"
+        "text": "Character Guide \u2022 Synergy: Layla | Update Date: 10/12/2022 | Editor: hatter#6666"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Layla.png"
     },
+    "fields": [],
     "color": 10147839,
     "type": "rich",
-    "description": "Unknown",
+    "description": "layla,layla,layla,layla",
     "title": "Layla | Team Composition and Synergy"
 }
