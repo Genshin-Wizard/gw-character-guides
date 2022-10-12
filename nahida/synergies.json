@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Nahida"
+        "text": "Character Guide \u2022 Synergy: Nahida | Update Date: 10/12/2022 | Editor: hatter#6666"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Nahida.png"
     },
+    "fields": [],
     "color": 6794623,
     "type": "rich",
-    "description": "Unknown",
+    "description": "nahida,nahida,nahida,nahida",
     "title": "Nahida | Team Composition and Synergy"
 }
