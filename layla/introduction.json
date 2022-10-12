@@ -1,0 +1,47 @@
+{
+    "footer": {
+        "text": "Character Guide \u2022 Introduction: Layla"
+    },
+    "image": {
+        "url": "https://i.imgur.com/uzxtSoN.png"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Layla.png"
+    },
+    "fields": [
+        {
+            "inline": true,
+            "name": "Nation",
+            "value": "Unknown"
+        },
+        {
+            "inline": true,
+            "name": "Affiliation",
+            "value": "Unknown"
+        },
+        {
+            "inline": true,
+            "name": "Element Type",
+            "value": "Cryo <:Cryo:951729013674623017>"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "Unknown"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Unknown"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "Unknown"
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "description": "Unknown",
+    "title": "Layla | Introduction"
+}

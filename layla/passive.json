@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide \u2022 Passive Talents: Layla"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Layla.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "First Passive",
+            "value": "*Unlocked at Ascension 1*\n> Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Second Passive",
+            "value": "*Unlocked at Ascension 4*\n> Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Third Passive",
+            "value": "*Unlocked Automatically*\n> Unknown"
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "title": "Layla | Passive Talents"
+}

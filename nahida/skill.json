@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide \u2022 Skill Talents: Nahida"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Nahida.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Normal Attack Name",
+            "value": "*Normal Attack*\n"
+        },
+        {
+            "inline": false,
+            "name": "Elemental Skill Name",
+            "value": "*Elemental Skill*\n"
+        },
+        {
+            "inline": false,
+            "name": "Elemental Burst Name",
+            "value": "*Elemental Burst*\n"
+        }
+    ],
+    "color": 6794623,
+    "type": "rich",
+    "title": "Nahida | Skill Talents"
+}

@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide \u2022 Passive Talents: Nahida"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Nahida.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "First Passive",
+            "value": "*Unlocked at Ascension 1*\n> Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Second Passive",
+            "value": "*Unlocked at Ascension 4*\n> Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Third Passive",
+            "value": "*Unlocked Automatically*\n> Unknown"
+        }
+    ],
+    "color": 6794623,
+    "type": "rich",
+    "title": "Nahida | Passive Talents"
+}
