@@ -8,33 +8,33 @@
     "fields": [
         {
             "inline": false,
-            "name": "Constellation 1 Name (C1)",
-            "value": "Unknown"
+            "name": "The Seed of Stored Knowledge (C1)",
+            "value": "When the Shrine of Maya is unleashed and the Elemental Types of the party members are being tabulated, the count will add 1 to the number of Pyro, Electro, and Hydro characters respectively."
         },
         {
             "inline": false,
-            "name": "Constellation 2 Name (C2)",
-            "value": "Unknown"
+            "name": "The Root of All Fullness (C2)",
+            "value": "Opponents that are marked by Seeds of Skandha applied by Nahida herself will be affected by the following effects:\n·Burning, Bloom, Hyperbloom, and Burgeon Reaction DMG can score CRIT Hits. CRIT Rate and CRIT DMG are fixed at 20% and 100% respectively.\n·Within 8s of being affected by Quicken, Aggravate, Spread, DEF is decreased by 30%."
         },
         {
             "inline": false,
-            "name": "Constellation 3 Name (C3)",
-            "value": "Unknown"
+            "name": "The Shoot of Conscious Attainment (C3)",
+            "value": "Increases the Level of All Schemes to Know by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Constellation 4 Name (C4)",
-            "value": "Unknown"
+            "name": "The Stem of Manifest Inference (C4)",
+            "value": "When 1/2/3/(4 or more) nearby opponents are affected by All Schemes to Know's Seeds of Skandha, Nahida's Elemental Mastery will be increased by 100/120/140/160."
         },
         {
             "inline": false,
-            "name": "Constellation 5 Name (C5)",
-            "value": "Unknown"
+            "name": "The Leaves of Enlightening Speech (C5)",
+            "value": "Increases the Level of Illusory Heart by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Constellation 6 Name (C6)",
-            "value": "Unknown"
+            "name": "The Fruit of Reason's Culmination (C6)",
+            "value": "When Nahida hits an opponent affected by All Schemes to Know's Seeds of Skandha with Normal or Charged Attacks after unleashing Illusory Heart, she will use Tri-Karma Purification: Karmic Oblivion on this opponent and all connected opponents, dealing Dendro DMG based on 200% of Nahida's ATK and 400% of her Elemental Mastery.\nDMG dealt by Tri-Karma Purification: Karmic Oblivion is considered Elemental Skill DMG and can be triggered once every 0.2s.\nThis effect can last up to 10s and will be removed after Nahida has unleashed 6 instances of Tri-Karma Purification: Karmic Oblivion."
         }
     ],
     "color": 6794623,
