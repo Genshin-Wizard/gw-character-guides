@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "First Passive",
-            "value": "*Unlocked at Ascension 1*\n> Unknown"
+            "name": "Like Nascent Light",
+            "value": "*Unlocked at Ascension 1*\n> While the Curtain of Slumber is active, the Deep Sleep effect will activate each time the Curtain gains 1 Night Star: \n·The Shield Strength of a character under the effect of the Curtain of Slumber increases by 6%. \n·This effect can have a maximum of 4 stacks and persists until the Curtain of Slumber disappears."
         },
         {
             "inline": false,
-            "name": "Second Passive",
-            "value": "*Unlocked at Ascension 4*\n> Unknown"
+            "name": "Sweet Slumber Undisturbed",
+            "value": "*Unlocked at Ascension 4*\n> The DMG dealt by the Shooting Stars fired by Nights of Formal Focus is increased by 1.5% of Layla's Max HP."
         },
         {
             "inline": false,
-            "name": "Third Passive",
-            "value": "*Unlocked Automatically*\n> Unknown"
+            "name": "Shadowy Dream-Signs",
+            "value": "*Unlocked Automatically*\n> When Layla crafts Character Talent Materials, she has a 10% chance to receive double the product."
         }
     ],
     "color": 10147839,
