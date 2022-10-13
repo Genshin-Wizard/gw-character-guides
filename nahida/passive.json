@@ -9,17 +9,17 @@
         {
             "inline": false,
             "name": "First Passive",
-            "value": "*Unlocked at Ascension 1*\n> Unknown"
+            "value": "*Unlocked at Ascension 1*\n> When unleashing Illusory Heart, the Shrine of Maya will gain the following effects: The Elemental Mastery of the active character within the field will be increased by 25% of the Elemental Mastery of the party member with the highest Elemental Mastery. You can gain a maximum of 250 Elemental Mastery in this manner."
         },
         {
             "inline": false,
             "name": "Second Passive",
-            "value": "*Unlocked at Ascension 4*\n> Unknown"
+            "value": "*Unlocked at Ascension 4*\n> Each point of Nahida's Elemental Mastery beyond 200 will grant 0.1% Bonus DMG and 0.03% CRIT Rate to Tri-Karma Purification from All Schemes to Know. A maximum of 80% Bonus DMG and 24% CRIT Rate can be granted to Tri-Karma Purification in this manner."
         },
         {
             "inline": false,
             "name": "Third Passive",
-            "value": "*Unlocked Automatically*\n> Unknown"
+            "value": "*Unlocked Automatically*\n> Nahida can use All Schemes to Know to interact with some harvestable items within a fixed AoE. This skill may even have some other effects..."
         }
     ],
     "color": 6794623,
