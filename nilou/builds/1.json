@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Nilou | Update Date: 08/25/2022 | Editor: Samantha#9907"
+        "text": "Character Guide \u2022 Build: Nilou | Update Date: 10/14/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/KxMQIkX.png"
@@ -14,22 +14,22 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Primordial Jade Cutter, Sapwood Blade"
+            "value": "Primordial Jade Cutter, Sapwood Blade, Sacrificial Sword, Iron Sting"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x2-tenacityofthemillelith|x2-heartofdepth"
+            "value": "x2-tenacityofthemillelith|x2-emblemofseveredfate"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-heartofdepth"
+            "value": "x2-tenacityofthemillelith|x2-wandererstroupe"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x2-heartofdepth|x2-noblesseoblige"
+            "value": "x2-tenacityofthemillelith|x2-noblesseoblige"
         },
         {
             "inline": "true",
