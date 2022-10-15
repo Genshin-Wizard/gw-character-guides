@@ -1,13 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Nilou | Update Date: 08/24/2022 | Editor: hatter#6666"
+        "text": "Character Guide \u2022 Synergy: Nilou | Update Date: 10/14/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/KxMQIkX.png"
     },
-    "fields": [],
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Due to her Passives and the nature of her kit it is highly recommended to play her with only Hydro and Dendro teammates. \nThere are currently a limited number of Dendro characters at this time, so expect updates as more characters are released! "
+        }
+    ],
     "color": 3245055,
     "type": "rich",
-    "description": "nilou,nilou,nilou,nilou",
+    "description": "nilou,dendrotraveler,collei,barbara|nilou,hydroflex,dendrotraveler,collei",
     "title": "Nilou | Team Composition and Synergy"
 }
