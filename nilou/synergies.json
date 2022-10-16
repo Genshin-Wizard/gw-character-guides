@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Nilou | Update Date: 10/14/2022 | Editor: Samantha#9907"
+        "text": "Character Guide \u2022 Synergy: Nilou | Update Date: 10/15/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/KxMQIkX.png"
@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Due to her Passives and the nature of her kit it is highly recommended to play her with only Hydro and Dendro teammates. \nThere are currently a limited number of Dendro characters at this time, so expect updates as more characters are released! "
+            "value": "Due to her Passives and the nature of her kit it is highly recommended to play her **with only Hydro and Dendro** teammates. \nHowever, the Xiangling team can work while ignoring her Passives. \n\nThe general team will be\n*Nilou + Dendro applicator + Healer + Dendro/Hydro flex*. Ayato, Yelan, Xingqiu, Barbara and Kokomi are recommended, but do note Yelan's Damage increase does **not** apply for Bloom, same with Mona's Omen. \nThe Dendro character has to be Dendro Traveler or Collei, with Dendro Traveler being slightly better in her teams, and both being free. \nA healer is almost always needed due to Bloom damaging the active character.\n"
         }
     ],
     "color": 3245055,
     "type": "rich",
-    "description": "nilou,dendrotraveler,collei,barbara|nilou,kokomi,dendrotraveler,collei",
+    "description": "nilou,dendrotraveler,collei,barbara|nilou,kokomi,dendrotraveler,collei|nilou,dendrotraveler,barbara,ayato|nilou,dendrotraveler,kokomi,yelan|nilou,xiangling,bennett,kazuha",
     "title": "Nilou | Team Composition and Synergy"
 }
