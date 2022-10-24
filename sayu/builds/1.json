@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Sayu"
+        "text": "Character Guide \u2022 Build: Sayu | Update Date: 10/24/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/oYiMaic.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Skyward Pride"
+            "value": "Favonius Greatsword"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Skyward Spine, Favonius Greatsword, Wolf's Gravestone,Sacrificial Greatsword"
+            "value": "Wolf's Gravestone, Skyward Pride, Sacrificial Greatsword, Katsuragikiri Nagamasa, Luxurious Sea-Lord, Rainslasher, Bloodtainted Greatsword"
         },
         {
             "inline": "false",
@@ -24,7 +24,7 @@
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x2-viridescentvenerer|x2-wandererstroupe"
+            "value": "x4-oceanhuedclam"
         },
         {
             "inline": "false",
@@ -34,7 +34,7 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Elemental Mastery or ATK% or Energy Recharge |<goblet>  Elemental Mastery or ATK% |<circlet>  Elemental Mastery or ATK% or Healing Bonus"
+            "value": "<sands> Elemental Mastery|<goblet>  Elemental Mastery|<circlet>  Elemental Mastery or Healing Bonus"
         },
         {
             "inline": "true",
@@ -44,7 +44,12 @@
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Yoohoo Art - Mujina Flurry\n**2)** Elemental Skill: Yoohoo Art - Fuuin Dash\n**3)** Normal Attack: Shuumastuban Ninja Blade\n"
+            "value": "**1)** Elemental Burst: Yoohoo Art - Mujina Flurry\n**2)** Elemental Skill: Yoohoo Art - Fuuin Dash\nNormal Attack and Skill level does not increase the amount of healing Sayu does."
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "__Dendro Support Sayu__\n4-set of Deepwood Memories and Forest Regalia work in addition to options stated above. \n\nTry keep a balance between Sayu's Attack and Elemental Mastery while keeping Energy Recharge decently high. After C6, it becomes ideal to focus on Elemental Mastery only. If you run an ATK% weapon like the Luxurious Sea-Lord or Energy Recharge weapon like Favonius Greatsword, it is recommended to run an Elemental Mastery focused set and vise versa."
         }
     ],
     "color": 5494962,
