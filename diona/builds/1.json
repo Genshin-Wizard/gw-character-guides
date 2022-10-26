@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Diona"
+        "text": "Character Guide \u2022 Build: Diona | Update Date: 10/26/2022 | Editor: Ultimate Noob#2955"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/HtKFztj.png"
@@ -14,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "Elegy for the End"
+            "value": "__Elegy for the End__ - Hard to maintain uptime\n__Recurve Bow__ - Marginal increase while  creating hard to meet ER requirements "
         },
         {
             "inline": "false",
