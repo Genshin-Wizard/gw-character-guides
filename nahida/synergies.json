@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Bloom"
+            "value": "Nahida Main"
         }
     ],
     "color": 6794623,
     "type": "rich",
-    "description": "nahida,nilou,mona,barbara",
+    "description": "nahida,nilou,mona,barbara|nahida,raiden,collei,kuki|nahida,bennett,yoimiya,tighnari",
     "title": "Nahida | Team Composition and Synergy"
 }
