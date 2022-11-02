@@ -12,12 +12,12 @@
         {
             "inline": true,
             "name": "Nation",
-            "value": "Unknown"
+            "value": "Sumeru"
         },
         {
             "inline": true,
             "name": "Affiliation",
-            "value": "Unknown"
+            "value": "The Seven"
         },
         {
             "inline": true,
@@ -27,21 +27,21 @@
         {
             "inline": true,
             "name": "Rarity",
-            "value": "Unknown"
+            "value": "★★★★★"
         },
         {
             "inline": true,
             "name": "Constellation",
-            "value": "Unknown"
+            "value": "Sapientia Oromasdis"
         },
         {
             "inline": true,
             "name": "Weapon",
-            "value": "Unknown"
+            "value": "Catalyst"
         }
     ],
     "color": 6794623,
     "type": "rich",
-    "description": "Unknown",
+    "description": "One might say she pays too much attention or dotes on people too much... But while her actions can be flawed, I believe her sense of responsibility as Sumeru's deity to be a commendable thing. Ah, that the youngest of gods should be thus, while a certain other person, by contrast, should be so prone to hysterics...",
     "title": "Nahida | Introduction"
 }
