@@ -1,13 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Nahida | Update Date: 10/12/2022 | Editor: hatter#6666"
+        "text": "Character Guide \u2022 Synergy: Nahida | Update Date: 11/02/2022 | Editor: shiroshisan#1020"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Nahida.png"
     },
-    "fields": [],
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Bloom"
+        }
+    ],
     "color": 6794623,
     "type": "rich",
-    "description": "nahida,nahida,nahida,nahida",
+    "description": "nahida,nilou,mona,barbara",
     "title": "Nahida | Team Composition and Synergy"
 }
