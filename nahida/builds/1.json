@@ -1,50 +1,25 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Nahida"
+        "text": "Character Guide \u2022 Build: Nahida | Update Date: 11/02/2022 | Editor: shiroshisan#1020"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Nahida.png"
     },
     "fields": [
         {
-            "inline": true,
-            "name": "Best Weapon(s)",
-            "value": "Unknown"
-        },
-        {
-            "inline": true,
-            "name": "Replacement Weapon(s)",
-            "value": "Unknown"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set",
-            "value": "Unknown"
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set",
-            "value": "Unknown"
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set",
-            "value": "Unknown"
-        },
-        {
-            "inline": true,
+            "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+            "value": "<sands> Elemental Mastery|<goblet> Elemental Mastery|<circlet> Elemental Mastery"
         },
         {
-            "inline": true,
+            "inline": "true",
             "name": "Substats Priority",
-            "value": "Unknown|Unknown|Unknown"
+            "value": "Energy Recharge|CRIT Rate|CRIT DMG"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+            "value": "**1)** Normal Attack: Akara\n**2)** Elemental Skill: All Schemes to Know\n**3)** Elemental Burst: Illusory Heart"
         }
     ],
     "color": 6794623,
