@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Nahida | Update Date: 11/04/2022 | Editor: Ultimate Noob#2955"
+        "text": "Character Guide \u2022 Synergy: Nahida | Update Date: 11/05/2022 | Editor: Ultimate Noob#2955"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Nahida.png"
@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Nahida Main"
+            "value": "Nahida"
         }
     ],
     "color": 6794623,
     "type": "rich",
-    "description": "nahida,nilou,hydroflex,kokomi|nahida,raiden,collei,kuki|nahida,bennett,yoimiya,tighnari|nahida,raiden,hydroflex,flex|nahida,razor,bennett,xingqiu|hutao,xingqiu,yelan,nahida",
+    "description": "nahida,nilou,hydroflex,kokomi|nahida,raiden,collei,kuki|nahida,bennett,yoimiya,tighnari|nahida,raiden,hydroflex,flex|nahida,razor,bennett,xingqiu|hutao,xingqiu,yelan,nahida|thoma,nahida,hydroflex,flex",
     "title": "Nahida | Team Composition and Synergy"
 }
