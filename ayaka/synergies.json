@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Kamisato Ayaka | Update Date: 10/14/2022 | Editor: Chr\u04e8ma#3489"
+        "text": "Character Guide \u2022 Synergy: Kamisato Ayaka | Update Date: 11/07/2022 | Editor: Effab1e#2963"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/7hJAGtk.png"
@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "__Hydro unit:__\nKokomi offers heals and more offensive 2nd Cryo\nMona offers buffing but no survivability and wants ~240 ER\nXingqiu/Yelan are good options but single target focused\nBarbara can be used in a pinch\n\nRotations and more info in full guide linked below."
+            "value": "Ayaka is usually used in __Freeze teams__ with the other units being replaceable within their elements. Mono Cryo and other teams like Melt are also options.\n__**Hydro unit comparison:**__\n__Kokomi__ offers heals and more offensive 2nd Cryo units.\n__Mona__ offers buffing but no survivability and wants ~240 ER.\n__Xingqiu/Yelan__ are good options but lack AOE hydro application.\n__Barbara__ can be used as a free to play option.\n\nRotations and more info in full guide linked below."
         }
     ],
     "color": 10147839,
     "type": "rich",
-    "description": "ayaka,kazuha,kokomi,shenhe|ayaka,kazuha,shenhe,diona|ayaka,venti,kokomi,rosaria",
+    "description": "ayaka,anemoflex,hydroflex,cryoflex|ayaka,cryoflex,anemoflex,flex|ayaka,kazuha,kokomi,shenhe|ayaka,shenhe,kazuha,diona|ayaka,venti,mona,ganyu|ayaka,shenhe,jean,rosaria|ayaka,venti,mona,diona|ayaka,rosaria,venti,ganyu|ayaka,sucrose,barbara,kaeya|ayaka,shenhe,kazuha,bennett",
     "title": "Kamisato Ayaka | Team Composition and Synergy"
 }
