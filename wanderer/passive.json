@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "First Passive",
-            "value": "*Unlocked at Ascension 1*\n> Unknown"
+            "name": "Jade-Claimed Flower",
+            "value": "*Unlocked at Ascension 1*\n> If Hanega: Song of the Wind comes into contact with Hydro/Pyro/Cryo/Electro, this instance of the Windfavored state will obtain buffs according to the contacted element(s): \n>·Hydro: Sky-Dweller Point cap increases by 20. \n>·Pyro: ATK increases by 30%. \n>·Cryo: CRIT Rate increases by 20%. \n>·Electro: When Normal and Charged Attacks hit an opponent, 0.8 Energy will be restored. Energy can be restored this way once every 0.2s. \nYou can have up to 2 different kinds of these buffs simultaneously."
         },
         {
             "inline": false,
-            "name": "Second Passive",
-            "value": "*Unlocked at Ascension 4*\n> Unknown"
+            "name": "Gales of Reverie",
+            "value": "*Unlocked at Ascension 4*\n> When The Wanderer hits opponents with Normal and Charged Attacks in his Windfavored state, he has a 16% chance to obtain the Descent effect: The next time The Wanderer sprints while in this instance of the Windfavored state, this effect will be removed, this sprint instance will not consume any Sky-Dweller Points, and he will fire off 4 wind arrows that deal 35% of his ATK as Anemo DMG each. \nFor each Normal and Charged Attack that does not produce this effect, the next attack of those kinds will have a 12% increased chance of producing it. The calculation of the effect production is done once every 0.1s."
         },
         {
             "inline": false,
-            "name": "Third Passive",
-            "value": "*Unlocked Automatically*\n> Unknown"
+            "name": "Strum the Swirling Winds",
+            "value": "*Unlocked Automatically*\n> Mora expended when ascending Bows and Catalysts is decreased by 50%."
         }
     ],
     "color": 5494962,
