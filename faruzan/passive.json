@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "First Passive",
-            "value": "*Unlocked at Ascension 1*\n> Unknown"
+            "name": "Impetuous Flow",
+            "value": "*Unlocked at Ascension 1*\n> When Faruzan is in the Manifest Gale state created by Wind Realm of Nasamjnin, the amount of time taken to charge a shot is decreased by 60%, and she can apply The Wind's Secret Ways' Perfidious Wind's Ruin to opponents who are hit by the vortex created by Pressurized Collapse."
         },
         {
             "inline": false,
-            "name": "Second Passive",
-            "value": "*Unlocked at Ascension 4*\n> Unknown"
+            "name": "Lost Wisdom of the Seven Caverns",
+            "value": "*Unlocked at Ascension 4*\n> When characters affected by The Wind's Secret Ways' Prayerful Wind's Gift deal Anemo DMG to opponents, this DMG will be increased based on 45.9% of Faruzan's Base ATK. This DMG Bonus will be cleared 0.1s after dealing Anemo DMG to opponents, and can be triggered once every 0.8s."
         },
         {
             "inline": false,
-            "name": "Third Passive",
-            "value": "*Unlocked Automatically*\n> Unknown"
+            "name": "Tomes Light the Path",
+            "value": "*Unlocked Automatically*\n> Gains 25% more rewards when dispatched on a Sumeru Expedition for 20 hours."
         }
     ],
     "color": 5494962,
