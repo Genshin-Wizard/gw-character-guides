@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "Constellation 1 Name (C1)",
-            "value": "Unknown"
+            "name": "Shoban: Ostentatious Plumage (C1)",
+            "value": "When in the Windfavored state, the Wanderer's Normal and Charged Attack SPD is increased by 10%. \nAdditionally, the wind arrows fired by the Passive Talent 'Gales of Reverie' will deal an additional 25% of his ATK as DMG. You must unlock the Passive Talent 'Gales of Reverie' first."
         },
         {
             "inline": false,
-            "name": "Constellation 2 Name (C2)",
-            "value": "Unknown"
+            "name": "Niban: Moonlit Isle Amidst White Waves (C2)",
+            "value": "When in the Windfavored state, Kyougen: Five Ceremonial Plays will see its DMG increased by 4% per point of difference between the max amount of Sky-Dweller Points contrasted with Sky-Dweller's present capacity when using this skill. \nThrough this method, you can increase Kyougen: Five Ceremonial Plays's DMG by a maximum of 200%."
         },
         {
             "inline": false,
-            "name": "Constellation 3 Name (C3)",
-            "value": "Unknown"
+            "name": "Sanban: Moonflower Kusemai(C3)",
+            "value": "Increases the Level of Hanega: Song of the Wind by 3. \nMaximum upgrade level is 15."
         },
         {
             "inline": false,
