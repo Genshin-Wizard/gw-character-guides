@@ -19,11 +19,11 @@
         {
             "inline": "false",
             "name": "Additional Notes",
-            "value": "1) Yelan's ascension 4 passive is very useful for Eula, and since Eula has a strong interruption resistance during her burst, she can stay on Bennett's field of effect to maximize her damage."
+            "value": "1) Yelan's ascension 4 passive is very useful for Eula, and since Eula has a strong interruption resistance during her burst, she can stay on Bennett's field of effect to maximize her damage.\n\n2)Diona can replace Zhongli, her shields may be weaker but her healing makes up for it, in addion to which she is a better battery and can hold Favonius and Noblesse Oblige."
         }
     ],
     "color": 10147839,
     "type": "rich",
-    "description": "eula,electroflex,cryoflex,zhongli|eula,electroflex,cryoflex,bennett|eula,raiden,yelan,bennett",
+    "description": "eula,electroflex,cryoflex,zhongli|eula,electroflex,cryoflex,bennett|eula,raiden,yelan,bennett|eula,raiden,sara,zhongli",
     "title": "Eula | Team Composition and Synergy"
 }
