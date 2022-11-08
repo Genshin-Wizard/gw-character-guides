@@ -23,18 +23,18 @@
         },
         {
             "inline": false,
-            "name": "Constellation 4 Name (C4)",
-            "value": "Unknown"
+            "name": "Yonban: Set Adrift into Spring (C4)",
+            "value": "When casting Hanega: Song of the Wind, should the Passive Talent 'Jade-Claimed Flower' be triggered, the character will gain enhancement effects in correspondence to the contacted Elemental Type(s), and also gain a random untriggered enhancement effect. \nYou need to unlock the Passive Talent 'Jade-Claimed Flower'."
         },
         {
             "inline": false,
-            "name": "Constellation 5 Name (C5)",
-            "value": "Unknown"
+            "name": "Matsuban: Ancient Illuminator From Abroad (C5)",
+            "value": "Increases the Level of Kyougen: Five Ceremonial Plays by 3. \nMaximum upgrade level is 15."
         },
         {
             "inline": false,
-            "name": "Constellation 6 Name (C6)",
-            "value": "Unknown"
+            "name": "Shugen: The Curtains' Melancholic Sway (C6)",
+            "value": "When The Wanderer actively hits opponents with Normal Attacks while in the Windfavored state, the following effects will occur: \n> ·Deals an instance of 40% ATK as Anemo DMG. This DMG will be considered Normal Attack DMG. \n>·Restores 4 Sky-Dweller Points to The Wanderer. Sky-Dweller Points can be restored in this manner once every 0.2s. This restoration can occur 5 times within one Windfavored duration."
         }
     ],
     "color": 5494962,
