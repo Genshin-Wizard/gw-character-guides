@@ -8,18 +8,18 @@
     "fields": [
         {
             "inline": false,
-            "name": "Normal Attack Name",
-            "value": "*Normal Attack*\n"
+            "name": "Turnaround Shooter",
+            "value": "*Normal Attack*\n>**Normal Attack:** Performs up to 4 consecutive shots with a bow. \n>**Charged Attack:**Performs a more precise Aimed Shot with increased DMG. While aiming, mighty winds will accumulate on the arrowhead. A fully charged wind arrow will deal Anemo DMG. \n> **Plunging Attack:**Fires off a shower of arrows in mid-air before falling and striking the ground, hitting opponents along the path and dealing AoE DMG upon impact."
         },
         {
             "inline": false,
-            "name": "Elemental Skill Name",
-            "value": "*Elemental Skill*\n"
+            "name": "Wind Realm of Nasamjnin",
+            "value": "*Elemental Skill*\nFaruzan deploys a polyhedron that deals AoE Anemo DMG to nearby opponents. She will also enter the Manifest Gale state. \nWhile in the Manifest Gale state, Faruzan's next fully charged shot will consume this state and will become a Hurricane Arrow that contains high-pressure currents. This arrow deals Anemo DMG based on the DMG of a fully charged Aimed Shot from 'Normal Attack: Turnaround Shooter.' \n**Pressurized Collapse** \nThe Hurricane Arrow will apply a Pressurized Collapse effect to the opponent or character hit. This effect will be removed after a short delay, creating a vortex that deals AoE Anemo DMG and pulls nearby objects and opponents in. If the Hurricane Arrow does not hit any opponent or character, it will create a Pressurized Collapse effect at its point of impact. \nThe vortex DMG is considered Elemental Skill DMG."
         },
         {
             "inline": false,
-            "name": "Elemental Burst Name",
-            "value": "*Elemental Burst*\n"
+            "name": "The Wind's Secret Ways",
+            "value": "*Elemental Burst*\nFaruzan deploys a Dazzling Polyhedron that deals AoE Anemo DMG and releases a Whirlwind Pulse. While the Dazzling Polyhedron persists, it will continuously move along a triangular path. Once it reaches each corner of that triangular path, it will unleash 1 more Whirlwind Pulse. \n**Whirlwind Pulse*\n>·When the Whirlwind Pulse hits opponents, it will apply Perfidious Wind's Ruin to them, decreasing their Anemo RES.\n>·The Whirlwind Pulse will also apply Prayerful Wind's Gift to all nearby party members when it is unleashed, granting them Anemo DMG Bonus."
         }
     ],
     "color": 5494962,
