@@ -1,0 +1,47 @@
+{
+    "footer": {
+        "text": "Character Guide \u2022 Introduction: Faruzan"
+    },
+    "image": {
+        "url": "https://i.imgur.com/nSL3fPX.png"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Faruzan.png"
+    },
+    "fields": [
+        {
+            "inline": true,
+            "name": "Nation",
+            "value": "Unknown"
+        },
+        {
+            "inline": true,
+            "name": "Affiliation",
+            "value": "Unknown"
+        },
+        {
+            "inline": true,
+            "name": "Element Type",
+            "value": "Anemo <:Anemo:951729013859155979>"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "Unknown"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Unknown"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "Unknown"
+        }
+    ],
+    "color": 5494962,
+    "type": "rich",
+    "description": "Unknown",
+    "title": "Faruzan | Introduction"
+}

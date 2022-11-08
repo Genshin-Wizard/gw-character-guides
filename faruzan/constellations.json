@@ -1,0 +1,43 @@
+{
+    "footer": {
+        "text": "Character Guide \u2022 Constellations: Faruzan"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Faruzan.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Constellation 1 Name (C1)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Constellation 2 Name (C2)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Constellation 3 Name (C3)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Constellation 4 Name (C4)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Constellation 5 Name (C5)",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Constellation 6 Name (C6)",
+            "value": "Unknown"
+        }
+    ],
+    "color": 5494962,
+    "type": "rich",
+    "title": "Faruzan | Constellations"
+}

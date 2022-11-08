@@ -1,0 +1,28 @@
+{
+    "footer": {
+        "text": "Character Guide \u2022 Skill Talents: Faruzan"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Faruzan.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Normal Attack Name",
+            "value": "*Normal Attack*\n"
+        },
+        {
+            "inline": false,
+            "name": "Elemental Skill Name",
+            "value": "*Elemental Skill*\n"
+        },
+        {
+            "inline": false,
+            "name": "Elemental Burst Name",
+            "value": "*Elemental Burst*\n"
+        }
+    ],
+    "color": 5494962,
+    "type": "rich",
+    "title": "Faruzan | Skill Talents"
+}
