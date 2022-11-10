@@ -1,50 +1,25 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Wanderer"
+        "text": "Character Guide \u2022 Build: Wanderer | Update Date: 11/10/2022 | Editor: Ultimate Noob#2955"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Wanderer.png"
     },
     "fields": [
         {
-            "inline": true,
-            "name": "Best Weapon(s)",
-            "value": "Unknown"
-        },
-        {
-            "inline": true,
-            "name": "Replacement Weapon(s)",
-            "value": "Unknown"
-        },
-        {
-            "inline": false,
-            "name": "Best Artifact Set",
-            "value": "Unknown"
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set",
-            "value": "Unknown"
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set",
-            "value": "Unknown"
-        },
-        {
-            "inline": true,
+            "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+            "value": "<sands> ATK%|<goblet> Anemo DMG Bonus|<circlet> CRIT DMG/Rate"
         },
         {
-            "inline": true,
+            "inline": "true",
             "name": "Substats Priority",
-            "value": "Unknown|Unknown|Unknown"
+            "value": "Energy Recharge|CRIT DMG/Rate|ATK%"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+            "value": "**1)** Normal Attack: Yuuban Meigen\n**2)** Elemental Skill: Song of the Wind\n**3)** Elemental Burst:  Five Ceremonial Plays"
         }
     ],
     "color": 5494962,
