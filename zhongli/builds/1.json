@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Zhongli | Update Date: 08/05/2022 | Editor: Luno#1337"
+        "text": "Character Guide \u2022 Build: Zhongli | Update Date: 11/10/2022 | Editor: ~Z~#0009"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/fqg3O0z.png"
@@ -34,7 +34,7 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> HP % |<goblet>  HP % |<circlet>  HP %"
+            "value": "<sands> HP% |<goblet>  HP% |<circlet>  HP%"
         },
         {
             "inline": "true",
