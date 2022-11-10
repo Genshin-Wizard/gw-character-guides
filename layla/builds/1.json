@@ -1,50 +1,50 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Layla"
+        "text": "Character Guide \u2022 Build: Layla | Update Date: 11/10/2022 | Editor: ~Z~#0009"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Layla.png"
     },
     "fields": [
         {
-            "inline": true,
-            "name": "Best Weapon(s)",
-            "value": "Unknown"
+            "inline": "true",
+            "name": "Best Weapon(s):",
+            "value": "__Key of Khaj-Nisut__\nBest support option for Layla as it significantly improves her shield with its HP main stat and supports the team via Mastery buffs.\n\n__Primordial Jade Cutter__\nGreat weapon for Layla assuming you're building into her Dmg. Can easily take care of Layla's crit needs by itself while also giving her a bit more HP."
         },
         {
-            "inline": true,
-            "name": "Replacement Weapon(s)",
-            "value": "Unknown"
+            "inline": "true",
+            "name": "Replacement Weapon:",
+            "value": "__Festering Desire__\nHelps her recharge her Burst and increases the dmg dealing potential of her Skill.\n\n__Harbinger of Dawn__\nBudget choice but offers solid help to Layla since her Dmg all scales off HP meaning the low Atk will not matter at all. "
         },
         {
-            "inline": false,
-            "name": "Best Artifact Set",
-            "value": "Unknown"
+            "inline": "false",
+            "name": "Best Artifact Set:",
+            "value": "x4-tenacityofthemillelith"
         },
         {
-            "inline": false,
-            "name": "Second Best Artifact Set",
-            "value": "Unknown"
+            "inline": "false",
+            "name": "Second Best Artifact Set:",
+            "value": "x2-tenacityofthemillelith|x2-blizzardstrayer"
         },
         {
-            "inline": false,
-            "name": "Third Best Artifact Set",
-            "value": "Unknown"
+            "inline": "false",
+            "name": "Third Best Artifact Set:",
+            "value": "x4-noblesseoblige"
         },
         {
-            "inline": true,
+            "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+            "value": "<sands> HP% |<goblet>  HP% / Cryo DMG% |<circlet>  HP% / Crit Rate% / Crit DMG%"
         },
         {
-            "inline": true,
+            "inline": "true",
             "name": "Substats Priority",
-            "value": "Unknown|Unknown|Unknown"
+            "value": "HP% | Energy Recharge | Crit DMG% | Crit Rate%"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+            "value": "**1)** Elemental Skill: Nights of Formal Focus\n**2)** Elemental Burst: Dream of the Star-Stream Shaker\n**3)** Normal Attack: Sword of the Radiant Path \n"
         }
     ],
     "color": 10147839,
