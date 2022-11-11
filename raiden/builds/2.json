@@ -1,1 +1,48 @@
-{"footer": {"text": "Character Guide \u2022 Build: Raiden Shogun | Update Date: 08/21/2022 | Editor: ~Z~#0009"}, "thumbnail": {"url": "https://i.imgur.com/4NdsZHk.png"}, "fields": [{"inline": "true", "name": "Best Weapon(s):", "value": "..."}, {"inline": "true", "name": "Replacement Weapon:", "value": "..."}, {"inline": "false", "name": "Best Artifact Set:", "value": "..."}, {"inline": "true", "name": "Main Stats Priority", "value": "..."}, {"inline": "true", "name": "Substats Priority", "value": "..."}, {"inline": "false", "name": "Talent Priority", "value": "..."}], "color": 11104511, "type": "rich", "title": "Raiden Shogun (Hyperbloom) | Build"}
+{
+    "footer": {
+        "text": "Character Guide \u2022 Build: Raiden Shogun | Update Date: 11/10/2022 | Editor: ~Z~#0009"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/4NdsZHk.png"
+    },
+    "fields": [
+        {
+            "inline": "true",
+            "name": "Best Weapon(s):",
+            "value": "__Dragon's Bane__\nThe highest Elemental Mastery main stat available on a polearm makes this the best option for Raiden as a Hyperbloom unit. "
+        },
+        {
+            "inline": "true",
+            "name": "Replacement Weapon:",
+            "value": "__Moonpiercer, Kitain Cross-Spear__\nAlternative forge options if you don't have Dragon's Bane. They offer Elemental Mastery but it's a little under half of Dragon's Bane. Granted the effect of Moonpiercer is potentially useful."
+        },
+        {
+            "inline": "false",
+            "name": "Best Artifact Set:",
+            "value": "x4-gildeddreams"
+        },
+        {
+            "inline": "false",
+            "name": "Second Best Artifact Set:",
+            "value": "x2-gildeddreams|x2-wandererstroupe"
+        },
+        {
+            "inline": "true",
+            "name": "Main Stats Priority",
+            "value": "<sands> Elemental Mastery |<goblet> Elemental Mastery |<circlet> Elemental Mastery"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "Elemental Mastery"
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "..."
+        }
+    ],
+    "color": 11104511,
+    "type": "rich",
+    "title": "Raiden Shogun (Hyperbloom) | Build"
+}
