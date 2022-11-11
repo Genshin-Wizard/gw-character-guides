@@ -39,7 +39,12 @@
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "..."
+            "value": "**1)** Elemental Skill: Transcendence: Baleful Omen\n**2)** Secret Art: Musou Shinsetsu\n**3)** Normal Attack: Origin"
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "This composition drastically alters Raiden's playstyle as she will no longer be taking the field to use her burst. \n\nNormal and Burst levels are worthless in this composition. Focus purely on her skill.\n\nRaiden has a unique advantage to being a Hyperbloom unit as her coordinated attacks have an Area of Effect and can hit things like Dendro cores to trigger them while having 100% up time, supplementing Burst Dmg, and a long duration. "
         }
     ],
     "color": 11104511,
