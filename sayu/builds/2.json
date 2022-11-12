@@ -1,1 +1,53 @@
-{"footer": {"text": "Character Guide \u2022 Build: Sayu"}, "thumbnail": {"url": "https://i.imgur.com/oYiMaic.png"}, "fields": [{"inline": "true", "name": "Best Weapon(s):", "value": "..."}, {"inline": "true", "name": "Replacement Weapon:", "value": "..."}, {"inline": "false", "name": "Best Artifact Set:", "value": "..."}, {"inline": "true", "name": "Main Stats Priority", "value": "..."}, {"inline": "true", "name": "Substats Priority", "value": "..."}, {"inline": "false", "name": "Talent Priority", "value": "..."}], "color": 5494962, "type": "rich", "title": "Sayu (Reaction Driver) | Build"}
+{
+    "footer": {
+        "text": "Character Guide \u2022 Build: Sayu | Update Date: 11/12/2022 | Editor: Samantha#9907"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/oYiMaic.png"
+    },
+    "fields": [
+        {
+            "inline": "true",
+            "name": "Best Weapon(s):",
+            "value": "Rainslasher"
+        },
+        {
+            "inline": "true",
+            "name": "Replacement Weapon:",
+            "value": "Katsuragikiri Nagamasa, Bloodtainted Greatsword, Favonius Greatsword, Makhaira Aquamarine, Forest Regalia"
+        },
+        {
+            "inline": "false",
+            "name": "Best Artifact Set:",
+            "value": "x4-gildeddreams"
+        },
+        {
+            "inline": "false",
+            "name": "Second Best Artifact Set:",
+            "value": "x4-viridescentvenerer"
+        },
+        {
+            "inline": "false",
+            "name": "Third Best Artifact Set:",
+            "value": "x2-wandererstroupe|x2-gildeddreams"
+        },
+        {
+            "inline": "true",
+            "name": "Main Stats Priority",
+            "value": "<sands> Elemental Mastery|<goblet>  Elemental Mastery|<circlet>  Elemental Mastery"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "Elemental Mastery|Energy Recharge"
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Skill: Yoohoo Art - Fuuin Dash\n**2)** Elemental Burst: Yoohoo Art - Mujina Flurry\nNormal Attack and Skill level does not increase the amount of healing Sayu does."
+        }
+    ],
+    "color": 5494962,
+    "type": "rich",
+    "title": "Sayu (Reaction Driver) | Build"
+}
