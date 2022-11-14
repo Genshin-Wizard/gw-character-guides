@@ -14,7 +14,7 @@
         {
             "inline": false,
             "name": "Lost Wisdom of the Seven Caverns",
-            "value": "*Unlocked at Ascension 4*\n> When characters affected by The Wind's Secret Ways' Prayerful Wind's Gift deal Anemo DMG to opponents, this DMG will be increased based on 45.9% of Faruzan's Base ATK. This DMG Bonus will be cleared 0.1s after dealing Anemo DMG to opponents, and can be triggered once every 0.8s."
+            "value": "*Unlocked at Ascension 4*\n> When characters affected by The Wind's Secret Ways' Prayerful Wind's Gift deal Anemo DMG using Normal, Charged, Plunging Attacks, Elemental Skills, or Elemental Bursts to opponents, they will gain the Hurricane Guard effect: This DMG will be increased based on 32% of Faruzan's Base ATK. 1 instance of Hurricane Guard can occur once every 0.8s. This DMG Bonus will be cleared after dealing Anemo DMG to opponents once."
         },
         {
             "inline": false,
