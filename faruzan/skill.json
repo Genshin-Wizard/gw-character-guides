@@ -8,7 +8,7 @@
     "fields": [
         {
             "inline": false,
-            "name": "Turnaround Shooter",
+            "name": "Parthian Shot",
             "value": "*Normal Attack*\n>**Normal Attack:** Performs up to 4 consecutive shots with a bow. \n>**Charged Attack:**Performs a more precise Aimed Shot with increased DMG. While aiming, mighty winds will accumulate on the arrowhead. A fully charged wind arrow will deal Anemo DMG. \n> **Plunging Attack:**Fires off a shower of arrows in mid-air before falling and striking the ground, hitting opponents along the path and dealing AoE DMG upon impact."
         },
         {
