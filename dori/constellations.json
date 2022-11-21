@@ -34,7 +34,7 @@
         {
             "inline": false,
             "name": "Sprinkling Weight (C6)",
-            "value": "Dori gains the following effects for 3s after using Spirit-Warding Lamp: Troubleshooter Cannon:\n> •Electro Infusion.\n> •When Normal Attacks hit opponents, all nearby party members will heal HP equivalent to 4% of Dori's Max HP. This type of healing can occur once every 0.1s."
+            "value": "Dori gains the following effects for 3s after using Spirit-Warding Lamp: Troubleshooter Cannon:\n> •Electro Infusion.\n> •When Normal Attacks hit opponents, all nearby party members will heal HP equivalent to 4% of Dori's Max HP. /nThis type of healing can occur once every 0.1s."
         }
     ],
     "color": 11104511,
