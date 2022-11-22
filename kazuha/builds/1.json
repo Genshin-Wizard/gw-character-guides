@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Kaedehara Kazuha | Update Date: 08/10/2022 | Editor: Luno#1337"
+        "text": "Character Guide \u2022 Build: Kaedehara Kazuha | Update Date: 11/22/2022 | Editor: hatter#6666"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/Jru7MPN.png"
@@ -34,7 +34,7 @@
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Burst: Kazuha Slash\n**2)** Normal Attack: Garyuu Bladework\n**3)** Elemental Skill: Chihayaburu"
+            "value": "**1)** Elemental Burst: Kazuha Slash\n**2)** Elemental Skill: Chihayaburu\n**3)** Normal Attack: Garyuu Bladework"
         }
     ],
     "color": 5494962,
