@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Layla | Update Date: 11/10/2022 | Editor: ~Z~#0009"
+        "text": "Character Guide \u2022 Build: Layla | Update Date: 11/24/2022 | Editor: ~Z~#0009"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Layla.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "__Key of Khaj-Nisut__\nBest support option for Layla as it significantly improves her shield with its HP main stat and supports the team via Mastery buffs.\n\n__Primordial Jade Cutter__\nGreat weapon for Layla assuming you're building into her Dmg. Can easily take care of Layla's crit needs by itself while also giving her a bit more HP."
+            "value": "__Key of Khaj-Nisut__\nBest support option for Layla as it significantly improves her shield with its HP main stat and supports the team via Mastery buffs. Can be tricky to trigger since Key cannot build stacks off-field requiring Layla to be on-field when her stars fire off to trigger the team buff.\n\n__Primordial Jade Cutter__\nGreat weapon for Layla assuming you're building into her Dmg. Can easily take care of Layla's crit needs by itself while also giving her a bit more HP."
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "__Festering Desire__\nHelps her recharge her Burst and increases the dmg dealing potential of her Skill.\n\n__Harbinger of Dawn__\nBudget choice but offers solid help to Layla since her Dmg all scales off HP meaning the low Atk will not matter at all. "
+            "value": "\n\n__Festering Desire, Favonius Sword__\nHelp with Recharge, Festering also helps a bit with dmg but both would mostly benefit due to the Recharge main stat. \n\n__Harbinger of Dawn__\nBudget choice but offers solid help to Layla since her Dmg all scales off HP meaning the low Atk will not matter at all. "
         },
         {
             "inline": "false",
@@ -45,6 +45,11 @@
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Skill: Nights of Formal Focus\n**2)** Elemental Burst: Dream of the Star-Stream Shaker\n**3)** Normal Attack: Sword of the Radiant Path \n"
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Layla can be used interchangeably with Diona in most comps that don't need Diona's healing or Elemental Mastery buff\n"
         }
     ],
     "color": 10147839,
