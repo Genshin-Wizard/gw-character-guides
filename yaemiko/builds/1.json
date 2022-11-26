@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Yae Miko | Update Date: 08/29/2022 | Editor: hatter#6666"
+        "text": "Character Guide \u2022 Build: Yae Miko | Update Date: 11/25/2022 | Editor: ~Z~#0009"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/Yfb4g1m.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Kagura's Verity"
+            "value": "__Kagura's Verity__\nEasy best-in-slot as the weapon is fantastic when a character can fully utilize it which Yae has no problems doing as it was made for her."
         },
         {
             "inline": "true",
             "name": "Replacement Weapon:",
-            "value": "The Widsith, Skyward Atlas, Solar Pearl, Lost Prayer, Oathsworn Eye"
+            "value": "__The Widsith__\nRecommended budget option. Can be variable but the payouts with the buffs are much higher than alternatives\n\n__Skyward Atlas, Solar Pearl, Lost Prayer, Oathsworn Eye__\nAll of these can be used additionally depending on what you have available"
         },
         {
             "inline": "false",
@@ -45,6 +45,11 @@
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Skill: Yakan Evocation: Sesshou Sakura\n**2)** Elemental Burst: Great Secret Art: Tenko Kenshin\n**3)** Normal Attack: Spiritfox Sin-Eater\n"
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "2 Piece Thundering Fury over Atk% is mostly a question of subs. There's no major gain so if your Atk% Subs are really good, or you just don't want to farm Thundering Fury, all Atk% sets can fill in for it. "
         }
     ],
     "color": 11104511,
