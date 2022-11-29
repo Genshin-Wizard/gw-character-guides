@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Yae Miko | Update Date: 11/25/2022 | Editor: ~Z~#0009"
+        "text": "Character Guide \u2022 Build: Yae Miko | Update Date: 11/29/2022 | Editor: ~Z~#0009"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/Yfb4g1m.png"
@@ -34,7 +34,7 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK% |<goblet>  Electro DMG Bonus |<circlet>  CRIT DMG or CRIT Rate"
+            "value": "<sands> ATK% |<goblet>  Electro DMG Bonus or ATK% |<circlet>  CRIT DMG or CRIT Rate"
         },
         {
             "inline": "true",
@@ -49,7 +49,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "2 Piece Thundering Fury over Atk% is mostly a question of subs. There's no major gain so if your Atk% Subs are really good, or you just don't want to farm Thundering Fury, all Atk% sets can fill in for it. "
+            "value": "2 Piece Thundering Fury over Atk% is mostly a question of subs. There's no major gain so if your Atk% Subs are really good, or you just don't want to farm Thundering Fury, all Atk% sets can fill in for it. \n\nDue to Kagura and Kazuha granting an excessive amount of Dmg Bonus Atk% Goblet can be better than Electro Dmg % in Mono Electro comps. "
         }
     ],
     "color": 11104511,
