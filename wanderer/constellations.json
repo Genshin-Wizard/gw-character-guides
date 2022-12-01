@@ -9,32 +9,32 @@
         {
             "inline": false,
             "name": "Shoban: Ostentatious Plumage (C1)",
-            "value": "When in the Windfavored state, the Wanderer's Normal and Charged Attack SPD is increased by 10%. \nAdditionally, the wind arrows fired by the Passive Talent 'Gales of Reverie' will deal an additional 25% of his ATK as DMG. You must unlock the Passive Talent 'Gales of Reverie' first."
+            "value": "When in the Windfavored state, the Attack SPD of the Wanderer's Kuugo: Fushoudan and Kuugo: Toufukai is increased by 10%.\nAdditionally, the wind arrows fired by the Passive Talent \"Gales of Reverie\" will deal an additional 25% of his ATK as DMG. You must unlock the Passive Talent \"Gales of Reverie\" first."
         },
         {
             "inline": false,
             "name": "Niban: Moonlit Isle Amidst White Waves (C2)",
-            "value": "When in the Windfavored state, Kyougen: Five Ceremonial Plays will see its DMG increased by 4% per point of difference between the max amount of Sky-Dweller Points contrasted with Sky-Dweller's present capacity when using this skill. \nThrough this method, you can increase Kyougen: Five Ceremonial Plays's DMG by a maximum of 200%."
+            "value": "When in the Windfavored state, Kyougen: Five Ceremonial Plays will see its DMG increased by 4% per point of difference between the max amount of Kuugoryoku Points contrasted with Kuugoryoku's present capacity when using this skill.\nThrough this method, you can increase Kyougen: Five Ceremonial Plays's DMG by a maximum of 200%."
         },
         {
             "inline": false,
-            "name": "Sanban: Moonflower Kusemai(C3)",
-            "value": "Increases the Level of Kyougen: Five Ceremonial Plays by 3. \nMaximum upgrade level is 15"
+            "name": "Sanban: Moonflower Kusemai (C3)",
+            "value": "Increases the Level of Kyougen: Five Ceremonial Plays by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
             "name": "Yonban: Set Adrift into Spring (C4)",
-            "value": "When casting Hanega: Song of the Wind, should the Passive Talent 'Jade-Claimed Flower' be triggered, the character will gain enhancement effects in correspondence to the contacted Elemental Type(s), and also gain a random untriggered enhancement effect. \nYou need to unlock the Passive Talent 'Jade-Claimed Flower'."
+            "value": "When casting Hanega: Song of the Wind, should the Passive Talent \"Jade-Claimed Flower\" be triggered, the character will gain buffs in correspondence to the contacted Elemental Type(s), and also obtain a random untriggered buff. A maximum of 3 such corresponding elemental buffs can exist simultaneously.\nYou must unlock the Passive Talent \"Jade-Claimed Flower\" first."
         },
         {
             "inline": false,
             "name": "Matsuban: Ancient Illuminator From Abroad (C5)",
-            "value": "Increases the Level of Hanega: Song of the Wind by 3. \nMaximum upgrade level is 15.."
+            "value": "Increases the Level of Hanega: Song of the Wind by 3.\nMaximum upgrade level is 15."
         },
         {
             "inline": false,
             "name": "Shugen: The Curtains' Melancholic Sway (C6)",
-            "value": "When The Wanderer actively hits opponents with Normal Attacks while in the Windfavored state, the following effects will occur: \n> ·Deals an instance of 40% ATK as Anemo DMG. This DMG will be considered Normal Attack DMG. \n>·Restores 4 Sky-Dweller Points to The Wanderer. Sky-Dweller Points can be restored in this manner once every 0.2s. This restoration can occur 5 times within one Windfavored duration."
+            "value": "When the Wanderer actively hits an opponent with Kuugo: Fushoudan while in the Windfavored state, the following effects will occur:\n\u2022Deals an additional instance of Kuugo: Fushoudan at the position hit, dealing 40% of the attack's original DMG. This DMG will be considered Normal Attack DMG.\n\u2022When the Wanderer falls below 40 Kuugoryoku Points, restores 4 Points to him. Kuugoryoku Points can be restored in this manner once every 0.2s. This restoration can occur up to 5 times within one Windfavored duration."
         }
     ],
     "color": 5494962,

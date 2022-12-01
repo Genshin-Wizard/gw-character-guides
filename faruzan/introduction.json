@@ -27,21 +27,21 @@
         {
             "inline": true,
             "name": "Rarity",
-            "value": "Unknown"
+            "value": "\u2605\u2605\u2605\u2605"
         },
         {
             "inline": true,
             "name": "Constellation",
-            "value": "Unknown"
+            "value": "Flosculi Implexi"
         },
         {
             "inline": true,
             "name": "Weapon",
-            "value": "Unknown"
+            "value": "Bow"
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "description": "Unknown",
+    "description": "A researcher from \"one hundred years ago.\" She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.",
     "title": "Faruzan | Introduction"
 }

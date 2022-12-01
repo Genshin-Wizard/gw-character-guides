@@ -5,24 +5,8 @@
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Faruzan.png"
     },
-    "fields": [
-        {
-            "inline": false,
-            "name": "Impetuous Flow",
-            "value": "*Unlocked at Ascension 1*\n> When Faruzan is in the Manifest Gale state created by Wind Realm of Nasamjnin, the amount of time taken to charge a shot is decreased by 60%, and she can apply The Wind's Secret Ways' Perfidious Wind's Ruin to opponents who are hit by the vortex created by Pressurized Collapse."
-        },
-        {
-            "inline": false,
-            "name": "Lost Wisdom of the Seven Caverns",
-            "value": "*Unlocked at Ascension 4*\n> When characters affected by The Wind's Secret Ways' Prayerful Wind's Gift deal Anemo DMG using Normal, Charged, Plunging Attacks, Elemental Skills, or Elemental Bursts to opponents, they will gain the Hurricane Guard effect: This DMG will be increased based on 32% of Faruzan's Base ATK. 1 instance of Hurricane Guard can occur once every 0.8s. This DMG Bonus will be cleared after dealing Anemo DMG to opponents once."
-        },
-        {
-            "inline": false,
-            "name": "Tomes Light the Path",
-            "value": "*Unlocked Automatically*\n> Gains 25% more rewards when dispatched on a Sumeru Expedition for 20 hours."
-        }
-    ],
     "color": 5494962,
     "type": "rich",
+    "description": "**Impetuous Flow**\n*Unlocked at Ascension 1*\n> When Faruzan is in the Manifest Gale state created by Wind Realm of Nasamjnin, the amount of time taken to charge a shot is decreased by 60%, and she can apply The Wind's Secret Ways' Perfidious Wind's Bale to opponents who are hit by the vortex created by Pressurized Collapse.\n**Lost Wisdom of the Seven Caverns**\n*Unlocked at Ascension 4*\n> When characters affected by The Wind's Secret Ways' Prayerful Wind's Gift deal Anemo DMG using Normal, Charged, Plunging Attacks, Elemental Skills, or Elemental Bursts to opponents, they will gain the Hurricane Guard effect: This DMG will be increased based on 32% of Faruzan's Base ATK. 1 instance of Hurricane Guard can occur once every 0.8s. This DMG Bonus will be cleared after Prayerful Wind's Benefit expires or after the effect is triggered once.\n**Tomes Light the Path**\n*Unlocked Automatically*\n> Gains 25% more rewards when dispatched on a Sumeru Expedition for 20 hours.\n",
     "title": "Faruzan | Passive Talents"
 }

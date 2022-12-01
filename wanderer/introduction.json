@@ -27,21 +27,21 @@
         {
             "inline": true,
             "name": "Rarity",
-            "value": "Unknown"
+            "value": "\u2605\u2605\u2605\u2605\u2605"
         },
         {
             "inline": true,
             "name": "Constellation",
-            "value": "Unknown"
+            "value": "Peregrinus"
         },
         {
             "inline": true,
             "name": "Weapon",
-            "value": "Unknown"
+            "value": "Catalyst"
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "description": "Unknown",
+    "description": "A wayfaring figure whose identity is a mystery. He dresses like a shugenja, but he certainly does not act the part.",
     "title": "Wanderer | Introduction"
 }

@@ -12,12 +12,12 @@
         {
             "inline": true,
             "name": "Nation",
-            "value": "Sumeru"
+            "value": "Unknown"
         },
         {
             "inline": true,
             "name": "Affiliation",
-            "value": "The Seven"
+            "value": "Unknown"
         },
         {
             "inline": true,
@@ -27,7 +27,7 @@
         {
             "inline": true,
             "name": "Rarity",
-            "value": "★★★★★"
+            "value": "\u2605\u2605\u2605\u2605\u2605"
         },
         {
             "inline": true,
@@ -42,6 +42,6 @@
     ],
     "color": 6794623,
     "type": "rich",
-    "description": "One might say she pays too much attention or dotes on people too much... But while her actions can be flawed, I believe her sense of responsibility as Sumeru's deity to be a commendable thing. Ah, that the youngest of gods should be thus, while a certain other person, by contrast, should be so prone to hysterics...",
+    "description": "A caged bird secluded within the confines of the Sanctuary of Surasthana who can only see the world in her dreams.",
     "title": "Nahida | Introduction"
 }
