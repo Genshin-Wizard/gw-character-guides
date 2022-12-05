@@ -12,12 +12,12 @@
         {
             "inline": true,
             "name": "Nation",
-            "value": "Unknown"
+            "value": "Sumeru/Snezhnaya/Inazuma"
         },
         {
             "inline": true,
             "name": "Affiliation",
-            "value": "Unknown"
+            "value": "None"
         },
         {
             "inline": true,
