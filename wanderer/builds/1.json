@@ -39,7 +39,7 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge|CRIT DMG/Rate|ATK%"
+            "value": "CRIT DMG/Rate|ATK%|Energy Recharge"
         },
         {
             "inline": "false",
@@ -49,7 +49,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "If utilizing a shield, 4-Piece Retracing Bolide will outperform the third best set mentioned."
+            "value": "If utilizing a shield, 4-Piece Retracing Bolide will outperform the third best set mentioned.\n\n4-Piece Viridescent Venerer performs at the same level as the third best set mentioned.\n\nWanderer should only be using Elemental Burst 2/3 times."
         }
     ],
     "color": 5494962,
