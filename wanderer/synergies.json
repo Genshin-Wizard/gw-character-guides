@@ -1,13 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Wanderer | Update Date: 11/07/2022 | Editor: hatter#6666"
+        "text": "Character Guide \u2022 Synergy: Wanderer | Update Date: 12/06/2022 | Editor: Ultimate Noob#2955"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Wanderer.png"
     },
-    "fields": [],
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Flex can litteraly be any sub-DPS or shielder, such as Fischl, Yelan, Jean, Layla and Diona."
+        }
+    ],
     "color": 5494962,
     "type": "rich",
-    "description": "wanderer,wanderer,wanderer,wanderer",
+    "description": "wanderer,faruzan,bennett,flex",
     "title": "Wanderer | Team Composition and Synergy"
 }
