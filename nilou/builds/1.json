@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Nilou | Update Date: 10/15/2022 | Editor: Samantha#9907"
+        "text": "Character Guide \u2022 Build: Nilou | Update Date: 12/08/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/KxMQIkX.png"
@@ -24,6 +24,11 @@
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
+            "value": "x4-deepwoodmemories"
+        },
+        {
+            "inline": "false",
+            "name": "Third Best Artifact Set:",
             "value": "x2-tenacityofthemillelith"
         },
         {
