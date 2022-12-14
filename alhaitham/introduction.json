@@ -1,0 +1,47 @@
+{
+    "footer": {
+        "text": "Character Guide \u2022 Introduction: Alhaitham"
+    },
+    "image": {
+        "url": "https://i.imgur.com/tdg9kqt.png"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Alhatham.png"
+    },
+    "fields": [
+        {
+            "inline": true,
+            "name": "Nation",
+            "value": "Unknown"
+        },
+        {
+            "inline": true,
+            "name": "Affiliation",
+            "value": "Unknown"
+        },
+        {
+            "inline": true,
+            "name": "Element Type",
+            "value": "Dendro <:Dendro:951729014106628106>"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "\u2605\u2605\u2605\u2605\u2605"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Falco Caeli"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "None"
+        }
+    ],
+    "color": 6794623,
+    "type": "rich",
+    "description": "???",
+    "title": "Alhaitham | Introduction"
+}

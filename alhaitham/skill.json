@@ -1,0 +1,12 @@
+{
+    "footer": {
+        "text": "Character Guide \u2022 Skill Talents: Alhaitham"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Alhatham.png"
+    },
+    "color": 6794623,
+    "type": "rich",
+    "description": "**Normal Attack: Abductive Reasoning**\n*Normal Attack*\n> **Normal Attack:** Performs up to 5 rapid strikes.  \n> **Charged Attack:** Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.  \n> **Plunging Attack:** Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.\n**Universality: An Elaboration on Form**\n*Elemental Skill*\nRushes forward, dealing Dendro DMG to nearby opponents when the rush ends, causing a Chisel-Light Mirror to form.\nHolding this skill will cause it to behave differently.\n\nHold\nEnters Aiming Mode to adjust the direction of Alhaitham's rush attack.\n\nChisel-Light Mirror\nWhen this skill is unleashed, Alhaitham will generate 1 Chisel-Light Mirror. If there are no Mirrors at this time, he will generate 1 additional Mirror. Chisel-Light Mirrors will have the following properties:\n<:blurplejoinarrow:932413900073369621> When he possesses Chisel-Light Mirrors, Alhaitham's Normal, Charged, and Plunging Attacks will be converted to Dendro DMG. This cannot be overridden.\n<:blurplejoinarrow:932413900073369621> When attacks of the aforementioned kinds hit opponents, the Chisel-Light Mirrors will unleash a Projection Attack that deals AoE Dendro DMG based on the number of Mirrors on the field.\n<:blurplejoinarrow:932413900073369621> A total of 3 Chisel-Light Mirrors can exist at once.\n<:blurplejoinarrow:932413900073369621> The Chisel-Light Mirrors will disappear one after the other over time, and will all disappear when Alhaitham leaves the field.\n\n\"Truth inherently exists amidst uncertainty. Even the greatest of scholars are not immune to error.\"\n**Particular Field: Fetters of Phenomena**\n*Elemental Burst*\nCreates a Particular Binding Field and deals multiple instances of AoE Dendro DMG.\nIf Chisel-Light Mirrors exist when this ability is unleashed, all such Mirrors will be consumed and increase the number of DMG instances dealt.\n\n2s after this ability is unleashed, if 0/1/2/3 Mirrors were consumed, Alhaitham will generate 3/2/1/0 new Mirrors in turn.\n\n\"If a researcher makes wisdom their goal, then they should be prepared to make an enemy of every word they read. Only then can they avoid bias.\"\n",
+    "title": "Alhaitham | Skill Talents"
+}
