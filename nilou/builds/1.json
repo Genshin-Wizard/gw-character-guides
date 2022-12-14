@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Nilou | Update Date: 10/15/2022 | Editor: Samantha#9907"
+        "text": "Character Guide \u2022 Build: Nilou | Update Date: 12/10/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/KxMQIkX.png"
@@ -19,12 +19,17 @@
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-tenacityofthemillelith"
+            "value": "x2-tenacityofthemillelith|x2-wanderer"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x2-tenacityofthemillelith"
+            "value": "x4-flowerofparadiselost"
+        },
+        {
+            "inline": "false",
+            "name": "Third Best Artifact Set:",
+            "value": "x4-deepwoodmemories"
         },
         {
             "inline": "true",
