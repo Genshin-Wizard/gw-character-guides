@@ -1,50 +1,55 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Faruzan"
+        "text": "Character Guide \u2022 Build: Faruzan | Update Date: 12/14/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Faruzan.png"
     },
     "fields": [
         {
-            "inline": true,
-            "name": "Best Weapon(s)",
-            "value": "Unknown"
+            "inline": "true",
+            "name": "Best Weapon(s):",
+            "value": "Favonius Warbow"
         },
         {
-            "inline": true,
-            "name": "Replacement Weapon(s)",
-            "value": "Unknown"
+            "inline": "true",
+            "name": "Replacement Weapon:",
+            "value": "Elegy for the End, Sacrificial Bow, End of the Line, Fading Twilight"
         },
         {
-            "inline": false,
-            "name": "Best Artifact Set",
-            "value": "Unknown"
+            "inline": "false",
+            "name": "Best Artifact Set:",
+            "value": "4x-viridescentvenerer"
         },
         {
-            "inline": false,
-            "name": "Second Best Artifact Set",
-            "value": "Unknown"
+            "inline": "false",
+            "name": "Second Best Artifact Set:",
+            "value": "4x-noblesseoblige"
         },
         {
-            "inline": false,
-            "name": "Third Best Artifact Set",
-            "value": "Unknown"
+            "inline": "false",
+            "name": "Third Best Artifact Set:",
+            "value": "4x-theexile"
         },
         {
-            "inline": true,
+            "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+            "value": "<sands> Energy Recharge|<goblet> Anemo DMG Bonus|<circlet> CRIT Rate"
         },
         {
-            "inline": true,
+            "inline": "true",
             "name": "Substats Priority",
-            "value": "Unknown|Unknown|Unknown"
+            "value": "Energy Recharge"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+            "value": "**1)** Elemental Burst: The Wind's Secret Ways\n**2)** Elemental Skill: Wind Realm of Nasamjnin\nNormal Attack: Parthian Shot does not need to be raised."
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "It is more important at Constellation 0 to Constellation 5 to build Energy Recharge (usually around 300% with one other Anemo character) than get the full set bonus. However, The Exile and Emblem of Severed Fate's 2-piece bonus is to be considered. "
         }
     ],
     "color": 5494962,
