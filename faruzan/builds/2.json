@@ -1,1 +1,58 @@
-{"footer": {"text": "Character Guide \u2022 Build: Faruzan | Update Date: 12/14/2022 | Editor: Samantha#9907"}, "thumbnail": {"url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Faruzan.png"}, "fields": [{"inline": "true", "name": "Best Weapon(s):", "value": "..."}, {"inline": "true", "name": "Replacement Weapon:", "value": "..."}, {"inline": "false", "name": "Best Artifact Set:", "value": "..."}, {"inline": "true", "name": "Main Stats Priority", "value": "..."}, {"inline": "true", "name": "Substats Priority", "value": "..."}, {"inline": "false", "name": "Talent Priority", "value": "..."}], "color": 5494962, "type": "rich", "title": "Faruzan (Support (C6)) | Build"}
+{
+    "footer": {
+        "text": "Character Guide \u2022 Build: Faruzan | Update Date: 12/14/2022 | Editor: Samantha#9907"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Faruzan.png"
+    },
+    "fields": [
+        {
+            "inline": "true",
+            "name": "Best Weapon(s):",
+            "value": "__Skyward Harp__\nOffensive weapons, with maximized Base Attack.\n__Favonius Warbow__\nIf unable to meet Energy Requirements, an Energy Recharge bow can be ran instead."
+        },
+        {
+            "inline": "true",
+            "name": "Replacement Weapon:",
+            "value": "Polar Star, Aqua Simulacra, Hunter's Path, End of the Line, Fading Twilight, Sacrificial Bow, Elegy for the End"
+        },
+        {
+            "inline": "false",
+            "name": "Best Artifact Set:",
+            "value": "4x-tenacityofthemillelith"
+        },
+        {
+            "inline": "false",
+            "name": "Second Best Artifact Set:",
+            "value": "4x-emblemofseveredfate"
+        },
+        {
+            "inline": "false",
+            "name": "Third Best Artifact Set:",
+            "value": "2x-viridescentvenerer|2x-attack\n"
+        },
+        {
+            "inline": "true",
+            "name": "Main Stats Priority",
+            "value": "<sands> Energy Recharge|<goblet> Anemo DMG Bonus|<circlet> CRIT Rate"
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "Energy Recharge|CRIT Rate|CRIT DMG|ATK%"
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "**1)** Elemental Burst: The Wind's Secret Ways\n**2)** Elemental Skill: Wind Realm of Nasamjnin\nNormal Attack: Parthian Shot does not need to be raised."
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "At Constellation 6, you are now able to somewhat consider her personal damage on top of her supporting capabilities. Her Energy Requirements are lowered to around 200%.\n\nDue to her Constellation 6 kit being designed to support an Anemo main DPS, unless there is a high damage off-field support character, Viridescent Venerer is less recommended. "
+        }
+    ],
+    "color": 5494962,
+    "type": "rich",
+    "title": "Faruzan (Support (C6)) | Build"
+}
