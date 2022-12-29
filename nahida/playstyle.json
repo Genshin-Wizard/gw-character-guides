@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Nahida"
+        "text": "Character Guide \u2022 Playstyle: Nahida | Update Date: 12/28/2022 | Editor: Ultimate Noob#2955"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Nahida.png"
     },
     "color": 6794623,
     "type": "rich",
-    "description": "Unknown",
+    "description": "Nahida | Playstyle\n\nNahida is a Dendro Catalyst character whose kit offers \n- Strong and constant Dendro application from both on-field and off-field.\n- Good personal damage.\n- Up to a massive 250 EM buff for the on-field character which significantly increases reaction damage.\n\nHer strong and consistant Dendro application from her Elemental Skill makes her the best option in all Dendro-based reaction teams. \n\nPlaystyles\n> Off-Field \n> Nahida can trigger her Tri-Karma Purification from off-field which can apply Dendro periodically and enabling reactions for on-field teamates.\n\n> On-Field \n> Nahida can use her Normal Attacks, Charged Attacks, and Tri-Karma Purification from her Skill to constantly apply Dendro and trigger/enable reactions.",
     "title": "Nahida | Playstyle"
 }
