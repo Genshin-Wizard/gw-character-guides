@@ -1,0 +1,244 @@
+{
+    "albedo": [
+        "Off-Field DPS"
+    ],
+    "alhaitham": [
+        "Speculation Build"
+    ],
+    "aloy": [
+        "Burst DPS",
+        "On-Field DPS",
+        "Battery Support"
+    ],
+    "amber": [
+        "Off-Field DPS",
+        "Physical DPS",
+        "Charged-Shot"
+    ],
+    "anemotraveler": [
+        "Off-Field DPS"
+    ],
+    "ayaka": [
+        "On-Field DPS"
+    ],
+    "ayato": [
+        "On-Field DPS",
+        "Burst/Freeze"
+    ],
+    "barbara": [
+        "Support"
+    ],
+    "beidou": [
+        "Off-Field DPS"
+    ],
+    "bennett": [
+        "Support",
+        "Invested Support",
+        "On-Field DPS"
+    ],
+    "candace": [
+        "Support"
+    ],
+    "childe": [
+        "Vaporize Burst",
+        "Fireworks/Freeze"
+    ],
+    "chongyun": [
+        "Off-Field DPS",
+        "Support"
+    ],
+    "collei": [
+        "Support"
+    ],
+    "cyno": [
+        "Aggravate Build"
+    ],
+    "dendrotraveler": [
+        "Off-Field DPS"
+    ],
+    "diluc": [
+        "On-Field DPS"
+    ],
+    "diona": [
+        "Support"
+    ],
+    "dori": [
+        "Support"
+    ],
+    "electrotraveler": [
+        "Off-Field DPS",
+        "Battery"
+    ],
+    "eula": [
+        "On-Field DPS"
+    ],
+    "faruzan": [
+        "Support(C0-C5",
+        "Support (C6"
+    ],
+    "fischl": [
+        "Off-Field DPS",
+        "Dendro Reaction based sub-DPS"
+    ],
+    "ganyu": [
+        "Melt DPS",
+        "Freeze DPS",
+        "Burst Support",
+        "final test"
+    ],
+    "geotraveler": [
+        "Off-Field DPS"
+    ],
+    "gorou": [
+        "Support"
+    ],
+    "heizou": [
+        "Quickswap DPS/Support",
+        "On-Field EM Carry/Driver"
+    ],
+    "hutao": [
+        "On-Field DPS"
+    ],
+    "itto": [
+        "On-Field DPS"
+    ],
+    "jean": [
+        "Anemo Support",
+        "Swirl Support",
+        "Physical DPS"
+    ],
+    "kaeya": [
+        "Freeze DPS",
+        "Melt DPS"
+    ],
+    "kazuha": [
+        "Off-Field DPS"
+    ],
+    "keqing": [
+        "Electro DPS",
+        "Physical DPS"
+    ],
+    "klee": [
+        "On-Field DPS",
+        "Mono Pyro DPS",
+        "Reaction DPS",
+        "Support"
+    ],
+    "kokomi": [
+        "Support"
+    ],
+    "kuki": [
+        "Reaction support",
+        "Healer",
+        "Aggravate support"
+    ],
+    "layla": [
+        "Support"
+    ],
+    "lisa": [
+        "Off-Field DPS",
+        "On-Field DPS",
+        "Support",
+        "EM Carry"
+    ],
+    "mona": [
+        "Support",
+        "Burst Damage/Nuke",
+        "On-Field DPS"
+    ],
+    "nahida": [
+        "Basic Build"
+    ],
+    "nilou": [
+        "Bloom Support",
+        "On-Field DPS"
+    ],
+    "ningguang": [
+        "On-Field DPS"
+    ],
+    "noelle": [
+        "On-Field DPS"
+    ],
+    "qiqi": [
+        "Support"
+    ],
+    "raiden": [
+        "On-Field DPS",
+        "Hyperbloom"
+    ],
+    "razor": [
+        "On-Field DPS"
+    ],
+    "rosaria": [
+        "Burst DPS/Support",
+        "Freeze DPS",
+        "Melt DPS"
+    ],
+    "sara": [
+        "Support"
+    ],
+    "sayu": [
+        "Support",
+        "Reaction Driver",
+        "Hybrid DPS"
+    ],
+    "shenhe": [
+        "Off-Field DPS"
+    ],
+    "sucrose": [
+        "Support",
+        "Taser Driver"
+    ],
+    "thoma": [
+        "Support"
+    ],
+    "tighnari": [
+        "Main DPS"
+    ],
+    "venti": [
+        "Swirl Support"
+    ],
+    "wanderer": [
+        "On-Field DPS"
+    ],
+    "xiangling": [
+        "Vape",
+        "Monopyro",
+        "Off-Field DPS"
+    ],
+    "xiao": [
+        "On-Field DPS"
+    ],
+    "xingqiu": [
+        "Off-Field DPS"
+    ],
+    "xinyan": [
+        "On-Field DPS",
+        "Pyro Support",
+        "Shield-Bot"
+    ],
+    "yaemiko": [
+        "Sub-DPS"
+    ],
+    "yanfei": [
+        "On-Field Vaporize DPS",
+        "On-Field Overload DPS"
+    ],
+    "yaoyao": [
+        "Speculation Build"
+    ],
+    "yelan": [
+        "Off-Field DPS"
+    ],
+    "yoimiya": [
+        "Pyro DPS"
+    ],
+    "yunjin": [
+        "Support"
+    ],
+    "zhongli": [
+        "Support",
+        "Physical DPS",
+        "Burst Support"
+    ]
+}
