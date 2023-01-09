@@ -8,27 +8,27 @@
     "fields": [
         {
             "inline": true,
-            "name": "Best Weapon(s)",
+            "name": "Best Weapon(s):",
             "value": "Unknown"
         },
         {
             "inline": true,
-            "name": "Replacement Weapon(s)",
+            "name": "Replacement Weapon(s):",
             "value": "Unknown"
         },
         {
             "inline": false,
-            "name": "Best Artifact Set",
+            "name": "Best Artifact Set:",
             "value": "Unknown"
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set",
+            "name": "Second Best Artifact Set:",
             "value": "Unknown"
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set",
+            "name": "Third Best Artifact Set:",
             "value": "Unknown"
         },
         {
