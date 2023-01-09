@@ -9,17 +9,17 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "__Primordial Jade Cutter__ The high Crit Rate substat and HP% passive makes it the best choice for Kuki's personal damage."
+            "value": "__Freedom Sworn__ The EM substat provides extra damage for her reactions. The passive helps to boost her teams total damage."
         },
         {
             "inline": "true",
             "name": "Replacement Weapon(s):",
-            "value": "Lion's Roar, Festering Desire, Iron Sting, Favonius Sword"
+            "value": "Xiphos' Moonlight, Iron sting, Favonius Sword, Dark Iron Sword"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-emblemofseveredfate"
+            "value": "x4-gildeddreams"
         },
         {
             "inline": "false",
@@ -29,25 +29,30 @@
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x4-gildeddreams"
+            "value": "x2-wandererstroupe"
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Elemental Mastery or HP% |<goblet>  Electro DMG Bonus |<circlet>  CRIT DMG or CRIT Rate"
+            "value": "<sands> Elemental Mastery |<goblet>  Elemental Mastery |<circlet>  Elemental Mastery"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge|Crit Rate or Crit DMG| Elemental Mastery|HP%"
+            "value": "Elemental Mastery|HP%"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)**  Elemental Skill: Sanctifying Ring\n**2)** Elemental Burst: Gyoei Narukami Kariyama Rite\n**3)** Normal Attack: Shinobu's Shadowsword"
+            "value": "**1)** Elemental Skill: Sanctifying Ring"
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "For a full EM build Kuki doesn't use her burst or normals as the EM stacking results in a lack of other stats which reduces her damage output."
         }
     ],
     "color": 11104511,
     "type": "rich",
-    "title": "Kuki (Aggravate support) | Build"
+    "title": "Kuki (Reaction support) | Build"
 }
