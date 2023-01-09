@@ -8,12 +8,12 @@
     "fields": [
         {
             "inline": "true",
-            "name": "Best Weapon:",
+            "name": "Best Weapon(s):",
             "value": "__Freedom-Sworn__ Increased personal and team damage but requires higher energy recharge.\n\n__Favonius Sword__ Generates energy for the whole team in exchange for personal damage."
         },
         {
             "inline": "true",
-            "name": "Replacement Weapon:",
+            "name": "Replacement Weapon(s):",
             "value": "Sacrificial Sword, Iron sting, Skyward Blade, Amenoma Kageuchi"
         },
         {

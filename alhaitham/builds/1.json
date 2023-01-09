@@ -8,27 +8,27 @@
     "fields": [
         {
             "inline": true,
-            "name": "Best Weapon(s)",
+            "name": "Best Weapon(s):",
             "value": "__Light of Foliar Incision__ - His BiS weapon, a amazing stat stick along with full utilization of it's passive, provide CRIT and DMG bonuses\n__Primordial Jade Cutter__ - A great stat stick, the attack is a added benefit"
         },
         {
             "inline": true,
-            "name": "Replacement Weapon(s)",
+            "name": "Replacement Weapon(s):",
             "value": "__Harbinger of Dawn__ - A weapon with a amazing passive if able to maintained, almost always requiring a shielder.\n__Festering Desire__ - A decent passive that benifits his kit \n__Black Sword__ A decent stat stick with a alright passive"
         },
         {
             "inline": false,
-            "name": "Best Artifact Set",
+            "name": "Best Artifact Set:",
             "value": "x4-gildeddreams"
         },
         {
             "inline": false,
-            "name": "Second Best Artifact Set",
+            "name": "Second Best Artifact Set:",
             "value": "x2-wandererstroupe|x2-gildeddreams|x2-emblemofseveredfate|x2-atk"
         },
         {
             "inline": false,
-            "name": "Third Best Artifact Set",
+            "name": "Third Best Artifact Set:",
             "value": "x4-gladiatorsfinale"
         },
         {

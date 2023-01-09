@@ -1,1 +1,43 @@
-{"footer": {"text": "Character Guide \u2022 Build: Nilou | Update Date: 10/14/2022 | Editor: Samantha#9907"}, "thumbnail": {"url": "https://i.imgur.com/KxMQIkX.png"}, "fields": [{"inline": "true", "name": "Best Weapon(s):", "value": "..."}, {"inline": "true", "name": "Replacement Weapon:", "value": "..."}, {"inline": "false", "name": "Best Artifact Set:", "value": "..."}, {"inline": "true", "name": "Main Stats Priority", "value": "..."}, {"inline": "true", "name": "Substats Priority", "value": "..."}, {"inline": "false", "name": "Talent Priority", "value": "..."}], "color": 3245055, "type": "rich", "title": "Nilou (On-Field DPS) | Build"}
+{
+    "footer": {
+        "text": "Character Guide \u2022 Build: Nilou | Update Date: 10/14/2022 | Editor: Samantha#9907"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/KxMQIkX.png"
+    },
+    "fields": [
+        {
+            "inline": "true",
+            "name": "Best Weapon(s):",
+            "value": "..."
+        },
+        {
+            "inline": "true",
+            "name": "Replacement Weapon(s):",
+            "value": "..."
+        },
+        {
+            "inline": "false",
+            "name": "Best Artifact Set:",
+            "value": "..."
+        },
+        {
+            "inline": "true",
+            "name": "Main Stats Priority",
+            "value": "..."
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "..."
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "..."
+        }
+    ],
+    "color": 3245055,
+    "type": "rich",
+    "title": "Nilou (On-Field DPS) | Build"
+}

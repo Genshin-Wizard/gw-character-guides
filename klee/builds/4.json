@@ -1,1 +1,43 @@
-{"footer": {"text": "Character Guide \u2022 Build: Klee"}, "thumbnail": {"url": "https://i.imgur.com/DsfaSum.png"}, "fields": [{"inline": "true", "name": "Best Weapon(s):", "value": "..."}, {"inline": "true", "name": "Replacement Weapon:", "value": "..."}, {"inline": "false", "name": "Best Artifact Set:", "value": "..."}, {"inline": "true", "name": "Main Stats Priority", "value": "..."}, {"inline": "true", "name": "Substats Priority", "value": "..."}, {"inline": "false", "name": "Talent Priority", "value": "..."}], "color": 16733525, "type": "rich", "title": "Klee (Support) | Build"}
+{
+    "footer": {
+        "text": "Character Guide \u2022 Build: Klee"
+    },
+    "thumbnail": {
+        "url": "https://i.imgur.com/DsfaSum.png"
+    },
+    "fields": [
+        {
+            "inline": "true",
+            "name": "Best Weapon(s):",
+            "value": "..."
+        },
+        {
+            "inline": "true",
+            "name": "Replacement Weapon(s):",
+            "value": "..."
+        },
+        {
+            "inline": "false",
+            "name": "Best Artifact Set:",
+            "value": "..."
+        },
+        {
+            "inline": "true",
+            "name": "Main Stats Priority",
+            "value": "..."
+        },
+        {
+            "inline": "true",
+            "name": "Substats Priority",
+            "value": "..."
+        },
+        {
+            "inline": "false",
+            "name": "Talent Priority",
+            "value": "..."
+        }
+    ],
+    "color": 16733525,
+    "type": "rich",
+    "title": "Klee (Support) | Build"
+}
