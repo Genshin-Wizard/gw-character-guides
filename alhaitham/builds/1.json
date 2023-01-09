@@ -9,42 +9,47 @@
         {
             "inline": true,
             "name": "Best Weapon(s):",
-            "value": "Unknown"
+            "value": "__Light of Foliar Incision__ - His BiS weapon, a amazing stat stick along with full utilization of it's passive, provide CRIT and DMG bonuses\n__Primordial Jade Cutter__ - A great stat stick, the attack is a added benefit"
         },
         {
             "inline": true,
             "name": "Replacement Weapon(s):",
-            "value": "Unknown"
+            "value": "__Harbinger of Dawn__ - A weapon with a amazing passive if able to maintained, almost always requiring a shielder.\n__Festering Desire__ - A decent passive that benifits his kit \n__Black Sword__ A decent stat stick with a alright passive"
         },
         {
             "inline": false,
             "name": "Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-gildeddreams"
         },
         {
             "inline": false,
             "name": "Second Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x2-wandererstroupe|x2-gildeddreams|x2-emblemofseveredfate|x2-atk"
         },
         {
             "inline": false,
             "name": "Third Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-gladiatorsfinale"
         },
         {
             "inline": true,
             "name": "Main Stats Priority",
-            "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+            "value": "<sands> Elemental Mastery|<goblet> Dendro DMG bonus|<circlet> CRIT DMG or Rate"
         },
         {
             "inline": true,
             "name": "Substats Priority",
-            "value": "Unknown|Unknown|Unknown"
+            "value": "Energy Recharge|Elemental Mastery|CRIT Rate|CRIT DMG"
         },
         {
             "inline": false,
             "name": "Talent Priority",
-            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+            "value": "**1)** Elemental Skill: An Elaboration on Form\n**2)** Normal Attack: Abductive Reasoning\n**3)** Elemental Burst: Fetters of Phenomena"
+        }
+         {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Mistplitter Reforged outscales Primordial Jade Cutter at above refinement 3\n\n"
         }
     ],
     "color": 6794623,
