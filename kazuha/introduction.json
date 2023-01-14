@@ -37,7 +37,7 @@
         {
             "inline": true,
             "name": "Weapon",
-            "value": "Sword <:Skill_A_01:1063905221815832738>"
+            "value": "<:Skill_A_01:1063905221815832738> Sword:Skill_A_01:1063905221815832738>"
         }
     ],
     "color": 5494962,
