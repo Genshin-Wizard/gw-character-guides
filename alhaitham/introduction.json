@@ -12,12 +12,12 @@
         {
             "inline": true,
             "name": "Nation",
-            "value": "Unknown"
+            "value": "Sumeru"
         },
         {
             "inline": true,
             "name": "Affiliation",
-            "value": "Unknown"
+            "value": "Haravatat"
         },
         {
             "inline": true,
@@ -37,7 +37,7 @@
         {
             "inline": true,
             "name": "Weapon",
-            "value": "None"
+            "value": "Sword"
         }
     ],
     "color": 6794623,

@@ -34,7 +34,7 @@
         {
             "inline": false,
             "name": "Beneficent (C6)",
-            "value": "When Yuegui: Throwing Mode throws out a White Jade Radish, there is a 50% chance that it will throw out a Mega Radish that will have a larger AoE than the standard White Jade Radish and have the following effects upon exploding:\n\u2022Deals AoE Dendro DMG based on 75% of Yaoyao's ATK.\n\u2022Restores HP for the active character based on 7.5% of Yaoyao's Max HP.\n\nEvery Yuegei: Throwing Mode can throw out a maximum of 2 Mega Radishes."
+            "value": "For every 2 White Jade Radishes Yuegui: Throwing Mode throws out, the next throw will also release a Mega Radish that will have a larger AoE than the standard White Jade Radish and have the following effects upon exploding:\n\u2022 Deals AoE Dendro DMG based on 75% of Yaoyao's ATK.\n\u2022 Restores HP for the active character based on 7.5% of Yaoyao's Max HP.\n\nEvery Yuegei: Throwing Mode can throw out a maximum of 2 Mega Radishes."
         }
     ],
     "color": 6794623,

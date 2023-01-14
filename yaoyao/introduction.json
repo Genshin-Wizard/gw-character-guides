@@ -12,7 +12,7 @@
         {
             "inline": true,
             "name": "Nation",
-            "value": "Unknown"
+            "value": "Liyue"
         },
         {
             "inline": true,
@@ -37,7 +37,7 @@
         {
             "inline": true,
             "name": "Weapon",
-            "value": "None"
+            "value": "Polearm"
         }
     ],
     "color": 6794623,
