@@ -14,7 +14,7 @@
         {
             "inline": false,
             "name": "Annihilation Eon - Blossom of Kaleidos (C2)",
-            "value": "When in party but not the currently active character, Xiao's Energy Recharge is increased by 25%."
+            "value": "When in the party and not on the field, Xiao's Energy Recharge is increased by 25%."
         },
         {
             "inline": false,
@@ -24,7 +24,7 @@
         {
             "inline": false,
             "name": "Transcension - Extinction of Suffering (C4)",
-            "value": "When Xiao's HP falls below 50%, gains a 100% DEF Bonus."
+            "value": "When Xiao's HP falls below 50%, he gains a 100% DEF Bonus."
         },
         {
             "inline": false,
@@ -34,7 +34,7 @@
         {
             "inline": false,
             "name": "Evil Conqueror - Vigilant Yaksha (C6)",
-            "value": "During Bane of All Evil, hitting 2 or more enemies with a Charged Attack grants Lemniscatic Wind Cycling 1 additional charge and reduces Lemniscatic Wind Cycling's CD by 1s."
+            "value": "While under the effects of Bane of All Evil, hitting at least 2 opponents with Xiao's Plunging Attack will immediately grant him 1 charge of Lemniscatic Wind Cycling, and for the next 1s, he may use Lemniscatic Wind Cycling while ignoring its CD."
         }
     ],
     "color": 5494962,
