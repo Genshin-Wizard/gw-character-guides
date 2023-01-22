@@ -1,50 +1,50 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Yaoyao"
+        "text": "Character Guide \u2022 Build: Yaoyao | Update Date: 01/22/2023 | Editor: Pile6Zero#6228"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Yaoyao.png"
     },
     "fields": [
         {
-            "inline": true,
+            "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Unknown"
+            "value": "Favonius Greatsword"
         },
         {
-            "inline": true,
+            "inline": "true",
             "name": "Replacement Weapon(s):",
-            "value": "Unknown"
+            "value": "Sacrificial Greatsword"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-deepwoodmemories"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-instructor"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-oceanhuedclam"
         },
         {
-            "inline": true,
+            "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+            "value": "<sands> Energy Recharge|<goblet> HP%|<circlet> Healing Bonus"
         },
         {
-            "inline": true,
+            "inline": "true",
             "name": "Substats Priority",
-            "value": "Unknown|Unknown|Unknown"
+            "value": "Energy Recharge|HP%|Elemental Mastery"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+            "value": "**1)** Elemental Skill \n**2)** Elemental Burst\n**3)** Normal Attack(Not recommended)"
         }
     ],
     "color": 6794623,
