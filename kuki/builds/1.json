@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Kuki Shinobu | Update Date: 09/23/2022 | Editor: Sew#2409"
+        "text": "Character Guide \u2022 Build: Kuki Shinobu | Update Date: 01/22/2023 | Editor: Sew#2409"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/g5ufyVb.png"
@@ -9,27 +9,27 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "__Freedom Sworn__ The EM substat provides extra damage for her reactions. The passive helps to boost her teams total damage."
+            "value": "__Freedom Sworn__ The EM substat provides extra damage for her reactions. The passive helps boost her teams total damage.\n\n__Key of Khaj-Nsut__ HP% Passive increases Kuki\u2019s healing. 3 stacks are easily obtained at C4 due to it granting her an extra Skill proc. It is not recommended to prolong rotations to gain extra stacks at lower Constellations.\n\n__Xiphos' Moonlight__ EM substat which strengthens her Hyperbloom damage along with ER share to the whole team."
         },
         {
             "inline": "true",
             "name": "Replacement Weapon(s):",
-            "value": "Xiphos' Moonlight, Iron sting, Favonius Sword, Dark Iron Sword"
+            "value": "__Iron sting__ Easily obtained craftable weposn with EM substat but relatively useless passive. Refinements are not recommended due to the reason stated above.\n\n __Toukabou Shigure__ Works fundamentally the same as Iron Sting because they both have the same EM substat.\n\n__Dark Iron Sword__ Should only be use if the other options are not available. Gives lower EM than other weapons."
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-gildeddreams"
+            "value": "x4-flowerofparadiselost"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-thunderingfury"
+            "value": "x4-gildeddreams"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x2-wandererstroupe"
+            "value": "x2-wandererstroupe|x2-gildeddreams"
         },
         {
             "inline": "true",
@@ -39,17 +39,17 @@
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Elemental Mastery|HP%"
+            "value": "Elemental Mastery|Energy Recharge|HP%"
         },
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Skill: Sanctifying Ring"
+            "value": "**1)** Elemental Skill: Sanctifying Ring\n**2)** Elemental Burst: Gyoei Narukami Kariyama Rite"
         },
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "For a full EM build Kuki doesn't use her burst or normals as the EM stacking results in a lack of other stats which reduces her damage output."
+            "value": "Despite the majority of Kuki's Electro application coming from her Skill it is still important to cast her Burst on cooldown to have more Electro application and extend rotations when  necessary."
         }
     ],
     "color": 11104511,
