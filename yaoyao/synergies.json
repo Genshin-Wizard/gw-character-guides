@@ -1,13 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Yaoyao | Update Date: 01/13/2023 | Editor: hatter#6666"
+        "text": "Character Guide \u2022 Synergy: Yaoyao | Update Date: 01/22/2023 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Yaoyao.png"
     },
-    "fields": [],
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Yaoyao is a healer with enough Dendro application for Quicken, Burgeon and Hyperbloom teams, as well as Nilou's Bountiful Cores team.\nFor Aggravate teams, (the last team given), the Electro unit may need a battery, and generally a second Electro/Dendro character is recommended in Quicken."
+        }
+    ],
     "color": 6794623,
     "type": "rich",
-    "description": "yaoyao,yaoyao,yaoyao,yaoyao|yaoyao,yaoyao,yaoyao,yaoyao|yaoyao,yaoyao,yaoyao,yaoyao|yaoyao,yaoyao,yaoyao,yaoyao|yaoyao,yaoyao,yaoyao,yaoyao|yaoyao,yaoyao,yaoyao,yaoyao|yaoyao,yaoyao,yaoyao,yaoyao|yaoyao,yaoyao,yaoyao,yaoyao",
+    "description": "keqing,yaoyao,kazuha,fischl|nilou,yelan,yaoyao,nahida|alhaitham,yaoyao,fischl,zhongli|yaemiko,fischl,yaoyao,sucrose|yaoyao,kuki,xingqiu,sucrose|yaoyao,yanfei,xingqiu,nahida|yaoyao,electroflex,hydroflex,flex|yaoyao,pyroflex,hydroflex,dendroflex|dendroflex,yaoyao,electroflex,flex|electroflex,yaoyao,flex,flex",
     "title": "Yaoyao | Team Composition and Synergy"
 }
