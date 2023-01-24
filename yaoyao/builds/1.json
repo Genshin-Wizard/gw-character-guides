@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Yaoyao | Update Date: 01/22/2023 | Editor: Pile6Zero#6228"
+        "text": "Character Guide \u2022 Build: Yaoyao | Update Date: 01/23/2023 | Editor: Pile6Zero#6228"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Yaoyao.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Favonius Greatsword"
+            "value": "Favonius Lance"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon(s):",
-            "value": "Sacrificial Greatsword"
+            "value": "Kitain Cross Spear, Prototype Crescent"
         },
         {
             "inline": "false",
