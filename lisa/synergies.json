@@ -1,13 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Lisa | Update Date: 09/21/2022 | Editor: Samantha#9907"
+        "text": "Character Guide \u2022 Synergy: Lisa | Update Date: 01/25/2023 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/a0E1K9o.png"
     },
-    "fields": [],
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Lisa's actually pretty good for helping with Dendro, Electro, Geo, Anemo and Physical nukes."
+        }
+    ],
     "color": 11104511,
     "type": "rich",
-    "description": "bennett,lisa,beidou,xingqiu|raiden,lisa,bennett,kazuha|eula,fischl,diona,lisa|lisa,dendrotraveler,collei,kokomi|dendroflex,lisa,venti,kokomi|tighnari,lisa,kazuha,kuki|lisa,fischl,dendrotraveler,kazuha",
+    "description": "bennett,lisa,beidou,xingqiu|raiden,lisa,bennett,kazuha|eula,fischl,diona,lisa|lisa,dendrotraveler,collei,kokomi|tighnari,lisa,kazuha,kuki|lisa,fischl,dendrotraveler,kazuha|dendroflex,lisa,venti,kokomi|dendroflex,lisa,bennett,sucrose",
     "title": "Lisa | Team Composition and Synergy"
 }
