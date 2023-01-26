@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Amber"
+        "text": "Character Guide \u2022 Build: Amber | Update Date: 01/25/2023 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/P3EU7xA.png"
@@ -14,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon(s):",
-            "value": "Thundering Pulse, Sharpshooter\u2019s Oath, Prototype Crescent, Hamayumi, Blackcliff Warbow"
+            "value": "Thundering Pulse, Sharpshooter\u2019s Oath, Prototype Crescent, Hamayumi, Blackcliff Warbow, Hunter's Path"
         },
         {
             "inline": "false",
@@ -49,7 +49,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "The most important part of this play style is to make up for the low scalings on her charged shot by building up high CRIT DMG and consistantly landing headshots for guarenteed crit. Elemental Mastery sands is conditionally better, but she must be in a melt or vape team. "
+            "value": "The most important part of this playstyle is to make up for the low scalings on her charged shot by building up high CRIT DMG and consistently landing headshots (weak-point hits) for guaranteed CRIT hit. \n\n*If playing against enemies with no weak-points or World Bosses, CRIT Rate weapons can be better for balancing your CRIT ratio.*\n\nElemental Mastery sands is conditionally better, but she must be in a Melt or Vaporize team. "
         }
     ],
     "color": 16733525,
