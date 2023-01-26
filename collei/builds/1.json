@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Collei | Update Date: 10/21/2022 | Editor: Samantha#9907"
+        "text": "Character Guide \u2022 Build: Collei | Update Date: 01/25/2023 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Collei.png"
@@ -34,12 +34,12 @@
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Energy Recharge or Elemental Mastery |<goblet> Dendro DMG Bonus or Trump-Card Kitty Elemental Mastery |<circlet> CRIT Rate or CRIT DMG"
+            "value": "<sands> Energy Recharge or Elemental Mastery |<goblet> Dendro DMG Bonus or Elemental Mastery |<circlet> CRIT Rate or CRIT DMG"
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "Energy Recharge ( requirements vary based on team, check with the ERC )|CRIT Rate|CRIT DMG|Elemental Mastery"
+            "value": "Energy Recharge (requirements vary based on team, check with the ERC)|CRIT Rate|CRIT DMG|Elemental Mastery"
         },
         {
             "inline": "false",
