@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Yaoyao"
+        "text": "Character Guide \u2022 Playstyle: Yaoyao | Update Date: 01/26/2023 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Yaoyao.png"
     },
     "color": 6794623,
     "type": "rich",
-    "description": "Unknown",
+    "description": "**Support**\nOne of the important things to note about Yaoyao is that her Elemental Skill stays on field when she switches off, but her Elemental Burst disappears. This means that during her Elemental Burst, Yaoyao must be on-field. However, the duration is not long. \nAs a Support, Yaoyao will be able to heal, apply Dendro and trigger things such as Favonius Lance, Tenacity of the Millelith or Deepwood Memories 4-piece effects. \n*She will generally only be using her Elemental Skill in these teams*\nFor Quicken (Aggravate and Spread), Yaoyao can provide Dendro application and healing for your main DPS from off-field. This allows Aggravate teams to run more offensive supports and Spread teams to have a Deepwood Memories user.\nFor Bloom (Bloom, Burgeon and Hyperbloom), Dendro Cores will damage the active character. Yaoyao\u2019s healing increases the driver\u2019s survivability and applies Dendro for the trigger. Apply Dendro with the Elemental Skill and Hydro, then if running Burgeon or Hyperbloom use Pyro and Electro skills respectively. The order of skills does depend often on the team that is used.\n\n**Nilou Bloom** - (requires Nilou)\nNilou, when in a team only with Hydro and Dendro units will change all Dendro Cores to Bountiful Cores that do not react to Pyro or Electro. Because of the high self-damaging nature of Bloom, and most units being built with Elemental Mastery, healing is highly needed. \nYaoyao being a Dendro healer who can apply a decent amount of Dendro allows for Hydro healers to run more offensive stats (generally a full Elemental Mastery build for Bountiful Cores) or be replaced with a more offensive option.\nYaoyao\u2019s Elemental Skill heals only the active character, but her Elemental Burst can heal the entire party at once. After other party member\u2019s skills have been used, Yaoyao\u2019s Elemental Burst can be used to provide healing before switching to another character. Without her Elemental Burst on every rotation, her Elemental Skill alone may not heal enough, or require her to run a full healing build.\n*This team will require higher Energy Requirements.*",
     "title": "Yaoyao | Playstyle"
 }
