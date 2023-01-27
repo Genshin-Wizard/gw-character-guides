@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Barbara"
+        "text": "Character Guide \u2022 Playstyle: Barbara | Update Date: 01/26/2023 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/UNI8hh0.png"
     },
     "color": 3245055,
     "type": "rich",
-    "description": "**Support Barbara**\nBarbara's primary role in teams is to operate as a healer, capable of both long-term healing and a massive burst of healing in an emergency. In comparison to her DPS counterpart, this playstyle is quite straightforward to gear.\n\nIt is recommended to swap to barbara to enable her elemental skill, swap to your dps character and repeat. If all your characters are low, you can pop her elemental Burst to heal all party members and continue slaying hilicurls!\n",
+    "description": "**Healer**\nUse Her Elemental Skill, switch to any character that requires healing. When running Thrilling Tales of the Dragon Slayers, it is recommended to switch to your main DPS first. \nIf in need of more than that, she can be played on-field for party-wide healing. \n*Due to her lack of particle generation, she should not be expected to have her Elemental Burst. It can be considered like a \u2018panic button\u2019 for emergency, high party-wide healing.*\n**Driver**\n*Generally, excluding Nilou Bloom teams with full Elemental Mastery builds, Barbara will still run a full HP% and Healing Bonus build. This is NOT a DPS Barbara* \nBarbara heals with her Elemental Skill and Elemental Burst, but also when she does Normal or Charged Attacks while her Elemental Skill is active. This allows her to heal more and drive certain teams effectively. Furthermore, she is a Catalyst with fast, easy to cancel animations, allowing her to hit enemies with Hydro in melee and ranged distances. \nFor Bloom, Hyperbloom, Burgeon and Electro-Charged, other party members will activate their Elemental Skills and Bursts, transfer to Barbara and allow her to apply hydro and heal large amounts on-field. \nExamples include driving Thoma and Beidou\u2019s Elemental Bursts requiring Normal Attacks and triggering Bloom with Nahida or Collei. \n*Barbara\u2019s Elemental Skill is able to hit enemies to trigger Sacrificial Fragments, Deepwood Memories or Tenacity of the Millelith. The self-Hydro application is annoying against enemies using Cryo or Electro attacks but can allow for others to Swirl/infuse Hydro.*",
     "title": "Barbara | Playstyle"
 }
