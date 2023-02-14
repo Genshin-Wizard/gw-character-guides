@@ -1,0 +1,47 @@
+{
+    "footer": {
+        "text": "Character Guide \u2022 Introduction: Mika"
+    },
+    "image": {
+        "url": "http://cdn.genshinwizard.com/2/01834bf617/cryo.png"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Mika.png"
+    },
+    "fields": [
+        {
+            "inline": true,
+            "name": "Nation",
+            "value": "Unknown"
+        },
+        {
+            "inline": true,
+            "name": "Affiliation",
+            "value": "Unknown"
+        },
+        {
+            "inline": true,
+            "name": "Element Type",
+            "value": "Cryo <:Cryo:951729013674623017>"
+        },
+        {
+            "inline": true,
+            "name": "Rarity",
+            "value": "\u2605\u2605\u2605\u2605"
+        },
+        {
+            "inline": true,
+            "name": "Constellation",
+            "value": "Palumbus"
+        },
+        {
+            "inline": true,
+            "name": "Weapon",
+            "value": "None"
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "description": "A young knight born to an ordinary family. He serves as a Front-Line Surveyor in his Company. He is a low-key and cautious character.",
+    "title": "Mika | Introduction"
+}

@@ -1,0 +1,12 @@
+{
+    "footer": {
+        "text": "Character Guide \u2022 Passive Talents: Dehya"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Dehya.png"
+    },
+    "color": 16733525,
+    "type": "rich",
+    "description": "**Unstinting Succor**\n*Unlocked at Ascension 1*\n> Within 6 seconds after Dehya retrieves the Fiery Sanctum field through Molten Inferno: Ranging Flame or Leonine Bite, she will take 60% less DMG when receiving DMG from Redmane's Blood. This effect can be triggered once every 2s.\nAdditionally, within 9s after Dehya unleashes Molten Inferno: Indomitable Flame, she will grant all party members the Gold-Forged Form state. This state will further increase a character's resistance to interruption when they are within the Fiery Sanctum field. Gold-Forged Form can be activated once every 18s.\n**Stalwart and True**\n*Unlocked at Ascension 4*\n> When her HP is less than 40%, Dehya will recover 20% of her Max HP and will restore 6% of her Max HP every 2s for the next 10s. This effect can be triggered once every 20s.\n**The Sunlit Way**\n*Unlocked Automatically*\n> Increases the Movement SPD of your own party members by 10% during the day (6:00 \u2013 18:00).\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Not stackable with Passive Talents that provide the exact same effects.\n",
+    "title": "Dehya | Passive Talents"
+}

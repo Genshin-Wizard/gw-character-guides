@@ -1,0 +1,43 @@
+{
+    "footer": {
+        "text": "Character Guide \u2022 Constellations: Mika"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Mika.png"
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "Factor Confluence (C1)",
+            "value": "The Soulwind state of Starfrost Swirl can decrease the healing interval between instances caused by Skyfeather Song's Eagleplume state. This decrease percentage is equal to the ATK SPD increase provided by Soulwind."
+        },
+        {
+            "inline": false,
+            "name": "Companion's Ingress (C2)",
+            "value": "When Starfrost Swirl's Flowfrost Arrow first hits an opponent, or its Rimestar Flare hits opponents, 1 Detector stack from Passive Talent \"Suppressive Barrage\" will be generated.\nYou must have unlocked the Passive Talent \"Suppressive Barrage\" first."
+        },
+        {
+            "inline": false,
+            "name": "Reconnaissance Experience (C3)",
+            "value": "Increases the Level of Skyfeather Song by 3.\nMaximum upgrade level is 15."
+        },
+        {
+            "inline": false,
+            "name": "Sunfrost Encomium (C4)",
+            "value": "When Mika's own Skyfeather Song's Eagleplume state heals party members, this will restore 3 Energy to Mika. This form of Energy restoration can occur 5 times during the Eagleplume state created by 1 use of Skyfeather Song."
+        },
+        {
+            "inline": false,
+            "name": "Signal Arrow (C5)",
+            "value": "Increases the Level of Starfrost Swirl by 3.\nMaximum upgrade level is 15."
+        },
+        {
+            "inline": false,
+            "name": "Companion's Counsel (C6)",
+            "value": "The maximum number of Detector stacks that Starfrost Swirl's Soulwind can gain is increased by 1. You need to have unlocked the Passive Talent \"Suppressive Barrage\" first.\nAdditionally, active characters affected by Soulwind will deal 60% more Physical CRIT DMG."
+        }
+    ],
+    "color": 10147839,
+    "type": "rich",
+    "title": "Mika | Constellations"
+}

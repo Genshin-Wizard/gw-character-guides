@@ -1,0 +1,12 @@
+{
+    "footer": {
+        "text": "Character Guide \u2022 Skill Talents: Mika"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Mika.png"
+    },
+    "color": 10147839,
+    "type": "rich",
+    "description": "**Normal Attack: Spear of Favonius - Arrow's Passage**\n*Normal Attack*\n> **Normal Attack:** Performs up to 5 consecutive strikes using his crossbow and spear.  \n> **Charged Attack:** Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.  \n> **Plunging Attack:** Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.\n**Starfrost Swirl**\n*Elemental Skill*\nMika uses his crossbow to attack, granting all nearby characters in your party Soulwind. When characters in the Soulwind state are on the field, their ATK SPD will be increased.\nWill take effect in different ways if Tapped or Held.\n\nTap\nFires a Flowfrost Arrow that can pierce though opponents, dealing Cryo DMG to enemies it comes into contact with.\n\nHold\nGoes into Aiming Mode, locking on to an opponent and firing a Rimestar Flare at them, dealing Cryo DMG. When the Rimestar Flare hits, it will rise before exploding, launching Rimestar Shards into a maximum of 3 other opponents, dealing Cryo DMG.\n\nStars burst 'neath the frosted skies.\n**Skyfeather Song**\n*Elemental Burst*\nDerives the ability to spur his teammates on from the recited prayers of the knightly order, regenerating HP for all nearby party members. This healing is based on Mika's Max HP and will grant them the Eagleplume state.\n\nEagleplume\nWhen the Normal Attacks of active characters affected by Eagleplume hit an opponent, Mika will help them regenerate HP based on his Max HP.\nCharacters affected by this state can only regenerate HP in this way once per short interval of time.\n\n\"Carry hope when in dire straits, and keep vigil when all is well... For that pure white plume shall at last guide the lost wayfarers.\"\n",
+    "title": "Mika | Skill Talents"
+}
