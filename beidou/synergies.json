@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Raiden Shogun may seem to have great synergy with 20+ flat energy return and excellent electro particle generation during burst and off field. However, due to her unable to trigger the Stormbreaker bounces during her Elemental Burst, it is suboptimal to play the two together.\nThe team of Beidou, Fischl, Chongyun and flex charcter is based around Beidou playing the 4-piece Thundering Fury set and focuses on her counter. It is recommended to have at least C4 beidou, and Xingqiu, Chongyun or Bennett can be used to trigger the set effect.\nMajority of the teams mentioned above will function when Fischl is switched out for another battery, but rotations and energy requirements will have to be changed. Fischl is generally recommended for being simple and providing decent off-field damage."
+            "value": "Raiden Shogun may seem to have great synergy with 20+ flat energy return and excellent electro particle generation during burst and off field. However, due to her unable to trigger the Stormbreaker bounces during her Elemental Burst, it is suboptimal to play the two together.\n\nMajority of the teams mentioned above will function when Fischl is switched out for another battery, but rotations and energy requirements will have to be changed. Fischl is generally recommended for being simple and providing decent off-field damage."
         }
     ],
     "color": 11104511,
     "type": "rich",
-    "description": "beidou,childe,fischl,bennett|beidou,fischl,xingqiu,sucrose|beidou,eula,fischl,diona|yoimiya,beidou,xingqiu,bennett|ningguang,beidou,fischl,zhongli|beidou,yaoyao,fischl,sucrose|beidou,kuki,nahida,xingqiu|keqing,beidou,nahida,jean|rosaria,fischl,beidou,zhongli|qiqi,beidou,fischl,bennett|beidou,sara,bennett,kazuha|beidou,fischl,chongyun,flex",
+    "description": "beidou,childe,fischl,bennett|beidou,fischl,xingqiu,sucrose|beidou,eula,fischl,diona|yoimiya,beidou,xingqiu,bennett|ningguang,beidou,fischl,zhongli|beidou,yaoyao,fischl,sucrose|beidou,kuki,nahida,xingqiu|keqing,beidou,nahida,jean|rosaria,fischl,beidou,zhongli|beidou,sara,bennett,kazuha",
     "title": "Beidou | Team Composition and Synergy"
 }
