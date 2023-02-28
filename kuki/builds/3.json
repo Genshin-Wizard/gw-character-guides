@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Kuki Shinobu | Update Date: 09/23/2022 | Editor: Sew#2409"
+        "text": "Character Guide \u2022 Build: Kuki Shinobu | Update Date: 02/28/2023 | Editor: Sew#2409"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/g5ufyVb.png"
@@ -9,27 +9,27 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "__Primordial Jade Cutter__ The high Crit Rate substat and HP% passive makes it the best choice for Kuki's personal damage."
+            "value": "__Primordial Jade Cutter__ The high Crit Rate substat and HP% passive makes it the best choice for Kuki's personal damage.\n\n__Favonius Sword__ Favonius' high ER negates the need to build any ER on Kuki and allows her to focus on more offensive stats while also helping the rest of the team with its clear particles.\n\n__Key of Khaj-Nisut__ HP% substat boosts Kuki's healing. The passive can not be activated on the first rotation but it's long duration means it can be procced in subsequent ones which would boost the teams EM greatly. Much more reliable with C4"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon(s):",
-            "value": "Lion's Roar, Festering Desire, Iron Sting, Favonius Sword"
+            "value": "__Lion's Roar__ The ATK% isn't very useful for Kuki. However, the DMG% bonus is very valuable in teams that can have high uptime on it. The passive is not reliable with teams that have Nahida in them because of her high Dendro Application.\n\n__ Festering Desire__ ER substat helps alleviate ER reqs and also boosts Skill DMG% with its passive.\n\n__ Iron Sting__ Craftable sword with EM substat and DMG% passive make it a good option for Kuki.\n\nOther Weapons: Mistsplitter Reforged, Light of Foliar Incision, Haran Geppaku Futsu, Freedom Sworn, Toukabou Shigure, Dark Iron Sword\n\n"
         },
         {
             "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "x4-emblemofseveredfate"
+            "value": "x4-tenacityofthemillelith"
         },
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x4-thunderingfury"
+            "value": "x4-gildeddreams"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x4-gildeddreams"
+            "value": "x4-emblemofseveredfate"
         },
         {
             "inline": "true",
