@@ -1,13 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Razor | Update Date: 10/07/2022 | Editor: hatter#6666"
+        "text": "Character Guide \u2022 Synergy: Razor | Update Date: 02/27/2023 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/f1CkKDS.png"
     },
-    "fields": [],
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "The first 6 are Physical Razor teams, while the lower 4 are Dendro-reaction based Razor teams."
+        }
+    ],
     "color": 11104511,
     "type": "rich",
-    "description": "razor,yelan,xingqiu,zhongli|razor,kazuha,dendrotraveler,zhongli|razor,yunjin,zhongli,rosaria|razor,kazuha,bennett,sara|razor,fischl,xingqiu,qiqi|razor,albedo,xingqiu,zhongli|razor,fischl,dendrotraveler,diona",
+    "description": "razor,yelan,xingqiu,zhongli|razor,kazuha,dendrotraveler,zhongli|razor,yunjin,zhongli,rosaria|razor,kazuha,bennett,sara|razor,fischl,xingqiu,qiqi|razor,albedo,xingqiu,zhongli|razor,fischl,dendrotraveler,diona|razor,nahida,fischl,kazuha|razor,xingqiu,nahida,rosaria|razor,bennett,dendrotraveler,xingqiu",
     "title": "Razor | Team Composition and Synergy"
 }
