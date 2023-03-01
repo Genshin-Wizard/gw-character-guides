@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Dehya"
+        "text": "Character Guide \u2022 Synergy: Dehya | Update Date: 03/01/2023 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Dehya.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "We hope there's more synergetic characters to be released with her. If there are, we'll be sure to update them. "
+        }
+    ],
     "color": 16733525,
     "type": "rich",
-    "description": "Unknown",
+    "description": "dehya,nilou,bennett,kazuha|dehya,xiangling,bennett,kazuha|ganyu,nahida,dehya,bennett|dehya,kuki,xingqiu,nahida",
     "title": "Dehya | Team Composition and Synergy"
 }
