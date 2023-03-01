@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Dehya"
+        "text": "Character Guide \u2022 Playstyle: Dehya | Update Date: 03/01/2023 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Dehya.png"
     },
     "color": 16733525,
     "type": "rich",
-    "description": "Unknown",
+    "description": "**DPS**\nDehya\u2019s damage should be focused more into her Elemental Burst rather than Elemental Skill or Normal Attack.\n\n*If you made the choice to C6 your Bennett, then levelling her Normal Attacks and paring them with his Elemental Burst is surprisingly viable and consistent. THIS DOES NOT MEAN YOU SHOULD C6 HIM WITHOUT THOUGHT.*\n\nNote that If you run a Melt or Vaporize based team, she will need a unit that does not rely on her Normal Attacks. (Again, if you have C6 Bennett, you can run her with those characters and simply use infused Normal Attacks.) \n\nAfter placing down any supportive abilities and buffs for her down, activate her Elemental Burst and spam the attack button. It does not last very long, and you may want to space your Elemental Skill and Elemental Burst duration out to gain more uptime on her damage. Otherwise, this downtime can be used for things like funnelling energy into supports or crowd controlling.\n\nLuckily, she\u2019s pretty straight forward to use!\n\n**Support**\nDehya\u2019s Support capabilities lie solely in her skill. Doing a \u2018hop\u2019 she places a field. In the field, characters receive interruption resistance and damage reduction. (The duration of this buff is timed similarly to about 2-3 of Ganyu\u2019s fully charged shots.)\n\n*This damage is NOT ignored or absorbed like shielders or certain character passives but is instead taken by Dehya. So it's recommended you run a healer, as her self-healing is likely not enough.* \n\nHer field, as it is an Elemental Skill, triggers the ATK% buff on the 4-piece Tenacity of the Millelith set. Combined with this and one of the few supportive Claymore options, she can provide buffs for the entire team.\nFurthermore, her element being Pyro gives the team access to the Pyro Resonance for even more ATK%. \n\nUnfortunately, she\u2019s outperformed in far too many of her categories.\n\n*\u201cBut I don't really care at this point, I'm having fun punching stuff\u201d \u2013 Sayo, a proud and happy C2 Dehya owner*",
     "title": "Dehya | Playstyle"
 }
