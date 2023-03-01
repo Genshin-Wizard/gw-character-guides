@@ -1,50 +1,50 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Dehya"
+        "text": "Character Guide \u2022 Build: Dehya | Update Date: 03/01/2023 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Dehya.png"
     },
     "fields": [
         {
-            "inline": true,
+            "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Unknown"
+            "value": "__Beacon of the Reed Sea__\nHer signature weapon\n__Serpent Spine__\nA great general statstick\n__Luxurious Sea-Lord__\nEvent weapon providing additional damage for her Elemental Burst"
         },
         {
-            "inline": true,
+            "inline": "true",
             "name": "Replacement Weapon(s):",
-            "value": "Unknown"
+            "value": "Wolf's Gravestone, The Unforged, Skyward Pride, Blackcliff Slasher, Akuoumaru"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x4-emblemofseveredfate"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x2-attack|x2-crimsonwitchofflames"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "Unknown"
+            "value": "x2-tenacityofthemillelith|x2-crimsonwitchofflames"
         },
         {
-            "inline": true,
+            "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+            "value": "<sands> ATK%|<goblet> Pyro DMG Bonus|<circlet> CRIT DMG or CRIT Rate"
         },
         {
-            "inline": true,
+            "inline": "true",
             "name": "Substats Priority",
-            "value": "Unknown|Unknown|Unknown"
+            "value": "CRIT DMG|CRIT Rate|ATK%|HP%"
         },
         {
-            "inline": false,
+            "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+            "value": "**1)** Elemental Burst: Leonine Bite\n**2)** Elemental Skill: Molten Inferno\n**3)** Normal Attack: Sandstorm Assault"
         }
     ],
     "color": 16733525,
