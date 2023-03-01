@@ -45,6 +45,11 @@
             "inline": "false",
             "name": "Talent Priority",
             "value": "**1)** Elemental Burst: Leonine Bite\n**2)** Elemental Skill: Molten Inferno\n**3)** Normal Attack: Sandstorm Assault"
+        },
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Dispite scaling partially off HP%, Dehya does not benefit as much as you'd think from the stat. Even with constellations, she benefits much more from ATK%.\n\nIf you cannot get 2-piece ATK% sets, then you can run her with 2-piece Emblem of Severed Fate instead. 2-piece Elemental Mastery is not recommended, due to her being unable to trigger Elemental Bursts of units such as Yelan or Xingqiu."
         }
     ],
     "color": 16733525,
