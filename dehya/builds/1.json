@@ -14,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon(s):",
-            "value": "Wolf's Gravestone, The Unforged, Skyward Pride, Blackcliff Slasher, Akuoumaru, Mailed Flower"
+            "value": "Wolf's Gravestone, Redhorn Stonethresher, The Unforged, Skyward Pride, Blackcliff Slasher, Akuoumaru, Mailed Flower\n\n__ Lithic Blade, The Bell__\nThe surprisingly viable options. \nLithic Blade is highly difficult to build teams around, or not worth it, while The Bell is weaker even with her C1 and performs poorly on everyone else. "
         },
         {
             "inline": "false",
@@ -24,22 +24,22 @@
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x2-attack|x2-crimsonwitchofflames"
+            "value": "x4-crimsonwitchofflames"
         },
         {
             "inline": "false",
             "name": "Third Best Artifact Set:",
-            "value": "x2-tenacityofthemillelith|x2-crimsonwitchofflames"
+            "value": "x2-crimsonwitchofflames|x2-noblesseoblige|x2-attack "
         },
         {
             "inline": "true",
             "name": "Main Stats Priority",
-            "value": "<sands> ATK%|<goblet> Pyro DMG Bonus|<circlet> CRIT DMG or CRIT Rate"
+            "value": "<sands> ATK% or Energy Recharge|<goblet> Pyro DMG Bonus|<circlet> CRIT DMG or CRIT Rate\n\nIf running her as a Solo Pyro, she will need around 300% Energy Recharge. \nOtherwise, she will still require 160%+."
         },
         {
             "inline": "true",
             "name": "Substats Priority",
-            "value": "CRIT DMG|CRIT Rate|ATK%|HP%"
+            "value": "CRIT DMG|CRIT Rate|Energy Recharge|ATK%|HP%\n\nHP% isn't prioritized much, and only increases in value slightly (still less than ATK%) when you own her Constellation 1."
         },
         {
             "inline": "false",
@@ -49,7 +49,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Dispite scaling partially off HP%, Dehya does not benefit as much as you'd think from the stat. Even with constellations, she benefits much more from ATK%.\n\nIf you cannot get 2-piece ATK% sets, then you can run her with 2-piece Emblem of Severed Fate instead. 2-piece Elemental Mastery is not recommended, due to her being unable to trigger Elemental Bursts of units such as Yelan or Xingqiu."
+            "value": "Dispite scaling partially off HP%, Dehya does not benefit as much as you'd think from the stat. Even with constellations, she benefits much more from ATK%. *However, on 4-piece Emblem of Severed Fate, you will see her damage will be similar for an Energy Recharge or HP% sands. *\n\nIf you cannot get 2-piece ATK% sets, then you can run her with 2-piece Emblem of Severed Fate instead. 2-piece Elemental Mastery is not recommended, due to her being unable to trigger Elemental Bursts of units such as Yelan or Xingqiu.\n\nFurthermore, sets like Vermillion Hereafter and Tenacity of the Millelith are similar in levels of DPS, but not recommended to farm for her and require setup."
         }
     ],
     "color": 16733525,
