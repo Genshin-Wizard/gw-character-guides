@@ -22,6 +22,11 @@
             "value": "x4-tenacityofthemillelith"
         },
         {
+            "inline": "false",
+            "name": "Second Best Artifact Set:",
+            "value": "x4-instructor"
+        },
+        {
             "inline": "true",
             "name": "Main Stats Priority",
             "value": "<sands> ATK% or HP% |<goblet> Pyro DMG Bonus|<circlet> CRIT Rate"
@@ -34,7 +39,7 @@
         {
             "inline": "false",
             "name": "Talent Priority",
-            "value": "**1)** Elemental Skill: Molten Inferno\n**N/A** Elemental Burst: Leonine Bite\n**N/A** Normal Attack: Sandstorm Assault"
+            "value": "**1)** Elemental Skill: Molten Inferno\n**N/A** Elemental Burst: Leonine Bite\n**N/A** Normal Attack: Sandstorm Assault\nEven the Elemental Skill doesn't have to be raised."
         },
         {
             "inline": "false",
