@@ -1,17 +1,11 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Yelan"
+        "text": "Character Guide \u2022 Synergy: Yelan | Update Date: 03/05/2023 | Editor: hatter#6666"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/dwSZTla.png"
     },
-    "fields": [
-        {
-            "inline": "false",
-            "name": "Notes:",
-            "value": "Credits to: xf3#3123 (Designer) | KB#1111 & Vladone \u30c4#9281 (Content)"
-        }
-    ],
+    "fields": [],
     "color": 3245055,
     "type": "rich",
     "description": "hutao,yelan,xingqiu,zhongli|yoimiya,yelan,xingqiu,yunjin|yelan,xingqiu,fischl,kazuha|hutao,yelan,kazuha,amber|raiden,yelan,kazuha,bennett|yoimiya,yelan,yunjin,zhongli",
