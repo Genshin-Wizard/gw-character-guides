@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Dehya | Update Date: 03/01/2023 | Editor: Samantha#9907"
+        "text": "Character Guide \u2022 Build: Dehya | Update Date: 03/04/2023 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Dehya.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "__Beacon of the Reed Sea__\nHer signature weapon\n__Serpent Spine__\nA great general statstick\n__Luxurious Sea-Lord__\nEvent weapon providing additional damage for her Elemental Burst"
+            "value": "__Beacon of the Reed Sea__\nHer signature weapon, works great.\n__Akuoumaru__\nHer strongest weapon at R5, but loses to Blackcliff Slasher and even Serpent Spine without refinements.\n__Luxurious Sea-Lord__\nEvent weapon providing additional damage for her Elemental Burst."
         },
         {
             "inline": "true",
             "name": "Replacement Weapon(s):",
-            "value": "Wolf's Gravestone, Redhorn Stonethresher, The Unforged, Skyward Pride, Blackcliff Slasher, Akuoumaru, Mailed Flower\n\n__ Lithic Blade, The Bell__\nThe surprisingly viable options. \nLithic Blade is highly difficult to build teams around, or not worth it, while The Bell is weaker even with her C1 and performs poorly on everyone else. "
+            "value": "__Wolf's Gravestone, Redhorn Stonethresher, The Unforged__\nThe ATK% make them strong in any Dehya team.\n\n__Skyward Pride, Katsuragikiri Nagamasa__\nThe Energy Recharge gains more value if the number of Pyro units in the team goes down.\n\n__Blackcliff Slasher, Prototype Archaic__\nSome of the better 4 star weapons that are not wish-dependent.\n\n__Mailed Flower, Makhaira Aquamarine, Rainslasher__\nStronger where she can Melt or Vaporize her damage.\n\n__Serpent Spine__\nDue to Dehya's passive, it's very difficult for her to keep stacks on this weapon. However, it does have a CRIT substat.\n\n__ Lithic Blade, The Bell__\nThe surprisingly viable options. \nLithic Blade is highly difficult to build teams around, or not worth it, while The Bell is weaker even with her C1 and a shield. Also, they generally perform poorly on everyone else.  "
         },
         {
             "inline": "false",
