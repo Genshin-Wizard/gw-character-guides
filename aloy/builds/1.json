@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Aloy | Update Date: 08/10/2022 | Editor: Samantha#9907"
+        "text": "Character Guide \u2022 Build: Aloy | Update Date: 03/04/2023 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/47mFsx4.png"
@@ -9,12 +9,12 @@
         {
             "inline": "true",
             "name": "Best Weapon(s):",
-            "value": "Polar Star"
+            "value": "__Aqua Simulacra__\nHigh value for fast nukes.\n__Stringless__\nA good 4-star option if you can ensure that her Elemental Burst is Melted.\n"
         },
         {
             "inline": "true",
             "name": "Replacement Weapon(s):",
-            "value": "Elegy for the End, Skyward Harp, Stringless, Viridescent Hunt, Windblume Ode"
+            "value": "Elegy for the End, Skyward Harp, Stringless, Viridescent Hunt, Windblume Ode, Mouun's Moon, Alley Hunter, Predetor, Blackcliff Warbow, Polar Star, Hunter's Path, King's Squire, Prototype Crescent"
         },
         {
             "inline": "false",
@@ -49,7 +49,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Normal Attack talent does not have to be raised at all for this build. "
+            "value": "Normal Attack talent does not have to be raised at all for this build.\n\nAlmost all Bows work at similar levels, with Elemental Mastery bows with Melt performing for higher damage. "
         }
     ],
     "color": 10147839,
