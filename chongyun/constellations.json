@@ -9,12 +9,12 @@
         {
             "inline": false,
             "name": "Ice Unleashed (C1)",
-            "value": "The last attack of Chongyun's Normal Attack combo releases 3 ice blades. Each blade deals 50% of Chongyun's ATK as Cryo DMG to all enemies in its path."
+            "value": "The last attack of Chongyun's Normal Attack combo releases 3 ice blades. Each blade deals 50% of Chongyun's ATK as Cryo DMG to all opponents in its path."
         },
         {
             "inline": false,
             "name": "Atmospheric Revolution (C2)",
-            "value": "Elemental Skills and Elemental Bursts cast within the Frost Field created by Spirit Blade - Chongyun's Layered Frost have their CD time decreased by 15%."
+            "value": "Elemental Skills and Elemental Bursts cast within the Frost Field created by Spirit Blade: Chonghua's Layered Frost have their CD time decreased by 15%."
         },
         {
             "inline": false,
@@ -24,7 +24,7 @@
         {
             "inline": false,
             "name": "Frozen Skies (C4)",
-            "value": "Chongyun regenerates 1 Energy every time he hits an enemy affected by Cold or Frozen status effects.\nThis effect can only occur once every 2s."
+            "value": "Chongyun regenerates 1 Energy every time he hits an opponent affected by Cryo.\nThis effect can only occur once every 2s."
         },
         {
             "inline": false,
@@ -34,7 +34,7 @@
         {
             "inline": false,
             "name": "Rally of Four Blades (C6)",
-            "value": "Spirit Blade - Cloud-parting Star deals 15% more DMG to enemies with a lower percentage of their Max HP remaining than Chongyun.\nThis skill will also summon 1 additional spirt blade."
+            "value": "Spirit Blade: Cloud-Parting Star deals 15% more DMG to opponents with a lower percentage of their Max HP remaining than Chongyun.\nThis skill will also summon 1 additional spirit blade."
         }
     ],
     "color": 10147839,
