@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Alhaitham | Update Date: 01/09/2023 | Editor: Ultimate Noob#2955"
+        "text": "Character Guide \u2022 Build: Alhaitham | Update Date: 03/16/2023 | Editor: Ultimate Noob#2955"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Alhatham.png"
@@ -24,7 +24,7 @@
         {
             "inline": "false",
             "name": "Second Best Artifact Set:",
-            "value": "x2-wandererstroupe|x2-gildeddreams|x2-emblemofseveredfate|x2-atk"
+            "value": "x2-elementalmastery|x2-elementalmastery|x2-emblemofseveredfate|x2-atk"
         },
         {
             "inline": "false",
