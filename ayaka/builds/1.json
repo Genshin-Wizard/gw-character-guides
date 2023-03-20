@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Build: Kamisato Ayaka | Update Date: 08/07/2022 | Editor: Effab1e#2963"
+        "text": "Character Guide \u2022 Build: Kamisato Ayaka | Update Date: 03/20/2023 | Editor: tAlpha#9191"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/7hJAGtk.png"
@@ -14,7 +14,7 @@
         {
             "inline": "true",
             "name": "Replacement Weapon(s):",
-            "value": "__Haran Gepakku Futsu__/__ Summitshaper(shielded)__/__Jade Cutter__ - Comparable options that can be better or worse depending on teams/substats.\n\n__Amenoma Kageuchi__ - Negates all energy issues and allows building more offensive substats. Ayaka's best and only free to play option and is highly recommended to craft and refine."
+            "value": "__Haran Gepakku Futsu__/__ Summitshaper (shielded)__/ __Jade Cutter__ - Comparable options that can be better or worse depending on teams/substats.\n\n__Amenoma Kageuchi__ - Negates all energy issues and allows building more offensive substats. Ayaka's best free to play option and is highly recommended to craft and refine.\n\n__Kagotsurube Isshin__ - Its given for free and if Amenoma Kageuchi is not accessible, it can be a alternative for it. Keep in mind that Ayaka wants a good amount of ER% when using this."
         },
         {
             "inline": "false",
@@ -39,7 +39,7 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Building ER substats to reach requirements is the biggest priority.\nNot using Amenoma  - 130 to 140%\nUsing Amenoma - 100%(R5) to 120%(R1)\n\nBecause of Blizzard Strayer aim for a maximum 30-40% CRIT Rate on the build.\nATK% circlets can be competitive or better, especially on Mistsplitter builds."
+            "value": "Building ER substats to reach requirements is the biggest priority.\nNot using Amenoma  - 130 to 140%\nUsing Amenoma - 100%(R5) to 120%(R1)\n\nBecause of Blizzard Strayer aim for a maximum 30-45% CRIT Rate on the build.\nATK% circlets can be competitive or better, especially on Mistsplitter builds."
         }
     ],
     "color": 10147839,
