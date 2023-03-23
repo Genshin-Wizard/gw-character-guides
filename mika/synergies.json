@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Mika"
+        "text": "Character Guide \u2022 Synergy: Mika | Update Date: 03/23/2023 | Editor: ~Z~#0009"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Mika.png"
     },
+    "fields": [],
     "color": 10147839,
     "type": "rich",
-    "description": "Unknown",
+    "description": "eula,electroflex,mika,zhongli|eula,electroflex,cryoflex,mika|razor,cryoflex,mika,flex",
     "title": "Mika | Team Composition and Synergy"
 }
