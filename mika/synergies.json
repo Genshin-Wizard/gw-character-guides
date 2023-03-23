@@ -1,13 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Mika | Update Date: 03/23/2023 | Editor: ~Z~#0009"
+        "text": "Character Guide \u2022 Synergy: Mika | Update Date: 03/23/2023 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Mika.png"
     },
-    "fields": [],
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "The first 3 teams benefit from his Physical damage bonus, while the later 4 benefit from his attack speed buff. "
+        }
+    ],
     "color": 10147839,
     "type": "rich",
-    "description": "eula,electroflex,mika,zhongli|eula,electroflex,cryoflex,mika|razor,cryoflex,mika,flex",
+    "description": "eula,electroflex,mika,bennett|razor,mika,rosaria,flex|xinyan,rosaria,lisa,mika|wanderer,faruzan,mika,zhongli|ayato,ganyu,mika,kazuha|fischl,yunjin,rosaria,mika|yoimiya,yunjin,mika,zhongli",
     "title": "Mika | Team Composition and Synergy"
 }
