@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Mika"
+        "text": "Character Guide \u2022 Playstyle: Mika | Update Date: 03/23/2023 | Editor: ~Z~#0009"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Mika.png"
     },
     "color": 10147839,
     "type": "rich",
-    "description": "Unknown",
+    "description": "Mika is pretty much only useful for supporting Physical units like Eula or units that value Atk Spd like Ayato to a lesser extent. As such, his playstyle is fairly basic due to his kit being pretty simple to use and swap out of to set up for your main dmg dealer. \n\nMost setups will just consist of Mika using his Elemental Skill and Burst then swapping out.",
     "title": "Mika | Playstyle"
 }
