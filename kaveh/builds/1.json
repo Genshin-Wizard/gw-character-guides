@@ -1,0 +1,53 @@
+{
+    "footer": {
+        "text": "Character Guide \u2022 Build: Kaveh"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Kaveh.png"
+    },
+    "fields": [
+        {
+            "inline": true,
+            "name": "Best Weapon(s):",
+            "value": "Unknown"
+        },
+        {
+            "inline": true,
+            "name": "Replacement Weapon(s):",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Best Artifact Set:",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Second Best Artifact Set:",
+            "value": "Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Third Best Artifact Set:",
+            "value": "Unknown"
+        },
+        {
+            "inline": true,
+            "name": "Main Stats Priority",
+            "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+        },
+        {
+            "inline": true,
+            "name": "Substats Priority",
+            "value": "Unknown|Unknown|Unknown"
+        },
+        {
+            "inline": false,
+            "name": "Talent Priority",
+            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+        }
+    ],
+    "color": 6794623,
+    "type": "rich",
+    "title": "Kaveh (Speculation Build) | Build"
+}

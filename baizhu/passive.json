@@ -1,0 +1,12 @@
+{
+    "footer": {
+        "text": "Character Guide \u2022 Passive Talents: Baizhu"
+    },
+    "thumbnail": {
+        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Baizhuer.png"
+    },
+    "color": 6794623,
+    "type": "rich",
+    "description": "**Five Fortunes Forever**\n*Unlocked at Ascension 1*\n> Baizhu gains different effects according to the current HP of your current active character:\n<:blurplejoinarrow:932413900073369621> When their HP is less than 50%, Baizhu gains 20% Healing Bonus.\n<:blurplejoinarrow:932413900073369621> When their HP is equal to or more than 50%, Baizhu gains 25% Dendro DMG Bonus.\n**All Things Are of the Earth**\n*Unlocked at Ascension 4*\n> Characters who are healed by Seamless Shields will gain the Year of Verdant Favor effect: Each 1,000 Max HP that Baizhu possesses that does not exceed 50,000 will increase the Burning, Bloom, Hyperbloom, and Burgeon reaction DMG dealt by these characters by 2%, while the Aggravate and Spread reaction DMG dealt by these characters will be increased by 0.8%. This effect lasts 6s.\n**Herbal Nourishment**\n*Unlocked Automatically*\n> When Baizhu is in the party, interacting with certain harvestable items will heal your current active character for 2.5% of Baizhu's Max HP.\n",
+    "title": "Baizhu | Passive Talents"
+}
