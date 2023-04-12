@@ -162,5 +162,48 @@
         "color": 10147839,
         "type": "rich",
         "title": "Aloy (Battery Support) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Aloy | Update Date: 03/04/2023 | Editor: Samantha#9907"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/47mFsx4.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "..."
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "..."
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "..."
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "..."
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "..."
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "..."
+            }
+        ],
+        "color": 10147839,
+        "type": "rich",
+        "title": "Aloy (testbuild) | Build"
     }
 ]
