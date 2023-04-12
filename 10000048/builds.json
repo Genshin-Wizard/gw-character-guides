@@ -1,0 +1,103 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Yanfei | Update Date: 08/10/2022 | Editor: Luno#1337"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/AK3r6mb.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Lost Prayers to the Sacred Winds__\n5 Star Best-in-Slot option owing to the nature of Yanfei’s playstyle where she is On-Field for extended periods of time, taking advantage of the weapon passive splendidly.\n\n__Widsith__\nYanfei’s 4 star Best-in-Slot, being able to capitalize on all 3 note buffs for the duration of her damage window. At high refinements, the note buffs are potent enough to be capable of succeeding 5 star weapon options.\n** **"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Kagura’s Verity__\nWhen using 2 skills per rotation, Yanfei is able to attain and maintain the maximum stacks by the start of the second rotation; enabling Yanfei to make use of its max stack condition for a decent boost to her DMG Bonus.\n\n__Solar Pearl__\nPlainly a CRIT statstick as the passive does not buff Yanfei’s main source of personal damage, being her charged attacks.\n\n__Dodoco Tales__\nShould players have this event-exclusive weapon, it still remains as a strong F2P option on Yanfei in this playstyle.\n\n__Mappa Mare__\nDecently strong F2P option provided players can spare the billet(s) needed.\n** ** "
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-crimsonwitchofflames"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-wandererstroupe"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "Elemental Mastery OR ATK%|Pyro DMG Bonus|CRIT Rate or DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "CRIT Rate|CRIT DMG|Elemental Mastery|ATK%"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Normal Attack: Seal of Approval\n**2)** Elemental Burst: Done Deal\n**3)** Elemental Skill: Signed Edict"
+            }
+        ],
+        "color": 16733525,
+        "type": "rich",
+        "title": "Yanfei (On-Field Vaporize DPS) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Yanfei | Update Date: 08/26/2022 | Editor: Luno#1337"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/AK3r6mb.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Sacrificial Fragments__\nStrongest option for Yanfei’s personal damage owing to a high EM substat. Spacing out of skill uses when the weapon passive procs is advised in order for electro auras to be maintained.\n\n__Thrilling Tales of Dragon Slayers__\nProvides a potent buff to a single party member, but mandates a structured rotation in order to properly pass the TTDS buff to the character who benefits most from it.\n** **"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Magic Guide__\nInexpensive variant of sacrificial fragments but with slightly less damage potential.\n\n__Hakushin Ring__\nHakushin Ring’s weapon passive is extremely easy both to proc and maintain as Yanfei claims ownership over most, if not all overloads. Great multi-buffing qualities coupled with more flexible rotations makes this weapon comparable to the buff of Thrilling Tales of Dragon Slayers. \n\n** **"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-crimsonwitchofflames"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-thunderingfury"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "Elemental Mastery |Elemental Mastery |Elemental Mastery"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Elemental Mastery |**__Avoid CRIT Rate substats__**"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "Talents need not be levelled in this playstyle "
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "CRIT Rate substats are to be voided in this playstyle due to her A4 applying more instances of pyro application which, although good in-theory, is not actually beneficial. This is in light of the extra pyro application instance messing up the auras on the enemy; resulting in less overloads owned by Yanfei.\n\nShould players have neither of the 4-piece artifact sets that boost her overload damage, running +80 EM 2-piece sets is an option.\nWhen opting for instructors as one of said +80 EM sets, it is recommended to only run the set piece on the flower and feather. "
+            }
+        ],
+        "color": 16733525,
+        "type": "rich",
+        "title": "Yanfei (On-Field Overload DPS) | Build"
+    }
+]

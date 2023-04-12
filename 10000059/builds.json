@@ -1,0 +1,98 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Shikanoin Heizou | Update Date: 08/23/2022 | Editor: Luno#1337"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/ZrsI0Bj.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Skyward Atlas (DPS)__\nSkyward Atlas is Heizou’s general Best-in-Slot weapon for his personal damage owing to the large attack stats it supplies.\n\n__Sacrificial Fragments R3+ (DPS)__\nThe additional skill charge, coupled with the additional swirls instances, composes a potent weapon that is comparable to other 5 star catalyst options — even when the added skill is left unstacked.\n\n__Widsith (DPS)__\nSince each buff the weapon passive provides works well on Heizou, Widsith — at high refinements — has the ability to be on-par with his 5 star options. However, owing to the 30s buff trigger cooldown, 5 star options still pull ahead when the note buffs are averaged.\n\n__Thrilling Tales of Dragon Slayers (Support)__\nSince the weapon passive limits the flexibility of rotations in order to utilise its strong single-character buff, players are encouraged to run this weapon only when playing an already rotation-strict team.\n** **"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Mappa Mare (DPS)__\nA strong F2P weapon that is very competitive with the other 4 star options, in addition to having an easy to maintain weapon passive. For those without the liberty of catalyst options, using a billet to craft the Mappa Mare for Heizou is a solid course of action. \n\n\n__Solar Pearl (DPS)__\nA decent weapon with a passive that, as a whole, works well with Heizou’s kit. However, it is not advisable to purchase the battle pass purely for the crit mainstat because Mappa Mare, at high refines, performs similarly while being a F2P option.\n\n__Prototype Amber (Support)__\nPrototype Amber has a unique passive that aids healer-less teams with micro-heals in addition to managing his ER requirements when Heizou can only manage to use one skill per burst. The value of the energy refund weapon passive greatly depends on if the player has his C4, which would provides a large reduction to his ER requirements.\n** **"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-viridescentvenerer"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK% |<goblet> Anemo DMG bonus |<circlet>  CRIT Rate or DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "CRIT Rate|CRIT DMG|ATK%|Energy Recharge        "
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Skill: Heartstopper Strike\n**2)**Elemental Burst: Windmuster Kick\n**3)**Normal Attack:  Fudou Style Martial Arts\n** **"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "ER requirements can vary majorly depending on the context of the team Heizou is used in and the number of skills used per burst. Generally, Heizou is most commonly found performing 2 fully-stacked skill uses each rotation. In this scenario, a range of 110-120% ER should be enough to burst every rotation.\nFor more specific situations, be sure to check out the Energy Recharge Calculator tool.\n\n4 Viridescent Venerer is the best artifact set by far for Heizou. In teams that already have an anemo running the 4-piece set or mono geo/ anemo team compositions, running 2-piece set combinations on Heizou is an option. "
+            }
+        ],
+        "color": 5494962,
+        "type": "rich",
+        "title": "Heizou (Quickswap DPS/Support) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Shikanoin Heizou | Update Date: 08/14/2022 | Editor: Luno#1337"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/ZrsI0Bj.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Hakushin Ring__\nA potent weapon option that shines best in electrocharge teams as it can buff both electro, and hydro party members. Given its strong multi-character buff, coupled with a much less rotation-restrictive trigger condition, makes this weapon an excellent choice for Heizou in monoelectro and electrocharge team compositions.\n\n__Sacrificial Fragments__\nAlthough not a weapon to support party members, the boost in personal damage and an additional charge of his skill will usually compensate for the lack of team buffs; particularly in teams where Heizou can proc many swirls and gain electrocharge ownership.\n\n__Thrilling Tales of Dragon Slayers__\nA low-investment option with a strong buff, albeit only for one team member. Since the weapon passive limits the flexibility of rotations in order to be optimally utilised, it is most advisable to run this weapon when playing an already rotation-strict team.\n** **"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Prototype Amber__\nFor teams without healers, Prototype Amber can be a viable option with its small yet significant heals. At R5, the weapon drops his ER requirements by ~80%; enabling Heizou to either burst twice per rotation instead of once for some extra personal damage and additional CC, or to mend his ER needs in teams where Heizou can only feasibly get off 1 skill per burst. However, it is noted that the value of this weapon diminishes with his C4 as it already reduces ER requirements significantly.\n\n__Favonius Codex__\nWhen Heizou is in low particle teams or teams that would benefit from auxiliary particle generation, Favonius Codex is a great option to aid his teammates er requirements, notably when given the opportunity to proc the passive multiple times throughout the rotation. However, players must be able to afford the crit rate substats necessary in order to proc the passive consistently.\n** **"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-viridescentvenerer"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> Elemental Mastery |<goblet> Elemental Mastery |<circlet> Elemental Mastery |"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "CRIT Rate ( when running Favonius Codex )|Elemental Mastery|Energy Recharge"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "Talents can be left at level 1 for EM build. However, should players have the materials to do so, it is worth investing his skill, burst, and auto talents to level 6-8. \n\n** **"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "As an On-Field EM Carry/ Driver, Heizou can utilize low base attack/ less offense oriented weapon options in favour of added buffing capabilities; providing additional flexibility and variety to his otherwise limited weapon pool when focusing primarily on his EM stat.\n\n"
+            }
+        ],
+        "color": 5494962,
+        "type": "rich",
+        "title": "Heizou (On-Field EM Carry/Driver) | Build"
+    }
+]

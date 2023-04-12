@@ -1,0 +1,118 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Keqing | Update Date: 08/22/2022 | Editor: Pneuma#0003"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/PQDR6HJ.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Mistplitter Reforged__\nBest in slot in drip and in combat. High base ATK, CRIT DMG and a powerful passive that Keqing can easily trigger."
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Primordial Jade Cutter, Haran Geppaku Futsu, Summit Shaper__\n5-star options that all rank very closely in terms of Keqing's damage output. Summit Shaper is the worst of the lot and requires a shield to make full use of, but is still better than 4-star options even if you don't have a shield.\n\n__Aquila Favonia, The Black Sword, Lion's Roar__\nAquila is only an option because of its 5-star statline, but it is noticeably worse than all other 5-stars. The Black Sword is the go-to in this bracket if you can get it as it has a high CRIT Rate substat and a decent passive. Lion's Roar can be better (and is generally stronger with refines) if you can maintain full uptime on its passive, although it does not fall off too much even without full uptime unless you constantly remove Electro from the enemy.\n\n__Kagotsurube Isshin__\nThis sword from Kazuha's story quest is the best true F2P option. Use this if you can't afford to get The Black Sword or Lion's Roar."
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x2-thunderingfury|x2-attack"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-thundersoother"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x2-attack|x2-attack"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK% |<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate / CRIT DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "CRIT Rate|CRIT DMG|ATK%"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Burst: Starward Sword\n**2)** Normal Attack: Yunlai Swordsmanship\n**3)** Elemental Skill: Stellar Restoration\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "The 3.0 update is likely to significantly change Keqing's options. Recommended artifact sets will be updated after we confirm Keqing's new teams. It is highly recommended to wait for more information on how she interacts with Dendro before farming for an artifact set."
+            }
+        ],
+        "color": 11104511,
+        "type": "rich",
+        "title": "Keqing (Electro DPS) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Keqing | Update Date: 08/22/2022 | Editor: Pneuma#0003"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/PQDR6HJ.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Aquila Favonia, Primordial Jade Cutter__\nBoth of these options rank closely as the best in slot for Physical Keqing, although Primordial Jade Cutter pulls ahead significantly with external ATK buffers such as Bennett or Sara due to its massive CRIT Rate substat."
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Summit Shaper, Haran Geppaku Futsu, Mistsplitter Reforged__\nOrdered in terms of potency, these 5-star options are all decent choices for Physical Keqing. Mistsplitter Reforged is the worst of the three because this build does not take advantage of its Elemental DMG bonuses; Summit Shaper without a shield is also slightly worse than Haran Geppaku Futsu.\n\n__The Black Sword, Prototype Rancour__\nThe Black Sword is generally better if you can afford it. Prototype Rancour, the free option, is not too far behind and can improve very slightly with refinements, but it is not recommended to use your billets in that manner."
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-paleflame"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x2-paleflame|x2-bloodstainedchivalry"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x2-physical|x2-attack"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK% |<goblet>  Physical DMG Bonus |<circlet>  CRIT Rate / CRIT DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "CRIT Rate|CRIT DMG|ATK%"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Normal Attack: Yunlai Swordsmanship\n**2)** Elemental Burst: Starward Sword\n**3)** Elemental Skill: Stellar Restoration\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Physical DPS Keqing is a niche build that does not scale well in the late game. Generally speaking, it is easy to build for the early game and has very few requirements other than a Cryo teammate to trigger Superconduct, but it is generally recommended to avoid investing too much in this build as physical damage is very limited as a damage type."
+            }
+        ],
+        "color": 11104511,
+        "type": "rich",
+        "title": "Keqing (Physical DPS) | Build"
+    }
+]

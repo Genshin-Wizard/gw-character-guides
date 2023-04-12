@@ -1,0 +1,118 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Childe | Update Date: 10/07/2022 | Editor: ~Z~#0009"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/SLuf0m3.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Polar Star__\nBest overall for a main DPS build as the effect is easy to keep up with Childe on the field.\n\n__Aqua Simulacra__ \nBest overall for a burst DPS build as you don't need to fulfill any conditions to keep the effect active"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Thundering Pulse, Skyward Harp__ \nThese weapons are comparable to Polar Star and Aqua to the point that using any of them is valid instead of pulling for 1 specifically.\n\n__Viridescent Hunt__\nBest 4 star option and easy to get with battle pass. Effect helps grouping and the main stat helps your Crit Rate needs.\n\n__Blackcliff, Mouun's Moon, Prototype Crescent, Rust, Stringless__\nAlternative F2P options depending on what you have available. Dmg is comparable between these. "
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-heartofdepth"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x2-heartofdepth|x2-attack"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x2-heartofdepth|x2-noblesseoblige"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK%  |<goblet>  Hydro DMG Bonus |<circlet>  CRIT Rate / CRIT DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "CRIT Rate|CRIT DMG|ATK% | EM | ER (to an extent)"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Skill: Foul Legacy - Raging Tide\n**2)** Elemental Burst: Havoc - Obliteration\n**3)** Normal Attack: Cutting Torrent\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Childe's Talents:\nBurst and Skill contribute roughly the same amount of damage in the main DPS rotation, so both should be levelled equally. If built as a Burst DPS then obviously Burst should be the primary talent. If you plan to use Childe on-field during his downtime you will also want to level his Normals to help his Charged Shot dmg. \n\nChilde's Artifacts:\nYou can use 4 piece Heart of Depth, 2 piece HoD with Atk% or Noblesse, or 4 piece Shimenawa's as they are roughly the same dmg output although Shimenawa will have a higher ER requirement to comfortably cycle. "
+            }
+        ],
+        "color": 3245055,
+        "type": "rich",
+        "title": "Childe (Vaporize Burst) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Childe"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/SLuf0m3.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "Polar Star"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "Aqua Simulacra, Thundering Pulse, Skyward Harp, Viridescent Hunt, Prototype Crescent"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-heartofdepth"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x2-heartofdepth|x2-attack"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x2-attack|x2-attack"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK%  |<goblet>  Hydro DMG Bonus |<circlet>  CRIT Rate / CRIT DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "CRIT Rate|CRIT DMG|ATK% | ER"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Skill: Foul Legacy - Raging Tide\n**2)** Elemental Burst: Havoc - Obliteration\n**3)** Normal Attack: Cutting Torrent\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Childe isn't assumed to vape his burst for this weapon and artifact ranking, making 2 NO worse, EM from 2WT becomes less useful stat for both teams.\nFreeze Childe:\n4BS will be better than all sets mentioned above, and CR Weapons such as VH, Harp will be worse because it's hard to not overcap crit with it, but Polar star remains BiS along with Thundering pulse assuming no use of Bennett, or TTDS.\n"
+            }
+        ],
+        "color": 3245055,
+        "type": "rich",
+        "title": "Childe (Fireworks/Freeze) | Build"
+    }
+]

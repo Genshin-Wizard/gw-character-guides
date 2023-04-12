@@ -1,0 +1,60 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Yun Jin | Update Date: 08/08/2022 | Editor: Sew#2409"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/nUR6ZQI.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Favonius Lance__ Generates energy for the team while also giving Yun Jin extra Energy Recharge from the substat."
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Deathmatch__ High CRIT Rate substat and DEF% passive will boost Yun Jin's buff and damage but requires significantly more Energy Recharge from artifacts.\n\n__Engulfing Lighting__ Provides alot of Energy Recharge for Yun Jin but the ATK% bonus is wasted on Yun Jin. Better suited for other characters.\n\n__The Catch/Prototype Starglitter__ Useful Energy Recharge substat, no other utility."
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-huskofopulentdreams"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x2-huskofopulentdreams|x2-emblemofseveredfate"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x4-noblesseoblige"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> DEF% or Energy Recharge |<goblet>  DEF% |<circlet>  DEF%"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Energy Recharge|DEF%|CRIT Rate (if using Favonius)"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Burst: Cliffbreaker's Banner\n**2)** Elemental Skill: Opening Flourish\n**3)** Normal Attack: Cloud-grazing Strike\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "DEF scaling characters benefit more than ATK scaling characters from level 90 due to how stat scaling works."
+            }
+        ],
+        "color": 14994176,
+        "type": "rich",
+        "title": "Yun Jin (Support) | Build"
+    }
+]

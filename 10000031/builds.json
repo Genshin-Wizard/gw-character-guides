@@ -1,0 +1,98 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Fischl | Update Date: 08/29/2022 | Editor: LordOfEnnui#8710"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/78124Xb.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Skyward Harp, Thundering Pulse, Polar Star, Aqua Simulacra__\nFischl’s 5 star weapon options are generally within similar margins to one another, with Polar Star having a conditional passive that, when stacked before using her skill, outperforms these other 5 stars.\n** **"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__The Stringless, Alley Hunter__\nPowerful gacha 4-star weapons that are competitive with her 5* options. The Stringless performs better in aggravate-based teams while Alley Hunter performs better in most other compositions.\n\n__Elegy for the End__\nLoses Fischl’s personal damage for a team buff which, in certain reaction dependent teams like vape teams, can be better overall for team damage.\n\n__Prototype Crescent__\nF2P weapon that performs well but complicates rotations to trigger and snapshot its passive.\n** **"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "__2+2 piece combinations of 18% ATK or Thundering Fury__\nWorks fine on Fischl but the quality of the substats takes a much higher priority compared to forcing the set bonuses.\n** **"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK% |<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate OR DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Energy Recharge ( see notes ) |CRIT Rate|CRIT DMG|ATK%"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Skill: Nightrider\n**2)** Elemental Burst: Midnight Phantasmagoria\n\nNormal attacks are irrelevant to upgrade in this playstyle.  "
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Fischl’s ER requirements varies wildly depending on the scenario she is used in. Thus, it is best to check with the Energy Recharge Calculator to find out her ER requirements in player’s specific team compositions.\n\n**Niche Artifact sets:**\n__4 Thundersoother__\nStrong option when playing Fischl in most team compositions where electro aura is maintained. However, the damage gained is not worth farming this 4-pc set over 2-piece options.\n\n__4 TotM__\nAn artifact set that may be useful in certain teams as Fischl can maintain almost 100% uptime of the 4-set effect. However, this set lowers her personal damage and is in a domain that is not useful for most characters, thus why it is not recommended for players to farm this set."
+            }
+        ],
+        "color": 11104511,
+        "type": "rich",
+        "title": "Fischl (Off-Field DPS) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Fischl | Update Date: 08/29/2022 | Editor: LordOfEnnui#8710"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/78124Xb.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Skyward Harp, Thundering Pulse, Polar Star, Aqua Simulacra, Elegy for the End__\nFischl’s 5 star weapon options are generally within similar margins to one another.\n\n__The Stringless__\nThe massive DMG% and EM Stringless provides makes it perfect for Aggravate Fischl, just use it. For QuickBloom or Hyperbloom compositions, her EM needs will vary based on how many Hyperblooms she can reliably trigger. For a rule of thumb, Stringless is good as long as she is the primary Hyperbloom trigger. "
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Alley Hunter__\nStill a great bow in Aggravate teams due to the DMG% in the passive.\n\n__Slingshot__\nA decent 3 star option, it is viable due to the lowered value of ATK and heightened value of CRIT stats in Quicken teams. \n\nIn general, Fischl wants DMG%, CRIT Stats more than ATK%/EM for Aggravate, and EM for Hyperbloom.  "
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "__4 Thundersoother__\nGreat set for Aggravate specifically. Aggravate teams want to apply a ton of Electro, which maintains an invisible underlying Electro aura under the Catalyze aura. TLDR: Thundersoother is mostly up. Outside of Aggravate teams, the Electro aura will generally not be up consistently.\n\n__4 Gilded Dreams__\nAs this set provides a lot of EM, it is perfect for Hyperbloom teams where Fischl is the trigger. The EM it provides makes it quite valuable on Aggravate as well. "
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "__2+2 of ATK% sets, Thundering Fury or EM sets__\nSolid options depending on how good the substats are.\n\n__4 Thundering Fury__\nThis set now has a 20% bonus to Aggravates and a 40% bonus to Hyperblooms. This makes it decent in Aggravate and Hyperbloom teams, and its cooldown reduction can theoretically be used in niche teams to shorten rotations but is mostly useless. "
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK% or EM\n<goblet> Electro DMG%\n<circlet> CRIT Rate or CRIT DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "CRIT Rate or CRIT DMG|ATK% or EM"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "Elemental Skill\nElemental Burst\nNormal Attack (basically pointless)"
+            }
+        ],
+        "color": 11104511,
+        "type": "rich",
+        "title": "Fischl (Dendro Reaction based sub-DPS) | Build"
+    }
+]

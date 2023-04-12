@@ -1,0 +1,60 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Arataki Itto | Update Date: 02/27/2023 | Editor: Samantha#9907"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/rV4eWpl.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Redhorn Stonethresher__\nHis signature, suits him perfectly. "
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Whiteblind__\nHighly synergetic craftable 4-star Claymore.\n__Serpent Spine, Beacon of the Reed Sea, Wolf's Gravestone__\nAll great options, as Itto can benefit from ATK%, DEF% and CRIT stats. "
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-huskofopulentdreams"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-retracingbolide"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x2-archaicpetra|x2-huskofopulentdreams|x2-emblemofseveredfate"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> DEF% |<goblet> Geo DMG Bonus |<circlet>  CRIT Rate or CRIT DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Energy Recharge|CRIT DMG|CRIT Rate|DEF%"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Normal Attack: Fight Club Legend\n**2)** Elemental Burst: Royal Descent - Behold, Itto the Evil!\n**3)** Elemental Skill: Masatsu Zetsugi - Akaushi Burst!"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Use 2-pc Husk with 2-pc Emblem **or** 2-pc Archaic Petra"
+            }
+        ],
+        "color": 14994176,
+        "type": "rich",
+        "title": "Arataki Itto (On-Field DPS) | Build"
+    }
+]

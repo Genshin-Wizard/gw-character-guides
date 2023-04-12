@@ -1,0 +1,60 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Shenhe | Update Date: 08/05/2022 | Editor: Effab1e#2963"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/SYlttcB.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Calamity Queller__ - Best in slot. Usually requires running ER sands."
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Favonius Lance__ - Lowers both her and team's ER requirements. Best option when team wide energy is needed.\n\nEngulfing Lightning, Vortex Vanquisher, Skyward Spine, Staff of Homa, Wavebreaker's Fin, Primordial Jade Winged Spear all serve as strong stat sticks"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-noblesseoblige"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-blizzardstrayer"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x2-attack|x2-attack"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK% or Energy Recharge |<goblet>  ATK% or Cryo DMG Bonus |<circlet>  ATK% or CRIT Rate/CRIT DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Energy Recharge| ATK%|CRIT Rate/CRIT Damage"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Skill: Spring Spirit Summoning\n**2)** Elemental Burst: Divine Maiden's Deliverance\n**3)** Normal Attack: Dawnstar Piercer (Not Recommended)\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Main stat choices are all similar in total damage output so it is best to use what you have.\n\nER requirements :\n~200% with one other Cryo\n~180% with one other Cryo and Fav\n~140% with two other Cryo"
+            }
+        ],
+        "color": 10147839,
+        "type": "rich",
+        "title": "Shenhe (Off-Field DPS) | Build"
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Jean"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/uuGppMs.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Favonius Sword__ Generates more energy in exchange for damage.\n\n__Primordial Jade Cutter__ Greater damage but requires more energy recharge."
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "Sacrificial Sword, Mistsplitter Reforged, Skyward Blade, Festering Desire, Amenoma Kageuchim (R5), Iron Sting"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-viridescentvenerer"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-noblesseoblige"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x2-viridescentvenerer|x2-emblemofseveredfate"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK% or Energy Recharge |<goblet>  Anemo DMG Bonus |<circlet>  CRIT Rate or CRIT DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Energy Recharge| CRIT Rate or CRIT DMG| ATK% "
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Skill: Gale Blade\n**2)** Elemental Burst: Dandelion Breeze\n**3)** Normal Attack: Favonius Bladework\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "This build is focused on Jean in geo and anemo teams where she can't swirl reliably."
+            }
+        ],
+        "color": 5494962,
+        "type": "rich",
+        "title": "Jean (Anemo Support) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Jean"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/uuGppMs.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Freedom-Sworn__ Increased personal and team damage but requires higher energy recharge.\n\n__Favonius Sword__ Generates energy for the whole team in exchange for personal damage."
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "Sacrificial Sword, Iron sting, Skyward Blade, Amenoma Kageuchi"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-viridescentvenerer"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-noblesseoblige"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x2-viridescentvenerer|x2-emblemofseveredfate"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> Elemental Mastery or Energy Recharge |<goblet>  Elemental Mastery |<circlet>  Elemental Mastery"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Energy Recharge|Elemental Mastery|ATK%"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Burst: Dandelion Breeze\n**2)** Elemental Skill: Gale Blade\n**3)** Normal Attack: Favonius Bladework\n"
+            }
+        ],
+        "color": 5494962,
+        "type": "rich",
+        "title": "Jean (Swirl Support) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Jean"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/uuGppMs.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "*Primordial Jade Cutter*\nThe insanely high CRIT Rate substat helps a lot with building physical jean, the low base attack is mitigated by the passive."
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "Aquila Favonia, The Black Sword, Prototype Rancour"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "4x-paleflame"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x2-paleflame|x2-bloodstainedchivalry"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x2-physical|x2-attack"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK% |<goblet>  Physical DMG Bonus |<circlet> CRIT Rate or CRIT DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "CRIT Rate or CRIT DMG|ATK%|Energy Recharge "
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Normal Attack: Favonius Bladework\n**2)** Elemental Burst: Dandelion Breeze\n**3)** Elemental Skill: Gale Blade\n"
+            }
+        ],
+        "color": 5494962,
+        "type": "rich",
+        "title": "Jean (Physical DPS) | Build"
+    }
+]

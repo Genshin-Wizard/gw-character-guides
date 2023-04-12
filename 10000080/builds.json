@@ -1,0 +1,60 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Mika | Update Date: 03/23/2023 | Editor: ~Z~#0009"
+        },
+        "thumbnail": {
+            "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Mika.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Favonius Lance__\nMika's dmg isn't noteworthy but you will need to build some level of Crit Rate to run effectively"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__\"The Catch\", Prototype Starglitter, Skyward Spine__\nAny recharge polearm is a good secondary choice if you can't support Favonius' Crit Rate needs or just don't have it "
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-noblesseoblige"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-maidenbeloved"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "Unknown"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> Energy Recharge / HP% |<goblet>  HP% |<circlet>  Healing Bonus / HP%"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Energy Recharge|HP%|Crit Rate"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Burst: Skyfeather Song\n**2)** Elemental Skill: Starfrost Swirl\n**3)** Normal Attack: Strike of Fortune "
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Artifacts should aim to hit 200% recharge first"
+            }
+        ],
+        "color": 10147839,
+        "type": "rich",
+        "title": "Mika (Speculation Build) | Build"
+    }
+]

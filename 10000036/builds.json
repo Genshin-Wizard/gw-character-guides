@@ -1,0 +1,113 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Chongyun | Update Date: 02/27/2023 | Editor: Samantha#9907"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/FA8SPoN.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "Wolf's Gravestone"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "The Unforged, Skyward Pride, Serpent Spine, Lithic Blade, Akuoumaru, Sacrificial Greatsword, Mailed Flower, Beacon of the Reed Sea"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-emblemofseveredfate"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-lavawalker"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x2-noblesseoblige|x2-blizzardstrayer"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK% or Elemental Mastery |<goblet>  Cryo DMG Bonus |<circlet> CRIT Rate or CRIT DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "ATK%|CRIT Rate|CRIT DMG|Elemental Mastery        "
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Burst: Spirit Blade - Cloud-Parting Star\n**2)** Elemental Skill: Spirit Blade - Chonghua's Layered Frost\n**3)** Normal Attack: Demonbane\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Emblem of Severed Fate provides the highest personal damage by a very small margin over 4-piece Noblesse Oblige, and if not hyper-invested, loses out in general team DPS. If paired with Sacrificial Greatsword, he risks having too much Energy Recharge for his 40 Energy Elemental Burst, so the other sets are recommended instead.\n\nLavawalker is niche and generally resin-inefficent, but will perform somewhere between 4-piece Noblesse Oblige and Emblem of Severed Fate. (Only in teams where he has Pyro aura to Melt off.)"
+            }
+        ],
+        "color": 10147839,
+        "type": "rich",
+        "title": "Chongyun (Off-Field DPS) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Chongyun | Update Date: 02/27/2023 | Editor: Samantha#9907"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/FA8SPoN.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "Wolf’s Gravestone"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "Sacrificial Greatsword, Favonius Greatsword, Makhaira Aquamarine"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "4x-noblesseoblige"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "4x-instructor"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK% or Energy Recharge |<goblet>  Cryo DMG Bonus |<circlet> CRIT Rate"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Energy Recharge|Elemental Mastery"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "1) Elemental Burst: Spirit Blade - Cloud-Parting Star\n2) Elemental Skill: Spirit Blade - Chonghua's Layered Frost\n3) Normal Attack: Demonbane"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Your talents do not have to be leveled for this build. Offensive stats are not extremely important but if running Noblesse Oblige set, Energy Recharge is needed to burst consistently. Team mates such as Bennett may already use the set, and if so, Energy Recharge can be ignored too. "
+            }
+        ],
+        "color": 10147839,
+        "type": "rich",
+        "title": "Chongyun (Support) | Build"
+    }
+]

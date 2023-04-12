@@ -1,0 +1,60 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Anemo Traveler | Update Date: 09/28/2022 | Editor: Samantha#9907"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/B0zBZMi.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "Favonius Sword"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "Festering Desire, Sacrificial Sword, Freedom-Sworn, Xiphos's Moonlight, Skyrider Sword, Iron Sting, Sapwood Blade"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-viridescentvenerer"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-instructor"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x4-noblesseoblige"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> Energy Recharge |<goblet>  Anemo DMG Bonus |<circlet>  CRIT Rate or CRIT DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Energy Recharge|CRIT Rate        "
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Burst: Gust Surge\n**2)** Elemntal Skill: Palm Vortex\n**3)** Normal Attack: Foreign Ironwind\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Unless the Traveler has a large amount of Energy Recharge, building Elemental Mastery and 4-piece Viridescent Venerer is recommended. "
+            }
+        ],
+        "color": 5494962,
+        "type": "rich",
+        "title": "Anemo Traveler (Off-Field DPS) | Build"
+    }
+]

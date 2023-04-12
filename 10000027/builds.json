@@ -1,0 +1,60 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Ningguang | Update Date: 08/21/2022 | Editor: Effab1e#2963"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/w9LQJFO.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Lost Prayer to the Sacred Winds__ - Best option when buffed by Bennett and playing on field even with 1 stack\n\n__Skyward Atlas__ - Great general option, can be best for quickswap\n\n__Memory of Dust__ - Best option when shielded without buffs, falls off with ATK buffs\n** **"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Kagura's Verity, Solar Pearl, Widsith__ - Generally strong catalysts; holds true for Ningguang\n\n__Oathsworn Eye, Dodoco Tales__ - good F2P options\n** **"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x2-archaicpetra|x2-attack"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x2-attack|x2-attack"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x2-archaicpetra|x2-noblesseoblige"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK% |<goblet>  Geo DMG Bonus |<circlet>  CRIT Rate / CRIT DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Energy Recharge(till ER requirement)|CRIT Rate/CRIT DMG|ATK%"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Burst: Starshatter\n**2)** Normal Attack: Sparkling Scatter\n**3)** Elemental Skill: Jade Screen\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "ER Requirement:\n<15s rotations: 120-130%\n20+s rotations : 100-110%"
+            }
+        ],
+        "color": 14994176,
+        "type": "rich",
+        "title": "Ningguang (On-Field DPS) | Build"
+    }
+]

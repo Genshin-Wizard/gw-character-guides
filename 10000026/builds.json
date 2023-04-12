@@ -1,0 +1,55 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Xiao | Update Date: 09/28/2022 | Editor: ChrӨma#3489"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/uSkv5pg.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Primordial Jade Winged-Spear__\nTop of the line drip. In effect, it's a big stat stick for Xiao. The passive takes a few plunges to stack up.\n\n__Staff of Homa__\nBest in slot if you can keep him under 50% HP. That can be a big ask though, as he will need a good Shielder, and you may need to intentionally get hit once or twice to activate it initially. But even at 100% HP, Homa is just so good that it is about on par with other 5*s.\n\n__Blackcliff Pole/Deathmatch__\nAbout even, which one is better will depend on your CRIT Ratio.\n\n__Lithic Spear__\nUnless you're running Double Hydro Xiao, he will not be paired with many Liyue characters other than Zhongli. However, even with just 2 Liyue characters, the spear is about even with Blackcliff Pole/Deathmatch. An R3-5 4Liyue Lithic Spear is significantly better than PJWS and Staff of Homa. Practically it will not be that good, due to teamcomp restrictions.\n"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Calamity Queller__\nGreat option, isn't far behind PJWS\n\n__Vortex Vanquisher__\nAbout even with PJWS if Shielded. So it basically requires Geo Daddy (Zhongli). Unshielded it is a bit worse than Calamity Queller. Falls off a bit if you use both Bennett and TTDS.\n\n__Favonius Lance__\nNot as good as other 4*s for Xiao's personal damage, but can help smooth out energy requirements for him and his team. "
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-vermillionhereafter"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x2-attack|x2-viridescentvenerer"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x2-attack|x2-attack"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK% |<goblet>  Anemo DMG Bonus or ATK% |<circlet>  CRIT DMG or CRIT Rate / ATK%"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "CRIT DMG|CRIT Rate |ATK%|Energy Recharge"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Normal Attack: Whirlwind Thrust\n**2)** Elemental Burst: Bane of All Evil\n**3)** Elemental Skill: Lemniscatic Wind Cycling\n"
+            }
+        ],
+        "color": 5494962,
+        "type": "rich",
+        "title": "Xiao (On-Field DPS) | Build"
+    }
+]

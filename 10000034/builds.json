@@ -1,0 +1,60 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Noelle | Update Date: 10/06/2022 | Editor: Sew#2409"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/klBUgnZ.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Redhorn Stonethresher__ Redhorn as a weapon is tailor made for Noelle's kit. High Crit mainstat, additional DEF and DEF to Normal and Charged ATK DMG bonus make it Noelle's best weapon."
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "Serpents spine, Skyward Pride, Whiteblind"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-huskofopulentdreams"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-gladiatorsfinale"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x4-retracingbolide"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> DEF% or ATK% |<goblet>  Geo DMG Bonus |<circlet> CRIT Rate or CRIT DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Energy Recharge|Crit Rate or Crit DMG|DEF%|ATK%      "
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Normal Attack: Favonious Bladework- Maid\n**2)** Elemental Burst: Sweeping Time\n**3)** Elemental Skill: Breastplate\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Pre C6 ATK% sands may be better than DEF%."
+            }
+        ],
+        "color": 14994176,
+        "type": "rich",
+        "title": "Noelle (On-Field DPS) | Build"
+    }
+]

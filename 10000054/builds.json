@@ -1,0 +1,55 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Sangonomiya Kokomi | Update Date: 10/06/2022 | Editor: Pile6Zero#6228"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/Rd4Ubga.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Thrilling Tales of Dragon Slayers:__\nIn most teams Kokomi functions as a healer and an off field hydro applier, Thrilling Tales of Dragon slayers having a HP% substat as well as a massive atk% buff for a team member makes it the ideal weapon of choice for Kokomi as a support. Additionally it's HP% substat allows her to still deal competent damage if the team requires it"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Hakushin Ring:__\nThe Energy Recharge substat helps with Kokomi's energy requirements allowing you to easily maintain 100% uptime on her elemental skill. Additionally its passive buffs multiple teammates at once, making it an especially powerful option for taser teams.\n__Prototype Amber, Everlasting Moonglow:__\nShould you find yourself playing a team that requires Kokomi to contribute significantly to team damage then these weapons may be useful. Everlasting Moonglow being her signature weapon has a HP% substat, as well as a passive that helps with her on field damage and energy needs. Prototype Amber does the same but to a much smaller extent due to it's lower stats as a 4* weapon"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-oceanhuedclam"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-tenacityofthemillelith"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x2-maidenbeloved|x2-tenacityofthemillelith|x2-oceanhuedclam|x2-heartofdepth"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> Energy Recharge or HP % |<goblet> Hydro DMG Bonus or HP % |<circlet>  Healing Bonus"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Energy Recharge|HP %|Elemental Mastery        "
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Skill: Kurage's Oath\n**2)** Elemental Burst: Nereid's Ascension\n**3)** Normal Attack: The Shape of Water\n"
+            }
+        ],
+        "color": 3245055,
+        "type": "rich",
+        "title": "Sangonomiya Kokomi (Support) | Build"
+    }
+]

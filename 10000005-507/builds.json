@@ -1,0 +1,118 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Electro Traveler | Update Date: 09/27/2022 | Editor: Samantha#9907"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/B0zBZMi.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "Xiphos' Moonlight"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "Sapwood Blade, Freedom Sworn, Key of Khaj-Nisut, The Alley Flash, Jade Cutter"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-emblemofseveredfate"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-gildeddreams"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x4-thunderingfury"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> Energy Recharge or Elemental Mastery or ATK% |<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate or CRIT DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Energy Recharge|Elemental Mastery|CRIT Rate|CRIT DMG|ATK%"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Burst: Bellowing Thunder\n**2)** Elemntal Skill: Lightning Blade\n**3)** Normal Attack: Foreign Thundershock\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Only build for Elemental Mastery when Energy Requirements are met, and is playing for Quicken Teams. Instructors and Noblesse Oblige will work for less personal damage but increased Team DPS."
+            }
+        ],
+        "color": 11104511,
+        "type": "rich",
+        "title": "Electro Traveler (Off-Field DPS) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Electro Traveler | Update Date: 09/27/2022 | Editor: Samantha#9907"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/B0zBZMi.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "Favonius Sword"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "Sacrificial Sword, Festering Desire, Amenoma Kageuchi, Skyrider Sword, Skyward Blade"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-emblemofseveredfate"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-noblesseoblige"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x4-instructor"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> Energy Recharge |<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Energy Recharge|CRIT Rate"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Burst: Bellowing Thunder\nElemental Skill and Normal Attack are not needed for this build."
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Running Noblesse Oblige will result in higher team DPS but will require hyperinvestment into the Traveler's Energy Recharge."
+            }
+        ],
+        "color": 11104511,
+        "type": "rich",
+        "title": "Electro Traveler (Battery) | Build"
+    }
+]

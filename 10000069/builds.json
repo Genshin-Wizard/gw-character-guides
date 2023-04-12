@@ -1,0 +1,55 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Tighnari | Update Date: 09/09/2022 | Editor: Luno#1337"
+        },
+        "thumbnail": {
+            "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Tighnari.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Hunter’s Path__\nTighnari’s signature weapon and his Best-in-Slot when opting to focus on his personal damage. Do note that an EM sands is more preferred over an ATK% sands as it synergies well with the weapon passive.\n\n__Elegy for the End__\nVery capable weapon on Tighnari — especially in scenarios where he requires relatively high Energy Recharge to burst consistently — since the buffs supplied is actually significant on him. Moreover, the buff provided by the weapon’s passive also strengthens teammates, conferring more value to the weapon.\n** **"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Prototype Crescent, The Stringless, Slingshot__\nSatisfactory weapons that all perform well on Tighnari.\nThe Stringless is better in situations where he does not utilize his charged shots while Prototype Crescent and Slingshot are better when charged shotting, albeit with conditional passives that want to be proc’d and/ or maintained.\n** **"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "__4 Gilded Dreams, 4 Wanderer’s Troupe__\nWhen charge shotting on Tighnari, Gilded Dreams and Wanders Troupe perform neaely identical to one another. Thus, it is recommended to run the 4 set with better substats.\n** **"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "__4 Deepwood Memories__\nShould his team not have a better 4 Deepwood Memories holder, this set becomes Tighnari Best-in-Slot.\n** **"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK% OR Elemental Mastery |<goblet> Dendro DMG Bonus|<circlet> CRIT DMG or CRIT Rate"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Energy Recharge|CRIT Rate|CRIT DMG|Elemental Mastery|ATK%"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Normal Attack: Khanda Barrier-Buster\n**2)** Elemental Burst: Fashioner's Tanglevine Shaft\n**3)** Elemental Skill: Vijnana-Phala Mine\n\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "ATK% sands is still the preferred mainstat over Elemental Mastery unless using his Signature weapon or very low base attack weapons.\n\nER requirements differ based on the situation Tighnari is placed in, his team, and how many skills are used per burst cycle. Generally, his ER requirements are:\nSolo Dendro, 1 Skill/ Burst — 160-180+ ER\nDouble Dendro, 1 Skill/ Burst — 120-140+ ER\nSolo Dendro, 2 Skills/ Burst — 100 ER "
+            }
+        ],
+        "color": 6794623,
+        "type": "rich",
+        "title": "Tighnari (Main DPS) | Build"
+    }
+]

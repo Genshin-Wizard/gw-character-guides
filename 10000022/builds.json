@@ -1,0 +1,50 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Venti | Update Date: 08/07/2022 | Editor: Effab1e#2963"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/d4Dceto.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Elegy for the End__ - Provides good buffs and more than sufficient ER for Venti. Generally always recommended to use.\n\n__The Stringless__ - Strongest option for Venti's personal damage, provides much appreciated EM."
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Windblume Ode__ - Similar to Stringless R1, best non gacha option.\n\n__Favonius Warbow__ - Not strong for damage, only worth using if team needs a lot of energy particles."
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-viridescentvenerer"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> Elemental Mastery |<goblet>  Elemental Mastery |<circlet>  Elemental Mastery"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Energy Recharge|Elemental Mastery        "
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Burst: Wind's Grand Ode\n**2)** Elemental Skill: Skyward Sonnet\n**3)** Normal Attack: Divine Marksmanship\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "__For EM Venti getting him to level 90 is suggested over talents__.\n\nWhile ATK%/Anemo/CRIT is a possible build for venti it generally requires extremely high investment to barely surpass the standard EM build in multi target (which is Venti's niche), EM build is also better when Venti is triggering chain reactions.\n\nER Requirements:\n1 Skill between burst - 200%\n2 Skills used - 160 to 170%\nDouble Anemo - 120-130%"
+            }
+        ],
+        "color": 5494962,
+        "type": "rich",
+        "title": "Venti (Swirl Support) | Build"
+    }
+]

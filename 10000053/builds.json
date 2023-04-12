@@ -1,0 +1,171 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Sayu | Update Date: 10/24/2022 | Editor: Samantha#9907"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/oYiMaic.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "Favonius Greatsword"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "Wolf's Gravestone, Skyward Pride, Sacrificial Greatsword, Katsuragikiri Nagamasa, Luxurious Sea-Lord, Rainslasher, Bloodtainted Greatsword"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-viridescentvenerer"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-oceanhuedclam"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x4-noblesseoblige"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> Elemental Mastery|<goblet>  Elemental Mastery|<circlet>  Elemental Mastery or Healing Bonus"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "ATK%|Energy Recharge|Elemental Mastery        "
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Burst: Yoohoo Art - Mujina Flurry\n**2)** Elemental Skill: Yoohoo Art - Fuuin Dash\nNormal Attack and Skill level does not increase the amount of healing Sayu does."
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "__Dendro Support Sayu__\n4-set of Deepwood Memories and Forest Regalia work in addition to options stated above. \n\nTry keep a balance between Sayu's Attack and Elemental Mastery while keeping Energy Recharge decently high. After C6, it becomes ideal to focus on Elemental Mastery only. If you run an ATK% weapon like the Luxurious Sea-Lord or Energy Recharge weapon like Favonius Greatsword, it is recommended to run an Elemental Mastery focused set and vise versa."
+            }
+        ],
+        "color": 5494962,
+        "type": "rich",
+        "title": "Sayu (Support) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Sayu | Update Date: 02/27/2023 | Editor: Samantha#9907"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/oYiMaic.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Rainslasher__\nMainly useful for teams where Sayu can keep it's passive up, generally in Aggravate Sayu teams where she can reliably absorb Electro\n__Mailed Flower__\nDoes require Sayu to trigger an Elemental Reaction or use an Elemental Skill, but this can be achieved through her Elemental Burst. (Note the passive lasts 8s and her held roll has a 11s cooldown.) "
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "Katsuragikiri Nagamasa, Bloodtainted Greatsword, Favonius Greatsword, Makhaira Aquamarine, Forest Regalia"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-gildeddreams"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-viridescentvenerer"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x2-wandererstroupe|x2-gildeddreams"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> Elemental Mastery|<goblet>  Elemental Mastery|<circlet>  Elemental Mastery"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Elemental Mastery|Energy Recharge"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Skill: Yoohoo Art - Fuuin Dash\n**2)** Elemental Burst: Yoohoo Art - Mujina Flurry\nNormal Attack and Skill level does not increase the amount of healing Sayu does."
+            }
+        ],
+        "color": 5494962,
+        "type": "rich",
+        "title": "Sayu (Reaction Driver) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Sayu | Update Date: 10/24/2022 | Editor: Samantha#9907"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/oYiMaic.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "Wolf's Gravestone"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "The Unforged, Serpent Spine, Akuoumaru, Luxurious Sea-Lord, Katsuragikiri Nagamasa, Skyward Pride"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "4x-viridescentvenerer"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "2x-viridescentvenerer|2x-atk"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "4x-thundersoother"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK%|<goblet>Anemo DMG bnous|<circlet>  CRIT Rate or CRIT DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "ATK%|Energy Recharge|Elemental Mastery"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Skill: Yoohoo Art - Fuuin Dash\n**2)**  Elemental Burst: Yoohoo Art - Mujina Flurry\nDespite being a DPS build, ideal rotations will not use Normal Attacks."
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Despite being a high-investment build, a pure Elemental Mastery will perform similarly. Thundersoother is a niche set where Electro aura is maintained, and Lavawalker where Pyro aura is maintained."
+            }
+        ],
+        "color": 5494962,
+        "type": "rich",
+        "title": "Sayu (Hybrid DPS) | Build"
+    }
+]

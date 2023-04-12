@@ -1,0 +1,60 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Dori | Update Date: 02/27/2023 | Editor: Samantha#9907"
+        },
+        "thumbnail": {
+            "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Dori.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "Favonius Greatsword"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "Forest Regalia, Sacrificial Greatsword, Wolf’s Gravestone, Bloodtainted Greatsword, Rainslasher, Mailed Flower"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-noblesseoblige"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-deepwoodmemories"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x4-instructor"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> Energy Recharge or Elemental Mastery or HP% |<goblet> HP% or Elemental Mastery |<circlet> HP% or Elemental Mastery"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "CRIT Rate|Energy Recharge|Elemental Mastery|HP%      "
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Burst: Alcazarzaray's Exactitude\nElemental Skill and Normal Attacks are not needed for a Healer or Support build.\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "The Bell has an HP% substat, but will generally fall behind from how much Energy Recharge Dori needs.\nThe Ocean-Hued Clam can work on Dori if she has a lot of investment into her healing.\nShe can be built fully with Elemental Mastery, given something like the Mailed Flower and an Electro Battery, then run as a Hyperbloom driver, but not necessarily worth the investment."
+            }
+        ],
+        "color": 11104511,
+        "type": "rich",
+        "title": "Dori (Support) | Build"
+    }
+]

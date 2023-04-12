@@ -1,0 +1,229 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Amber"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/P3EU7xA.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "Elegy for the End"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "Favonious Warbow, The Stringless"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-instructor"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-noblesseoblige"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> Energy Recharge% |<goblet>  Pyro DMG Bonus |<circlet>  CRIT Rate or CRIT DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Energy Recharge|CRIT Rate or CRIT DMG|ATK%         "
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Burst: Fiery Rain\n**2)** Elemental Skill: Explosive Puppet\n**3)** Normal Attack: Sharpshooter\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Offensive stats do not need to be considered outside of Energy Recharge. CRIT Rate is helpful if using Favonius Warbow."
+            }
+        ],
+        "color": 16733525,
+        "type": "rich",
+        "title": "Amber (Off-Field DPS) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Amber"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/P3EU7xA.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "Skyward Harp"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "Thundering Pulse, Amos Bow, Protype Crescent, Compound Bow, Slingshot"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x2-physical|x2-physical"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x2-attack|x2-physical"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x4-shimenawasreminiscence"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK% |<goblet>  Physical DMG Bonus |<circlet>  CRIT Rate or CRIT DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "CRIT Rate or CRIT DMG|ATK%         "
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Normal Attack: Sharpshooter\n**2)** Elemental Skill: Explosive Puppet\n**3)** Elemental Burst: Fiery Rain\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "With the exclusion of those playing a hybrid build focusing on Physical and Pyro damage or with her C6 (Increases Attack), Energy Recharge and Elemental Mastery can be ignored as well as her burst and skill."
+            }
+        ],
+        "color": 16733525,
+        "type": "rich",
+        "title": "Amber (Physical DPS) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Amber | Update Date: 01/25/2023 | Editor: Samantha#9907"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/P3EU7xA.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "Amos' Bow"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "Thundering Pulse, Sharpshooter’s Oath, Prototype Crescent, Hamayumi, Blackcliff Warbow, Hunter's Path"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-shimenawasreminiscence"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-wandererstroupe"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x2-attack|x2-crimsonwitchofflames"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK% or Elemental Mastery |<goblet>  Pyro DMG Bonus |<circlet>  CRIT DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "CRIT DMG|ATK%|Elemental Mastery         "
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)**Normal Attack: Sharpshooter\n**2)** Elemental Skill: Explosive Puppet\n**3)** Elemental Burst: Fiery Rain\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "The most important part of this playstyle is to make up for the low scalings on her charged shot by building up high CRIT DMG and consistently landing headshots (weak-point hits) for guaranteed CRIT hit. \n\n*If playing against enemies with no weak-points or World Bosses, CRIT Rate weapons can be better for balancing your CRIT ratio.*\n\nElemental Mastery sands is conditionally better, but she must be in a Melt or Vaporize team. "
+            }
+        ],
+        "color": 16733525,
+        "type": "rich",
+        "title": "Amber (Charged-Shot) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Amber | Update Date: 01/25/2023 | Editor: Samantha#9907"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/P3EU7xA.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "The Stringless"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "Windblume Ode, Raven Bow, Elegy for the End"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-flowerofparadiselost"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-gildeddreams"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x4-crimsonwitchofflames"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> Elemental Mastery |<goblet>  Elemental Mastery |<circlet>  Elemental Mastery"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Elemental Mastery"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "Talents do not have to be leveled for this build, as her raw Pyro damage is negligible."
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "It's not recommended to farm Crimson Witch of Flames for just Burgeon Amber.\n2-piece mixes of any Elemental Mastery +80 sets work too."
+            }
+        ],
+        "color": 16733525,
+        "type": "rich",
+        "title": "Amber (Burgeon) | Build"
+    }
+]

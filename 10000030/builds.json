@@ -1,0 +1,166 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Zhongli | Update Date: 11/10/2022 | Editor: ~Z~#0009"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/fqg3O0z.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "Favonius Lance\nA great weapon for Zhongli to compensate for the otherwise particle deficient character; attain CRIT Rate from artifact substats to proc the passive more consistently. Does not need to be leveled up as the ER and base attack is largely irrelevant on Zhongli in support builds. "
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "Black Tassel\nWhen running purely for shield strength, this would be the best option purely for the HP% mainstat, on top of being accessible. "
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-tenacityofthemillelith"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x4-archaicpetra"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x4-instructor"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> HP% |<goblet>  HP% |<circlet>  HP%"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "CRIT Rate (when running Favonius Lance)|HP%|HP "
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Skill: Dominus Lapidis\n**2)** Elemental Burst: Planet Befall\n**3)** Normal Attack: Rain of Stone\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Burst and Auto Attack talents need not be levelled.\n\n4p Archaic Petra can be situationally strong when the rotation is flexible enough to enable the pick up of a crystallize shard of the preferred element while Zhongli is on-field.\n\n4p Instructors, another situational set, can be effectively used by Zhongli in Vape/Melt teams as he is able to consistently trigger the crystallize reaction when on-field with his hold E. ( as long as there is an aura on the enemy )\n\nFor a purely Shield-Bot build Zhongli, at low investments, can opt to rainbow artifacts with high HP%/ flat HP substats. "
+            }
+        ],
+        "color": 14994176,
+        "type": "rich",
+        "title": "Zhongli (Support) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Zhongli | Update Date: 08/21/2022 | Editor: ~Z~#0009"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/fqg3O0z.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Crescent Pike__\nFor Physical DPS specifically the weapon effect of  r5 Crescent Pike will out DPS even Staff of Homa  unless you have multiple Homa refines. "
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Staff of Homa__\nHoma is still a solid option especially if you cannot get multiple Crescent Pike refines or want a little better shield"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x4-paleflame"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "x2-paleflame|x2-bloodstainedchivalry"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "x4-gladiatorsfinale"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> HP % or  ATK% |<goblet> Physical Dmg % |<circlet> Crit Rate or Dmg"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Crit Dmg | Crit Rate | ATK% | HP%"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Normal Attack: Rain of Stone\n**2)** Elemental Burst: Planet Befall\n**3)** Elemental Skill: Dominus Lapidis"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "The choice between HP% or ATK% Sands is between a better shield or more damage. Whichever isn't selected should be pursued on the sub stats.\n\nYou may choose to pursue better shield capabilities by leveling his Elemental Skill over his Elemental Burst. "
+            }
+        ],
+        "color": 14994176,
+        "type": "rich",
+        "title": "Zhongli (Physical DPS) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Zhongli | Update Date: 08/21/2022 | Editor: ~Z~#0009"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/fqg3O0z.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Staff of Homa__\nGood general use weapon as it drastically increases dmg especially when under 50% while also offering better shielding"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Lithic Spear__\nLithic Spear with 4 Liyue characters will actually outperform Staff of Homa r1 unless Zhongli is under 50% HP\n\n__Primordial Jade Winged-Spear__\nWinged-Spear can be an option if you don't have the others or can't reach proper crit ratio with Homa and don't want to run multiple Liyue characters for Lithic"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "x2-archaicpetra|x2-noblesseoblige"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands>HP %|<goblet>Geo Dmg %| <circlet> Crit Rate or Dmg"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Crit Dmg or Crit Rate | HP % | ATK%"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "1) Elemental Burst: Planet Befall\n2) Elemental Skill: Dominus Lapidis\n3) Normal Attack: Rain of Stone"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "This is an option that trades off stronger shields for a more Burst dmg to try and offset the usual DPS loss due to Zhongli's long burst animation.\n\nIdeally Crit Ratio should be 1:2 so select your artifacts with that in mind.\n\nBuild is significantly better at c2 where casting the Burst will also grant Jade Shield but can be used for players that prefer better enemy control via his petrification."
+            }
+        ],
+        "color": 14994176,
+        "type": "rich",
+        "title": "Zhongli (Burst Support) | Build"
+    }
+]
