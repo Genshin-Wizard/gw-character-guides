@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Hu Tao | Update Date: 08/05/2022 | Editor: Pneuma#0003"
+        "text": "Character Guide • Synergy: Hu Tao | Update Date: 08/05/2022 | Editor: Pneuma#0003"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/mvF8rwX.png"
@@ -14,6 +14,6 @@
     ],
     "color": 16733525,
     "type": "rich",
-    "description": "hutao,yelan,xingqiu,zhongli|hutao,xingqiu,zhongli,albedo|hutao,xingqiu,rosaria,diona|hutao,xingqiu,fischl,zhongli|hutao,yelan,kazuha,xinyan|hutao,xingqiu,sucrose,amber",
+    "description": "10000046,10000060,10000025,10000030|10000046,10000025,10000030,10000038|10000046,10000025,10000045,10000039|10000046,10000025,10000031,10000030|10000046,10000060,10000047,10000044|10000046,10000025,10000043,10000021",
     "title": "Hu Tao | Team Composition and Synergy"
 }

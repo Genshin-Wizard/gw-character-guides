@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Mika | Update Date: 03/23/2023 | Editor: Samantha#9907"
+        "text": "Character Guide • Synergy: Mika | Update Date: 03/23/2023 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Mika.png"
@@ -14,6 +14,6 @@
     ],
     "color": 10147839,
     "type": "rich",
-    "description": "eula,electroflex,mika,bennett|razor,mika,rosaria,flex|xinyan,rosaria,lisa,mika|wanderer,faruzan,mika,zhongli|ayato,ganyu,mika,kazuha|fischl,yunjin,rosaria,mika|yoimiya,yunjin,mika,zhongli",
+    "description": "10000051,electroflex,10000080,10000032|10000020,10000080,10000045,flex|10000044,10000045,10000006,10000080|10000075,10000076,10000080,10000030|10000066,10000037,10000080,10000047|10000031,10000064,10000045,10000080|10000049,10000064,10000080,10000030",
     "title": "Mika | Team Composition and Synergy"
 }

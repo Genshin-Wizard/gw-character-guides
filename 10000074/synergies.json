@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Layla | Update Date: 11/24/2022 | Editor: ~Z~#0009"
+        "text": "Character Guide • Synergy: Layla | Update Date: 11/24/2022 | Editor: ~Z~#0009"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Layla.png"
@@ -8,6 +8,6 @@
     "fields": [],
     "color": 10147839,
     "type": "rich",
-    "description": "layla,shenhe,ayaka,anemoflex|layla,ganyu,hydroflex,anemoflex|layla,xingqiu,yelan,hutao|layla,eula,electroflex,flex",
+    "description": "10000074,10000063,10000002,anemoflex|10000074,10000037,hydroflex,anemoflex|10000074,10000025,10000060,10000046|10000074,10000051,electroflex,flex",
     "title": "Layla | Team Composition and Synergy"
 }

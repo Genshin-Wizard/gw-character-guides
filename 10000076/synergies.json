@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Faruzan | Update Date: 12/08/2022 | Editor: Samantha#9907"
+        "text": "Character Guide • Synergy: Faruzan | Update Date: 12/08/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Faruzan.png"
@@ -14,6 +14,6 @@
     ],
     "color": 5494962,
     "type": "rich",
-    "description": "xiao,faruzan,zhongli,bennett|wanderer,faruzan,bennett,diona|heizou,faruzan,fischl,bennett|xiao,faruzan,jean,zhongli|wanderer,faruzan,venti,diona|anemoflex,faruzan,flex,flex",
+    "description": "10000026,10000076,10000030,10000032|10000075,10000076,10000032,10000039|10000059,10000076,10000031,10000032|10000026,10000076,10000003,10000030|10000075,10000076,10000022,10000039|anemoflex,10000076,flex,flex",
     "title": "Faruzan | Team Composition and Synergy"
 }

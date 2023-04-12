@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Xinyan"
+        "text": "Character Guide • Synergy: Xinyan"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/T6meiSo.png"
@@ -8,6 +8,6 @@
     "fields": [],
     "color": 16733525,
     "type": "rich",
-    "description": "eula,xinyan,lisa,diona|razor,xinyan,bennett,diona|xinyan,rosaria,beidou,bennett|hutao,xingqiu,sucrose,xinyan|hutao,xingqiu,kazuha,xinyan|yoimiya,yelan,sucrose,xinyan|yoimiya,xingqiu,sucrose,xinyan",
+    "description": "10000051,10000044,10000006,10000039|10000020,10000044,10000032,10000039|10000044,10000045,10000024,10000032|10000046,10000025,10000043,10000044|10000046,10000025,10000047,10000044|10000049,10000060,10000043,10000044|10000049,10000025,10000043,10000044",
     "title": "Xinyan | Team Composition and Synergy"
 }

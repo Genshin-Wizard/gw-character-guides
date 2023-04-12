@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Diluc"
+        "text": "Character Guide • Synergy: Diluc"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/SsCTU9V.png"
     },
     "color": 16733525,
     "type": "rich",
-    "description": "diluc,xingqiu,bennett,sucrose|diluc,yelan,bennett,kazuha|diluc,xingqiu,yelan,kazuha",
+    "description": "10000016,10000025,10000032,10000043|10000016,10000060,10000032,10000047|10000016,10000025,10000060,10000047",
     "title": "Diluc | Team Composition and Synergy"
 }

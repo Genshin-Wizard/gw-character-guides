@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Childe"
+        "text": "Character Guide • Synergy: Childe"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/SLuf0m3.png"
@@ -8,6 +8,6 @@
     "fields": [],
     "color": 3245055,
     "type": "rich",
-    "description": "childe,xiangling,bennett,kazuha|childe,fischl,beidou,bennett|childe,xiangling,bennett,sucrose",
+    "description": "childe,10000023,10000032,10000047|childe,10000031,10000024,10000032|childe,10000023,10000032,10000043",
     "title": "Childe | Team Composition and Synergy"
 }

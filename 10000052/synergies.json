@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Raiden Shogun | Update Date: 11/24/2022 | Editor: ~Z~#0009"
+        "text": "Character Guide • Synergy: Raiden Shogun | Update Date: 11/24/2022 | Editor: ~Z~#0009"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/4NdsZHk.png"
@@ -8,6 +8,6 @@
     "fields": [],
     "color": 11104511,
     "type": "rich",
-    "description": "xiangling,xingqiu,bennett,raiden|eula,raiden,rosaria,zhongli|raiden,sara,bennett,kazuha|raiden,dendroflex,anemoflex,flex",
+    "description": "10000023,10000025,10000032,10000052|10000051,10000052,10000045,10000030|10000052,10000056,10000032,10000047|10000052,dendroflex,anemoflex,flex",
     "title": "Raiden | Team Composition and Synergy"
 }

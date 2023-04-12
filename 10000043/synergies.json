@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Sucrose | Update Date: 08/05/2022 | Editor: SirDerpyHerp#7903"
+        "text": "Character Guide • Synergy: Sucrose | Update Date: 08/05/2022 | Editor: SirDerpyHerp#7903"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/laV05YF.png"
@@ -8,6 +8,6 @@
     "fields": [],
     "color": 5494962,
     "type": "rich",
-    "description": "hutao,xingqiu,amber,sucrose|childe,xiangling,bennett,sucrose|beidou,xingqiu,fischl,sucrose|xiao,bennett,zhongli,sucrose",
+    "description": "10000046,10000025,10000021,10000043|childe,10000023,10000032,10000043|10000024,10000025,10000031,10000043|10000026,10000032,10000030,10000043",
     "title": "Sucrose | Team Composition and Synergy"
 }

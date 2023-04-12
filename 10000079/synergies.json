@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Dehya | Update Date: 03/01/2023 | Editor: Samantha#9907"
+        "text": "Character Guide • Synergy: Dehya | Update Date: 03/01/2023 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Dehya.png"
@@ -14,6 +14,6 @@
     ],
     "color": 16733525,
     "type": "rich",
-    "description": "dehya,nilou,bennett,kazuha|dehya,xiangling,bennett,kazuha|ganyu,nahida,dehya,bennett|dehya,raiden,kokomi,nahida|dehya,rosaria,nahida,kaeya|hutao,dehya,xingqiu,yelan|dehya,nahida,venti,kazuha|electroflex,dehya,nahida,flex|dehya,ayato,bennett,kazuha|dehya,mona,bennett,sucrose",
+    "description": "10000079,10000070,10000032,10000047|10000079,10000023,10000032,10000047|10000037,10000073,10000079,10000032|10000079,10000052,10000054,10000073|10000079,10000045,10000073,10000015|10000046,10000079,10000025,10000060|10000079,10000073,10000022,10000047|electroflex,10000079,10000073,flex|10000079,10000066,10000032,10000047|10000079,10000041,10000032,10000043",
     "title": "Dehya | Team Composition and Synergy"
 }

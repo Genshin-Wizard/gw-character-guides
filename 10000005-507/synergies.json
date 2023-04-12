@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Electro Traveler | Update Date: 09/28/2022 | Editor: Samantha#9907"
+        "text": "Character Guide • Synergy: Electro Traveler | Update Date: 09/28/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/B0zBZMi.png"
@@ -8,6 +8,6 @@
     "fields": [],
     "color": 11104511,
     "type": "rich",
-    "description": "eula,fischl,diona,electrotraveler|yoimiya,beidou,electrotraveler,xingqiu|childe,beidou,electrotraveler,bennett|tighnari,yaemiko,electrotraveler,sayu|collei,tighnari,electrotraveler,jean|electrotraveler,yanfei,venti,bennett",
+    "description": "10000051,10000031,10000039,10000005-507|10000049,10000024,10000005-507,10000025|childe,10000024,10000005-507,10000032|10000069,10000058,10000005-507,10000053|10000067,10000069,10000005-507,10000003|10000005-507,10000048,10000022,10000032",
     "title": "Electro Traveler | Team Composition and Synergy"
 }

@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Cyno | Update Date: 10/26/2022 | Editor: Luanjo#5886"
+        "text": "Character Guide • Synergy: Cyno | Update Date: 10/26/2022 | Editor: Luanjo#5886"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/SoCflUy.png"
@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Cyno benefits from teammates who have **lower field time requirements\u2014as to not compete with his own**; and abilities that have some sort of **off-field presence**, whether it be Damage, Energy Particles generation or added utility like Healing/Resistance to Interruption. \n\nHe has synergy with a plethora of **Electro flexes**. Examples being: **Fischl**, **Kuki**, **Beidou**, **Yae**, and **Dori**.\n\nDendro being a novelty means **Dendro flexes** are scarce. Thankfully, between the characters readily available, Cyno is able to synergize with both the **Dendro Traveler** and **Collei**, which are **free units**.\n\n**Hydro flexes** include **Xingqiu**, **Yelan**, **Kokomi** and **Barbara**.\n\n**Anemo flexes** can be picked up for their Grouping/Buffing/Healing capabilities\u2014**Kazuha**, **Sucrose**, **Heizou**, **Sayu**, **Jean**, **Anemo Traveler**."
+            "value": "Cyno benefits from teammates who have **lower field time requirements—as to not compete with his own**; and abilities that have some sort of **off-field presence**, whether it be Damage, Energy Particles generation or added utility like Healing/Resistance to Interruption. \n\nHe has synergy with a plethora of **Electro flexes**. Examples being: **Fischl**, **Kuki**, **Beidou**, **Yae**, and **Dori**.\n\nDendro being a novelty means **Dendro flexes** are scarce. Thankfully, between the characters readily available, Cyno is able to synergize with both the **Dendro Traveler** and **Collei**, which are **free units**.\n\n**Hydro flexes** include **Xingqiu**, **Yelan**, **Kokomi** and **Barbara**.\n\n**Anemo flexes** can be picked up for their Grouping/Buffing/Healing capabilities—**Kazuha**, **Sucrose**, **Heizou**, **Sayu**, **Jean**, **Anemo Traveler**."
         }
     ],
     "color": 11104511,
     "type": "rich",
-    "description": "Cyno,dendroflex,electroflex,anemoflex|Cyno,dendroflex,electroflex,Zhongli|Cyno,dendroflex,electroflex,hydroflex|Cyno,dendroflex,electroflex,electroflex|Cyno,Yelan,electroflex,Xingqiu",
+    "description": "10000071,dendroflex,electroflex,anemoflex|10000071,dendroflex,electroflex,10000030|10000071,dendroflex,electroflex,hydroflex|10000071,dendroflex,electroflex,electroflex|10000071,10000060,electroflex,10000025",
     "title": "Cyno | Team Composition and Synergy"
 }

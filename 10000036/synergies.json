@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Chongyun | Update Date: 08/24/2022 | Editor: Samantha#9907"
+        "text": "Character Guide • Synergy: Chongyun | Update Date: 08/24/2022 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/FA8SPoN.png"
@@ -14,6 +14,6 @@
     ],
     "color": 10147839,
     "type": "rich",
-    "description": "chongyun,rosaria,xiangling,bennett|chongyun,xingqiu,xiangling,bennett|chongyun,sucrose,kaeya,bennett|chongyun,rosaria,xingqiu,kazuha|chongyun,xingqiu,lisa,rosaria|chongyun,bennett,flex,flex",
+    "description": "10000036,10000045,10000023,10000032|10000036,10000025,10000023,10000032|10000036,10000043,10000015,10000032|10000036,10000045,10000025,10000047|10000036,10000025,10000006,10000045|10000036,10000032,flex,flex",
     "title": "Chongyun | Team Composition and Synergy"
 }

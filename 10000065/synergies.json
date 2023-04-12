@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Kuki Shinobu | Update Date: 09/23/2022 | Editor: Sew#2409"
+        "text": "Character Guide • Synergy: Kuki Shinobu | Update Date: 09/23/2022 | Editor: Sew#2409"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/g5ufyVb.png"
@@ -8,6 +8,6 @@
     "fields": [],
     "color": 11104511,
     "type": "rich",
-    "description": "Kuki,raiden,yelan,xingqiu|kuki,eula,diona,fischl|kuki,electroflex,xingqiu,sucrose|kuki,anemoflex,xingqiu,dendrotraveler|kuki,fischl,collei,kazuha|kuki,bennett,xiangling,pyroflex|kuki,pyroflex,xingqiu,flex",
+    "description": "10000065,10000052,10000060,10000025|10000065,10000051,10000039,10000031|10000065,electroflex,10000025,10000043|10000065,anemoflex,10000025,10000005-508|10000065,10000031,10000067,10000047|10000065,10000032,10000023,pyroflex|10000065,pyroflex,10000025,flex",
     "title": "Kuki | Team Composition and Synergy"
 }

@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Yae Miko | Update Date: 10/05/2022 | Editor: hatter#6666"
+        "text": "Character Guide • Synergy: Yae Miko | Update Date: 10/05/2022 | Editor: hatter#6666"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/Yfb4g1m.png"
@@ -8,6 +8,6 @@
     "fields": [],
     "color": 11104511,
     "type": "rich",
-    "description": "yaemiko,fischl,kokomi,kazuha|yaemiko,fischl,xingqiu,sucrose|yaemiko,fischl,ayato,jean|yaemiko,raiden,sara,jean|yaemiko,raiden,bennett,kazuha|yaemiko,raiden,bennett,xiangling|yaemiko,fischl,dendrotraveler,jean",
+    "description": "10000058,10000031,10000054,10000047|10000058,10000031,10000025,10000043|10000058,10000031,10000066,10000003|10000058,10000052,10000056,10000003|10000058,10000052,10000032,10000047|10000058,10000052,10000032,10000023|10000058,10000031,10000005-508,10000003",
     "title": "Yae Miko | Team Composition and Synergy"
 }

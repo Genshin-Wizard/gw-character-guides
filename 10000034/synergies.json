@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Noelle | Update Date: 09/09/2022 | Editor: Sew#2409"
+        "text": "Character Guide • Synergy: Noelle | Update Date: 09/09/2022 | Editor: Sew#2409"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/klBUgnZ.png"
@@ -8,6 +8,6 @@
     "fields": [],
     "color": 14994176,
     "type": "rich",
-    "description": "noelle,fischl,beidou,zhongli|noelle,fischl,albedo,zhongli|noelle,yunjin,albedo,gorou|noelle,gorou,zhongli,albedo|noelle,gorou,flex,flex",
+    "description": "10000034,10000031,10000024,10000030|10000034,10000031,10000038,10000030|10000034,10000064,10000038,10000055|10000034,10000055,10000030,10000038|10000034,10000055,flex,flex",
     "title": "Noelle | Team Composition and Synergy"
 }

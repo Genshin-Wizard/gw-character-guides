@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Anemo Traveler"
+        "text": "Character Guide • Synergy: Anemo Traveler"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/B0zBZMi.png"
@@ -8,6 +8,6 @@
     "fields": [],
     "color": 5494962,
     "type": "rich",
-    "description": "xiao,anemotraveler,bennett,zhongli|kazuha,anemotraveler,xiangling,bennett|chongyun,bennett,anemotraveler,rosaria|ganyu,mona,anemotraveler,diona|ayaka,xingqiu,anemotraveler,diona|childe,xiangling,bennett,anemotraveler",
+    "description": "10000026,10000005-504,10000032,10000030|10000047,10000005-504,10000023,10000032|10000036,10000032,10000005-504,10000045|10000037,10000041,10000005-504,10000039|10000002,10000025,10000005-504,10000039|childe,10000023,10000032,10000005-504",
     "title": "Anemo Traveler | Team Composition and Synergy"
 }

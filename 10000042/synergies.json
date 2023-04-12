@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Keqing | Update Date: 10/05/2022 | Editor: Luno#1337"
+        "text": "Character Guide • Synergy: Keqing | Update Date: 10/05/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/PQDR6HJ.png"
@@ -8,6 +8,6 @@
     "fields": [],
     "color": 11104511,
     "type": "rich",
-    "description": "keqing,beidou,xingqiu,kazuha|keqing,fischl,kokomi,kazuha| keqing,beidou,sara,kazuha| keqing,fischl,bennett,venti|keqing,sara,bennett,kazuha| keqing,fischl,collei,zhongli| keqing,yelan,xingqiu,zhongli| keqing,fischl,tighnari,zhongli",
+    "description": "10000042,10000024,10000025,10000047|10000042,10000031,10000054,10000047| 10000042,10000024,10000056,10000047| 10000042,10000031,10000032,10000022|10000042,10000056,10000032,10000047| 10000042,10000031,10000067,10000030| 10000042,10000060,10000025,10000030| 10000042,10000031,10000069,10000030",
     "title": "Keqing | Team Composition and Synergy"
 }

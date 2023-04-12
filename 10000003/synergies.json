@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Jean | Update Date: 08/08/2022 | Editor: Sew#2409"
+        "text": "Character Guide • Synergy: Jean | Update Date: 08/08/2022 | Editor: Sew#2409"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/uuGppMs.png"
@@ -14,6 +14,6 @@
     ],
     "color": 5494962,
     "type": "rich",
-    "description": "jean,xiao,albedo,zhongli|jean,venti,ningguang,zhongli|jean,rosaria,fischl,bennett|jean,bennett,raiden,xingqiu|jean,bennett,cryoflex,flex|jean,cryoflex,cryoflex,hydroflex",
+    "description": "10000003,10000026,10000038,10000030|10000003,10000022,10000027,10000030|10000003,10000045,10000031,10000032|10000003,10000032,10000052,10000025|10000003,10000032,cryoflex,flex|10000003,cryoflex,cryoflex,hydroflex",
     "title": "Jean | Team Composition and Synergy"
 }

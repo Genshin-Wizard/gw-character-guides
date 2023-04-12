@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Tighnari | Update Date: 09/09/2022 | Editor: Luno#1337"
+        "text": "Character Guide • Synergy: Tighnari | Update Date: 09/09/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Tighnari.png"
@@ -8,6 +8,6 @@
     "fields": [],
     "color": 6794623,
     "type": "rich",
-    "description": "Tighnari,Yaemiko,Kuki,Sucrose|Tighnari,Collei,Fischl,Zhongli|Tighnari,Lisa,Fischl,Zhongli",
+    "description": "10000069,10000058,10000065,10000043|10000069,10000067,10000031,10000030|10000069,10000006,10000031,10000030",
     "title": "Tighnari | Team Composition and Synergy"
 }
