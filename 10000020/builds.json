@@ -46,5 +46,48 @@
         "color": 10147839,
         "type": "rich",
         "title": "Kamisato Ayaka (On-Field DPS) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Kamisato Ayaka | Update Date: 03/20/2023 | Editor: tAlpha#9191"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/7hJAGtk.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "..."
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "..."
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "..."
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "..."
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "..."
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "..."
+            }
+        ],
+        "color": 10147839,
+        "type": "rich",
+        "title": "Kamisato Ayaka (somewhere) | Build"
     }
 ]
