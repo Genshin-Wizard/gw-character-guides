@@ -25,7 +25,7 @@
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x2-thunderingfury|x2-noblesseoblige"
+                "value": "15005,15007"
             },
             {
                 "inline": "false",
@@ -83,7 +83,7 @@
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-thunderingfury|x2-noblesseoblige"
+                "value": "15005,15007"
             },
             {
                 "inline": "true",
@@ -189,7 +189,7 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x2-emblemofseveredfate|x2-wandererstroupe"
+                "value": "15020,15003"
             },
             {
                 "inline": "false",

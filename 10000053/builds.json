@@ -88,7 +88,7 @@
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-wandererstroupe|x2-gildeddreams"
+                "value": "15003,15026"
             },
             {
                 "inline": "true",
@@ -136,7 +136,7 @@
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "2x-viridescentvenerer|2x-attack"
+                "value": "15002,attack"
             },
             {
                 "inline": "false",

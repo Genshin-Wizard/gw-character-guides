@@ -25,12 +25,12 @@
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x2-blizzardstrayer|x2-wandererstroupe"
+                "value": "14001,15003"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-wandererstroupe|x2-noblesseoblige"
+                "value": "15003,15007"
             },
             {
                 "inline": "true",
