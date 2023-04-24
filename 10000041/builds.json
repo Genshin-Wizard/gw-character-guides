@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-tenacityofthemillelith"
+                "value": "15017"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x4-noblesseoblige"
+                "value": "15007"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-emblemofseveredfate"
+                "value": "15020"
             },
             {
                 "inline": "true",
@@ -78,7 +78,7 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-emblemofseveredfate"
+                "value": "15020"
             },
             {
                 "inline": "false",
@@ -88,7 +88,7 @@
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-heartofdepth|x2-attack"
+                "value": "15016,attack"
             },
             {
                 "inline": "true",
@@ -136,17 +136,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-heartofdepth"
+                "value": "15016"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x4-emblemofseveredfate"
+                "value": "15020"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x4-wandererstroupe"
+                "value": "15003"
             },
             {
                 "inline": "true",

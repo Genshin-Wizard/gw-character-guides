@@ -20,12 +20,12 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-heartofdepth"
+                "value": "15016"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x2-heartofdepth|x2-attack"
+                "value": "15016,attack"
             },
             {
                 "inline": "false",
@@ -78,17 +78,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-heartofdepth"
+                "value": "15016"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x2-heartofdepth|x2-attack"
+                "value": "15016,attack"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-attack|x2-attack"
+                "value": "attack,attack"
             },
             {
                 "inline": "true",

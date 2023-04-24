@@ -20,7 +20,7 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-emblemofseveredfate"
+                "value": "15020"
             },
             {
                 "inline": "false",
@@ -30,7 +30,7 @@
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-thunderingfury|x2-attack"
+                "value": "15005,attack"
             },
             {
                 "inline": "true",
@@ -73,12 +73,12 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-thundersoother"
+                "value": "14002"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x2-thunderingfury|x2-attack"
+                "value": "15005,attack"
             },
             {
                 "inline": "false",
@@ -131,17 +131,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "4x-noblesseoblige"
+                "value": "15007"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x4-emblemofseveredfate"
+                "value": "15020"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x4-instructor"
+                "value": "10007"
             },
             {
                 "inline": "true",
@@ -194,12 +194,12 @@
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "4x-instructor"
+                "value": "10007"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "4x-thunderingfury"
+                "value": "15005"
             },
             {
                 "inline": "true",
