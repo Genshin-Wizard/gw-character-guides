@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15019"
+                "value": "x4-shimenawasreminiscence"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15003"
+                "value": "x4-wandererstroupe"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15003,14001"
+                "value": "x2-wandererstroupe|x2-blizzardstrayer"
             },
             {
                 "inline": "true",
@@ -73,7 +73,7 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "14001"
+                "value": "x4-blizzardstrayer"
             },
             {
                 "inline": "true",
@@ -116,17 +116,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15020"
+                "value": "x4-emblemofseveredfate"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15007"
+                "value": "x4-noblesseoblige"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "14001,15007"
+                "value": "x2-blizzardstrayer|x2-noblesseoblige"
             },
             {
                 "inline": "true",

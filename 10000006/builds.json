@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15020"
+                "value": "x4-emblemofseveredfate"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15005,15007"
+                "value": "x2-thunderingfury|x2-noblesseoblige"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15005,attack"
+                "value": "x2-thunderingfury|x2-attack"
             },
             {
                 "inline": "true",
@@ -73,17 +73,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "14002"
+                "value": "x4-thundersoother"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15005,attack"
+                "value": "x2-thunderingfury|x2-attack"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15005,15007"
+                "value": "x2-thunderingfury|x2-noblesseoblige"
             },
             {
                 "inline": "true",
@@ -131,17 +131,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15007"
+                "value": "4x-noblesseoblige"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15020"
+                "value": "x4-emblemofseveredfate"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "10007"
+                "value": "x4-instructor"
             },
             {
                 "inline": "true",
@@ -189,17 +189,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15020,15003"
+                "value": "x2-emblemofseveredfate|x2-wandererstroupe"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "10007"
+                "value": "4x-instructor"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15005"
+                "value": "4x-thunderingfury"
             },
             {
                 "inline": "true",

@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "physical,physical"
+                "value": "x2-physical|x2-physical"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15018"
+                "value": "x4-paleflame"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "physical,attack"
+                "value": "x2-physical|x2-attack"
             },
             {
                 "inline": "true",
@@ -73,12 +73,12 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15007"
+                "value": "x4-noblesseoblige"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "10007"
+                "value": "x4-instructor"
             },
             {
                 "inline": "true",
@@ -126,7 +126,7 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15017"
+                "value": "x4-tenacityofthemillelith"
             },
             {
                 "inline": "true",

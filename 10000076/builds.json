@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15002"
+                "value": "4x-viridescentvenerer"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15007"
+                "value": "4x-noblesseoblige"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "10009"
+                "value": "4x-theexile"
             },
             {
                 "inline": "true",
@@ -78,17 +78,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15017"
+                "value": "4x-tenacityofthemillelith"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15020"
+                "value": "4x-emblemofseveredfate"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15002,attack"
+                "value": "2x-viridescentvenerer|2x-attack\n"
             },
             {
                 "inline": "true",

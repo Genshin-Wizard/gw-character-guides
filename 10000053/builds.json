@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15002"
+                "value": "x4-viridescentvenerer"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15022"
+                "value": "x4-oceanhuedclam"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15007"
+                "value": "x4-noblesseoblige"
             },
             {
                 "inline": "true",
@@ -78,17 +78,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15026"
+                "value": "x4-gildeddreams"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15002"
+                "value": "x4-viridescentvenerer"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15003,15026"
+                "value": "x2-wandererstroupe|x2-gildeddreams"
             },
             {
                 "inline": "true",
@@ -131,17 +131,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15002"
+                "value": "4x-viridescentvenerer"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15002,atk"
+                "value": "2x-viridescentvenerer|2x-atk"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "14002"
+                "value": "4x-thundersoother"
             },
             {
                 "inline": "true",

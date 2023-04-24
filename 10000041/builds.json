@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15017"
+                "value": "x4-tenacityofthemillelith"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15007"
+                "value": "x4-noblesseoblige"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15020"
+                "value": "x2-emblemofseveredfate"
             },
             {
                 "inline": "true",
@@ -78,17 +78,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15020"
+                "value": "x4-emblemofseveredfate"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15016,15007"
+                "value": "x2-heartofdepth|x2-noblesseoblige"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15016,attack"
+                "value": "x2-heartofdepth|x2-attack"
             },
             {
                 "inline": "true",
@@ -136,17 +136,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15016"
+                "value": "x4-heartofdepth"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15020"
+                "value": "x4-emblemofseveredfate"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15003"
+                "value": "x4-wandererstroupe"
             },
             {
                 "inline": "true",

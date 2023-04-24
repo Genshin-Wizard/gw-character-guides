@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15018"
+                "value": "x4-paleflame"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "physical,physical"
+                "value": "x2-physical|x2-physical"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15001"
+                "value": "x4-gladiatorsfinale"
             },
             {
                 "inline": "true",
@@ -73,17 +73,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15005"
+                "value": "4x-thunderingfury"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15005,attack"
+                "value": "2x-thunderingfury|2x-attack"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15005,elementalmastery"
+                "value": "2x-thunderingfury|2x-elementalmastery"
             },
             {
                 "inline": "true",

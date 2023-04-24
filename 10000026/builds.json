@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15023"
+                "value": "x4-vermillionhereafter"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "attack,15002"
+                "value": "x2-attack|x2-viridescentvenerer"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "attack,attack"
+                "value": "x2-attack|x2-attack"
             },
             {
                 "inline": "true",

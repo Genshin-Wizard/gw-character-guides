@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15025"
+                "value": "x4-deepwoodmemories"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15026"
+                "value": "x4-gildeddreams"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15003,15026"
+                "value": "x2-wandererstroupe|x2-gildeddreams"
             },
             {
                 "inline": "true",
