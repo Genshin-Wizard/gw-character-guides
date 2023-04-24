@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-emblemofseveredfate"
+                "value": "15020"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x4-crimsonwitchofflames"
+                "value": "15006"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-crimsonwitchofflames|x2-noblesseoblige|x2-attack "
+                "value": "15006,15007,attack"
             },
             {
                 "inline": "true",
@@ -78,12 +78,12 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-tenacityofthemillelith"
+                "value": "15017"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x4-instructor"
+                "value": "10007"
             },
             {
                 "inline": "true",

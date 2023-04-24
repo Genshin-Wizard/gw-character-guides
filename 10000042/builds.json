@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x2-thunderingfury|x2-attack"
+                "value": "15005,attack"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x4-thundersoother"
+                "value": "14002"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-attack|x2-attack"
+                "value": "attack,attack"
             },
             {
                 "inline": "true",
@@ -78,17 +78,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-paleflame"
+                "value": "15018"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x2-paleflame|x2-bloodstainedchivalry"
+                "value": "15018,15008"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-physical|x2-attack"
+                "value": "physical,attack"
             },
             {
                 "inline": "true",

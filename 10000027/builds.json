@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x2-archaicpetra|x2-attack"
+                "value": "15014,attack"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x2-attack|x2-attack"
+                "value": "attack,attack"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-archaicpetra|x2-noblesseoblige"
+                "value": "15014,15007"
             },
             {
                 "inline": "true",

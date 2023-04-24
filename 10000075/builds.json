@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-desertpavilionchronicle"
+                "value": "15027"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x4-shimenawasreminiscence"
+                "value": "15019"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-desertpavilionchronicle|x2-viridescentvenerer|x2-shimenawasreminiscence"
+                "value": "15027,15002,15019"
             },
             {
                 "inline": "true",

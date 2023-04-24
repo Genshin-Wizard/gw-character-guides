@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-emblemofseveredfate"
+                "value": "15020"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x4-noblesseoblige"
+                "value": "15007"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-noblesseoblige|x2-emblemofseveredfate"
+                "value": "15007,15020"
             },
             {
                 "inline": "true",

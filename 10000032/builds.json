@@ -20,12 +20,12 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-noblesseoblige"
+                "value": "15007"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x4-instructor"
+                "value": "10007"
             },
             {
                 "inline": "true",
@@ -73,12 +73,12 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-noblesseoblige"
+                "value": "15007"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x4-instructor"
+                "value": "10007"
             },
             {
                 "inline": "true",
@@ -126,17 +126,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-crimsonwitchofflames"
+                "value": "15006"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x2-crimsonwitchofflames|x2-noblesseoblige|x2-attack|x2-wandererstroupe"
+                "value": "15006,15007,attack,15003"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x4-thunderingfury"
+                "value": "15005"
             },
             {
                 "inline": "true",

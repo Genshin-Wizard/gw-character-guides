@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-oceanhuedclam"
+                "value": "15022"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x4-maidenbeloved"
+                "value": "14004"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-oceanhuedclam|x2-maidenbeloved"
+                "value": "15022,14004"
             },
             {
                 "inline": "true",

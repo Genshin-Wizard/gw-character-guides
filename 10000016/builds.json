@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-crimsonwitchofflames"
+                "value": "15006"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x2-attack|x2-crimsonwitchofflames"
+                "value": "attack,15006"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-crimsonwitchofflames|x2-wandererstroupe"
+                "value": "15006,15003"
             },
             {
                 "inline": "true",

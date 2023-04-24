@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-oceanhuedclam"
+                "value": "15022"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x4-tenacityofthemillelith"
+                "value": "15017"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-maidenbeloved|x2-tenacityofthemillelith|x2-oceanhuedclam|x2-heartofdepth"
+                "value": "14004,15017,15022,15016"
             },
             {
                 "inline": "true",

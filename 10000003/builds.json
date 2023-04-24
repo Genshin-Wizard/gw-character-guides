@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-viridescentvenerer"
+                "value": "15002"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x4-noblesseoblige"
+                "value": "15007"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-viridescentvenerer|x2-emblemofseveredfate"
+                "value": "15002,15020"
             },
             {
                 "inline": "true",
@@ -78,17 +78,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "x4-viridescentvenerer"
+                "value": "15002"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x4-noblesseoblige"
+                "value": "15007"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-viridescentvenerer|x2-emblemofseveredfate"
+                "value": "15002,15020"
             },
             {
                 "inline": "true",
@@ -131,17 +131,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "4x-paleflame"
+                "value": "15018"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "x2-paleflame|x2-bloodstainedchivalry"
+                "value": "15018,15008"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-physical|x2-attack"
+                "value": "physical,attack"
             },
             {
                 "inline": "true",
