@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Nilou | Update Date: 02/20/2023 | Editor: Samantha#9907"
+            "text": "Character Guide \u2022 Build: Nilou | Update Date: 04/24/2023 | Editor: Samantha#9907"
         },
         "thumbnail": {
             "url": "https://i.imgur.com/KxMQIkX.png"
@@ -20,7 +20,7 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15017,15003"
+                "value": "15017,15030"
             },
             {
                 "inline": "false",
@@ -50,7 +50,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "Her Blooms cannot CRIT, but her Elemental Burst or Elemental Skill can, allowing her to use Favonius weapons.\nIf a 4-piece Tenacity of the Millelith cannot be achieved, the 2-piece and almost anything will suffice."
+                "value": "Her Blooms cannot CRIT, but her Elemental Burst or Elemental Skill can, allowing her to use Favonius weapons.\n4-piece Tenacity of the Millelith isnt too helpful, so  the 2-piece of HP% sets and anything with HP% will suffice."
             }
         ],
         "color": 3245055,
@@ -59,7 +59,7 @@
     },
     {
         "footer": {
-            "text": "Character Guide • Build: Nilou | Update Date: 10/14/2022 | Editor: Samantha#9907"
+            "text": "Character Guide \u2022 Build: Nilou | Update Date: 10/14/2022 | Editor: Samantha#9907"
         },
         "thumbnail": {
             "url": "https://i.imgur.com/KxMQIkX.png"
