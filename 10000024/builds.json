@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Beidou | Update Date: 08/04/2022 | Editor: Samantha#9907"
+            "text": "Character Guide • Build: Beidou | Update Date: 05/01/2023 | Editor: Samantha#9907"
         },
         "thumbnail": {
             "url": "https://i.imgur.com/S14S2Oq.png"
@@ -25,7 +25,12 @@
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15005,15007,attack"
+                "value": "15005,15007"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "15005,attack"
             },
             {
                 "inline": "true",
