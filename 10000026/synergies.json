@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Xiao | Update Date: 08/06/2022 | Editor: LordOfEnnui#8710"
+        "text": "Character Guide • Synergy: Xiao | Update Date: 05/01/2023 | Editor: Samantha#9907"
     },
     "thumbnail": {
         "url": "https://i.imgur.com/uSkv5pg.png"
@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "When running Raiden, casting her Elemental Skill is greatly beneficial, as it provides a significant amount of energy, added sub-DPS and Swirl Reaction damage.\n\nWhen running Yelan or Xingqiu, Xiao should N1JP, a Normal Attack cancelled with a Jump followed by a High Plunge. As Yelan's coordinated attacks come out faster, the Normal Attack can be canceled a bit earlier than it can for Xingqiu. "
+            "value": "When running Raiden, casting her Elemental Skill is greatly beneficial, as it provides a significant amount of energy, added sub-DPS and Swirl Reaction damage.\n\nWhen running Yelan or Xingqiu, Xiao should N1JP, a Normal Attack cancelled with a Jump followed by a High Plunge. As Yelan's coordinated attacks come out faster, the Normal Attack can be canceled a bit earlier than it can for Xingqiu."
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "description": "10000026,10000003,10000038,10000030|10000026,10000043,10000032,10000030|10000026,10000060,10000043,10000032|10000026,10000003,10000032,10000023|10000026,10000045,10000039,10000043|10000026,10000052,10000035,10000045|10000026,10000052,10000003,10000058",
+    "description": "10000026,10000003,10000038,10000030|10000026,10000043,10000032,10000030|10000026,10000060,10000043,10000032|10000026,10000003,10000032,10000023|10000026,10000045,10000039,10000043|10000026,10000052,10000035,10000045|10000026,10000052,10000003,10000058|10000026,10000076,10000003,10000030|10000026,10000076,10000032,10000030|10000026,10000076,10000032,10000079",
     "title": "Xiao | Team Composition and Synergy"
 }
