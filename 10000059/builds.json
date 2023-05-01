@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Shikanoin Heizou | Update Date: 08/23/2022 | Editor: Luno#1337"
+            "text": "Character Guide • Build: Shikanoin Heizou | Update Date: 05/01/2023 | Editor: Samantha#9907"
         },
         "thumbnail": {
             "url": "https://i.imgur.com/ZrsI0Bj.png"
@@ -21,6 +21,16 @@
                 "inline": "false",
                 "name": "Best Artifact Set:",
                 "value": "15002"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "15027"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "15027,15002"
             },
             {
                 "inline": "true",
