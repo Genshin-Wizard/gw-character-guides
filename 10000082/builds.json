@@ -1,51 +1,56 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Baizhu"
+            "text": "Character Guide • Build: Baizhu | Update Date: 05/04/2023 | Editor: tAlpha#9191"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Baizhuer.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Jadefall's Splendor__\nHis best in slot option. However he cant utilize well the DMG% buff in its passive, his personal damage is negligable"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Prototype Amber__\nBest 4 star option as an only HP% 4* catalyst. And its also craftable\n__Favonius Codex__\nProvides ER% with team wide energy generation, but it requires a decent amount of Crit Rate"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15025"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15017,15030"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "None"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> HP%, Energy Recharge%|<goblet> HP%|<circlet> Healing Bonus, HP%"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "ER%|HP%|HP"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** __Elemental Burst:__ Holistic Revivification\n**2)** __Elemental Skill:__ Universal Diagnosis\n**3)** __Normal Attack:__ The Classics of Acupuncture"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "- If you already have a character that has Deepwood Memories in your team or if you are playing an Aggravate team than there is no need to go for it on Baizhu.\n\n- Can run Crit Rate circlet to proc fav passive\n\n- If you are not playing him as a Driver, leveling up normal attacks can be skipped."
             }
         ],
         "color": 6794623,
