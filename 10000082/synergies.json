@@ -1,16 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Baizhu | Update Date: 05/04/2023 | Editor: Samantha#9907"
-    },
-    "image": {
-        "url": "https://cdn.discordapp.com/attachments/1063698601949282354/1103535078094684210/synergies.png"
+        "text": "Character Guide • Synergy: Baizhu | Update Date: 05/05/2023 | Editor: hatter#6666"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Baizhuer.png"
     },
+    "fields": [],
     "color": 6794623,
     "type": "rich",
-    "description": "Baizhu,fischl,nahida,sucrose|Cyno,baizhu,fischl,kazuha|alhaitham,baizhu,nahida,fischl|nilou,baizhu,nahida,yelan|kuki,yelan,nahida,baizhu|thoma,nahida,xingqiu,baizhu",
-    "title": "Baizhu | Team Composition and Synergy",
-    "fields": []
+    "description": "10000082,10000031,10000073,10000043|10000071,10000082,10000031,10000047|10000078,10000082,10000073,10000031|10000070,10000082,10000073,10000060|10000065,10000060,10000073,10000082|10000050,10000073,10000025,10000082",
+    "title": "Baizhu | Team Composition and Synergy"
 }
