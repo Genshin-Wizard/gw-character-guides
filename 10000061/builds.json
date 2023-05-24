@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Kirara"
+            "text": "Character Guide • Build: Kirara"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Momoka.png"
@@ -50,6 +50,6 @@
         ],
         "color": 6794623,
         "type": "rich",
-        "title": "Kirara (Speculation Build) | Build"
+        "title": "Kirara (Shielder) | Build"
     }
 ]
