@@ -1,55 +1,60 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Kirara"
+            "text": "Character Guide • Build: Kirara | Update Date: 05/24/2023 | Editor: Samantha#9907"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Momoka.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Sacrificial Sword__\nAllows for 2 quick shield creations\n\n__Freedom Sworn, Key of Khaj-Nisut__\n5-star Limited Banner exclusive weapons, but provides substantial team buffs"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "Favonius Sword, Sapwood Blade, Xiphos' Moonlight"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15017"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15017,15030"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15025"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> HP%|<goblet> HP%|<circlet> HP% or CRIT Rate (if on Favonius Sword)"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "HP%|Energy Recharge|CRIT Rate"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Skill: Meow-teor Kick\n**Optional)** Elemental Burst: Secret Art: Surprise Dispatch\n**Not Recommended)** Normal Attack: Boxcutter"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "In a team that does not require Tenacity Of The Millelith's 4-piece buff (and same with Nobless Oblige), the 2-piece of HP% sets will be more benefitable as some dendro teams do not need ATK%. Instead, __Deepwood Memories__ or __Instructors__ is recommended."
             }
         ],
         "color": 6794623,
         "type": "rich",
-        "title": "Kirara (Shielder) | Build"
+        "title": "Kirara (Speculation Build) | Build"
     }
 ]
