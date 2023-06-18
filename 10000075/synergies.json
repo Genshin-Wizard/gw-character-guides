@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Wanderer | Update Date: 12/06/2022 | Editor: Ultimate Noob#2955"
+        "text": "Character Guide • Synergy: Wanderer | Update Date: 06/18/2023 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Wanderer.png"
@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Flex can litteraly be any sub-DPS or shielder, such as Fischl, Yelan, Jean, Layla and Diona."
+            "value": "Flex can literally be any sub-DPS or shielder, such as Fischl, Yelan, Jean, Layla and Diona."
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "description": "10000075,10000076,10000032,flex",
+    "description": "10000075,10000076,10000032,flex|10000075,10000076,10000032,10000023|10000075,10000076,10000045,10000030|10000075,10000076,10000031,10000003|10000075,10000064,10000025,10000030|10000075,10000025,10000032,10000023",
     "title": "Wanderer | Team Composition and Synergy"
 }
