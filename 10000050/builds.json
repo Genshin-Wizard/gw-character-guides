@@ -68,36 +68,51 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "..."
+                "value": "__Kitain Cross Spear__\nAble to generate a abundant amount of energy for Thoma to capitalize"
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "..."
+                "value": "__Favonius Lance__\nAble to generate Energy particles for the entire team. Build enough CRIT Rate to utilize its passive; easier to do as you get refinements on it.\n\n__Dragon's Bane__\nProvides a lot of EM for elemental reactions.\n\n__Moonpiercer__\nProvides some EM for elemental reactions."
             },
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "..."
+                "value": "15028"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "15026"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "elementalmastery,elementalmastery"
             },
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "..."
+                "value": "<sands> HP%, Energy Recharge, or EM |<goblet> EM or HP% |<circlet>  HP% or EM"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "..."
+                "value": "Energy Recharge|Elemental Mastery|HP%        "
             },
             {
                 "inline": "false",
                 "name": "Talent Priority",
-                "value": "..."
+                "value": "**1)** Elemental Skill: Blazing Blessing \n**2)** Elemental Skill: Elemental Burst: Crimson Ooyoroi\n**3)** Normal Attack: Swiftshatter Spear\n"
+            }
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": " The best role for a DPS Thoma. Due to Burgeon being a Transformative Reaction, EM and character level are the only things that affect damage. ATK and Talent Levels do not factor into Burgeon reactions and they cannot crit. Leveling your Thoma to 90 is extremely important; it's about a 30% damage difference from a level 80 Thoma. It is also possible to run Hybrid Thoma for a stronger shield to combat Burgeon self-DMG and enemy attacks while still dealing a good amount of damage."
             }
         ],
         "color": 16733525,
         "type": "rich",
-        "title": "Thoma ((Dendro))  | Build) | Build"
+        "title": "Thoma (Dendro)| Build"
     }
 ]
