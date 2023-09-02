@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Childe | Update Date: 10/07/2022 | Editor: ~Z~#0009"
+            "text": "Character Guide • Build: Tartaglia | Update Date: 09/02/2023 | Editor: ultimate.noob"
         },
         "thumbnail": {
             "url": "https://i.imgur.com/SLuf0m3.png"
@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15016"
+                "value": "15029"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15016,attack"
+                "value": "15016"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15016,15007"
+                "value": "15016,attack"
             },
             {
                 "inline": "true",
@@ -50,7 +50,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "Childe's Talents:\nBurst and Skill contribute roughly the same amount of damage in the main DPS rotation, so both should be levelled equally. If built as a Burst DPS then obviously Burst should be the primary talent. If you plan to use Childe on-field during his downtime you will also want to level his Normals to help his Charged Shot dmg. \n\nChilde's Artifacts:\nYou can use 4 piece Heart of Depth, 2 piece HoD with Atk% or Noblesse, or 4 piece Shimenawa's as they are roughly the same dmg output although Shimenawa will have a higher ER requirement to comfortably cycle. "
+                "value": "Childe's Talents:\nBurst and Skill contribute roughly the same amount of damage in the main DPS rotation, so both should be levelled equally. If built as a Burst DPS then obviously Burst should be the primary talent. If you plan to use Childe on-field during his downtime you will also want to level his Normals to help his Charged Shot dmg. \n\nChilde's Artifacts:\nYou can use 4 piece Heart of Depth, 2 piece HoD with Atk% or Noblesse, or 4 piece Shimenawa's as they are roughly the same dmg output although Shimenawa will have a higher ER requirement to comfortably cycle. Nymph’s dream is roughly a 5% increase from 4 piece HoD, wouldn’t recommend farming if any of the previous options are available."
             }
         ],
         "color": 3245055,
