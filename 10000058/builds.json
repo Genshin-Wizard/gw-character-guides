@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Yae Miko | Update Date: 11/29/2022 | Editor: ~Z~#0009"
+            "text": "Character Guide • Build: Yae Miko | Update Date: 09/27/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://i.imgur.com/Yfb4g1m.png"
@@ -20,12 +20,12 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15005,attack"
+                "value": "15032"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "attack,attack"
+                "value": "15005,attack"
             },
             {
                 "inline": "false",
@@ -35,12 +35,12 @@
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> ATK% |<goblet>  Electro DMG Bonus or ATK% |<circlet>  CRIT DMG or CRIT Rate"
+                "value": "<sands> ATK% or Elemental Mastery |<goblet>  Electro DMG Bonus or ATK% |<circlet>  CRIT DMG or CRIT Rate"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "CRIT DMG|CRIT Rate|ATK%|Energy Recharge %        "
+                "value": "CRIT DMG|CRIT Rate|ATK%|Energy Recharge %"
             },
             {
                 "inline": "false",
@@ -50,7 +50,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "2 Piece Thundering Fury over Atk% is mostly a question of subs. There's no major gain so if your Atk% Subs are really good, or you just don't want to farm Thundering Fury, all Atk% sets can fill in for it. \n\nDue to Kagura and Kazuha granting an excessive amount of Dmg Bonus, Atk% Goblet can be better than Electro Dmg % in Mono Electro comps. "
+                "value": "2 Piece Thundering Fury over Atk% is mostly a question of subs. There's no major gain so if your Atk% Subs are really good, or you just don't want to farm Thundering Fury, all Atk% sets can fill in for it. \n\nDue to Kagura and Kazuha granting an excessive amount of Dmg Bonus, Atk% Goblet can be better than Electro Dmg % in Mono Electro comps.\n\n**Elemental Mastery (2 EM sets or 4 Gilded Dreams) should only be considered with a stable source of Dendro.**"
             }
         ],
         "color": 11104511,
