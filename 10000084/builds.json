@@ -1,55 +1,60 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Lyney"
+            "text": "Character Guide • Build: Lyney | Update Date: 09/27/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Liney.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__The First Great Magic__\nHis Signature Weapon.\n__Aqua Simulacra__\nA general statstick.\n__Scion of the Blazing Sun__ and __The Viridescent Hunt__\nBattle Pass weapons, but also great statsticks.\n__Prototype Crescent__\nBest Craftable option, especially if you can get headshots with his Charged Shots, fares much better than __Song of Stillness__ or __Hamayumi__."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "Polar Star, Skyward Harp, Thundering Pulse, Amos' Bow, Blackcliff Warbow, Slingshot, Sharpshooter's Oath"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15031"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "14003"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15003"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> ATK%|<goblet> Pyro DMG Bonus%|<circlet> CRIT DMG"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "CRIT DMG|Energy Recharge|CRIT Rate\n(unlike most characters, Lyney naturally gains quite a lot of CRIT Rate, especially with Marechaussee Hunter)"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Normal Attack: Card Force Translocation\n**2)** Elemental Burst: Wondrous Trick: Miracle Parade\n**3)** Elemental Skill: Bewildering Lights"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Level your Elemental Skill over Elemental Burst if you do not have enough Energy Recharge to use it off cooldown. However with 2 other Pyro Characters or at least Bennett it should be fine."
             }
         ],
         "color": 16733525,
         "type": "rich",
-        "title": "Lyney (On-field DPS) | Build"
+        "title": "Lyney (Speculation Build) | Build"
     }
 ]
