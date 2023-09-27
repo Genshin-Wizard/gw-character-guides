@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Fischl | Update Date: 08/29/2022 | Editor: LordOfEnnui#8710"
+            "text": "Character Guide • Build: Fischl | Update Date: 09/26/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://i.imgur.com/78124Xb.png"
@@ -20,12 +20,22 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "__2+2 piece combinations of 18% ATK or Thundering Fury__\nWorks fine on Fischl but the quality of the substats takes a much higher priority compared to forcing the set bonuses.\n** **"
+                "value": "15032"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "attack,15005"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "elementalmastery,15005"
             },
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> ATK% |<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate OR DMG"
+                "value": "<sands> ATK% or Elemental Mastery|<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate or DMG"
             },
             {
                 "inline": "true",
@@ -40,7 +50,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "Fischl’s ER requirements varies wildly depending on the scenario she is used in. Thus, it is best to check with the Energy Recharge Calculator to find out her ER requirements in player’s specific team compositions.\n\n**Niche Artifact sets:**\n__4 Thundersoother__\nStrong option when playing Fischl in most team compositions where electro aura is maintained. However, the damage gained is not worth farming this 4-pc set over 2-piece options.\n\n__4 TotM__\nAn artifact set that may be useful in certain teams as Fischl can maintain almost 100% uptime of the 4-set effect. However, this set lowers her personal damage and is in a domain that is not useful for most characters, thus why it is not recommended for players to farm this set."
+                "value": "Fischl’s ER requirements varies wildly depending on the scenario she is used in. Thus, it is best to check with the Energy Recharge Calculator to find out her ER requirements in player’s specific team compositions.\n\n__EM vs ATK__\nIf using Dendro for Aggravate, EM and ATK have similar values. Otherwise go for ATK.\n\n**Niche Artifact sets:**\n__4 Thundersoother__\nStrong option when playing Fischl in most team compositions where electro aura is maintained. However, the damage gained is not worth farming this 4-pc set over 2-piece options.\n\n__4 TotM and 4 Deepwood Memories__\nAn artifact set that may be useful in certain teams as Fischl can maintain almost 100% uptime of the 4-set effect. However, this set lowers her personal damage."
             }
         ],
         "color": 11104511,
