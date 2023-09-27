@@ -1,19 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Fischl | Update Date: 08/28/2022 | Editor: Luno#1337"
+        "text": "Character Guide • Synergy: Fischl | Update Date: 09/27/2023 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://i.imgur.com/78124Xb.png"
     },
-    "fields": [
-        {
-            "inline": "false",
-            "name": "Notes:",
-            "value": "Oz snapshots when summoned, so he can use Bennett's Elemental Burst"
-        }
-    ],
+    "fields": [],
     "color": 11104511,
     "type": "rich",
-    "description": "10000031,10000043,10000024,10000025|10000031,10000054,10000058,10000047|10000031,10000033,10000024,10000032|10000031,10000066,10000047,10000032| 10000031,10000051,10000045,10000030|10000031,10000027,10000038,10000030",
+    "description": "10000031,electroflex,10000077,10000047|10000051,10000080,10000031,10000032|10000031,dendroflex,10000073,10000030|10000024,10000031,10000025,10000043|10000023,10000032,10000031,10000047|10000027,10000038,10000031,10000030",
     "title": "Fischl | Team Composition and Synergy"
 }
