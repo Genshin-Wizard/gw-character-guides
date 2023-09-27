@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Lynette"
+        "text": "Character Guide • Synergy: Lynette | Update Date: 09/26/2023 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Linette.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Main DPS Lynette is much more recommended at C6. These teams are indicated by her being on the first slot."
+        }
+    ],
     "color": 5494962,
     "type": "rich",
-    "description": "10000083",
+    "description": "10000002,10000063,10000054,10000083|10000024,10000031,10000025,10000083|10000084,10000032,10000023,10000083|10000042,10000077,10000031,10000083|10000083,10000076,10000032,10000030|10000083,10000073,10000065,10000060",
     "title": "Lynette | Team Composition and Synergy"
 }
