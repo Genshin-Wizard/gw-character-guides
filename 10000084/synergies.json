@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Lyney"
+        "text": "Character Guide • Synergy: Lyney | Update Date: 09/27/2023 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Liney.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "The flex slot of the first team can only be Geo, Pyro, Anemo or Dendro. His passives want 2 other Pyro teammates, and the enemy can't be applied with other elements."
+        }
+    ],
     "color": 16733525,
     "type": "rich",
-    "description": "10000084",
+    "description": "10000084,pyroflex,pyroflex,flex|10000084,10000023,10000032,10000047|10000084,10000032,10000079,10000083|10000084,10000050,10000023,10000032|10000084,10000021,10000032,10000030|10000084,10000073,10000032,10000003",
     "title": "Lyney | Team Composition and Synergy"
 }
