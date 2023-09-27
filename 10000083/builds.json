@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Lynette | Update Date: 08/22/2023 | Editor: hattvr"
+            "text": "Character Guide • Build: Lynette | Update Date: 09/26/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Linette.png"
@@ -10,47 +10,47 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "Sacrificial Sword, Favonius Sword"
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "Skyward Blade, Freedom Sworn, Fleuve Cendre Ferryman, Festering Desire"
             },
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15002"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15007"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15020"
             },
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> Energy Recharge%|<goblet> Anemo DMG Bonus%|<circlet> CRIT Rate"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "Energy Recharge"
             },
             {
                 "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Burst: Magic Trick: Astonishing Shift\n**2)** Elemental Skill: Enigmatic Feint\n**N/A** Normal Attack: Rapid Ritesword"
             },
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "Testing"
+                "value": "If someone's already on 4 Viridesent Venerer, or you are running her in a team that does not benefit, options such as __Tenacity of the Millelith__ or __Deepwood Memories__ are available."
             }
         ],
         "color": 5494962,
