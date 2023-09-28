@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Neuvillette"
+        "text": "Character Guide • Synergy: Neuvillette | Update Date: 09/27/2023 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Neuvillette.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Neuvillette quite likes having 3 different element teammates to trigger is Ascension Passive. \nFreeze, Hyperbloom, Electrocharged, Vaporized, etc are all viable."
+        }
+    ],
     "color": 3245055,
     "type": "rich",
-    "description": "10000087",
+    "description": "10000087,10000031,10000043,10000074|10000087,10000031,10000024,10000047|10000087,10000073,10000052,10000022|10000087,10000063,cryoflex,anemoflex|10000087,10000070,10000082,10000073|10000087,10000032,10000023,10000043|10000087,dendroflex,electroflex,10000030|10000087,electroflex,flex,flex",
     "title": "Neuvillette | Team Composition and Synergy"
 }
