@@ -1,51 +1,56 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Neuvillette"
+            "text": "Character Guide • Build: Neuvillette | Update Date: 09/27/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Neuvillette.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Tome of Eternal Flow__\nHis Signature and his BiS.\n__Sacrificial Jade__\nBattle Pass weapon, but has everything he wants.\n__Prototype Amber__\nCraftable option that even heals his entire team.\n__Ballad of the Boundless Blue__\nAn Event weapon, free to R5 but still worse than Prototype Amber."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "Kagura's Verity, Lost Prayer to the Sacred Winds, Jadefall's Splendor\n\n__Widsith__\nGreat especially at high refinements if you roll the Elemental DMG Bonus%. Elemental Mastery and ATK% are generally wasted on him."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15031"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "hydrodmg,hp"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "14002"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> HP%|<goblet> Hydro DMG Bonus%|<circlet> CRIT Rate or CRIT DMG"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "Energy Recharge|HP%|CRIT Rate|CRIT DMG"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Normal Attack: As Water Seeks Equilibrium\n**2)** Elemental Skill: O Tears, I Shall Repay\n**2)** Elemental Burst: O Tides, I Have Returned"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Thundersoother is only viable in an Electro-Charged team.\n**HP% goblet and circlet are viable if with better substats, or not enough HP**"
             }
         ],
         "color": 3245055,
