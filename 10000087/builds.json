@@ -35,12 +35,12 @@
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> HP%|<goblet> Hydro DMG Bonus%|<circlet> CRIT Rate or CRIT DMG"
+                "value": "<sands> HP%|<goblet> Hydro DMG Bonus%|<circlet>CRIT Rate or CRIT DMG"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "Energy Recharge|HP%|CRIT Rate|CRIT DMG"
+                "value": "Energy Recharge|HP%|CRIT DMG|CRIT Rate\nNote with the Marechaussee Hunter set is that he doesn't really need that much CRIT Rate, (about 40% MAX)."
             },
             {
                 "inline": "false",
