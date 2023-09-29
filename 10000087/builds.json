@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Neuvillette | Update Date: 09/27/2023 | Editor: ._.samantha._."
+            "text": "Character Guide • Build: Neuvillette | Update Date: 09/29/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Neuvillette.png"
@@ -45,12 +45,12 @@
             {
                 "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Normal Attack: As Water Seeks Equilibrium\n**2)** Elemental Skill: O Tears, I Shall Repay\n**2)** Elemental Burst: O Tides, I Have Returned"
+                "value": "**1)** Normal Attack: As Water Seeks Equilibrium\n**2)** Elemental Burst: O Tides, I Have Returned\n**3)** Elemental Skill: O Tears, I Shall Repay"
             },
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "Thundersoother is only viable in an Electro-Charged team.\n**HP% goblet and circlet are viable if with better substats, or not enough HP**"
+                "value": "Thundersoother is only viable in an Electro-Charged team.\n**HP% goblet and circlet are viable if with better substats, or not enough HP from how much DMG% he gains.**"
             }
         ],
         "color": 3245055,
