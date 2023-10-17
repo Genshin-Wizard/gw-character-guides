@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Wriothesley"
+        "text": "Character Guide • Synergy: Wriothesley | Update Date: 10/17/2023 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Wriothesley.png"
     },
+    "fields": [],
     "color": 10147839,
     "type": "rich",
-    "description": "10000086",
+    "description": "10000086,10000023,10000043,10000032|10000086,10000063,10000047,10000032|10000086,10000073,10000065,10000025|10000086,10000064,10000032,10000030|10000086,10000063,10000054,10000047|10000086,10000032,10000003,10000063",
     "title": "Wriothesley | Team Composition and Synergy"
 }
