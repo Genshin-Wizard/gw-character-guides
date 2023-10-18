@@ -1,51 +1,51 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Wriothesley"
+            "text": "Character Guide • Build: Wriothesley | Update Date: 10/17/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Wriothesley.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Cashflow Supervision__\nSignature Weapon\n__Tulaytullah's Remembrance__\nSimilar to Cashflow Supervision, but reduced chances of CRIT Rate overcap."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Mappa Mare__\nBest craftable in **Melt** teams\n__Flowing Purity__\nBest craftable in other teams.\n__Ballad of the Boundless Blue__\nEvent Weapon, should have no Energy Recharge on substats.\n\n__Solar Pearl, Lost Prayer to the Sacred Winds, Memory of Dust, Widsith__\nAll decent options and statsticks."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15031"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "14001"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15019"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> ATK% or Elemental Mastery|<goblet> Cryo DMG Bonus%|<circlet> CRIT Rate or CRIT DMG"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "Energy Recharge|CRIT DMG|Elemental Mastery"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Normal Attack: Forceful Fists of Frost\n**2)** Elemental Skill: Icefang Rush\n**3)** Elemental Burst: Darkgold Wolfbite"
             }
         ],
         "color": 10147839,
