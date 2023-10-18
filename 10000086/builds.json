@@ -30,7 +30,7 @@
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15019"
+                "value": "15003"
             },
             {
                 "inline": "true",
@@ -46,6 +46,11 @@
                 "inline": "false",
                 "name": "Talent Priority",
                 "value": "**1)** Normal Attack: Forceful Fists of Frost\n**2)** Elemental Skill: Icefang Rush\n**3)** Elemental Burst: Darkgold Wolfbite"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Wanderer's Troupe is better in Melt orientated teams, and Blizzard Strayer is better in Freeze teams. Freeze teams with his signature may overcap on CRIT Rate."
             }
         ],
         "color": 10147839,
