@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Wriothesley | Update Date: 10/17/2023 | Editor: ._.samantha._."
+            "text": "Character Guide • Build: Wriothesley | Update Date: 10/19/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Wriothesley.png"
@@ -30,7 +30,7 @@
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15003"
+                "value": "15019"
             },
             {
                 "inline": "true",
@@ -40,7 +40,7 @@
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "Energy Recharge|CRIT DMG|Elemental Mastery"
+                "value": "Energy Recharge (130% to Burst every rotation, 100% otherwise.)|CRIT DMG|Elemental Mastery (Melt only)"
             },
             {
                 "inline": "false",
@@ -50,7 +50,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "Wanderer's Troupe is better in Melt orientated teams, and Blizzard Strayer is better in Freeze teams. Freeze teams with his signature may overcap on CRIT Rate."
+                "value": "Blizzard Strayer is similar to Marechaussee Hunter in Freeze teams. Both teams with his signature weapon may overcap on CRIT Rate.\n\n__Vermillion Hereafter__\nNeeds 130%+ Energy Recharge\n__Desert Pavillon__\nSurprisingly effective, useless 2-piece effect.\n __Echos of an Offering__ \nBetter on low ping.\n\nOr mix and match 2-pieces."
             }
         ],
         "color": 10147839,
