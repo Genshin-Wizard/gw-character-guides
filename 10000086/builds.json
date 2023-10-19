@@ -35,7 +35,7 @@
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> ATK% or Elemental Mastery|<goblet> Cryo DMG Bonus%|<circlet> CRIT Rate or CRIT DMG"
+                "value": "<sands> ATK%|<goblet> Cryo DMG Bonus%|<circlet> CRIT Rate or CRIT DMG"
             },
             {
                 "inline": "true",
