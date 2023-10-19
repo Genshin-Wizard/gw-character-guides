@@ -5,7 +5,13 @@
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Wriothesley.png"
     },
-    "fields": [],
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "All teams are with a healer. Above **C1**, you can run no healer, and use more charged attack. Running a flex unit such as Yelan, Zhongli or any offensive support is recommended."
+        }
+    ],
     "color": 10147839,
     "type": "rich",
     "description": "10000086,10000023,10000043,10000032|10000086,10000063,10000047,10000032|10000086,10000073,10000065,10000025|10000086,10000064,10000032,10000030|10000086,10000063,10000054,10000047|10000086,10000032,10000003,10000063|10000086,10000080,10000063,10000047|10000086,10000050,10000032,10000073",
