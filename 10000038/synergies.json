@@ -1,13 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Albedo"
+        "text": "Character Guide • Synergy: Albedo | Update Date: 10/21/2023 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://i.imgur.com/oDUkuVY.png"
     },
-    "fields": [],
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "If looking to play him as a shielder, build maximum Elemental Mastery on him, ignoring CRIT or Energy Recharge, DEF%, etc."
+        }
+    ],
     "color": 14994176,
     "type": "rich",
-    "description": "10000038,10000026,10000003,10000030|10000038,10000046,10000025,10000030|10000038,10000057,10000055,10000039",
+    "description": "10000038,10000026,10000003,10000030|10000038,10000046,10000025,10000030|10000038,10000057,10000055,10000039|10000038,10000073,10000025,10000065",
     "title": "Albedo | Team Composition and Synergy"
 }
