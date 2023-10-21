@@ -59,7 +59,7 @@
     },
     {
         "footer": {
-            "text": "Character Guide • Build: Lynette | Update Date: 09/26/2023 | Editor: ._.samantha._."
+            "text": "Character Guide • Build: Lynette | Update Date: 10/21/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Linette.png"
@@ -68,32 +68,42 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "..."
+                "value": "__Primordial Jade Cutter__\n5* Best in slot, performs similarly to other 5* options.\n__Wolf Fang__\nDoes need a little more focus on normal attacks, but best 4* option, does need Battle Pass.\n__Finale of the Deep__\nCraftable option with decent damage."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "..."
+                "value": "__Mistsplitter Reforged, Haran Geppaku Futsu, Light of Foliar Incision__\nAll stats ticks, performing similarly to each other, depending on if you have their passives or not."
             },
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "..."
+                "value": "15031"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "15027"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "anemodmg,15031,attack"
             },
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "..."
+                "value": "<sands> ATK%|<goblet> Anemo DMG Bonus%|<circlet> CRIT Rate or CRIT DMG"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "..."
+                "value": "Energy Recharge|CRIT Rate|CRIT DMG|ATK%"
             },
             {
                 "inline": "false",
                 "name": "Talent Priority",
-                "value": "..."
+                "value": "**1)**Elemental Burst: Magic Trick: Astonishing Shift\n**2)**Elemental Skill:  Enigmatic Feint\n**3)**Normal Attack: Rapid Ritesword"
             }
         ],
         "color": 5494962,
