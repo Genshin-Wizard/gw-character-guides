@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Kamisato Ayato | Update Date: 08/23/2022 | Editor: Luno#1337"
+            "text": "Character Guide • Build: Kamisato Ayato | Update Date: 10/21/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://i.imgur.com/aIcY8dQ.png"
@@ -15,17 +15,17 @@
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "\n__Mistsplitter’s Reforged__\nA minor improvement over Ayato’s 4 star weapon options as he will rarely be able to maintain and utilize its passive to the fullest extent. Although perfectly usable, it is much preferred to use the weapon on other characters who would gain more benefit using the weapon than Ayato would.\n\n__Cursed Blade__\nA F2P friendly and decent weapon option should players not have any of the weapons mentioned above.\n\n__Amenoma Kageuchi__\nAyato usually casts his burst at the start of the rotation, rendering the energy gained from the weapon passive near-useless. Thus, players will still need to build the same amount of ER as they did with any other weapon to be able to burst on the subsequent rotations.\n** **"
+                "value": "__Mistsplitter’s Reforged__\nA minor improvement over Ayato’s 4 star weapon options as he will rarely be able to maintain and utilize its passive to the fullest extent. Although perfectly usable, it is much preferred to use the weapon on other characters who would gain more benefit using the weapon than Ayato would.\n\n__Light of Foliar Incision__\nHis fast attacks are not Normal Attack, but the CRIT stats are helpful.\n\n__Cursed Blade__\nA F2P friendly and decent weapon option should players not have any of the weapons mentioned above.\n\n__Amenoma Kageuchi__\nAyato usually casts his burst at the start of the rotation, rendering the energy gained from the weapon passive near-useless. Thus, players will still need to build the same amount of ER as they did with any other weapon to be able to burst on the subsequent rotations."
             },
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15001"
+                "value": "15016"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15016"
+                "value": "15001"
             },
             {
                 "inline": "false",
@@ -50,7 +50,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "The difference between Gladiator’s Finale and Heart of Depth comes down to the substat differences and the team buffs present.\n\nA 4 set of Echoes of an Offering should only be considered when ping is consistently below 100, where the artifact set will be accordant with the other options. Otherwise, it is better to farm for 4 Heart of Depth as the artifact passive is essentially unconditional while simultaneously being able to farm for Blizzard Strayer pieces — another common artifact set utilized by many cryo characters."
+                "value": "The difference between Gladiator’s Finale and Heart of Depth comes down to the substat differences and the team buffs present.\n\nA 4 set of Echoes of an Offering should only be considered when ping is consistently below 100, where the artifact set will be accordant with the other options. \n__Nymph's Dream__\nUnlike other sets, is not in the Strong Box, but better than Echos of an Offering when at higher ping."
             }
         ],
         "color": 3245055,
