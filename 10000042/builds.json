@@ -114,5 +114,48 @@
         "color": 11104511,
         "type": "rich",
         "title": "Keqing (Physical DPS) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Keqing | Update Date: 10/21/2023 | Editor: ._.samantha._."
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/PQDR6HJ.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "..."
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "..."
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "..."
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "..."
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "..."
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "..."
+            }
+        ],
+        "color": 11104511,
+        "type": "rich",
+        "title": "Keqing (Aggravate Keqing) | Build"
     }
 ]
