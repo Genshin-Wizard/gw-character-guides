@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Albedo | Update Date: 08/06/2022 | Editor: Luanjo#5886"
+            "text": "Character Guide • Build: Albedo | Update Date: 10/21/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://i.imgur.com/oDUkuVY.png"
@@ -10,7 +10,7 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Cinnabar Spindle"
+                "value": "__Cinnabar Spindle__\nBest in slot made for Albedo, however is from a old event.\n__Wolf Fang__\nPerforms worse than Cinnabar Spindle, is a Battle Pass weapon, but available at any time."
             },
             {
                 "inline": "true",
@@ -20,17 +20,17 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15021"
+                "value": "15032"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15014,15007"
+                "value": "15021"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15014"
+                "value": "15032,15021,15014"
             },
             {
                 "inline": "true",
@@ -46,6 +46,11 @@
                 "inline": "false",
                 "name": "Talent Priority",
                 "value": "**1)** Elemental Skill: Abiogenesis: Solar Isotoma\n**2)** Elemental Burst: Rite of Progeniture: Tectonic Tide\n**3)** Normal Attack: Favonius Bladework - Weiss\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "If using __Cinnabar Spindle__ use __Golden Troupe__. If you using __Wolf Fang__ build __Husk of Opulent Dreams__."
             }
         ],
         "color": 14994176,
