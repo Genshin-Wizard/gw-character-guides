@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Keqing | Update Date: 08/22/2022 | Editor: Pneuma#0003"
+            "text": "Character Guide • Build: Keqing | Update Date: 10/21/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://i.imgur.com/PQDR6HJ.png"
@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Mistplitter Reforged__\nBest in slot in drip and in combat. High base ATK, CRIT DMG and a powerful passive that Keqing can easily trigger."
+                "value": "__Mistplitter Reforged__\nBest in slot in drip and in combat. High base ATK, CRIT DMG and a powerful passive that Keqing can easily trigger.\n\n__Kagotsurube Isshin__\nThis sword from Kazuha's story quest is the best true F2P option. Use this if you can't afford to get The Black Sword or Lion's Roar."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Primordial Jade Cutter, Haran Geppaku Futsu, Summit Shaper__\n5-star options that all rank very closely in terms of Keqing's damage output. Summit Shaper is the worst of the lot and requires a shield to make full use of, but is still better than 4-star options even if you don't have a shield.\n\n__Aquila Favonia, The Black Sword, Lion's Roar__\nAquila is only an option because of its 5-star statline, but it is noticeably worse than all other 5-stars. The Black Sword is the go-to in this bracket if you can get it as it has a high CRIT Rate substat and a decent passive. Lion's Roar can be better (and is generally stronger with refines) if you can maintain full uptime on its passive, although it does not fall off too much even without full uptime unless you constantly remove Electro from the enemy.\n\n__Kagotsurube Isshin__\nThis sword from Kazuha's story quest is the best true F2P option. Use this if you can't afford to get The Black Sword or Lion's Roar."
+                "value": "__Primordial Jade Cutter, Haran Geppaku Futsu, Summit Shaper, Light of Foliar Incision__\n5-star options that all rank very closely in terms of Keqing's damage output. Summit Shaper is the worst of the lot and requires a shield to make full use of, but is still better than 4-star options even if you don't have a shield.\n\n__Aquila Favonia, The Black Sword, Lion's Roar__\nAquila is only an option because of its 5-star statline, but it is noticeably worse than all other 5-stars. The Black Sword is the go-to in this bracket if you can get it as it has a high CRIT Rate substat and a decent passive. Lion's Roar can be better (and is generally stronger with refines) if you can maintain full uptime on its passive, although it does not fall off too much even without full uptime unless you constantly remove Electro from the enemy."
             },
             {
                 "inline": "false",
@@ -35,7 +35,7 @@
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> ATK% |<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate / CRIT DMG"
+                "value": "<sands> ATK% |<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate or CRIT DMG"
             },
             {
                 "inline": "true",
@@ -50,7 +50,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "The 3.0 update is likely to significantly change Keqing's options. Recommended artifact sets will be updated after we confirm Keqing's new teams. It is highly recommended to wait for more information on how she interacts with Dendro before farming for an artifact set."
+                "value": "This is a non-Aggravate, only Electro team."
             }
         ],
         "color": 11104511,
