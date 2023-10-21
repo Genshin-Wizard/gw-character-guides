@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Dendro Traveler | Update Date: 10/06/2022 | Editor: Pile6Zero#6228"
+            "text": "Character Guide • Build: Traveler | Update Date: 10/21/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://i.imgur.com/B0zBZMi.png"
@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Favonius Sword, Sacrificial Sword:__\nTraveler is a capable off field Dendro applier, however Traveler generates little energy for themselves, therefore weapons with an Energy Recharge substat is ideal to ensure that Traveler is capable of maintaining uptime on their Elemental Burst. Favonius Sword has the added benefit of being able to restore energy for the entire team"
+                "value": "__Favonius Sword, Sacrificial Sword__\nTraveler is a capable off field Dendro applier, however Traveler generates little energy for themselves, therefore weapons with an Energy Recharge substat is ideal to ensure that Traveler is capable of maintaining uptime on their Elemental Burst. Favonius Sword has the added benefit of being able to restore energy for the entire team"
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Freedom Sworn, Iron Sting:__\nThis weapon enhances Traveler's damage if used in a Spread team. Freedom Sworn has the added benefit of being able to buff the entire team as well. "
+                "value": "__Freedom Sworn, Iron Sting__\nThis weapon enhances Traveler's damage if used in a Spread team. Freedom Sworn has the added benefit of being able to buff the entire team as well.\n__Fleuve Cendre Ferrymen__\nBaseline for free options, with Energy Recharge and a buff for Energy Recharge.\n__Wolf Fang__\nBattle Pass weapon that's good for their personal damage."
             },
             {
                 "inline": "false",
@@ -30,7 +30,7 @@
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-gildeddreams|x2-wandererstroupe|x4-instructor"
+                "value": "15020"
             },
             {
                 "inline": "true",
@@ -45,7 +45,7 @@
             {
                 "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Elemental Burst: Surgent Manifestation\n**2)** Elemental Skill: Razorgrass Blade\n"
+                "value": "**1)** Elemental Burst: Surgent Manifestation\n**2)** Elemental Skill: Razorgrass Blade\n**N/A)**Normal Attack: Foreign Fieldcleaver"
             },
             {
                 "inline": "false",
