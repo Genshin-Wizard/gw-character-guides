@@ -112,7 +112,7 @@
     },
     {
         "footer": {
-            "text": "Character Guide • Build: Jean"
+            "text": "Character Guide • Build: Jean | Update Date: 10/21/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://i.imgur.com/uuGppMs.png"
@@ -121,7 +121,7 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "*Primordial Jade Cutter*\nThe insanely high CRIT Rate substat helps a lot with building physical jean, the low base attack is mitigated by the passive."
+                "value": "__Primordial Jade Cutter__\nThe high CRIT Rate substat helps a lot with building physical Jean, the low base attack is mitigated by the passive."
             },
             {
                 "inline": "true",
@@ -131,32 +131,37 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15018"
+                "value": "15031"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15018,15008"
+                "value": "15018"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "physical,attack"
+                "value": "15018,15008"
             },
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> ATK% |<goblet>  Physical DMG Bonus |<circlet> CRIT Rate or CRIT DMG"
+                "value": "<sands> ATK% |<goblet>  Physical DMG Bonus |<circlet> CRIT DMG"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "CRIT Rate or CRIT DMG|ATK%|Energy Recharge "
+                "value": "CRIT DMG|CRIT Rate|ATK%|Energy Recharge"
             },
             {
                 "inline": "false",
                 "name": "Talent Priority",
                 "value": "**1)** Normal Attack: Favonius Bladework\n**2)** Elemental Burst: Dandelion Breeze\n**3)** Elemental Skill: Gale Blade\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Marechaussee Hunter does require you to get hit enough, but with her passive healing from normal attacks, she can somewhat reliably keep the stacks."
             }
         ],
         "color": 5494962,
