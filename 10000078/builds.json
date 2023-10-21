@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Alhaitham | Update Date: 04/24/2023 | Editor: Ultimate Noob#2955"
+            "text": "Character Guide • Build: Alhaitham | Update Date: 10/21/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Alhatham.png"
@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Light of Foliar Incision__ - His BiS weapon, a amazing stat stick along with full utilization of it's passive, provide CRIT and DMG bonuses\n__Primordial Jade Cutter__ - A great stat stick, the attack is a added benefit"
+                "value": "__Light of Foliar Incision__ -\nHis BiS weapon, a amazing stat stick along with full utilization of it's passive, provide CRIT and DMG bonuses\n__Primordial Jade Cutter__ \nA great stat stick, the attack is a added benefit"
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Harbinger of Dawn__ - A weapon with an amazing passive if able to maintained, almost always requiring a shielder.\n__Festering Desire__ - A decent passive that benefits his kit \n__Black Sword__ A decent stat stick with a alright passive"
+                "value": "__Harbinger of Dawn__ -\nCompetitive 3* weapon, may force the player out of Hyperbloom teams because of the Bloom DMG ruining the passive.\n__Festering Desire__ - \nA decent passive that benefits his kit, but is from a very old Event.\n__Wolf Fang__\nA very strong Battle Pass option."
             },
             {
                 "inline": "false",
@@ -35,7 +35,7 @@
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Elemental Mastery|<goblet> Dendro DMG bonus|<circlet> CRIT DMG or Rate"
+                "value": "<sands> Elemental Mastery|<goblet> Dendro DMG bonus|<circlet> CRIT DMG or CRIT Rate"
             },
             {
                 "inline": "true",
@@ -50,7 +50,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "Mistplitter Reforged outscales Primordial Jade Cutter at above refinement 3\n\nSecond best artifact set refers to any combination of the sets, an example being 2p Gilded Dreams, 2p Wanderer\u2019s Troupe"
+                "value": "__Mistplitter Reforged__ out-scales __Primordial Jade Cutter__ at above Refinement 3"
             }
         ],
         "color": 6794623,
