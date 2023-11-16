@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Neuvillette | Update Date: 09/29/2023 | Editor: ._.samantha._."
+            "text": "Character Guide • Build: Neuvillette | Update Date: 11/15/2023 | Editor: talpha"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Neuvillette.png"
@@ -25,7 +25,7 @@
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "hydrodmg,hp"
+                "value": "hydro,hp"
             },
             {
                 "inline": "false",
