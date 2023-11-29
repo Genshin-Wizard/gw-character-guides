@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Freminet"
+        "text": "Character Guide • Synergy: Freminet | Update Date: 11/29/2023 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Freminet.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "The first 4 focus on Freminet's Physical DMG, and the last 4 focus on his Cryo DMG."
+        }
+    ],
     "color": 10147839,
     "type": "rich",
-    "description": "10000085",
+    "description": "10000085,10000073,10000025,10000065|10000085,10000024,10000031,flex|10000085,10000080,10000031,10000025|10000085,hydroflex,electroflex,flex|10000085,10000089,10000088,10000047|10000085,10000036,10000060,10000003|10000085,10000063,10000036,10000047|10000085,10000063,10000032,10000023",
     "title": "Freminet | Team Composition and Synergy"
 }
