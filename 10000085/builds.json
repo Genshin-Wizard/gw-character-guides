@@ -1,53 +1,60 @@
-[{
-    "footer": {
-        "text": "Character Guide \u2022 Build: Freminet"
-    },
-    "thumbnail": {
-        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Freminet.png"
-    },
-    "fields": [
-        {
-            "inline": true,
-            "name": "Best Weapon(s):",
-            "value": "Unknown"
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Freminet | Update Date: 11/29/2023 | Editor: ._.samantha._."
         },
-        {
-            "inline": true,
-            "name": "Replacement Weapon(s):",
-            "value": "Unknown"
+        "thumbnail": {
+            "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Freminet.png"
         },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "Unknown"
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "Unknown"
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "Unknown"
-        },
-        {
-            "inline": true,
-            "name": "Main Stats Priority",
-            "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
-        },
-        {
-            "inline": true,
-            "name": "Substats Priority",
-            "value": "Unknown|Unknown|Unknown"
-        },
-        {
-            "inline": false,
-            "name": "Talent Priority",
-            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
-        }
-    ],
-    "color": 10147839,
-    "type": "rich",
-    "title": "Freminet (Speculation Build) | Build"
-}]
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Beacon of the Reed Sea__\nBiS 5 star weapon, excellent stat stick.\n__Serpent Spine__\n4 star BP weapon\n__Tidal Shadow__\n4 star craftable weapon, gives a lot of ATK%, needing good Energy Recharge and CRIT stats."
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Song of Broken Pines, Redhorn Stonethresher, The Unforged, Skyward Spine__\nSimilar to Beacon of the Reed Sea, but providing different sets of stats and passives.\n__Snow-Tombed Starsilver, Prototype Archaic__\nSlightly less reliable statsticks, both craftable."
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "15032"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "14001"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "15018"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK%|<goblet> Cryo DMG Bonus% or Physical DMG Bonus%|<circlet> CRIT DMG or CRIT Rate"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Energy Recharge|CRIT Rate|CRIT DMG|ATK%|Physical or Cryo DMG Bonus Goblets depend on your playstyle. ATK% goblets may be viable, especially with Furina."
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Skill: Pressurized Floe\n**2)** Normal Attack: Flowing Eddies\n**2)** Elemental Burst: Shadowhunter's Ambush\n(*Prioritize Normal Attack for Physical, Elemental Burst for Cryo after leveling your Elemental Skill*)"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "You may want to mix 2-piece sets of ATK%, Golden Troupe, Cryo/Physical DMG Bonus% etc. \n__Golden Troupe__ is general, __Blizzard Strayer__ is similar in Cryo and __Pale Flame__ is the best for Physical Builds."
+            }
+        ],
+        "color": 10147839,
+        "type": "rich",
+        "title": "Freminet (Speculation Build) | Build"
+    }
+]

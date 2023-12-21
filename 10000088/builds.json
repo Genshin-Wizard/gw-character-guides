@@ -1,53 +1,60 @@
-{
-    "footer": {
-        "text": "Character Guide \u2022 Build: Charlotte"
-    },
-    "thumbnail": {
-        "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Charlotte.png"
-    },
-    "fields": [
-        {
-            "inline": true,
-            "name": "Best Weapon(s):",
-            "value": "Unknown"
+[
+    {
+        "footer": {
+            "text": "Character Guide • Build: Charlotte | Update Date: 11/17/2023 | Editor: talpha"
         },
-        {
-            "inline": true,
-            "name": "Replacement Weapon(s):",
-            "value": "Unknown"
+        "thumbnail": {
+            "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Charlotte.png"
         },
-        {
-            "inline": false,
-            "name": "Best Artifact Set:",
-            "value": "Unknown"
-        },
-        {
-            "inline": false,
-            "name": "Second Best Artifact Set:",
-            "value": "Unknown"
-        },
-        {
-            "inline": false,
-            "name": "Third Best Artifact Set:",
-            "value": "Unknown"
-        },
-        {
-            "inline": true,
-            "name": "Main Stats Priority",
-            "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
-        },
-        {
-            "inline": true,
-            "name": "Substats Priority",
-            "value": "Unknown|Unknown|Unknown"
-        },
-        {
-            "inline": false,
-            "name": "Talent Priority",
-            "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
-        }
-    ],
-    "color": 10147839,
-    "type": "rich",
-    "title": "Charlotte (Speculation Build) | Build"
-}
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Skyward Atlas and Memory of Dust__\nATK% stat sticks with useless passives. Still, one of her great options.\n__Oathsworn Eye__\nHer best (4 star) option. Works especially well with her, an ATK% scaling healer who needs significant amounts of ER%. (Depending on Energy requirements, it can be worse or better then 5 star statstick counterparts.)"
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "__Favonius Codex__\nGreat general option that can reduce both her and teammates ER requirements by a large margin, especially with high refinements. Keep in mind that Charlotte needs a considerable amount of crit rate for this (approximately 50% for R5 Favonius Codex)\n\nAlternatively any ATK% or Energy Recharge substat weapon can work."
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "15007"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "15017"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "15022"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK% or Energy Recharge|<goblet> ATK%|<circlet> Healing Bonus"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "Energy Recharge|ATK%|CRIT Rate (if using favonius)"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Elemental Burst: Still Photo: Comprehensive Confirmation\n**2)** Elemental Skill: Framing: Freezing Point Composition\n**3)** Normal Attack: Cool-Color Capture\n**->** *Normal Attack can be left unleveled*"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Energy Recharge requirements: (will be updated)\n\nAs a last option, you can go for 2x ATK%, 2x ATK% artifact sets but generally its not recommended."
+            }
+        ],
+        "color": 10147839,
+        "type": "rich",
+        "title": "Charlotte (Speculation Build) | Build"
+    }
+]

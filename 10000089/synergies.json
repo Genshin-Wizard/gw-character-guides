@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Furina"
+        "text": "Character Guide • Synergy: Furina | Update Date: 11/14/2023 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Furina.png"
     },
+    "fields": [],
     "color": 3245055,
     "type": "rich",
-    "description": "10000089",
+    "description": "10000087,10000089,10000030,10000047|10000086,10000080,10000089,10000025|10000034,10000025,10000060,10000089|10000026,10000076,10000089,10000088|10000052,10000056,10000003,10000089|10000058,10000077,10000089,10000031|10000078,10000089,10000082,10000065|10000089,10000023,10000032,10000025|10000085,10000089,10000088,10000031|10000046,10000089,10000060,10000003",
     "title": "Furina | Team Composition and Synergy"
 }

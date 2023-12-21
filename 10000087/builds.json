@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Neuvillette | Update Date: 09/29/2023 | Editor: ._.samantha._."
+            "text": "Character Guide • Build: Neuvillette | Update Date: 11/17/2023 | Editor: talpha"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Neuvillette.png"
@@ -15,7 +15,7 @@
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Kagura's Verity, Lost Prayer to the Sacred Winds, Jadefall's Splendor\n\n__Widsith__\nGreat especially at high refinements if you roll the Elemental DMG Bonus%. Elemental Mastery and ATK% are generally wasted on him."
+                "value": "__Kagura's Verity, Lost Prayer to the Sacred Winds, Jadefall's Splendor__ are all great options with pros and cons.\n\n__Widsith__\nOnly viable if you are trying to speedrun and willing to optimize it further. 2 of the stats its passive gives is wasted but the other one (DMG%) benefits him greatly."
             },
             {
                 "inline": "false",
@@ -25,7 +25,7 @@
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "hydrodmg,hp"
+                "value": "hydro,hp"
             },
             {
                 "inline": "false",
@@ -35,12 +35,12 @@
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> HP%|<goblet> Hydro DMG Bonus%|<circlet>CRIT Rate or CRIT DMG"
+                "value": "<sands> HP%|<goblet> Hydro DMG Bonus% or HP%|<circlet>CRIT Rate, CRIT DMG or HP%"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "Energy Recharge|HP%|CRIT DMG|CRIT Rate\nNote with the Marechaussee Hunter set is that he doesn't really need that much CRIT Rate, (about 40% MAX)."
+                "value": "Energy Recharge|HP%|CRIT DMG|CRIT Rate\nDo note that if you use him on Marechaussee Hunter his crit rate caps out at 64% CRIT RATE. Trying to hit this threshold is generally better since its so low. (It becomes even lower if you play him in a freeze team with 2 cryo, 49% to be precise.)"
             },
             {
                 "inline": "false",
@@ -50,7 +50,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "Thundersoother is only viable in an Electro-Charged team.\n**HP% goblet and circlet are viable if with better substats, or not enough HP from how much DMG% he gains.**"
+                "value": "Thundersoother is only viable in an Electro-Charged team.\nBecause of how easy he can reach 100% CRIT Rate, CRIT DMG basically becomes a DMG% on him. So depending on the artifacts you may want to run HP% Circlet. \nWith Furina its generally better to run HP% Goblet. Tho usually you dont want to run triple HP%, it is a viable option.\nEven out of these contidions, HP% pieces can be better depending of the substats."
             }
         ],
         "color": 3245055,
