@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Chevreuse"
+        "text": "Character Guide • Synergy: Chevreuse | Update Date: 01/13/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Chevreuse.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Due to her passives, she prefers only Electro or Pyro teammates."
+        }
+    ],
     "color": 16733525,
     "type": "rich",
-    "description": "10000090",
+    "description": "10000090,pyroflex,electroflex,flex|10000052,10000032,10000023,10000090|10000048,10000090,10000031,10000024|10000031,10000032,10000006,10000090|10000084,10000050,10000090,10000058|10000049,10000079,10000090,10000052",
     "title": "Chevreuse | Team Composition and Synergy"
 }
