@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Chevreuse"
+            "text": "Character Guide • Build: Chevreuse"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Chevreuse.png"
@@ -50,6 +50,6 @@
         ],
         "color": 16733525,
         "type": "rich",
-        "title": "Chevreuse (Speculation Build) | Build"
+        "title": "Chevreuse (Pyro and Electro Support) | Build"
     }
 ]
