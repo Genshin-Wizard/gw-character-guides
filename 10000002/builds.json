@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Kamisato Ayaka | Update Date: 03/20/2023 | Editor: tAlpha#9191"
+            "text": "Character Guide • Build: Kamisato Ayaka | Update Date: 01/13/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://i.imgur.com/7hJAGtk.png"
@@ -23,14 +23,24 @@
                 "value": "14001"
             },
             {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "14001,attack"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "15031"
+            },
+            {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> ATK% |<goblet>  Cryo DMG Bonus |<circlet>  CRIT DMG/ATK%"
+                "value": "<sands> ATK% |<goblet>  Cryo DMG Bonus |<circlet>  CRIT DMG or ATK%"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "Energy Recharge|CRIT DMG|ATK%|CRIT Rate        "
+                "value": "Energy Recharge|CRIT DMG|ATK%|CRIT Rate"
             },
             {
                 "inline": "false",
