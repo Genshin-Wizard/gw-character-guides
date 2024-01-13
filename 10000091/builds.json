@@ -1,55 +1,60 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Navia"
+            "text": "Character Guide • Build: Navia | Update Date: 01/13/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Navia.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Verdict__\nNavia's BIS. Has everything she wants.\n\n__Serpent Spine__\nGiven good dodges or a shield, can out-damage Verdict at high refinements.\n\n__“Ultimate Overlord’s Mega Magic Sword”__\nEvent exclusive weapon, which covers her energy requirements. However, any in the substats can be wasted.\n\n__Tidal Shadow__\nBest Craftable option available. Recommended to run a healer."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Beacon of the Reed Sea, Wolf's Gravestone, The Unforged, Redhorn Stonethresher, Skyward Pride__\n5 star statsticks that generally don't have perfect synergies with Navia.\n\n__Prototype Archaic, Katsuragikiri Nagamasa__\nOther craftable options that may beat Tidal Shadow without healing."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15034"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15031"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15032"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> ATK% or Energy Recharge|<goblet> Geo DMG Bonus%|<circlet> CRIT DMG or CRIT Rate"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "ATK%|Energy Recharge|CRIT Rate|CRIT DMG"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Skill: Ceremonial Crystalshot\n**2)** Normal Attack: Blunt Refusal\n**3)** Elemental Burst: As the Sunlit Sky’s Singing Salute"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "The Nighttime Whispers in the Echoing Woods set is considered resin inefficient, but is definitely her best set."
             }
         ],
         "color": 14994176,
         "type": "rich",
-        "title": "Navia (DPS) | Build"
+        "title": "Navia (Speculation Build) | Build"
     }
 ]
