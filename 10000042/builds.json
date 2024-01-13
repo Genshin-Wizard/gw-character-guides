@@ -151,17 +151,17 @@
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "..."
+                "value": "<sands> ATK% or Elemental Mastery |<goblet> Electro DMG Bonus% |<circlet>CRIT DMG or CRIT Rate"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "..."
+                "value": "Energy Recharge|Elemental Mastery|CRIT DMG|CRIT Rate"
             },
             {
                 "inline": "false",
                 "name": "Talent Priority",
-                "value": "..."
+                "value": "**1)** Normal Attack: Yunlai Swordsmanship\n**2)** Elemental Burst: Starward Sword\n**2)** Elemental Skill: Stellar Restoration"
             }
         ],
         "color": 11104511,
