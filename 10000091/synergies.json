@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Navia"
+        "text": "Character Guide • Synergy: Navia | Update Date: 01/13/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Navia.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "the last two characters of each team are very flexible. However, if you play Furina it is recommended to add a healer."
+        }
+    ],
     "color": 14994176,
     "type": "rich",
-    "description": "10000091",
+    "description": "10000091,geoflex,flex,flex|10000091,10000030,10000060,10000045|10000091,10000005-504,10000023,10000032|10000091,10000038,10000089,10000054|10000091,10000027,10000031,10000032|10000091,10000038,10000060,10000025",
     "title": "Navia | Team Composition and Synergy"
 }
