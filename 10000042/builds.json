@@ -117,7 +117,7 @@
     },
     {
         "footer": {
-            "text": "Character Guide • Build: Keqing | Update Date: 10/21/2023 | Editor: ._.samantha._."
+            "text": "Character Guide • Build: Keqing | Update Date: 01/13/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://i.imgur.com/PQDR6HJ.png"
@@ -126,17 +126,27 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "..."
+                "value": "__Primordial Jade Cutter, Mistsplitter Reforged, Light of Foliar Incision__\nGeneral statstick with everything she needs and a fully usable passive.\n__Lions Roar__\nGreat 4 star option\n__Iron Sting__\nBest Craftable option available\n__Harbinger of Dawn__\nIf maintained, beats all 4 star options and loses to only the above three 5 star options."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "..."
+                "value": "__Freedom Sworn, Summit Shaper, Haran Geppaku Futsu__\nOther functional 5 star statsticks\n\n__The Black Sword, Wolf Fang__\nGreat option too, but both battle pass weapons"
             },
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "..."
+                "value": "15005"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "15026"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "15005,attack,elementalmastery"
             },
             {
                 "inline": "true",
