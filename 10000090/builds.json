@@ -1,55 +1,60 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Chevreuse"
+            "text": "Character Guide • Build: Chevreuse | Update Date: 01/13/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Chevreuse.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Black Tassel__\n3 star statstick that allows her to maximize her HP.\n\n__Favonius Lance__\nMay aid the team with energy management."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Rightful Reward__\nCraftable option that outperforms most options, but *only at C6*\n\n__Other HP or Energy Recharge Polearms__\nOptions like Staff of Homa or Engulfing Lightning exist, but are recommended instead for her offensive teammates."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15007"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "14004"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15022"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> HP% or Energy Recharge|<goblet> HP%|<circlet> HP% or Healing Bonus"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "Energy Recharge|HP%|HP (until ~40,000)|CRIT Rate (Favonius Lance)"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Skill: Short-Range Rapid Interdiction Fire\n**2)** Elemental Burst: Ring of Bursting Grenades\n**N/A)** Normal Attack: Line Bayonet Thrust EX"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "__Tenacity of the Millelith__ is also a great option if teammates have snapshotting abilities like Fischl's Oz.\n__Song of Days Past__ isn't recommended as much until C6, and even less if you are not farming for Navia at the same time."
             }
         ],
         "color": 16733525,
         "type": "rich",
-        "title": "Chevreuse (Pyro and Electro Support) | Build"
+        "title": "Chevreuse (Speculation Build) | Build"
     }
 ]
