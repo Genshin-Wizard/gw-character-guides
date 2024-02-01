@@ -1,56 +1,61 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Xianyun"
+            "text": "Character Guide • Build: Xianyun | Update Date: 02/01/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Liuyun.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Crane’s Echoing Call__\nBIS buffing plunge damage, Energy Recharge requirements and the most ATK% for a catalyst.\n__Favonius Codex__\nCommon 4 star option, helping with energy requirements of her team and her.\n__Oathsworn Eye__\nEvent weapon, but provides ATK% and Energy Recharge.\n__Flowing Purity__\nUseless passive, but acts similarly to Oathsworn Eye. Good in Xiao Faruzan teams where Energy Recharge isn't as needed."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Prototype Amber, Hakushin Ring__\nCraftable options, but both suitable only in their niech. (Healing focus and Electro teams respectively.)\n__Ballad of the Boundless Blue, Wine and Song, Thrilling Tales of Dragon Slayers__\nSuitable free options, but there are always better options.\n__5 star catalysts__\nIf the substat is ATK%, consider them for a statstick, as they tend to have higher base attack."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15002"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15022"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15007"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> ATK% or Energy Recharge|<goblet> ATK%|<circlet> ATK% or Healing Bonus"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "ATK%|Energy Recharge|ATK (unlikely to go over, but only up to 4500)"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Skill: White Clouds at Dawn\n**2)** Elemental Burst: Stars Gather at Dusk\n**N/A)** Normal Attack: Word of Wind and Flower"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "__Energy Recharge:__\nSolo Anemo: 230-240%\nSolo Anemo with Signature Weapon: 170-180%\nXiao + C6 Faruzan: 130-140%\nXiao + C6 Faruzan + Signature Weapon: 100%\n\n__Song of Days Past, Maiden Beloved, 2x 2-piece mixed sets:__\nNot bad, just resin inefficient, and there are a lot of  good options. Healing focus builds do lose out a little on her buffs, but pairing her with Furina can make up for this."
             }
         ],
         "color": 5494962,
         "type": "rich",
-        "title": "Xianyun (Plunge Support) | Build"
+        "title": "Xianyun (Speculation Build) | Build"
     },
     {
         "footer": {
