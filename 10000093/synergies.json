@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Xianyun"
+        "text": "Character Guide • Synergy: Xianyun | Update Date: 02/01/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Liuyun.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "If Xianyun is on the first slot, consider her as the main DPS. (Most teams she is a support.)"
+        }
+    ],
     "color": 5494962,
     "type": "rich",
-    "description": "10000093",
+    "description": "10000026,10000076,10000093,10000089|10000016,10000093,10000089,10000032|10000046,10000093,10000089,10000060|10000029,10000032,10000093,10000025|10000092,10000093,10000025,10000043|10000032,10000036,10000093,10000060|10000086,10000093,10000063,10000089|10000058,10000031,10000073,10000093|10000093,10000076,10000089,10000032|10000093,10000026,10000030,10000038",
     "title": "Xianyun | Team Composition and Synergy"
 }
