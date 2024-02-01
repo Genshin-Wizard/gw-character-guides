@@ -51,5 +51,48 @@
         "color": 5494962,
         "type": "rich",
         "title": "Xianyun (Plunge Support) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Xianyun"
+        },
+        "thumbnail": {
+            "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Liuyun.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "..."
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "..."
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "..."
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "..."
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "..."
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "..."
+            }
+        ],
+        "color": 5494962,
+        "type": "rich",
+        "title": "Xianyun (Anemo DPS) | Build"
     }
 ]
