@@ -1,29 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Eula | Update Date: 11/08/2022 | Editor: Pile6Zero#6228"
+        "text": "Character Guide • Synergy: Eula | Update Date: 02/03/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://i.imgur.com/J4NNoqO.png"
     },
-    "fields": [
-        {
-            "inline": "false",
-            "name": "Electro Flex Options",
-            "value": "1) Raiden: she's a strong second dps, team battery, and Elemental Burst DMG buffer.\n\n2) Fischl: one of the best users of the Tenacity of the Millelith set, off-field dps and has great electro application to maintain superconduct uptime.\n\n3) Kuki Shinobu: another capable Tenacity of the Millelith holder, a healer, and psuedo-team battery thanks to favonius sword.\n\n4) Lisa: has a defense shred passive from her ascension 4 passive and can hold the Thrilling Tales of Dragon Slayers catalyst to buff Eula's attack greatly. Her energy requirements are **VERY** high, usually needing 220+ er with at least one favonius holder on the team or electro resonance."
-        },
-        {
-            "inline": "false",
-            "name": "Cryo Flex Options",
-            "value": "All of the listed options are great holders of the Noblesse Oblige set;\n\n1) Rosaria: her low cooldown, high mobility skill plus her ability to hold Favonius Lance makes her a great battery. Additionally, she can reduce opponent's physical resistance by 20% via her C6 ability, and is a good off-field dps too. She has a team crit share ability, however it's uptime is not consistent, changing Eula's rotation to the following can improve the crit share consistency:\n> Eula tap skill\n> Rosaria skill, burst\n> Eula burst (then continue the rotation as normal)\n\n2) Shenhe: her burst reduces opponent's cryo and physical resistance by upto 15%, and her press skill increases burst damage by 15%.\n\n3) Kaeya: also a great Favonius holder, and off-field dps but with lower range than Rosaria. His C2 and C6, potentially increase his off field damage."
-        },
-        {
-            "inline": "false",
-            "name": "Additional Notes",
-            "value": "1) Yelan's ascension 4 passive is very useful for Eula, and since Eula has a strong interruption resistance during her burst, she can stay on Bennett's field of effect to maximize her damage.\n\n2)Diona can replace Zhongli, her shields may be weaker but her healing makes up for it, in addion to which she is a better battery and can hold Favonius and Noblesse Oblige."
-        }
-    ],
+    "fields": [],
     "color": 10147839,
     "type": "rich",
-    "description": "10000051,electroflex,cryoflex,10000030|10000051,electroflex,cryoflex,10000032|10000051,10000052,10000060,10000032|10000051,10000052,10000056,10000030",
+    "description": "10000051,electroflex,cryoflex,10000030|10000051,electroflex,cryoflex,10000032|10000051,10000052,10000060,10000032|10000051,10000052,10000056,10000030|10000051,10000080,10000089,10000031|10000051,10000080,10000044,10000006",
     "title": "Eula | Team Composition and Synergy"
 }
