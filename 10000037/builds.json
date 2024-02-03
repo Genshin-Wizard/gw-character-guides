@@ -54,7 +54,7 @@
     },
     {
         "footer": {
-            "text": "Character Guide • Build: Ganyu | Update Date: 08/06/2022 | Editor: LordOfEnnui#8710"
+            "text": "Character Guide • Build: Ganyu | Update Date: 02/03/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://i.imgur.com/2Tff8N2.png"
@@ -63,17 +63,22 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Aqua Simulacra__\nBest unconditional damage focused weapon. Due to a lower Base Attack, Ganyu’s damage will scale slightly better with Shenhe’s Elemental Skill buff and Bennett’s Elemental Burst Flat Attack buff.\n\n__Prototype Crescent R5__\nAssuming she can hit a weakpoint, this bow is competitive with her 5* bows.\n\n__Amos’ Bow__\nProvides an enormous amount of DMG% bonus to Charged Attacks. Any team compositions that use them will find Amos’ Bow very effective. However, a significant amount of Freeze DPS Ganyu’s damage is her Elemental Burst, which it does not buff.\n\n**Early Game Option:**\n__Sharpshooter's Oath__\nHits in weakspots are guaranteed to CRIT. Thus, no CRIT Rate is necessary if you're an aim god."
+                "value": "__The First Great Magic__\nRegardless of the number of Cryo teammates, this weapon will almost always be best. However, it is not a major change or a must-pull.\n\n__Aqua Simulacra__\nBest unconditional damage focused weapon. Due to a lower Base Attack, Ganyu’s damage will scale slightly better with Shenhe’s Elemental Skill buff and Bennett’s Elemental Burst Flat Attack buff.\n\n__Prototype Crescent R5__\nAssuming she can hit a weakpoint, this bow is competitive with her 5* bows.\n\n__Amos’ Bow__\nProvides an enormous amount of DMG% bonus to Charged Attacks. Any team compositions that use them will find Amos’ Bow very effective. However, a significant amount of Freeze DPS Ganyu’s damage is her Elemental Burst, which it does not buff.\n\n**Early Game Option:**\n__Sharpshooter's Oath__\nHits in weakspots are guaranteed to CRIT. Thus, no CRIT Rate is necessary if you're an aim god."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Thundering Pulse__\nExcellent unconditional weapon for DPS capability. Its passive is largely wasted due to it providing Normal Attack DMG.\n\n__Polar Star__\nConditionally excellent if Ganyu fully stacks its passive by weaving in a Normal Attack before her DPS window (ie. N1EQC+). Will go over 100% CRIT Rate against Frozen enemies with 4pc Blizzard Strayer and Cryo Resonance, thus losing value.\n\n__Skyward Harp__\nGreat unconditional damage option. The CRIT Rate stat is not ideal, as it raises the likelihood that Ganyu goes over 100% CRIT Rate with artifact substats against frozen enemies.\n\nMounn’s Moon, The Viridescent Hunt, Blackcliff Warbow and Hamayumi R5 are all very viable.\n"
+                "value": "__Thundering Pulse__\nExcellent unconditional weapon for DPS capability. Its passive is largely wasted due to it providing Normal Attack DMG.\n\n__Polar Star__\nConditionally excellent if Ganyu fully stacks its passive by weaving in a Normal Attack before her DPS window (ie. N1EQC+). Will go over 100% CRIT Rate against Frozen enemies with 4pc Blizzard Strayer and Cryo Resonance, thus losing value.\n\n__Skyward Harp__\nGreat unconditional damage option. The CRIT Rate stat is not ideal, as it raises the likelihood that Ganyu goes over 100% CRIT Rate with artifact substats against frozen enemies.\n\nMounn’s Moon, The Viridescent Hunt, Blackcliff Warbow and Hamayumi R5 are all very viable."
             },
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
                 "value": "14001"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "15031"
             },
             {
                 "inline": "true",
@@ -89,6 +94,11 @@
                 "inline": "false",
                 "name": "Talent Priority",
                 "value": "**1)** Elemental Burst: Celestial Shower\n**2)** Normal Attack: Liutian Archery\n**3)** Elemental Skill: Trail of the Qilin\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Only play Marechaussee hunter with Furina."
             }
         ],
         "color": 10147839,
