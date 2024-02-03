@@ -1,13 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Dori | Update Date: 09/20/2022 | Editor: Samantha#9907"
+        "text": "Character Guide • Synergy: Dori | Update Date: 02/03/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Dori.png"
     },
-    "fields": [],
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "In the Furina team, Dori is expected to be at C6 to act as a Quickbloom driver."
+        }
+    ],
     "color": 11104511,
     "type": "rich",
-    "description": "10000057,10000055,geoflex,10000068|10000051,10000068,10000045,10000030|10000068,10000025,10000067,10000031|10000043,10000068,10000031,10000005-508|10000066,10000068,10000047,10000005-508|10000068,10000003,10000032,10000030",
+    "description": "10000057,10000055,geoflex,10000068|10000051,10000068,10000045,10000030|10000068,10000025,10000067,10000031|10000043,10000068,10000031,10000005-504|10000066,10000068,10000047,10000005-504|10000068,10000003,10000032,10000030|10000078,10000068,10000073,10000031|10000068,10000089,10000073,10000031",
     "title": "Dori | Team Composition and Synergy"
 }
