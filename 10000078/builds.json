@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Alhaitham | Update Date: 10/21/2023 | Editor: ._.samantha._."
+            "text": "Character Guide • Build: Alhaitham | Update Date: 02/03/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Alhatham.png"
@@ -50,7 +50,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "__Mistplitter Reforged__ out-scales __Primordial Jade Cutter__ at above Refinement 3"
+                "value": "__Mistplitter Reforged__ out-scales __Primordial Jade Cutter__ at above Refinement 3\n\nConsider __Marechaussee Hunter__ if played with Furina."
             }
         ],
         "color": 6794623,
