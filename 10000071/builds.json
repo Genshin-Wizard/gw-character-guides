@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Cyno | Update Date: 10/01/2022 | Editor: Luno#1337"
+            "text": "Character Guide • Build: Cyno | Update Date: 02/03/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://i.imgur.com/SoCflUy.png"
@@ -10,7 +10,7 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Staff of the Scarlet Sands__\nCyno’s signature weapon and Best-in-Slot providing bountiful stat boosts, especially when using an EM sands as it double dips into Cyno’s EM + ATK scaling.\n\n__White Tassel R5__ \nExcellent low investment, F2P weapon choice for Cyno owing to the large, uncoditional NA DMG% and crit rate mainstat it has — even with its notably low base attack. \n** **"
+                "value": "__Staff of the Scarlet Sands__\nCyno’s signature weapon and Best-in-Slot providing bountiful stat boosts, especially when using an EM sands as it double dips into Cyno’s EM + ATK scaling.\n__Ballad of the Fjords__\nSecond best option for Quickbloom, highly competitive for Aggravate teams. If you need to pick a Battle Pass weapon for Cyno, pick this.\n\n__White Tassel R5__ \nExcellent low investment, F2P weapon choice for Cyno owing to the large, uncoditional NA DMG% and crit rate mainstat it has — even with its notably low base attack. \n\n__Kitain Cross Spear__\nConsider in Quickbloom teams. Good craftable option."
             },
             {
                 "inline": "true",
@@ -50,7 +50,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "**Artifact Notes**\n*EM vs ATK?*\nOverall, they have similar performance with a few exceptions; use the one with better substats. Generally, low base attacks prefer EM sands while high base attack weapons would prefer ATK sands. \n\n*ER Requirements?*\nSolo Electro ~ 160-180%+\nDouble Electro ( Fischl ) ~ 100-120% \nDouble Electro ( non-Fischl ) ~ 120-150%\n*ER requirements assume 1 favonius proc; 4 TF lowers ER requirements further* \n\n*Regarding 4 Thundering Fury…*\nWorks well for Cyno — both to lower ER requirements and increase personal damage — but restricts users to a fixed combo as the reduction in E CD can be more detrimental than helpful. ( owing to missing Endseer timings )\nFor most, it is more recommended to ditch 4 Thundering Fury on Cyno unless confident in executing the specific combos."
+                "value": "__EM vs ATK?__\nOverall, they have similar performance with a few exceptions; use the one with better substats. Generally, low base attacks prefer EM sands while high base attack weapons would prefer ATK sands. \n\n__ER Requirements?__\nSolo Electro ~ 160-180%+\nDouble Electro ( Fischl ) ~ 100-120% \nDouble Electro ( non-Fischl ) ~ 120-150%\n*ER requirements assume 1 favonius proc; 4 TF lowers ER requirements further* \n\n__Regarding 4 Thundering Fury…__\nWorks well for Cyno — both to lower ER requirements and increase personal damage — but restricts users to a fixed combo as the reduction in E CD can be more detrimental than helpful. ( owing to missing Endseer timings )\nFor most, it is more recommended to ditch 4 Thundering Fury on Cyno unless confident in executing the specific combos.\n\n__Marechaussee Hunter__\nOnly with Furina, a quickbloom team with this set is viable."
             }
         ],
         "color": 11104511,
