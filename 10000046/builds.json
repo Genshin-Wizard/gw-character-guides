@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Hu Tao | Update Date: 08/30/2022 | Editor: LordOfEnnui#8710"
+            "text": "Character Guide • Build: Ху Тао | Update Date: 02/03/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://i.imgur.com/mvF8rwX.png"
@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Staff of Homa__\nCompletely unrivalled (but also far from necessary - don't spend money on png like me), it increases the value of HP on her even more. She will practically always be below 50%, so its passive will be fully active. A CRIT Rate circlet is recommended.\n\n**4 Star Options:**\n__Dragon's Bane__\nEM stat and extra DMG Bonus are great on Hu Tao. Its low Base Attack doesn't matter as much due to her Elemental Skill's buff. The extra EM increases her damage in Overvape teams, and makes Dragon's Bane even better. \n\n__Deathmatch__\nPretty unconditionally good, helps soothe Hu Tao's eternal hunger for more CRIT Rate substats. "
+                "value": "__Staff of Homa__\nCompletely unrivalled (but also far from necessary - don't spend money on png like me), it increases the value of HP on her even more. She will practically always be below 50%, so its passive will be fully active. A CRIT Rate circlet is recommended.\n\n**4 Star Options:**\n__Dragon's Bane__\nEM stat and extra DMG Bonus are great on Hu Tao. Its low Base Attack doesn't matter as much due to her Elemental Skill's buff. The extra EM increases her damage in Overvape teams, and makes Dragon's Bane even better. \n\n__Ballad of the Fjords__\nThe new Battle Pass weapon that provides EM. Pick this one for Hu Tao."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Primordial Jade Winged-Spear__\nHu Tao can stack the passive relatively slowly. The ATK% is still valuable, but not as good as on other characters.\n\n__Lithic Spear__\nSomewhat conditional. This position is based on running both Hu Tao and Xingqiu. Running more Liyue characters or higher refinements will move this weapon much further up, to the point that an R5 4Liyue spear is her second best option after Staff of Homa. As Hu Tao tends to run lots of Liyue characters like Yelan and Zhongli, the spear can be very effective.\n\n__White Tassel R5__\nHu Tao's dual scaling makes a 3 star weapon good on her. Most other weapons listed here are only ~10% more damage than it, and it is about as good as a Blackcliff Pole."
+                "value": "__Primordial Jade Winged-Spear__\nHu Tao can stack the passive relatively slowly. The ATK% is still valuable, but not as good as on other characters.\n\n__Lithic Spear__\nSomewhat conditional. This position is based on running both Hu Tao and Xingqiu. Running more Liyue characters or higher refinements will move this weapon much further up, to the point that an R5 4Liyue spear is her second best option after Staff of Homa. As Hu Tao tends to run lots of Liyue characters like Yelan and Zhongli, the spear can be very effective.\n\n__White Tassel R5__\nHu Tao's dual scaling makes a 3 star weapon good on her. Most other weapons listed here are only ~10% more damage than it, and it is about as good as a Blackcliff Pole.\n\n__Deathmatch__\nPretty unconditionally good, helps soothe Hu Tao's eternal hunger for more CRIT Rate substats. Use if you have it already."
             },
             {
                 "inline": "false",
@@ -30,7 +30,7 @@
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-crimsonwitchofflames|x2-wandererstroupe|x2-tenacityofthemillelith|x2-gildeddreams"
+                "value": "15031"
             },
             {
                 "inline": "true",
@@ -50,7 +50,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "Although 4-piece Crimson Witch of Flames is Hu Tao's best set, it is only better than 4-piece Shimenawa's Reminiscence by a very small margin. As Momiji-Dyed Court contains both Shimenawa's Reminiscence and Emblem of Severed Fate (the best set for Hu Tao's dedicated Hydro supports), it is recommended that you farm that domain instead if you're just starting to build Hu Tao."
+                "value": "__About Crimson Witch of Flames__\nDespite it being her best set, Shimenawa's Reminiscence is in a better domain. \n\n__About Marechaussee Hunter__\nThis set is only viable with Furina. You can run it with artifact-less healers to slowly trigger the effect, but it is better to sacrifice being below 50% for the buffs Furina provides."
             }
         ],
         "color": 16733525,
