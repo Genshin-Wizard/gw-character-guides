@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Mika | Update Date: 03/23/2023 | Editor: Samantha#9907"
+        "text": "Character Guide • Synergy: Mika | Update Date: 02/06/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Mika.png"
@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "The first 3 teams benefit from his Physical damage bonus, while the later 4 benefit from his attack speed buff. "
+            "value": "The first 3 teams benefit from his Physical damage bonus, while the later 4 benefit from his attack speed buff, and the last 3 benefit from his healing."
         }
     ],
     "color": 10147839,
     "type": "rich",
-    "description": "10000051,electroflex,10000080,10000032|10000020,10000080,10000045,flex|10000044,10000045,10000006,10000080|10000075,10000076,10000080,10000030|10000066,10000037,10000080,10000047|10000031,10000064,10000045,10000080|10000049,10000064,10000080,10000030",
+    "description": "10000051,electroflex,10000080,10000032|10000020,10000080,10000045,flex|10000044,10000045,10000006,10000080|10000075,10000076,10000080,10000030|10000066,10000037,10000080,10000047|10000031,10000064,10000045,10000080|10000049,10000064,10000080,10000030|10000086,10000080,10000063,10000047|10000085,10000080,10000089,10000031|10000075,10000089,10000076,10000080",
     "title": "Mika | Team Composition and Synergy"
 }
