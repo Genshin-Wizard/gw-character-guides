@@ -1,19 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Sangonomiya Kokomi | Update Date: 09/27/2022 | Editor: Pile6Zero#6228"
+        "text": "Character Guide • Synergy: Sangonomiya Kokomi | Update Date: 02/06/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://i.imgur.com/Rd4Ubga.png"
     },
-    "fields": [
-        {
-            "inline": "false",
-            "name": "Notes:",
-            "value": "The team of Fischl/Kokomi/Xiangling/Sucrose takes advantage of Kokomi's Elemental skill AoE and Sucrose's ability to use her Elemental skill to swirl pyro off guoba to trigger overload and vaporize simultaneously on several mobs at once, on top of using Xiangling's pyronado to deal damage. Because of fact that it triggers several reactions continuously, this team is still strong versus Single target opponents. Read more about this team on the official KQM guide!\n\nKokomi's AoE Hydro application makes her great for Hyperbloom teams. When paired with Fischl, Kazuha and Dendro Traveler, Kazuha is able to absorb electro into his Elemental Burst from Oz's electro application, making for powerful Hyperbloom damage"
-        }
-    ],
+    "fields": [],
     "color": 3245055,
     "type": "rich",
-    "description": "10000031,10000054,10000023,10000043|10000054,10000031,10000024,10000047|10000063,10000047,10000054,10000002|10000054,cryoflex,cryoflex,anemoflex|10000054,10000031,electroflex,anemoflex|10000037,10000063,10000054,10000002|10000031,10000047,10000054,10000005-508",
+    "description": "10000024,10000031,10000054,10000047|10000054,10000023,10000031,10000043|10000002,10000063,10000054,10000047|10000054,10000070,10000073,10000060|10000054,10000060,10000052,10000073|10000054,10000077,10000050,10000005-504|10000054,10000089,10000060,10000047|10000091,10000027,10000089,10000054|10000086,10000054,10000063,10000047|10000054,10000057,10000038,10000055",
     "title": "Kokomi | Team Composition and Synergy"
 }
