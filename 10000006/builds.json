@@ -170,7 +170,7 @@
     },
     {
         "footer": {
-            "text": "Character Guide • Build: Lisa | Update Date: 01/25/2023 | Editor: Samantha#9907"
+            "text": "Character Guide • Build: Lisa | Update Date: 02/06/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://i.imgur.com/a0E1K9o.png"
@@ -179,46 +179,46 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Sacrificial Fragments"
+                "value": "__Kagura’s Verity__\nBIS 5-star weapon regardless of passive stacks.\n\n__The Widsith__\nBest 4-star option, with all 3 passives being usable"
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Favonius Codex, Magic Guide, Mappa Mare, Hakushin Ring, Widsith, A Thousand Floating Dreams"
+                "value": "Lost Prayers to the Sacred Winds, A Thousand Floating Dreams, Mappa Mare, Wandering Evenstar, Fruit of Fulfillment, Sacrificial Fragments, Oathsworn Eye, Solar Pearl"
             },
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15020,15003"
+                "value": "14002"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "10007"
+                "value": "15005"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15005"
+                "value": "15026"
             },
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Elemental Mastery\n<goblet> Elemental Mastery\n<circlet> Elemental Mastery"
+                "value": "<sands> Elemental Mastery\n<goblet> Electro DMG Bonus%\n<circlet> CRIT DMG or CRIT Rate"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "Elemental Mastery|Energy Recharge"
+                "value": "Energy Recharge|Elemental Mastery|CRIT DMG|CRIT Rate"
             },
             {
                 "inline": "false",
                 "name": "Talent Priority",
-                "value": "Talent levels often do not matter for an EM carry Lisa, since she does not scale with EM for her combat talents. However, she does ascend with Elemental Mastery, so it is recommended to raise her as high as possible. "
+                "value": "**1)** Elemental Burst: Lightning Rose\n**1)** Elemental Skill: Violet Arc\n**2)** Normal Attack: Lightning Touch"
             }
         ],
         "color": 11104511,
         "type": "rich",
-        "title": "Lisa (Aggravate Lisa) | Build"
+        "title": "Lisa (EM Carry) | Build"
     }
 ]
