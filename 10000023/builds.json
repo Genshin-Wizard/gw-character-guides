@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Xiangling | Update Date: 08/21/2022 | Editor: kitkat#1305"
+            "text": "Character Guide • Build: Xiangling | Update Date: 02/06/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://i.imgur.com/6VZAvrf.png"
@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Wavebreaker's Fin (R5)\n"
+                "value": "__Wavebreaker's Fin__\nThe higher the team's Elemental Burst costs, the stronger this weapon becomes. \n\n__The Catch__\nThe free weapon with everything she needs. Go fishing if you don't have it."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Staff of Homa, Engulfing Lightning, The Catch (R5), Deathmatch (R5), Dragon's Bane (R5), Skyward Spine, Kitain Cross Spear"
+                "value": "Staff of Homa, Engulfing Lightning, Deathmatch, Dragon's Bane, Skyward Spine, Kitain Cross Spear, Ballad of the Fjords"
             },
             {
                 "inline": "false",
@@ -30,17 +30,17 @@
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15007,15006"
+                "value": "15026"
             },
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Energy Recharge or Elemental Mastery |<goblet>  Pyro DMG Bonus |<circlet>  CRIT Rate / CRIT DMG"
+                "value": "<sands> Energy Recharge or Elemental Mastery |<goblet>  Pyro DMG Bonus% |<circlet>  CRIT DMG or CRIT Rate"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "Energy Recharge|CRIT Rate|CRIT DMG|Elemental Mastery|ATK%        "
+                "value": "Energy Recharge|CRIT Rate|CRIT DMG|Elemental Mastery|ATK%"
             },
             {
                 "inline": "false",
@@ -55,7 +55,7 @@
         ],
         "color": 16733525,
         "type": "rich",
-        "title": "Xiangling (Vaporize Off-field DPS) | Build"
+        "title": "Xiangling (Vape) | Build"
     },
     {
         "footer": {
