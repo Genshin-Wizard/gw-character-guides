@@ -15,7 +15,7 @@
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Staff of Homa, Engulfing Lightning, Deathmatch, Dragon's Bane, Skyward Spine, Kitain Cross Spear, Ballad of the Fjords, Prospector's Drill, Missive Windspear, Moonpiercer"
+                "value": "Staff of Homa, Engulfing Lightning, Deathmatch, Dragon's Bane, Skyward Spine, Staff of the Scarlet Sands, Vortex Vanquisher, Kitain Cross Spear, Ballad of the Fjords, Prospector's Drill, Missive Windspear, Moonpiercer"
             },
             {
                 "inline": "false",
@@ -50,7 +50,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "Generally, Xiangling requires around 180% ER. Her main source of damage Pyronado, has a hefty 80 burst cost. "
+                "value": "Generally, Xiangling requires around 180% ER. Her main source of damage Pyronado, has a hefty 80 burst cost.\n\nIf the weapon isn't HP%, and she has enough Energy Recharge, almost all weapons will work on Xiangling."
             }
         ],
         "color": 16733525,
