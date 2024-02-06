@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Jean | Update Date: 08/08/2022 | Editor: Sew#2409"
+        "text": "Character Guide • Synergy: Jean | Update Date: 02/05/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://i.imgur.com/uuGppMs.png"
@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Jean has a special interaction with Bennett. If you use both of their bursts together, Jean's burst will continuously apply Pyro with her swirls. "
+            "value": "Jean has a special interaction with Bennett. If you use both of their bursts together, Jean's burst will continuously apply Pyro with her swirls."
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "description": "10000003,10000026,10000038,10000030|10000003,10000022,10000027,10000030|10000003,10000045,10000031,10000032|10000003,10000032,10000052,10000025|10000003,10000032,cryoflex,flex|10000003,cryoflex,cryoflex,hydroflex",
+    "description": "10000003,10000026,10000038,10000030|10000003,10000022,10000027,10000030|10000003,10000045,10000031,10000032|10000003,10000032,10000052,10000025|10000046,10000003,10000089,10000060|10000052,10000089,10000003,10000032|cryoflex,10000063,10000003,10000089|10000003,10000032,cryoflex,flex|10000003,cryoflex,cryoflex,hydroflex|flex,10000003,10000089,flex",
     "title": "Jean | Team Composition and Synergy"
 }
