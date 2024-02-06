@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Noelle | Update Date: 10/06/2022 | Editor: Sew#2409"
+            "text": "Character Guide • Build: Noelle | Update Date: 02/06/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://i.imgur.com/klBUgnZ.png"
@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Redhorn Stonethresher__ Redhorn as a weapon is tailor made for Noelle's kit. High Crit mainstat, additional DEF and DEF to Normal and Charged ATK DMG bonus make it Noelle's best weapon."
+                "value": "__Redhorn Stonethresher__ \nRedhorn as a weapon is tailor made for Noelle's kit. High Crit mainstat, additional DEF and DEF to Normal and Charged ATK DMG bonus make it Noelle's best weapon.\n\n__Whiteblind__\nBest Free craftable option with DEF%."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Serpents spine, Skyward Pride, Whiteblind"
+                "value": "Serpents spine, Skyward Pride, Verdict, Beacon of the Reed Sea\n\n__Tidal Shadow__\nOn par with Whiteblind if played with Furina. There is no reason to replace your Whiteblind, but if you have neither, it is a little bit more universal."
             },
             {
                 "inline": "false",
@@ -25,22 +25,22 @@
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15001"
+                "value": "15031"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15015"
+                "value": "15001"
             },
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> DEF% or ATK% |<goblet>  Geo DMG Bonus |<circlet> CRIT Rate or CRIT DMG"
+                "value": "<sands> DEF% or ATK% |<goblet>  Geo DMG Bonus |<circlet>CRIT DMG or CRIT Rate"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "Energy Recharge|Crit Rate or Crit DMG|DEF%|ATK%      "
+                "value": "Energy Recharge|Crit Rate|Crit DMG|DEF%|ATK%"
             },
             {
                 "inline": "false",
@@ -50,7 +50,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "Pre C6 ATK% sands may be better than DEF%."
+                "value": "Pre C6 ATK% sands may be better than DEF%.\n__Marechaussee Hunter__ should only be played with Furina."
             }
         ],
         "color": 14994176,
