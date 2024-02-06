@@ -5,7 +5,13 @@
     "thumbnail": {
         "url": "https://i.imgur.com/PQDR6HJ.png"
     },
-    "fields": [],
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Even with Furina, __Marechaussee Hunter__ is not recommended (over Thundering Fury or Gilded Dreams, etc) due to it only buffing her Normal Attacks."
+        }
+    ],
     "color": 11104511,
     "type": "rich",
     "description": "10000042,10000031,10000054,10000047|10000042,10000024,10000056,10000047|10000042,10000031,10000032,10000022|10000042,10000056,10000032,10000047|10000042,10000031,10000073,10000030|10000042,10000060,10000025,10000030|10000042,10000073,10000065,10000060|10000042,10000077,10000031,10000047|10000042,10000089,10000093,10000073|10000042,10000089,10000073,10000003",
