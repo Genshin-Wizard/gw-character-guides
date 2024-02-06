@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Lisa | Update Date: 01/25/2023 | Editor: Samantha#9907"
+        "text": "Character Guide • Synergy: Lisa | Update Date: 02/06/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://i.imgur.com/a0E1K9o.png"
@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Lisa's actually pretty good for helping with Dendro, Electro, Geo, Anemo and Physical nukes."
+            "value": "Consider Lisa as the on-field DPS if she's in the first slot. If not, she is a burst-support."
         }
     ],
     "color": 11104511,
     "type": "rich",
-    "description": "10000032,10000006,10000024,10000025|10000052,10000006,10000032,10000047|10000051,10000031,10000039,10000006|10000006,10000005-508,10000067,10000054|10000069,10000006,10000047,10000065|10000006,10000031,10000005-508,10000047|dendroflex,10000006,10000022,10000054|dendroflex,10000006,10000032,10000043",
+    "description": "10000006,10000082,10000031,10000047|10000006,10000061,10000031,10000043|10000071,10000006,10000082,10000047|10000052,10000006,10000032,10000060|10000051,10000006,10000052,10000080|10000078,10000006,10000031,10000077|10000006,10000023,10000032,10000090|10000006,10000073,10000089,10000003",
     "title": "Lisa | Team Composition and Synergy"
 }
