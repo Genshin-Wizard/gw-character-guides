@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Yanfei | Update Date: 08/10/2022 | Editor: Luno#1337"
+            "text": "Character Guide • Build: Yanfei | Update Date: 02/06/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://i.imgur.com/AK3r6mb.png"
@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Lost Prayers to the Sacred Winds__\n5 Star Best-in-Slot option owing to the nature of Yanfei’s playstyle where she is On-Field for extended periods of time, taking advantage of the weapon passive splendidly.\n\n__Widsith__\nYanfei’s 4 star Best-in-Slot, being able to capitalize on all 3 note buffs for the duration of her damage window. At high refinements, the note buffs are potent enough to be capable of succeeding 5 star weapon options.\n** **"
+                "value": "__Lost Prayers to the Sacred Winds__\n5 Star Best-in-Slot option owing to the nature of Yanfei’s playstyle where she is On-Field for extended periods of time, taking advantage of the weapon passive splendidly.\n\n__Widsith__\nYanfei’s 4 star Best-in-Slot, being able to capitalize on all 3 note buffs for the duration of her damage window. At high refinements, the note buffs are potent enough to be capable of succeeding 5 star weapon options.\n\n__Flowing Purity__\nThe Fontaine craftable option that works in Vaporize and Mono-Pyro."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Kagura’s Verity__\nWhen using 2 skills per rotation, Yanfei is able to attain and maintain the maximum stacks by the start of the second rotation; enabling Yanfei to make use of its max stack condition for a decent boost to her DMG Bonus.\n\n__Solar Pearl__\nPlainly a CRIT statstick as the passive does not buff Yanfei’s main source of personal damage, being her charged attacks.\n\n__Dodoco Tales__\nShould players have this event-exclusive weapon, it still remains as a strong F2P option on Yanfei in this playstyle.\n\n__Mappa Mare__\nDecently strong F2P option provided players can spare the billet(s) needed.\n** ** "
+                "value": "__Kagura’s Verity__\nWhen using 2 skills per rotation, Yanfei is able to attain and maintain the maximum stacks by the start of the second rotation; enabling Yanfei to make use of its max stack condition for a decent boost to her DMG Bonus.\n\n__Solar Pearl__\nPlainly a CRIT statstick as the passive does not buff Yanfei’s main source of personal damage, being her charged attacks.\n\n__Dodoco Tales__\nShould players have this event-exclusive weapon, it still remains as a strong F2P option on Yanfei in this playstyle.\n\n__Mappa Mare__\nDecently strong F2P option provided players can spare the billet(s) needed."
             },
             {
                 "inline": "false",
@@ -28,9 +28,14 @@
                 "value": "15003"
             },
             {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "15031"
+            },
+            {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "Elemental Mastery OR ATK%|Pyro DMG Bonus|CRIT Rate or DMG"
+                "value": "<sands> ATK%|<goblet>Pyro DMG Bonus%|<circlet>CRIT DMG or CRIT Rate"
             },
             {
                 "inline": "true",
@@ -41,6 +46,11 @@
                 "inline": "false",
                 "name": "Talent Priority",
                 "value": "**1)** Normal Attack: Seal of Approval\n**2)** Elemental Burst: Done Deal\n**3)** Elemental Skill: Signed Edict"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "__Marechaussee Hunter__ would work only in Burgeon or with Furina. It is recommended to play with Furina for Vaporize teams and uptime on the CRIT Rate buff."
             }
         ],
         "color": 16733525,
