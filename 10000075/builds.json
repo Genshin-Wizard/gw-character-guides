@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Wanderer | Update Date: 12/06/2022 | Editor: Ultimate Noob#2955"
+            "text": "Character Guide • Build: Wanderer | Update Date: 02/06/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Wanderer.png"
@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Tulaytullah's Remembrance__ - Wanderer can utilize the passive really well, able to fully utilize the attack speed and attack buffs.\n\n__Lost Prayer to the Sacred Winds__ - A good stat stick and decent synergy."
+                "value": "__Tulaytullah's Remembrance__ \nWanderer can utilize the passive really well, able to fully utilize the attack speed and attack buffs.\n\n__Lost Prayer to the Sacred Winds__ \nA good stat stick and decent synergy.\n\n__Flowing Purity__\nBest craftable option, especially with HP changes."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Widsith__ - One of his best weapons, a bit of RNG but can out damage most 5-Star options.\n__Solar Pearl__ - A decent stat stick."
+                "value": "__Widsith__ \nOne of his best weapons, a bit of RNG but can out damage most 5-Star options.\n\n__Solar Pearl, Skyward Atlas, Cashflow Supervision, Kagura's Verity, Memory of Dust__ \nStatsticks that may have useless or difficult-to-use synergy."
             },
             {
                 "inline": "false",
@@ -30,17 +30,17 @@
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "x2-desertpavilionchronicle|x2-viridescentvenerer|x2-shimenawasreminiscence"
+                "value": "15031"
             },
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> ATK%|<goblet> Anemo DMG Bonus|<circlet> CRIT DMG/Rate"
+                "value": "<sands> ATK%|<goblet> Anemo DMG Bonus%|<circlet> CRIT DMG or CRIT Rate"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "CRIT DMG/Rate|ATK%|Energy Recharge"
+                "value": "CRIT DMG|CRIT Rate|ATK%|Energy Recharge"
             },
             {
                 "inline": "false",
@@ -50,7 +50,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "If utilizing a shield, 4-Piece Retracing Bolide will outperform the third best set mentioned.\n\n4-Piece Viridescent Venerer performs at the same level as the third best set mentioned.\n\nWanderer should only be using Elemental Burst 2/3 times."
+                "value": "If utilizing a shield, 4-Piece Retracing Bolide will perform better than a 2-piece combination of sets.\n\n4-Piece Viridescent Venerer performs at similar levels to a 2-piece combination of sets.\n\n__Marechaussee Hunter__ is a set only viable with Furina."
             }
         ],
         "color": 5494962,
