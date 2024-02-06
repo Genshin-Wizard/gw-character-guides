@@ -1,13 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Yanfei | Update Date: 08/27/2022 | Editor: Luno#1337"
+        "text": "Character Guide • Synergy: Yanfei | Update Date: 02/06/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://i.imgur.com/AK3r6mb.png"
     },
-    "fields": [],
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Use a C4+ Yanfei for the last two teams with HP% for everything."
+        }
+    ],
     "color": 16733525,
     "type": "rich",
-    "description": "10000048,10000025,10000032,10000030|10000048,10000023,10000032,10000030|10000048,10000025,10000024,10000031",
+    "description": "10000048,10000025,10000032,10000030|10000048,10000023,10000032,10000047|10000048,10000090,10000024,10000031|10000048,10000060,10000025,10000032|10000048,10000060,10000089,10000003|10000048,10000073,10000054,10000025|10000084,10000032,10000048,10000047|10000049,10000090,10000052,10000048",
     "title": "Yanfei | Team Composition and Synergy"
 }
