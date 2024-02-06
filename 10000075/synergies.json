@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Wanderer | Update Date: 06/18/2023 | Editor: ._.samantha._."
+        "text": "Character Guide • Synergy: Wanderer | Update Date: 02/06/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Wanderer.png"
@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Flex can literally be any sub-DPS or shielder, such as Fischl, Yelan, Jean, Layla and Diona."
+            "value": "Flex can literally be any sub-DPS or shielder, such as Fischl, Yelan, Jean, Layla and Diona.\n\nWanderer does want Faruzan (better at C6) or Jean (at C4+). However, Furina with a full-party healer can be better than a low constellation Faruzan."
         }
     ],
     "color": 5494962,
     "type": "rich",
-    "description": "10000075,10000076,10000032,flex|10000075,10000076,10000032,10000023|10000075,10000076,10000045,10000030|10000075,10000076,10000031,10000003|10000075,10000064,10000025,10000030|10000075,10000025,10000032,10000023",
+    "description": "10000075,10000076,10000032,flex|10000075,10000076,10000032,10000023|10000075,10000076,10000045,10000030|10000075,10000076,10000031,10000003|10000075,10000064,10000025,10000030|10000075,10000025,10000032,10000023|10000075,10000076,10000080,10000089|10000075,10000089,10000003,10000074|10000075,10000076,10000003,10000089|10000075,10000076,10000089,10000032",
     "title": "Wanderer | Team Composition and Synergy"
 }
