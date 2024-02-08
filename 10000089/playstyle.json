@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Furina"
+        "text": "Character Guide • Playstyle: Furina | Update Date: 02/07/2024 | Editor: ultimate.noob"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Furina.png"
     },
     "color": 3245055,
     "type": "rich",
-    "description": "Unknown",
+    "description": "Furina is a versatile support who provides strong off-field damage and buffs for the team. Majority of her damage comes from her elemental skill, typically used in Ousia before constellation 6. Her burst provide DMG% increase to your team, the caveat being the condition to activate it. As such to activate, Furina typically requires a dedicated teamwide healing such as Jean or Kokomi.",
     "title": "Furina | Playstyle"
 }
