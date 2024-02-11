@@ -1,55 +1,60 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Gaming"
+            "text": "Character Guide • Build: Gaming | Update Date: 02/10/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Gaming.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Serpent Spine__\nBest weapon for Gaming if played with a shield, especially at high refinements.\n\n__Rainslasher__\nGreat option in Vaporize-based teams. \n\n__Tidal Shadow__\nFree and craftable option with a passive that works great for Gaming."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Redhorn Stonethresher, Beacon of the Reed Sea, Verdict__\nCRIT Substats make them stronger than ATK% claymores, but have mostly useless passives.\n\n__Wolf’s Gravestone, Song of Broken Pines, The Unforged__\nStatsticks that may have useless substats or passives.\n\n__Mailed Flower, Ultimate Overlord’s Mega Magic Sword__\nEvent weapons that work in Vaporize/Melt teams and strong as Tidal Shadow if needing higher ER.\n\n__Lithic Blade__\nStrong option only if you have multiple Liyue characters and high refinements."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15031"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15006"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15026"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> ATK% or Energy Recharge or Elemental Mastery|<goblet>Pyro DMG Bonus%|<circlet>  CRIT DMG or CRIT Rate"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "Energy Recharge|Elemental Mastery|ATK%|CRIT DMG|CRIT Rate"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Skill: Bestial Ascent\n**2)** Elemental Burst: Suanni’s Gilded Dance\n**3)** Normal Attack: Stellar Rend"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "**Energy Requirements**\nSolo C0-C3: 180-190%\nSolo C4+: 145-155%\nWith Bennett C0-C3: 150-160%\nWith Bennett C4+: 125- 135%\n\n**Playing with C6 Bennett**\n__Normal Attack: Stellar Rend__ is given priority over __Elemental Burst: Suanni’s Gilded Dance__"
             }
         ],
         "color": 16733525,
         "type": "rich",
-        "title": "Gaming (Pyro DPS) | Build"
+        "title": "Gaming (Speculation Build) | Build"
     }
 ]
