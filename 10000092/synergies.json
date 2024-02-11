@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Gaming"
+        "text": "Character Guide • Synergy: Gaming | Update Date: 02/11/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Gaming.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Generally, a healer is recommended at C0, C2 and onwards. At C1, a shielder may be preferred. Any team with Bennett should not have Jean, due to Gaming being unable to trigger reactions."
+        }
+    ],
     "color": 16733525,
     "type": "rich",
-    "description": "10000092",
+    "description": "10000092,10000032,10000093,10000089|10000092,10000015,10000045,10000047|10000092,10000032,10000023,10000093|10000092,10000090,10000032,10000031|10000092,10000074,10000037,10000083|10000092,10000050,10000060,10000003|10000092,10000060,10000048,10000093|10000092,10000043,10000025,10000032|10000092,10000030,10000032,10000038|10000092,10000025,10000073,10000082",
     "title": "Gaming | Team Composition and Synergy"
 }
