@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Gaming"
+            "text": "Character Guide • Build: Gaming"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Gaming.png"
@@ -50,6 +50,6 @@
         ],
         "color": 16733525,
         "type": "rich",
-        "title": "Gaming (Speculation Build) | Build"
+        "title": "Gaming (Pyro DPS) | Build"
     }
 ]
