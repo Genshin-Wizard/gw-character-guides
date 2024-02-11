@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Traveler | Update Date: 10/21/2023 | Editor: ._.samantha._."
+            "text": "Character Guide • Build: Traveler | Update Date: 02/11/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://i.imgur.com/B0zBZMi.png"
@@ -10,27 +10,27 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Primordial Jade Cutter__\nis a great stat stick and unconditional ATK  that scales off of Max HP.\n__Wolf Fang__\nBattle Pass weapon, has a passive that provides CRIT Rate and DMG Bonus%"
+                "value": "__Primordial Jade Cutter__\nis a great stat stick and unconditional ATK  that scales off of Max HP.\n__Wolf Fang__\nBattle Pass weapon, has a passive that provides CRIT Rate and DMG Bonus%."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Other 5-Stars Options__: Haran Geppaku Futsu, Mistsplitter Reforged, Summit Shaper\n__Best 4-Star Options (In order)__: Lion’s Roar, Festering Desire, The Black Sword, Amenoma Kageuchi\n__Battery__: Favonius Sword"
+                "value": "__Other 5-Stars Options__: Haran Geppaku Futsu, Mistsplitter Reforged, Summit Shaper, Light of Foliar Incision\n__Best 4-Star Options (In order)__: Lion’s Roar, Festering Desire, The Black Sword, Amenoma Kageuchi\n__Battery__: Favonius Sword"
             },
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15014,15007"
+                "value": "15034"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15021"
+                "value": "15014,15007"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15014,attack"
+                "value": "15021"
             },
             {
                 "inline": "true",
