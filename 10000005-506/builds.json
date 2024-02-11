@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Primordial Jade Cutter__\nis a great stat stick and unconditional ATK  that scales off of Max HP.\n__Wolf Fang__\nBattle Pass weapon, has a passive that provides CRIT Rate and DMG Bonus%."
+                "value": "__Primordial Jade Cutter__\nis a great stat stick and unconditional ATK  that scales off of Max HP.\n\n__Wolf Fang__\nBattle Pass weapon, has a passive that provides CRIT Rate and DMG Bonus%."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Other 5-Stars Options__: Haran Geppaku Futsu, Mistsplitter Reforged, Summit Shaper, Light of Foliar Incision\n__Best 4-Star Options (In order)__: Lion’s Roar, Festering Desire, The Black Sword, Amenoma Kageuchi\n__Battery__: Favonius Sword"
+                "value": "__Haran Geppaku Futsu, Mistsplitter Reforged, Summit Shaper, Light of Foliar Incision__\n5-star statsticks.\n\n__Lion’s Roar, Festering Desire, The Black Sword, Amenoma Kageuchi__\nConsider them in this order of strength.\n\n__Favonius Sword__\nWith enough CRIT Rate, they are the best Geo Battery."
             },
             {
                 "inline": "false",
@@ -35,12 +35,12 @@
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Energy Recharge or ATK% |<goblet>  Geo DMG Bonus |<circlet> CRIT Rate/CRIT DMG"
+                "value": "<sands> Energy Recharge or ATK% |<goblet>  Geo DMG Bonus% |<circlet>CRIT DMG or CRIT Rate"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "CRIT Rate/CRIT DMG|ATK%|Energy Recharge"
+                "value": "CRIT Rate|CRIT DMG|ATK%|Energy Recharge"
             },
             {
                 "inline": "false",
@@ -50,7 +50,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "Lion's Roar will outperform many 5-Star weapons if the passive can be maintained, such as running Xiangling within the comp. The 3-Star weapon Harbinger of Dawn can outperform most 4-Star weapons and some 5-Star weapons but maintaining the passive may prove to be difficult. If 4 piece Thundersoother or Lavawalker passive can be maintained, it is the best option."
+                "value": "__Lion's Roar__\nWill outperform many 5-Star weapons if the passive can be maintained, such as running Xiangling within the team. \n\n__Harbinger of Dawn__\nCan outperform most 4-Star weapons and some 5-Star weapons but maintaining the passive may prove to be difficult. \n\n__4 piece Thundersoother or Lavawalker__ \nIf the passive can be maintained, it is the better than 2-piece set options for DMG."
             }
         ],
         "color": 14994176,
