@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Neuvillette"
+        "text": "Character Guide • Playstyle: Neuvillette | Update Date: 02/18/2024 | Editor: talpha"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Neuvillette.png"
     },
     "color": 3245055,
     "type": "rich",
-    "description": "Unknown",
+    "description": "Neuvillette is an HP% scaler on-field Hydro DPS who deals majority of his damage via his charged attack. \n\nHis elemental skill and burst creates orbs that help charge it faster and deals 1 instances of damage. Due to this and his A1, he generally wants to take the field after his teammates used their skills and stay there until the rotation ends. Even though he doesnt play towards reactions, he prefers at least 2 other elements other than hydro in his teams due to his A1.  \n\nHe's also one of the best users of Marechaussee Hunter artifact set and can heal himself. He can reliably survive without an healer on his teams and generally he does not prefer them. \n\nAlso worth noting that since Furina is such a good teammate for him players can misinterpret and think that playing a teamwide healer is mandatory, while doing so is not completely wrong, playing without one is completely acceptable and often better because his self HP drain/heal is very strong.\n\n**Constellation notes:**\nHis only constellation that -minimally- changes his playstyle is his C1. \nIf you have it, he becomes near-uninterruptible and some shielders in his teams becomes much worse choices. Also it makes running double hydro a little bit easier and much better since it gives 1 stack of his A1 for free.",
     "title": "Neuvillette | Playstyle"
 }
