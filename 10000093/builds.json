@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Xianyun | Update Date: 02/01/2024 | Editor: ._.samantha._."
+            "text": "Character Guide • Build: Xianyun | Update Date: 02/26/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Liuyun.png"
@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Crane’s Echoing Call__\nBIS buffing plunge damage, Energy Recharge requirements and the most ATK% for a catalyst.\n__Favonius Codex__\nCommon 4 star option, helping with energy requirements of her team and her.\n__Oathsworn Eye__\nEvent weapon, but provides ATK% and Energy Recharge.\n__Flowing Purity__\nUseless passive, but acts similarly to Oathsworn Eye. Good in Xiao Faruzan teams where Energy Recharge isn't as needed."
+                "value": "__Crane’s Echoing Call__\nBIS buffing plunge damage, Energy Recharge requirements and the most ATK% for a catalyst.\n\n__Favonius Codex__\nCommon 4 star option, helping with energy requirements of her team and her.\n\n__Oathsworn Eye__\nEvent weapon, but provides ATK% and Energy Recharge.\n\n__Flowing Purity__\nUseless passive, but acts similarly to Oathsworn Eye. Good in Xiao Faruzan teams where Energy Recharge isn't as needed."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Prototype Amber, Hakushin Ring__\nCraftable options, but both suitable only in their niech. (Healing focus and Electro teams respectively.)\n__Ballad of the Boundless Blue, Wine and Song, Thrilling Tales of Dragon Slayers__\nSuitable free options, but there are always better options.\n__5 star catalysts__\nIf the substat is ATK%, consider them for a statstick, as they tend to have higher base attack."
+                "value": "__Prototype Amber, Hakushin Ring__\nCraftable options, but both suitable only in their niche. (Healing focus and Electro teams respectively.)\n\n__Ballad of the Boundless Blue, Wine and Song, Thrilling Tales of Dragon Slayers__\nSuitable free options, but there are always better options.\n\n__5 star catalysts__\nIf the substat is ATK%, consider them for a statstick, as they tend to have higher base attack."
             },
             {
                 "inline": "false",
@@ -45,7 +45,7 @@
             {
                 "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Elemental Skill: White Clouds at Dawn\n**2)** Elemental Burst: Stars Gather at Dusk\n**N/A)** Normal Attack: Word of Wind and Flower"
+                "value": "**1)** Elemental Burst: Stars Gather at Dusk\n**2)** Elemental Skill: White Clouds at Dawn\n**N/A)** Normal Attack: Word of Wind and Flower"
             },
             {
                 "inline": "false",
