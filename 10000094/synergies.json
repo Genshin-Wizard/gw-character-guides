@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Chiori"
+        "text": "Character Guide • Synergy: Chiori | Update Date: 03/14/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Chiori.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "When playing Navia Chiori teams, it is recommended to either have Constellation 1 for Chiori.\n\nOtherwise, it is highly recommended to play Chiori with a Geo character that can produce a Geo construst. (i.e. Zhongli, Geo Traveler, Ningguang etc)"
+        }
+    ],
     "color": 14994176,
     "type": "rich",
-    "description": "10000094",
+    "description": "10000094,10000005-506,10000055,10000032|10000094,10000057,10000055,10000030|10000027,10000034,10000055,10000094|10000057,10000094,10000093,10000089|10000046,10000060,10000094,10000038|10000091,10000094,10000023,10000032|10000049,10000032,10000094,10000030",
     "title": "Chiori | Team Composition and Synergy"
 }
