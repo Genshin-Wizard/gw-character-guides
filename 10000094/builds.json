@@ -1,51 +1,56 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Chiori"
+            "text": "Character Guide • Build: Chiori | Update Date: 03/14/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Chiori.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Uraku Misugiri__\nSignature and BIS\n\n__Cinnabar Spindle__\nOld event weapon, can be much better with perfect timings.\n\n__Harbinger of Dawn__\n3-star weapon which outperforms Cinnabar Spindle if your artifacts are bad."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__All 5 star statstick CRIT weapons__\nGenerally worth ignoring the passives.\n\n__Wolf-Fang__\nBattle Pass weapon that loses to Cinnabar Spindle even at R5"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15021"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15032"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15021,15032"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> DEF% or ATK%|<goblet> Geo DMG Bonus% or DEF%|<circlet> CRIT DMG or CRIT Rate"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "CRIT DMG|CRIT Rate|ATK%|Energy Recharge"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Skill: Fluttering Hasode\n**2)** Hiyoku: Twin Blades: Elemental Burst\n**3)** Normal Attack: Weaving Blade"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "__Husk of Opulent Dreams__\nGenerally if you have Normal Attacks this is the strongest.\n\n__Golden Troupe__\nStrongly recommended to play entirely off-field."
             }
         ],
         "color": 14994176,
