@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Nilou | Update Date: 10/15/2022 | Editor: Samantha#9907"
+        "text": "Character Guide • Synergy: Nilou | Update Date: 03/25/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://i.imgur.com/KxMQIkX.png"
@@ -9,11 +9,11 @@
         {
             "inline": "false",
             "name": "Notes:",
-            "value": "Due to her Passives and the nature of her kit it is highly recommended to play her **with only Hydro and Dendro** teammates. \nHowever, the Xiangling team can work while ignoring her Passives. \n\nThe general team will be\n*Nilou + Dendro applicator + Healer + Dendro/Hydro flex*. Ayato, Yelan, Xingqiu, Barbara and Kokomi are recommended, but do note Yelan's Damage increase does **not** apply for Bloom, same with Mona's Omen. \nThe Dendro character has to be Dendro Traveler or Collei, with Dendro Traveler being slightly better in her teams, and both being free. \nA healer is almost always needed due to Bloom damaging the active character.\n"
+            "value": "Due to her Passives and the nature of her kit it is highly recommended to play her **with only Hydro and Dendro** teammates. \nHowever, the bottom two team can work while ignoring her Passives. \n\nThe general team will be\n*Nilou + Dendro applicator + Healer + Dendro/Hydro flex*. __Ayato, Yelan, Xingqiu, Barbara and Kokomi __are recommended, but do note Yelan's Damage increase and Mona's Omen debuff does **not** apply for Bloom. \nThe Dendro characters recommended are __Nahida, Yaoyao, Baizhu, Kirara, Collei, Dendro Traveller__, although Tighnari, Kaveh or Al Haitham are functional too.\nA healer is almost always needed due to Bloom damaging the active character."
         }
     ],
     "color": 3245055,
     "type": "rich",
-    "description": "10000070,10000005-508,10000067,10000014|10000070,10000054,10000005-508,10000067|10000070,10000005-508,10000014,10000066|10000070,10000005-508,10000054,10000060|10000070,10000023,10000032,10000047",
+    "description": "10000070,10000005-504,10000067,10000014|10000070,10000054,10000005-504,10000067|10000070,10000005-504,10000014,10000066|10000070,10000005-504,10000054,10000060|10000070,10000082,10000073,10000060|10000070,10000077,10000061,10000025|10000070,10000023,10000032,10000047|10000070,10000089,10000060,10000003",
     "title": "Nilou | Team Composition and Synergy"
 }
