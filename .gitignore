@@ -1,6 +1,10 @@
 .history
+.env
 *.py
+
 artifacts.json
 avatars.json
 character_guides.json
 data.json
+
+!generate_character.py
