@@ -1,51 +1,56 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Arlecchino"
+            "text": "Character Guide • Build: Arlecchino | Update Date: 04/26/2024 | Editor: aqua.sh"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Arlecchino.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Crimson Moon's Semblance__\nSignature BiS.\n\n__Primordial Jade Winged-Spear__\nSame base stats as signature and provides ATK with passive.\n\n__Staff of Homa__\nGood 5* stat stick with CD and ATK.\n\n__Staff of Scarlet Sands__\nGood for vape. Use EM sands."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Deathmatch and Ballad of the Fjords__\nObtained via Battle Pass. Decent CRIT stat sticks. Ballad's EM is more useful in vape teams.\n\n__Calamity Queller, Vortex Vanquisher__\n5* ATK% Stat sticks\n\n__Missive Windspear R5__ \nEvent weapon from 3.1. Passive gives ATK and EM.\n\n__Dragon's Bane R5__\nDecent for vape and provides substatial DMG bonus at R5. Low base ATK is a downside.\n\n__Lithic Spear R5, White Tassel R5, Blackcliff Pole__\nOther F2P options."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15035"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15001"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "attack,15006"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> ATK%|<goblet> Pyro DMG or ATK%|<circlet> CRIT DMG or CRIT RATE"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "CRIT|ATK%|EM (vape)"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Normal Attack: Invitation to a Beheading\n**2)** Burst: Balemoon Rising and Skill: All Is Ash"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Little ER needed since bursting is optional. \n\nBurst healing does not scale on talent level so levelling burst is not really necessary. \n\nShimenawa's Reminiscence 4pc is not reccomended since most of the buff uptime is used up when Arlecchino is off field."
             }
         ],
         "color": 16733525,
