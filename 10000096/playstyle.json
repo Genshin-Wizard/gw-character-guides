@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Arlecchino"
+        "text": "Character Guide • Playstyle: Arlecchino | Update Date: 04/27/2024 | Editor: aqua.sh"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Arlecchino.png"
     },
     "color": 16733525,
     "type": "rich",
-    "description": "Unknown",
+    "description": "Arlecchino is an ATK scaling pyro polearm on-field DPS whose damage mainly stems from her normal attacks that are enhanced when she has bond of life (BoL). BoL is a mechanic added in Fontiane that prevents your active character from being healed, and can be cleared by healing away the BoL amount. It functions as a 'reverse shield' or a 'healing debt'. \n\nArlecchino's kit revolves around gaining BoL through her skill and using using her burst to heal herself and reset her skill cooldown. The downside however, is that she cannot make use of any healing provided by other party members. \n\nWhen Arlecchino uses her skill, she applies Blood-Debt Directive to enemies, and a charged attack will absorb this in order to grant her BoL (65%, per enemy up to 145%). Her ascension 1 passive talent lets this Blood-Debt Directive upgrade into a Blood-Debt Due after 5s, which grants significantly more BoL (130%), meaning it is ideal to use her skill first, and then swap to your supports, and then absorb the BoL by charged attacking once before normal attacking. This is not neccessary when there are 2 or more enemies, but can be done anyway. \n\nWhile Arlecchino's elemental burst can heal her, this clears all of her BoL, leaving none left over for the next rotation. Starting your next rotation with BoL increases the damage dealt by Arlecchino since her normal attacks deal more damage the more BoL she has currently. Her burst does little damage relative to her normal attacks (at c0) and has a very long animation, so ideally you would avoid using her burst.\n\nThis does not mean you should never burst since you can still use it as a panic button if you are low on HP, as you can't do any DPS when you are dead. The ideal way to burst on Arlecchino is to use your skill, burst, and then skill again since the cooldown resets. This grants more healing and particles. This is optional and she can still heal without using skill as long as she has some BoL.\n\nArlecchino is a very strong and simple unit to play, and all she needs is enough BoL and you can spam normal attacks until your enemies are either dead, or your skill cooldown is over. Since her normal attacks don't require any specific combos to be played optimally, you can dash as much as you need to in order to avoid taking damage.",
     "title": "Arlecchino | Playstyle"
 }
