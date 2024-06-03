@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Arlecchino"
+        "text": "Character Guide • Synergy: Arlecchino | Update Date: 04/27/2024 | Editor: aqua.sh"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Arlecchino.png"
     },
+    "fields": [],
     "color": 16733525,
     "type": "rich",
-    "description": "10000096",
+    "description": "10000096,10000032,hydroflex,anemoflex|10000096,10000090,electroflex,electroflex|10000096,10000032,anemoflex,flex|10000096,10000030,flex,flex|10000096,10000047,10000025,10000032|10000096,10000090,10000031,10000058|10000096,10000047,hydroflex,10000050|10000096,10000060,10000025,10000032|10000096,10000047,10000079,10000032",
     "title": "Arlecchino | Team Composition and Synergy"
 }
