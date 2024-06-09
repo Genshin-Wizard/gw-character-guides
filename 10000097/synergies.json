@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Sethos"
+        "text": "Character Guide • Synergy: Sethos | Update Date: 06/09/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Sethos.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Sethos prefers to be in an Aggravate team with at least one Electro teammate, but 2 Overloaded teams are provided for additional choice."
+        }
+    ],
     "color": 11104511,
     "type": "rich",
-    "description": "10000097",
+    "description": "10000097,10000073,10000031,10000047|10000097,10000082,10000069,10000031|10000097,10000022,10000056,10000005-504|10000097,10000031,10000061,10000043|10000097,10000089,10000082,10000073|10000097,10000031,10000077,10000030|10000097,10000050,10000090,10000032|10000097,10000090,10000079,10000058",
     "title": "Sethos | Team Composition and Synergy"
 }
