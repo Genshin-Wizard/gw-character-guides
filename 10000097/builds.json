@@ -1,55 +1,55 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Sethos"
+            "text": "Character Guide • Build: Sethos | Update Date: 06/09/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Sethos.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Slingshot__\nThe best weapon, only losing by a tiny margin to Hunter's Path.\n__Hunter’s Path__\nDifficult weapon to even try pull for."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Aqua Simulacra, The First Great Magic__\nIf you for some reason have them but not Slingshot, you can use them too."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15003"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15026"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15027"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> Elemental Mastery or Energy Recharge%|<goblet> Electro DMG Bonus%|<circlet> CRIT DMG or CRIT Rate"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "Energy Recharge (see notes)|CRIT DMG or CRIT Rate|Elemental Mastery"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Burst: Secret Rite - Twilight Shadowpiercer\n**2)** Normal Attack: Royal Reed Archery\n**3)** Elemental Skill: Ancient Rite - The Thundering Sands"
             }
         ],
         "color": 11104511,
         "type": "rich",
-        "title": "Sethos (Electro DPS) | Build"
+        "title": "Sethos (Speculation Build) | Build"
     }
 ]
