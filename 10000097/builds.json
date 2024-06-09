@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Sethos"
+            "text": "Character Guide • Build: Sethos"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Sethos.png"
@@ -50,6 +50,6 @@
         ],
         "color": 11104511,
         "type": "rich",
-        "title": "Sethos (Speculation Build) | Build"
+        "title": "Sethos (Electro DPS) | Build"
     }
 ]
