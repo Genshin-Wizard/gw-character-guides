@@ -46,6 +46,11 @@
                 "inline": "false",
                 "name": "Talent Priority",
                 "value": "**1)** Elemental Burst: Secret Rite - Twilight Shadowpiercer\n**2)** Normal Attack: Royal Reed Archery\n**3)** Elemental Skill: Ancient Rite - The Thundering Sands"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "__Energy Requirements__\nWith Fischl, 1-2 skills per rotation: 100%\nWith an Electro teammate: 120-160% (depends on the teammate and number of skills per rotation)\nWithout anyone: 160%\n\n__Desert Pavilion Chronicle__\nWhen under the Elemental Burst, the Attack Speed and Normal Attack DMG Bonus% make the set viable."
             }
         ],
         "color": 11104511,
