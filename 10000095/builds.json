@@ -1,51 +1,56 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Sigewinne"
+            "text": "Character Guide • Build: Sigewinne | Update Date: 07/01/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Sigewinne.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Recurve Bow__\nFree 3-star weapon, lots of HP%. \n__Silvershower Heartstrings__\nBest weapon, as it is her signature. However, too niche to recommend."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Favonius Warbow, Elegy for the End__\nGeneral bows exchanging additional healing for team-wide support."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15022"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15033"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15017"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> HP%|<goblet> HP%|<circlet> Healing Bonus%"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "HP%"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Skill: Rebound Hydrotherapy\n**N/A)** Elemental Burst: Super Saturated Syringing\n**N/A)** Normal Attack: Targeted Treatment"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "If __Favonius Warbow__ is used, it is recommended to built CRIT Rate on substats. __Sacrificial Bow__ is  not particularly great on her, despite enabling another usage of her elemental skill, unless running her with C1+ Neuvillette."
             }
         ],
         "color": 3245055,

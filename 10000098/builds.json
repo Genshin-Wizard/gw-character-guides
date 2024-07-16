@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Clorinde"
+            "text": "Character Guide • Build: Clorinde"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Clorinde.png"
@@ -46,6 +46,64 @@
                 "inline": false,
                 "name": "Talent Priority",
                 "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+            }
+        ],
+        "color": 11104511,
+        "type": "rich",
+        "title": "Clorinde (Speculation Build) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Клоринда | Update Date: 06/12/2024 | Editor: aqua.sh"
+        },
+        "thumbnail": {
+            "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Clorinde.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "__Absolution__\nSignature BiS\n\n__Any 5* CRIT DMG Main Stat Sword (Mistsplitter, LoFI, etc.)__\nWorks well since her damage scales well on ATK and CRIT. Crit Rate main stat weapons are not reccomended since she can overcap on crit rate easily due to her ascension and passive. \n\n__Tidal Shadow R5__\nBest F2P. Craftable Fontaine weapon. Gives a lot of ATK and  additional BoL on skill cast."
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "Freedom-Sworn, Lions Roar R5, The Flute R5\n*These weapons can work but are generally not as good as Tidal Shadow*"
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "15005"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "15035"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "15019"
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "<sands> ATK%|<goblet> Electro DMG%|<circlet> CRIT DMG"
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "ATK%|CRIT Rate%|Elemental Mastery"
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "**1)** Skill: Hunter's Vigil \n**2)** Burst: Last Lightfall"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "While the Whimsy 4pc and Thundering 4pc sets are similar in strength for Clorinde, the reduced skill cooldown from the Thundering Fury set can greatly improve her rotation flexibility. Overall its best to pick based on substats. \n\nGladiator's 4pc and Gilded Dreams 4pc can also work fine. \nMixing and matching 2pc sets for atk%, electro dmg%, or normal attack dmg% are also decent options."
             }
         ],
         "color": 11104511,
