@@ -167,7 +167,6 @@ for file in files:
     with open(f'{CHARACTER_DATA["id"]}/{file_types[files.index(file)]}.json', 'w') as f:
         json.dump(file, f, indent=4)
 
-# push to github
 repo = Repo.init()
 repo.index.add([
     f"{character_id}/synergies.json", 
@@ -176,4 +175,5 @@ repo.index.add([
 ])
 repo.index.commit(f"[Guide Creation] {character_id} Guide")
 origin = repo.remote(name="origin")
+origin.fetch()
 origin.push()
