@@ -7,4 +7,4 @@ avatars.json
 character_guides.json
 data.json
 
-!generate_character.py
+generate_character.py
