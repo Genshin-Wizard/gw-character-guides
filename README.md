@@ -13,7 +13,7 @@
     </a>
 </p>
 
-<img src="https://i.imgur.com/AnAvjd3.png" width="100%"><br>
+<img src="https://i.imgur.com/4B61K4J.png" width="100%"><br>
 
 ## **Information**  
 Welcome to Genshin Wizard's character guide repository for which knowledgable collaborators are allowed to change information for the character guides that are displayed within our [discord server](https://discord.gg/GenshinWizard). 
