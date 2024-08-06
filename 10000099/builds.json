@@ -1,51 +1,56 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Emilie"
+            "text": "Character Guide • Build: Emilie | Update Date: 08/06/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Emilie.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Lumidouce Elegy__\nSignature weapon providing most of her needed stats\n__Lithic Spear__\nGatcha weapon similar in damage output to her signature in Liyue-character heavy teams\n__Missive Windspear__\nBest free weapon providing EM and ATK, but is from version 3.1\n__Kitain Cross Spear__\nBest craftable option, although not very good."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Calamity Queller, Prospector's Drill, Staff of Homa, Crimson Moon Semblance,  Staff of Scarlet Sands, Deathmatch, Vortex Vanquisher, Primordial Jade-Spear__\nAll general stat-sticks which need teammate adjustments to use their passives well."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15036"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15025"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "attack,attack"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> ATK%|<goblet> Dendro DMG Bonus%|<circlet> CRIT Rate"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "ATK%|CRIT DMG|CRIT Rate|Energy Recharge"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Skill: Fragrance Extraction\n**2)** Elemental Burst: Aromatic Explication\n**3)** Normal Attack: Shadow-Hunting Spear (Custom) - *Please see Notes*"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "__Energy Requirements__\nWith signature and no Dendro teammate: 140%\nWith signature and Dendro teammate: 100%\nWithout signature and no Dendro teammate: 190%\nWithout signature but with Dendro teammate: 150%\nare recommended values\n__Normal Attack Talent__\nIt is not recommended to level this talent, UNLESS playing C6 Bennett to have her on-field dealing Pyro DMG or triggering Burgeon."
             }
         ],
         "color": 6794623,
