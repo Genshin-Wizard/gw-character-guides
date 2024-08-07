@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Emilie"
+        "text": "Character Guide • Synergy: Emilie | Update Date: 08/07/2024 | Editor: zmizuneko"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Emilie.png"
     },
+    "fields": [],
     "color": 6794623,
     "type": "rich",
-    "description": "10000099",
+    "description": "10000099,10000086,10000023,10000032|10000099,10000096,10000030,10000032|10000099,10000037,10000023,10000032|10000099,10000089,10000023,10000032|10000099,10000084,10000023,10000032",
     "title": "Emilie | Team Composition and Synergy"
 }
