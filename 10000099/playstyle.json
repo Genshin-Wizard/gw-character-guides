@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Emilie"
+        "text": "Character Guide • Playstyle: Emilie | Update Date: 08/07/2024 | Editor: zmizuneko"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Emilie.png"
     },
     "color": 6794623,
     "type": "rich",
-    "description": "Unknown",
+    "description": "Emilie is a sub-dps that focuses on dealing powerful instances of damage from off-field.\nThanks to her passive talents she shines the most in teams that utilize burning reaction, increasing her damage against burning enemies while also increasing your team's resistance to burning.\nUse her skill to spawn a level 1 Lumidouce case, trigger burning to collect scents to level up your Lumidouce case to level 2, which will make it deal even more damage. Use your burst to temporarily create a level 3 lumidouce case for a short period of time, that will deal the most damage.",
     "title": "Emilie | Playstyle"
 }
