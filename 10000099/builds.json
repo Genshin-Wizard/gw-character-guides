@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Emilie | Update Date: 08/06/2024 | Editor: ._.samantha._."
+            "text": "Character Guide • Build: Emilie | Update Date: 08/23/2024 | Editor: zmizuneko"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Emilie.png"
@@ -10,7 +10,7 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Lumidouce Elegy__\nSignature weapon providing most of her needed stats\n__Lithic Spear__\nGatcha weapon similar in damage output to her signature in Liyue-character heavy teams\n__Missive Windspear__\nBest free weapon providing EM and ATK, but is from version 3.1\n__Kitain Cross Spear__\nBest craftable option, although not very good."
+                "value": "__Lumidouce Elegy__\nSignature weapon providing most of her needed stats\n__Lithic Spear__\nGatcha weapon similar in damage output to her signature in Liyue-character heavy teams\n__Missive Windspear__\nBest free weapon providing EM and ATK, but is from version 3.1\n__Kitain Cross Spear__\nBest craftable option, providing elemental skill damage bonus and useful energy refund."
             },
             {
                 "inline": "true",
