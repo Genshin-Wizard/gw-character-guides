@@ -1,51 +1,56 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Mualani"
+            "text": "Character Guide • Build: Mualani | Update Date: 08/28/2024 | Editor: zmizuneko"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Mualani.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Surf's Up__\nMualani’s BiS, providing her with most buffs.\n__Ring of Yaxche__\nBest f2p weapon.\n__Sarificial Jade__\nGood at high refinements."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__A thousnd floating dreams__\nGood stat stick.\n__Prototype Amber__\nFine day 1 craftable."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15038"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15016"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "hydro,hp"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> HP%|<goblet> Hydro DMG Bonus%|<circlet> CRIT DMG"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "CRIT DMG|CRIT Rate|HP%|Elemental mastery"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental skill: Surfshark Wavebreaker\n**2)** Elemental burst: Stormburst Shot"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Mualani’s main damage source is strictly HP scaling, meaning she neither needs, nor benefits from any ATK buffs. If you are using Obsidian codex artifact set and a CRIT Rate weapon, you are risking stacking too much CRIT Rate, making it a far less valued substat. Mualani’s Normal Attack: Cooling Treatment does not increase her Sharky bite’s damage. As such, it can be left at level 1."
             }
         ],
         "color": 3245055,
