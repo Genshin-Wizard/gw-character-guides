@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Mualani"
+        "text": "Character Guide • Synergy: Mualani | Update Date: 08/28/2024 | Editor: zmizuneko"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Mualani.png"
     },
+    "fields": [],
     "color": 3245055,
     "type": "rich",
-    "description": "10000102",
+    "description": "10000102,pyroflex,dendroflex,flex|10000102,hydroflex,hydroflex,flex|10000102,10000079,10000099,10000047|10000102,10000095,10000089,10000047",
     "title": "Mualani | Team Composition and Synergy"
 }
