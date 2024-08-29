@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Kachina"
+        "text": "Character Guide • Synergy: Kachina | Update Date: 08/29/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Kachina.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Kachina with the right sets can buff up to two elements at once, and also has her Turbo Twirly count as a Geo Construct."
+        }
+    ],
     "color": 14994176,
     "type": "rich",
-    "description": "10000100",
+    "description": "10000091,10000100,10000032,10000023|10000091,10000100,10000089,10000093|10000102,10000023,10000100,10000082|10000102,10000047,10000100,10000079|10000057,10000089,10000055,10000100|10000034,10000100,10000031,10000055|10000094,10000060,10000100,10000025|10000100,10000089,10000031,10000095",
     "title": "Kachina | Team Composition and Synergy"
 }
