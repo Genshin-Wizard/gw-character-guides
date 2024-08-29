@@ -1,51 +1,56 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Kachina"
+            "text": "Character Guide • Build: Kachina | Update Date: 08/29/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Kachina.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Footprint of the Rainbow__\nCraftable option providing an immense amount of DEF.\n__Favonius Lance__\nProvides team-wide energy in return for loss of DEF% on Kachina"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Engulfing Lightning, The Catch__\nDue to her best weapon being available for everyone,  alternatives are focused mainly on her Energy Recharge."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15037"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15021"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15017"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> DEF% or Energy Recharge%|<goblet> DEF%|<circlet> CRIT Rate or DEF%"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "DEF%|Energy Recharge|CRIT Rate"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Skill: Go, Go Turbo Twirly!\n**2)**Elemental Burst: Time to Get Serious!\n**3)** Normal Attack: Cragbiter"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "While her talents do not have to be leveled for her support capabilities, she does begin to do non-negligible damage, especially at high constellations."
             }
         ],
         "color": 14994176,
