@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Mualani | Update Date: 08/28/2024 | Editor: zmizuneko"
+            "text": "Character Guide • Build: Mualani | Update Date: 08/29/2024 | Editor: zmizuneko"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Mualani.png"
@@ -15,7 +15,7 @@
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__A thousand floating dreams__\nGood stat stick.\n__Prototype Amber__\nFine day 1 craftable."
+                "value": "__A thousand floating dreams__\nGood stat stick.\n__Tome of Eternal flow__\nGood stat stick.\n__Prototype Amber__\nFine day 1 craftable."
             },
             {
                 "inline": "false",
