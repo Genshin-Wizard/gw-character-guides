@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Mualani | Update Date: 08/29/2024 | Editor: zmizuneko"
+            "text": "Character Guide • Build: Mualani | Update Date: 09/07/2024 | Editor: zmizuneko"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Mualani.png"
@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Surf's Up__\nMualani’s BiS, providing her with most buffs.\n__Ring of Yaxche__\nBest f2p weapon.\n__Sarificial Jade__\nGood at high refinements."
+                "value": "__Surf's Up__\nMualani’s BiS, providing her with most buffs.\n__Sarificial Jade__\nGood weapon at high refinements, Mualani's second-best at R5 .\n__Ring of Yaxche__\nBest f2p weapon, outperforms most 5 stars at R5.\n__Tome of Eternal flow__\nGood stat stick, Mualani's third-best weapon. Mualani, however, cannot fully utilize its passive."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__A thousand floating dreams__\nGood stat stick.\n__Tome of Eternal flow__\nGood stat stick.\n__Prototype Amber__\nFine day 1 craftable."
+                "value": "__A thousand floating dreams__\nGood stat stick, providing needed EM for vaporize.\n__Prototype Amber__\nUsable craftable weapon, however, significantly worse than other f2p options."
             },
             {
                 "inline": "false",
