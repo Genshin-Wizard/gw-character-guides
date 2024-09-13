@@ -54,7 +54,7 @@
     },
     {
         "footer": {
-            "text": "Character Guide • Build: Клоринда | Update Date: 06/12/2024 | Editor: aqua.sh"
+            "text": "Character Guide • Build: Clorinde | Update Date: 09/13/2024 | Editor: aqua.sh"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Clorinde.png"
@@ -73,12 +73,12 @@
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15005"
+                "value": "15035"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15035"
+                "value": "15005"
             },
             {
                 "inline": "false",
