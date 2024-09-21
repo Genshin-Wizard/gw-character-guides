@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Kinich"
+        "text": "Character Guide • Synergy: Kinich | Update Date: 09/21/2024 | Editor: aqua.sh"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Kinich.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Due to Kinich's excessive movement, Bennett may be less than ideal to play since his burst circle is very small. This is an issue that may be resolved by future units that can buff Kinich. \n\nSince the only other Natlan character at the moment is Kachina, and Geo does not react with Dendro, using the Scroll of the Hero of Cinder City set on a support can be less than ideal. This is also an issue likely to be resolved by more Natlan units being released. \n\nSince both Kinich and Emilie tend to run offensive sets, you can run deepwood memories on someone like Thoma or Dehya for the resistance shredding."
+        }
+    ],
     "color": 6794623,
     "type": "rich",
-    "description": "10000101",
+    "description": "10000101,pyroflex,flex,flex|10000101,10000099,10000089,10000032|10000101,10000099,10000032,flex|10000101,10000089,10000050,10000082|10000101,10000099,10000079,flex|10000101,10000025,10000050,dendroflex",
     "title": "Kinich | Team Composition and Synergy"
 }
