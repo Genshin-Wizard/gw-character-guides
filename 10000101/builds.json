@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Kinich"
+            "text": "Character Guide • Build: Kinich"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Kinich.png"
@@ -50,6 +50,6 @@
         ],
         "color": 6794623,
         "type": "rich",
-        "title": "Kinich (Speculation Build) | Build"
+        "title": "Kinich (dps) | Build"
     }
 ]
