@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Kinich"
+        "text": "Character Guide • Playstyle: Kinich | Update Date: 09/21/2024 | Editor: aqua.sh"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Kinich.png"
     },
     "color": 6794623,
     "type": "rich",
-    "description": "Unknown",
+    "description": "TLDR: Cast his skill and then normal attack until his bar is charged (usually two normal attacks), followed by casting skill again. Repeat until the end of his Night Soul state. Make sure you are triggering the burning or burgeon reaction. \n\nKinich's main source of damage is through his skill which deals a large amount of AoE Dendro DMG. \n\nOnce you cast his skill, he will grapple onto an enemy and start circling around this enemy and shooting when you Normal Attack. Doing this charges his Night Soul bar and once it's full you can cast his skill again, firing a cannon that does a lot of damage. You can hold down the skill button to aim this cannon shot and target a different enemy or in between multiple enemies in order to deal damage to several enemies with one shot but do note this AoE isn't too large so you do want them grouped up.\n\nAfter casting his large cannon shot, Kinich will create a little green area (blind spot) on a random side of the enemy, using your arrow keys and attacking to move into this area will charge his night soul bar faster.\n\nIn the event that this enemy dies or moves too far away, breaking Kinich's grappling hook, Normal Attacking again will relink him to the closest enemy.\n\nSince Kinich's burst does not do much other than some damage, you do not need to build a lot of ER or worry too much about casting it. It can extend the duration of his skill to make up for the animation duration so you can use it during his skill if you need to.",
     "title": "Kinich | Playstyle"
 }
