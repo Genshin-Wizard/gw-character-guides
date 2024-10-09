@@ -25,17 +25,17 @@
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15022"
+                "value": "Unknown"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15021"
+                "value": "Unknown"
             },
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> DEF or Energy recharge|<goblet> DEF|<circlet> DEF, Healing bonus% or CRIT Rate"
+                "value": "<sands> DEF or Energy recharge|<goblet> DEF|<circlet> DEF or Healing bonus% or CRIT Rate"
             },
             {
                 "inline": "true",
@@ -45,12 +45,12 @@
             {
                 "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Elemental skill. Yohual's Scratch\n**2)** Elemental burst. Ocelotlicue Point!\n**3)** Normal attack. Ehecatl's Roar"
+                "value": "**1)** Elemental skill\n**2)** Elemental burst\n**3)**Normal attack"
             },
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "If you are using her signature weapon, Peak patrol song, 3200 DEF is where the dmg% for your team caps at.\nIf using favonius sword, running a crit rate circlet can be a viable option if you lack crit rate in your substats"
+                "value": "If you are using her signature weapon, Peak patrol song, 3200 DEF is where the dmg% for your team caps at. If using favonius sword, running a crit rate circlet can be a viable option if you lack crit rate in your substats."
             }
         ],
         "color": 14994176,
