@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Xilonen"
+        "text": "Character Guide • Playstyle: Xilonen | Update Date: 10/09/2024 | Editor: zmizuneko"
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Xilonen.png"
     },
     "color": 14994176,
     "type": "rich",
-    "description": "Unknown",
+    "description": "Xilonen is a defense scaling support that provides resistance shred and healing.\nAfter unlocking ascension passive “Netotiliztli's Echoes”, press her skill, attack the enemies with her normal attack twice, after which her nightsoul points will reach maximum and Xilonen will activate her samplers, reducing enemies’ resistances to the elements of characters in your party.\n\nHer elemental burst provides different effects based on how many samplers were infused with elements:\n- If there are at least 2 samplers infused with pyro/hydro/electro/cryo, your active character will receive continuous healing for 12s.\n- If there are less than 2 samplers infused with pyro/hydro/electro/cryo, Xilonen will deal continuous geo damage.",
     "title": "Xilonen | Playstyle"
 }
