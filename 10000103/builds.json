@@ -1,51 +1,56 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Xilonen"
+            "text": "Character Guide • Build: Xilonen | Update Date: 10/09/2024 | Editor: zmizuneko"
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Xilonen.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Peak patrol song__ - Xilonen’s best weapon which provides needed DEF and teamwide elemental dmg bonus.\n__Favonius sword__ - amazing sword for supporting energy hungry teammates."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Flute of Ezpitzal__ - best craftable sword, consider only if you don’t have any of the aforementioned swords."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15037"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15022"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15021"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> DEF or Energy recharge|<goblet> DEF|<circlet> DEF, Healing bonus% or CRIT Rate"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "DEF%|Energy recharge|CRIT Rate"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental skill. Yohual's Scratch\n**2)** Elemental burst. Ocelotlicue Point!\n**3)** Normal attack. Ehecatl's Roar"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "If you are using her signature weapon, Peak patrol song, 3200 DEF is where the dmg% for your team caps at.\nIf using favonius sword, running a crit rate circlet can be a viable option if you lack crit rate in your substats"
             }
         ],
         "color": 14994176,
