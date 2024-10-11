@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Xilonen | Update Date: 10/10/2024 | Editor: talpha"
+            "text": "Character Guide • Build: Xilonen | Update Date: 10/11/2024 | Editor: talpha"
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Xilonen.png"
@@ -10,7 +10,7 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Peak patrol song__ : Xilonen’s signature weapon which provides needed DEF and teamwide elemental dmg bonus.\n__Free­dom-Sworn__ : Her Best-in-slot if your team can make use of ATK% and Normal, Charged, and Plunging Attack DMG Bonus. Making use of only 1 of them is also fine. **Notes section includes a good overall baseline for choosing one of these 3**\n__Favonius sword__ : amazing sword for supporting energy hungry teammates."
+                "value": "__Peak Patrol Song__ : Xilonen’s signature weapon which provides needed DEF and teamwide elemental dmg bonus.\n__Free­dom-Sworn__ : Her Best-in-slot if your team can make use of ATK% and Normal, Charged, and Plunging Attack DMG Bonus. Making use of only 1 of them is also fine. **Notes section includes a good overall baseline for choosing one of these 3**\n__Favonius Sword__ : amazing sword for supporting energy hungry teammates."
             },
             {
                 "inline": "true",
@@ -40,7 +40,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "If you are using her signature weapon, Peak patrol song, 3200 DEF is where the dmg% for your team caps at. If using favonius sword, running a crit rate circlet can be a viable option if you lack crit rate in your substats. 50% is the recommended minimum for Favonius sword.\nAlso, here is no such thing as not having \"Scroll of the Hero of Cinder City\" artifact set on your Xilonen unless you are running a DPS build.\n\nWhen choosing you weapon, you can consider following as a baseline;\n__Really energy hungry team/teammates__: Favonius Sword is best-in-slot\n__Playing with Furina and no other healer__: Peak patrol song is your best bet.\n__Can your team's main damage dealer(s) make use of ATK% and Normal, Charged, and Plunging attack DMG Bonus?__ **If yes**, Freedom-Sworn is best-in-slot; **If no**, Peak patrol song or Favonius Sword is best depending on the mentioned reasons above. Making use of only one of the effects of Freedom-Sworn means it becomes roughly the same as Peak patrol song"
+                "value": "If you are using her signature weapon, Peak patrol song, 3200 DEF is where the dmg% for your team caps at. If using favonius sword, running a crit rate circlet can be a viable option if you lack crit rate in your substats. 50% is the recommended minimum for Favonius sword.\nAlso, here is no such thing as not having \" Scroll of the Hero of Cinder City \" artifact set on your Xilonen unless you are running a DPS build.\n\nWhen choosing your weapon, you can consider following as a baseline;\n__Really energy hungry team/teammates__: Favonius Sword is best-in-slot\n__Playing with Furina and no other healer__: Peak Patrol Song is your best bet.\n__Can your team's main damage dealer(s) make use of ATK% and Normal, Charged, and Plunging attack DMG Bonus?__ **If yes**, Freedom-Sworn is best-in-slot; **If no**, Peak Patrol Song or Favonius Sword is best depending on the mentioned reasons above. Making use of only one of the effects of Freedom-Sworn means it becomes roughly the same as Peak Patrol Song"
             }
         ],
         "color": 14994176,
