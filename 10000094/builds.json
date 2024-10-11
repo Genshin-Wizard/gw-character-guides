@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Chiori | Update Date: 03/14/2024 | Editor: ._.samantha._."
+            "text": "Character Guide • Build: Chiori | Update Date: 10/11/2024 | Editor: talpha"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Chiori.png"
@@ -10,7 +10,7 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Uraku Misugiri__\nSignature and BIS\n\n__Cinnabar Spindle__\nOld event weapon, can be much better with perfect timings.\n\n__Harbinger of Dawn__\n3-star weapon which outperforms Cinnabar Spindle if your artifacts are bad."
+                "value": "__Uraku Misugiri__\nSignature and BiS\n\n__Cinnabar Spindle__\nOld event weapon, can be much better with perfect timings.\n\n__Peak Patrol Song__\nPretty good choice, whether should you utilize its passive by normal attacking 2 times needs more calculating/testing.\n\n__Harbinger of Dawn__\n3-star weapon which outperforms Cinnabar Spindle if your artifacts are bad."
             },
             {
                 "inline": "true",
