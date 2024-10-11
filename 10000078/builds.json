@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Alhaitham | Update Date: 10/10/2024 | Editor: talpha"
+            "text": "Character Guide • Build: Alhaitham | Update Date: 10/11/2024 | Editor: talpha"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Alhatham.png"
@@ -10,7 +10,7 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Uraku Misugiri__ : Surprisingly, despite being Chiori's signature weapon, Its the best-in-slot weapon for Alhaitam. Light of Foliar Incision only beats this if the team has no Geo teammates **and** you are facing a single-target situation.\n__Light of Foliar Incision__ -\nHis signature weapon, but loses to Uraku Misugiri. Regardless, its an amazing stat stick along with full utilization of it's passive, provide CRIT Rate, Crit DMG and damage increase depending on his EM.\n__Primordial Jade Cutter__ \nA great stat stick, the attack is an added benefit"
+                "value": "__Uraku Misugiri__ : Surprisingly, despite being Chiori's signature weapon, Its the best-in-slot weapon for Alhaitam. Light of Foliar Incision only beats this if the team has no Geo teammates **and** you are facing a single-target situation.\n__Light of Foliar Incision__ -\nHis signature weapon, but loses to Uraku Misugiri. Regardless, its an amazing stat stick along with full utilization of it's passive, provides CRIT Rate, Crit DMG and damage increase depending on his EM.\n__Primordial Jade Cutter__ \nA great stat stick, the attack is an added benefit"
             },
             {
                 "inline": "true",
