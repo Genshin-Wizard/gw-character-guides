@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Xilonen | Update Date: 10/11/2024 | Editor: talpha"
+            "text": "Character Guide • Build: Xilonen | Update Date: 10/12/2024 | Editor: talpha"
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Xilonen.png"
@@ -40,7 +40,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "If you are using her signature weapon, Peak patrol song, 3200 DEF is where the dmg% for your team caps at. If using favonius sword, running a crit rate circlet can be a viable option if you lack crit rate in your substats. 50% is the recommended minimum for Favonius sword.\nAlso, here is no such thing as not having \" Scroll of the Hero of Cinder City \" artifact set on your Xilonen unless you are running a DPS build.\n\nWhen choosing your weapon, you can consider following as a baseline;\n__Really energy hungry team/teammates__: Favonius Sword is best-in-slot\n__Playing with Furina and no other healer__: Peak Patrol Song is your best bet.\n__Can your team's main damage dealer(s) make use of ATK% and Normal, Charged, and Plunging attack DMG Bonus?__ **If yes**, Freedom-Sworn is best-in-slot; **If no**, Peak Patrol Song or Favonius Sword is best depending on the mentioned reasons above. Making use of only one of the effects of Freedom-Sworn means it becomes roughly the same as Peak Patrol Song"
+                "value": "If you are using her signature weapon, Peak patrol song, 3200 DEF is where the dmg% for your team caps at. If using favonius sword, running a crit rate circlet can be a viable option if you lack crit rate in your substats. 50% is the recommended minimum for Favonius sword.\nAlso, there is no such thing as not having \" Scroll of the Hero of Cinder City \" artifact set on your Xilonen unless you are running a DPS build.\n\n**When choosing your weapon, you can consider the following as a baseline;**\n__Really energy hungry team/teammates__: Favonius Sword is best-in-slot\n__Playing with Furina and no other healer__: Peak Patrol Song is your best bet.\n__Can your team's main damage dealer(s) make use of ATK% and Normal, Charged, and Plunging attack DMG Bonus?__ **If yes**, Freedom-Sworn is best-in-slot; **If no**, Peak Patrol Song or Favonius Sword is best depending on the mentioned reasons above. Making use of only one of the effects of Freedom-Sworn means it becomes roughly the same as Peak Patrol Song"
             }
         ],
         "color": 14994176,
