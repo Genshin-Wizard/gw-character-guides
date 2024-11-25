@@ -1,51 +1,56 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Chasca"
+            "text": "Character Guide • Build: Chasca | Update Date: 11/25/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Chasca.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Astral Vulture's Crimson Plumage__\nSignature and best-in-slot option.\n__Song of Stillness__\nFontaine craftable and best free weapon."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Aqua Simulacra, The First Great Magic__\nGreat 5 star options to replace her signature.\n__Chain Breaker, Hamayumi, Ibis Piercer__\nCraftable and Event bows that are not as good as the Fontaine craftable, but are viable alternatives.\n__Range Guage, Scion of The Blazing Sun, Skyward Harp__\nOther wish-based alternatives."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15038"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15031"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15002"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> ATK% of Elemental Mastery|<goblet> ATK% or Elemental Mastery<circlet> CRIT DMG or CRIT Rate"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "CRIT DMG|ATK%|Elemental Mastery|CRIT Rate"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Skill: Spirit Reins, Shadow Hunt\n**2)** Elemental Burst: Soul Reaper's Fatal Round\n**N/A)** Normal Attack: Phantom Feather Flurry"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "If using Obsidian Codex or Marechaussee Hunter, CRIT Rate is extremely easy to overcap, (especially with her Ascension Stat being CRIT Rate), making CRIT Rate circlets or weapons less recommended.\nMarechaussee Hunter is not recommended in teams without Furina."
             }
         ],
         "color": 5494962,
