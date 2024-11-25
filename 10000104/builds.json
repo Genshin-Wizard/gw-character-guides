@@ -15,7 +15,7 @@
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Aqua Simulacra, The First Great Magic__\nGreat 5 star options to replace her signature.\n__Chain Breaker, Hamayumi, Ibis Piercer__\nCraftable and Event bows that are not as good as the Fontaine craftable, but are viable alternatives.\n__Range Guage, Scion of The Blazing Sun, Skyward Harp__\nOther wish-based alternatives."
+                "value": "__Aqua Simulacra, The First Great Magic__\nGreat 5 star options to replace her signature.\n__Chain Breaker, Hamayumi, Ibis Piercer__\nCraftable and Event bows that are not as good as the Fontaine craftable, but are viable alternatives.\n__Range Guage, Scion of The Blazing Sun, Skyward Harp, Flower-Wreathed__\nOther wish-based alternatives."
             },
             {
                 "inline": "false",
@@ -35,7 +35,7 @@
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> ATK% of Elemental Mastery|<goblet> ATK% or Elemental Mastery<circlet> CRIT DMG or CRIT Rate"
+                "value": "<sands> ATK% of Elemental Mastery|<goblet> ATK%|<circlet> CRIT DMG or CRIT Rate"
             },
             {
                 "inline": "true",
