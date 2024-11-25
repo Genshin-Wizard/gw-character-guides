@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Chasca"
+        "text": "Character Guide • Synergy: Chasca | Update Date: 11/25/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Chasca.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Chasca is an Anemo DPS that does not primarily deal Anemo DMG. This means pairing her with Faruzan or other Anemo units is not recommended.\nGenerally her team should consist only of her and Electro, Hydro, Pyro or Cryo teammates that do off-field DMG or provide buffs to Chasca."
+        }
+    ],
     "color": 5494962,
     "type": "rich",
-    "description": "10000104",
+    "description": "10000104,10000089,10000032,10000063|10000104,10000089,10000032,flex|10000104,10000032,10000031,10000089|10000104,10000103,10000089,10000105|10000104,10000089,10000063,10000088|10000104,10000056,10000105,10000032|10000104,10000074,10000063,10000032|10000104,10000023,10000032,10000024|10000104,10000039,10000032,10000045|10000104,10000025,10000032,flex|10000002",
     "title": "Chasca | Team Composition and Synergy"
 }
