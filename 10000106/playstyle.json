@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Mavuika"
+        "text": "Character Guide • Playstyle: Mavuika | Update Date: 01/03/2025 | Editor: zmizuneko"
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Mavuika.png"
     },
     "color": 16733525,
     "type": "rich",
-    "description": "Unknown",
+    "description": "Mavuika is a dual carry character, having 2 main playstyles - an on-field dps and an off-field pyro applicator/damage buffer. Tapping her skill puts an armament that follows your active character and deals damage, applying pyro, holding skill putton, Mavuika sits on her motorcycle, gaining pyro infusion which enables on-field dps playstyle.\nMavuika's burst deals an enormous amount of damage and amplifies her motorcycle attacks, as well as it gives your active character a damage bonus.\n\nAs an off-field applicator, Mavuika serves as a quality of life upgrade over xiangling, whose energy recharge requirements can skyrocked without bennett, making her a good alternative for teams like Mualani vape, Clorinde overload, Wriothesley melt etc...\n\nAs an on-field dps, Mavuika's strength is comparable to top-tier dpses, however, Mavuika's burst doesn't cost any energy, instead, it is used when Mavuika has \"Fighting spirit\", which can be accumulated in 2 ways:\n- Your team spending Nightsoul points (1:1)\n- Your active character using Normal attacks (1.5 every 0.1s, less efficient than the previous method)\nMavuika can store up to 200 Fighting spirit, but her burst can be used when Fighting spirit number reaches 100. Thus, Mavuika heavily relies on fast nightsoul point consumption to charge her burst quickly, best provided by characters like Xilonen, Citlali or ororon.\nTwo main playstyles for Mavuika are melt and vaporize, with melt dealing slightly more damage, and vaporize being more consistent in terms of reactions due to forward vaping.",
     "title": "Mavuika | Playstyle"
 }
