@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Citlali"
+        "text": "Character Guide • Synergy: Citlali | Update Date: 01/03/2025 | Editor: zmizuneko"
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Citlali.png"
     },
+    "fields": [],
     "color": 10147839,
     "type": "rich",
-    "description": "10000107",
+    "description": "10000107,10000032,10000103,pyroflex|10000107,10000089,10000032,10000104|10000107,10000087,10000089,10000088",
     "title": "Citlali | Team Composition and Synergy"
 }
