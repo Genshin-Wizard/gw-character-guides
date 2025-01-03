@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Mavuika"
+        "text": "Character Guide • Synergy: Mavuika | Update Date: 01/03/2025 | Editor: zmizuneko"
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Mavuika.png"
     },
+    "fields": [],
     "color": 16733525,
     "type": "rich",
-    "description": "10000106",
+    "description": "10000106,10000103,10000032,hydroflex|10000106,10000103,10000032,cryoflex|10000106,10000103,10000032,10000089|10000106,10000103,10000032,10000107|10000106,10000100,10000045,10000032|10000106,10000102,10000103,flex|10000106,10000098,10000090,10000105",
     "title": "Mavuika | Team Composition and Synergy"
 }
