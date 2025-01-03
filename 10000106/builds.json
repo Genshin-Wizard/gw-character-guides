@@ -1,51 +1,51 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Mavuika"
+            "text": "Character Guide • Build: Mavuika | Update Date: 01/03/2025 | Editor: zmizuneko"
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Mavuika.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__A thousand blazing suns__ - Mavuika's signature and best weapon.\n__Beacon of the Reed Sea__, __Redhorn Stonethresher__, __Wolf's Gravestone__, __The Unforged__ - good stat sticks with their ups and downs, but usable on Mavuika\nNote: The unforged suggests you want to run a shielder, and Wolf's gravestone might fall off due to many external ATK buffs Mavuika can receive."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Serpent Spine__ - best 4 star option.\n__Mailed Flower__ - a surprisingly good event weapon, use it if you have it.\n__Tidal shadow__ - best free-to-play option."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15038"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15037"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15026"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> Elemental mastery/ATK%|<goblet> Pyro DMG bonus%|<circlet> Crit DMG%"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "Crit DMG%|ATK%|Elemental mastery|Crit rate%"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental burst ≥ Elemental skill"
             }
         ],
         "color": 16733525,
