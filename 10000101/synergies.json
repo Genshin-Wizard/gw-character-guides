@@ -1,6 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Kinich | Update Date: 09/21/2024 | Editor: aqua.sh"
+        "text": "Character Guide • Synergy: Kinich | Update Date: 01/05/2025 | Editor: zmizuneko"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Kinich.png"
@@ -14,6 +14,6 @@
     ],
     "color": 6794623,
     "type": "rich",
-    "description": "10000101,pyroflex,flex,flex|10000101,10000099,10000089,10000032|10000101,10000099,10000032,flex|10000101,10000089,10000050,10000082|10000101,10000099,10000079,flex|10000101,10000025,10000050,dendroflex",
+    "description": "10000101,pyroflex,flex,flex|10000101,10000099,10000050,10000032|10000101,10000099,10000032,flex|10000101,10000089,10000050,10000082|10000101,10000099,10000079,flex|10000101,10000025,10000050,dendroflex",
     "title": "Kinich | Team Composition and Synergy"
 }
