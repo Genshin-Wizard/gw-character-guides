@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Lan Yan"
+        "text": "Character Guide • Synergy: Lan Yan | Update Date: 01/24/2025 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Lanyan.png"
     },
+    "fields": [],
     "color": 5494962,
     "type": "rich",
-    "description": "10000108",
+    "description": "10000096,10000032,10000025,10000108|10000087,10000089,10000103,10000108|10000042,10000073,10000031,10000108|10000105,10000031,10000025,10000108|10000084,10000023,10000032,10000108|10000049,10000060,10000032,10000108|10000071,10000025,10000073,10000108|10000075,10000076,10000108,10000032",
     "title": "Lan Yan | Team Composition and Synergy"
 }
