@@ -1,55 +1,55 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Lan Yan"
+            "text": "Character Guide • Build: Lan Yan | Update Date: 01/24/2025 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Lanyan.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Starcaller__ \nCitlali's signature weapon, giving team-wide buffs.\n\n__Thrilling Tales of The Dragon Slayer__ \n3-star weapon from wishing providing attack buffs to the next active character. \n\nIf Starcaller is not available, this will be almost always the best option."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Hakushin Ring, Prototype Amber, Mappa Mare__ \nCraftable options for those that somehow do not have Thrilling Tales of The Dragon Slayer\n\n__Memory of Dust, Skyward Atlas, Favonius Codex, Oathsworn Eye__\nAlternatives providing Energy to the team or ATK%.  \n\n__Sacrificial Fragments__\nThe Elemental Mastery and Cooldown refresh make this another viable choice."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15002"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15007"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15037"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> ATK%|<goblet> ATK%|<circlet> ATK%"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "Energy Recharge|ATK%"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Skill: Swallow-Wisp Pinion Dance\n**2)** Elemental Burst: Lustrous Moonrise\n**N/A)** Normal Attack: Black Pheasant Strides on Water"
             }
         ],
         "color": 5494962,
         "type": "rich",
-        "title": "Lan Yan (Support) | Build"
+        "title": "Lan Yan (Speculation Build) | Build"
     }
 ]
