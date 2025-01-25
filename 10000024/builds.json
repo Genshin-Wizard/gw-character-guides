@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Beidou | Update Date: 05/01/2023 | Editor: Samantha#9907"
+            "text": "Character Guide • Build: Beidou | Update Date: 01/25/2025 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://i.imgur.com/S14S2Oq.png"
@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Wolf's Gravestone__ - General best weapon, needs high investment into CRIT DMG and CRIT Rate\n__Serpent Spine__ - Outweighs Wolf's Gravestone if running an Attack buffer such as Bennett or Kujou Sara"
+                "value": "__Wolf's Gravestone__ \nGeneral best weapon, needs high investment into CRIT DMG and CRIT Rate\n\n__Serpent Spine__\nOutweighs Wolf's Gravestone if running an Attack buffer such as Bennett or Kujou Sara\n\n__Akuoumaru__\nA weapon-banner only 4-star weapon increasing in value as the team's Energy costs increase."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Redhorn Stonethresher, The Unforged, Akuoumaru, Skyward Pride, Sacrificial Greatsword"
+                "value": "__Redhorn Stonethresher, The Unforged, Akuoumaru, Skyward Pride, Sacrificial Greatsword, Beacon of the Reed Sea, Fang of the Mountain King, A Thousand Blazing Suns, Verdict__\n5-star stat sticks. They do not particularly synergize well with Beidou, but provide valuable stats.\n\n__\"Ultimate Overlord's Mega Magic Sword\", Akuoumaru, Katsuragikiri Nagamasa, Luxurious Sea-Lord, Talking Stick, Forest Regalia__\nStat-sticks that work when their passive can be triggered. Although some event weapons are very good, they are not currently avaliable."
             },
             {
                 "inline": "false",
