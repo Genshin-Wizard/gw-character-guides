@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Citlali | Update Date: 01/03/2025 | Editor: zmizuneko"
+            "text": "Character Guide • Build: Citlali | Update Date: 01/25/2025 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Citlali.png"
@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Starcaller's Watch__ - Citlali's signature that gives her the best balance between team buffs and a strong shield."
+                "value": "__Starcaller's Watch__\nCitlali's signature that gives her the best balance between team buffs and a strong shield."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__A Thousand Floating Dreams__ - strong EM stat stick that also provides a teamwide EM and ATK% buff.\n__Wandering Evenstar__ - an EM stat stick that also provides a good teamwide ATK% buff.\n__Thrilling tales of dragon slayers__ - provides the biggest ATK% buff at the cost of losing some Elemental mastery. \n__Favonius codex__ - ER% stat stick for energy heavy teams."
+                "value": "__A Thousand Floating Dreams__ \nA strong Elemental Mastery stat stick that also provides a teamwide EM and ATK% buff.\n\n__Wandering Evenstar__\nAn Elemental Mastery stat stick that also provides a good teamwide ATK% buff.\n\n__Thrilling Tales of Dragon Slayers__ \nProvides the biggest ATK% buff at the cost of losing some Elemental Mastery. \n\n__Favonius Codex__\nProvides particles for energy heavy teams."
             },
             {
                 "inline": "false",
@@ -30,26 +30,26 @@
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Elemental mastery/Energy recharge%|<goblet> Elemental mastery/Cryo dmg bonus%*|<circlet> Elemental mastery/CRIT*"
+                "value": "<sands> Elemental Mastery or Energy Recharge|<goblet> Elemental Mastery or Cryo DMG Bonus%|<circlet> Elemental Mastery or CRIT DMG or CRIT Rate"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "Elemental mastery|Energy recharge%|CRIT*"
+                "value": "Elemental Mastery|Energy Recharge|CRIT DMG|CRIT Rate"
             },
             {
                 "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Elemental skill\n**2)** Elemental burst*\n**3)** Normal attacks*"
+                "value": "**1)** Elemental Skill: Dawnfrost Darkstar\n**2)** Elemental Burst: Edict of Entwined Splendor\n**N/A)** Normal Attack: Shadow-Stealing Spirit Vessel"
             },
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "*Citlali, as an Elemental mastery scaler can be built for damage since her ascension 4 passive gives her a sizeable elemental burst dmg buff, allowing her to deal high damage with her melts.\n\nIt has been mentioned that Citlali is mostly played in melt teams, however, Neuvillette is an expection that also appreciates Citlali in his team due to 4pc Scroll buff, hydro resistance shred and a shield for resistance to interruption."
+                "value": "Citlali, as an Elemental mastery scaler can be built for damage since her ascension 4 passive gives her a sizeable Elemental Burst DMG buff, allowing her to deal high damage with her melts."
             }
         ],
         "color": 10147839,
         "type": "rich",
-        "title": "Citlali (Support) | Build"
+        "title": "Citlali (Speculation Build) | Build"
     }
 ]
