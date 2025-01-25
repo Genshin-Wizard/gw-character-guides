@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Mavuika | Update Date: 01/03/2025 | Editor: zmizuneko"
+            "text": "Character Guide • Build: Mavuika | Update Date: 01/25/2025 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Mavuika.png"
@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__A thousand blazing suns__ - Mavuika's signature and best weapon."
+                "value": "__A Thousand Blazing Suns__\nMavuika's signature and best weapon."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Beacon of the Reed Sea__, __Redhorn Stonethresher__, __Wolf's Gravestone__, __The Unforged__ - good stat sticks.\n__Serpent Spine__ - best 4 star option.\n__Mailed Flower__ - a surprisingly good event weapon, use it if you have it.\n__Tidal shadow__, __Earthshaker__- best free-to-play options."
+                "value": "__Beacon of the Reed Sea, Redhorn Stonethresher, Wolf's Gravestone, The Unforged__\nGood stat sticks.\n\n__Serpent Spine__ \nBest 4 star option.\n\n__Mailed Flower__ \nA surprisingly good event weapon, use it if you have it.\n\n__Tidal Shadow, Earthshaker__\nBest free craftable options."
             },
             {
                 "inline": "false",
@@ -35,17 +35,17 @@
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Elemental mastery/ATK%|<goblet> Pyro DMG bonus%|<circlet> Crit DMG%"
+                "value": "<sands> Elemental Mastery or ATK%|<goblet> Pyro DMG Bonus%|<circlet> Crit DMG"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "Crit DMG%|ATK%|Elemental mastery|Crit rate%"
+                "value": "Crit DMG|ATK%|Elemental Mastery|Crit Rate"
             },
             {
                 "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Elemental burst ≥ Elemental skill"
+                "value": "**1)** Elemental Burst: Hour of Burning Skies\n**1)** Elemental Skill: The Named Moment\n**N/A)** Normal Attack: Flames Weave Life"
             }
         ],
         "color": 16733525,
