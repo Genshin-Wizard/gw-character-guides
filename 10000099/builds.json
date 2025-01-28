@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Emilie | Update Date: 08/23/2024 | Editor: zmizuneko"
+            "text": "Character Guide • Build: Emilie | Update Date: 01/28/2025 | Editor: doomuh"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Emilie.png"
@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Lumidouce Elegy__\nSignature weapon providing most of her needed stats\n__Lithic Spear__\nGacha weapon similar in damage output to her signature in Liyue-character heavy teams\n__Missive Windspear__\nBest free weapon providing EM and ATK, but is from version 3.1\n__Kitain Cross Spear__\nBest craftable option, providing elemental skill damage bonus and useful energy refund."
+                "value": "__Lumidouce Elegy__\nSignature weapon. Emilie’s best weapon by a noticeable margin. Its Energy restoration enables consistent Bursts with minimal ER% investment. \n__Calamity Queller__\nA strong option due to the huge amount of ATK it provides. To utilize this weapon’s passive, make sure to use Emilie’s Skill after casting her Burst.\n__Deathmatch__\nBattlepass weapon. Emilie’s best 4-star option. At higher refinements, it is capable of outperforming other 5-star Polearms.\n__Missive Windspear__\nMissive Windspear is Emilie’s best free weapon, but it was only available in the Version 3.1 Event."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Calamity Queller, Prospector's Drill, Staff of Homa, Crimson Moon Semblance,  Staff of Scarlet Sands, Deathmatch, Vortex Vanquisher, Primordial Jade-Spear__\nAll general stat-sticks which need teammate adjustments to use their passives well."
+                "value": "__Staff of Homa, Staff of Scarlet Sands, Skyward Spine, Primordial Jade-Spear, Crimson Moon Semblance, Vortex Vanquisher, Blackcliff Pole, Lithic Spear, Wavebreaker’s Fin, Prospector’s Drill__\nAll general stat-sticks might need teammate or rotation adjustments to trigger their passives efficiently."
             },
             {
                 "inline": "false",
@@ -45,16 +45,16 @@
             {
                 "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Elemental Skill: Fragrance Extraction\n**2)** Elemental Burst: Aromatic Explication\n**3)** Normal Attack: Shadow-Hunting Spear (Custom) - *Please see Notes*"
+                "value": "**1)** Elemental Skill: Fragrance Extraction\n**2)** Elemental Burst: Aromatic Explication\n**N/A)** Normal Attack: Shadow-Hunting Spear (Custom) - *Please see Notes*"
             },
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "__Energy Requirements__\nWith signature and no Dendro teammate: 140%\nWith signature and Dendro teammate: 100%\nWithout signature and no Dendro teammate: 190%\nWithout signature but with Dendro teammate: 150%\nare recommended values\n__Normal Attack Talent__\nIt is not recommended to level this talent, UNLESS playing C6 Bennett to have her on-field dealing Pyro DMG or triggering Burgeon."
+                "value": "__Energy Requirements__\nWith signature and no Dendro teammate: 140%\nWith signature and Dendro teammate: 100%\nWithout signature and no Dendro teammate: 190%\nWithout signature but with Dendro teammate: 150%\n__Normal Attack Talent__\nIt is not recommended to level this talent, UNLESS playing C6 Bennett to have her on-field dealing Pyro DMG or triggering Burgeon."
             }
         ],
         "color": 6794623,
         "type": "rich",
-        "title": "Emilie (Emilie | Build) | Build"
+        "title": "Emilie (Speculation Build) | Build"
     }
 ]
