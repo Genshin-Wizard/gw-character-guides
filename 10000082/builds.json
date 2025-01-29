@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Baizhu | Update Date: 05/04/2023 | Editor: tAlpha#9191"
+            "text": "Character Guide • Build: Baizhu | Update Date: 01/29/2025 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Baizhuer.png"
@@ -15,7 +15,7 @@
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Prototype Amber__\nBest 4 star option as an only HP% 4* catalyst. And its also craftable\n__Favonius Codex__\nProvides ER% with team wide energy generation, but it requires a decent amount of Crit Rate"
+                "value": "__Prototype Amber__\nBest 4 star option as a craftable HP% 4* catalyst.\n\n__Favonius Codex__\nProvides Energy Recharge with team wide Energy generation, but it requires a decent amount of Crit Rate\n\n__Starcaller's Watch__\nDepends on if Furina is in the team. If she is present, the weapon has less value. Although it has an Elemental Mastery stat, he does not trigger bloom often, and scales off HP."
             },
             {
                 "inline": "false",
@@ -25,36 +25,36 @@
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15017,15030"
+                "value": "15037"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "None"
+                "value": "15033"
             },
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> HP%, Energy Recharge%|<goblet> HP%|<circlet> Healing Bonus, HP%"
+                "value": "<sands> HP% or Energy Recharge|<goblet> HP%|<circlet> Healing Bonus% or HP%"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "ER%|HP%|HP"
+                "value": "Energy Recharge|HP%|HP"
             },
             {
                 "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** __Elemental Burst:__ Holistic Revivification\n**2)** __Elemental Skill:__ Universal Diagnosis\n**3)** __Normal Attack:__ The Classics of Acupuncture"
+                "value": "**1)** Elemental Burst: Holistic Revivification\n**2)** Elemental Skill: Universal Diagnosis\n**N/A)** Normal Attack: The Classics of Acupuncture"
             },
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "- If you already have a character that has Deepwood Memories in your team or if you are playing an Aggravate team than there is no need to go for it on Baizhu.\n\n- Can run Crit Rate circlet to proc fav passive\n\n- If you are not playing him as a Driver, leveling up normal attacks can be skipped."
+                "value": "If you already have a character that has __Deepwood Memories__ in your team, playing an Aggravate or non-Dendro team, (e.g. Neuvillette teams), than there is no need to go for it on Baizhu. \n\nThe __Ocean-Hued Clam__ set can be used instead of the __Songs of Days Past__ if you are not farming for Navia for the sake of resin efficiency. \n\nIf building for Favonius Codex, CRIT Rate should also \nbe built from substats or a circlet.\n\nIf you are not playing him as an on-field driver, leveling up his Normal Attacks are unnecessary."
             }
         ],
         "color": 6794623,
         "type": "rich",
-        "title": "Baizhu (Support) | Build"
+        "title": "Baizhu (Speculation) | Build"
     }
 ]
