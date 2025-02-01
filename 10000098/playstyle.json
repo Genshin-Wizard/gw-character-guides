@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Clorinde"
+        "text": "Character Guide • Playstyle: Clorinde | Update Date: 02/01/2025 | Editor: zmizuneko"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Clorinde.png"
     },
     "color": 11104511,
     "type": "rich",
-    "description": "Unknown",
+    "description": "Clorinde is an on-field damage dealer. Clorinde enters a special state when using her Elemental skill: Night Vigil, in which her normal attacks become Swift Hunt pistol shots that deal Electro DMG. Using her skill again, Clorinde will perform a lunging attack, Impale the Night.\n\nClorinde's Swift Hunt pistol shots grant her Bond of Life equal to 35% of her Max HP per 1 pistol shot, when her Bond of Life reaches 100% of Max HP, pistol shots no longer grant her bond of life.\n\nUsing Impale the Night, Clorinde clears all her Bond of Life, heals herself and deals DMG based on the value of Bond of Life cleared.\n\n- When Bond of Life value is less than 0% of Max HP, Clorinde performs a normal lunging attack;\n- When Bond of Life value is less than 100% of Max HP, Clorinde heals herself and the damage from Impale the Night is increased.\n- When Bond of Life is equal to or greater than 100% of Max HP, Clorinde performs Impale the Night: Pact, even further increasing Healing, AoE and DMG dealt by the lunge.\n\nClorinde's standard combo is N3E - 3 Normal Attacks 1 Elemental skill. She can perform it 6 times within her Elemental Skill's Night Vigil duration.",
     "title": "Clorinde | Playstyle"
 }
