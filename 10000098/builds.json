@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Clorinde | Update Date: 09/13/2024 | Editor: aqua.sh"
+            "text": "Character Guide • Build: Clorinde | Update Date: 02/01/2025 | Editor: zmizuneko"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Clorinde.png"
@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Absolution__\nSignature BiS\n\n__Any 5* CRIT DMG Main Stat Sword (Mistsplitter, LoFI, etc.)__\nWorks well since her damage scales well on ATK and CRIT. Crit Rate main stat weapons are not reccomended since she can overcap on crit rate easily due to her ascension and passive. \n\n__Finale of the Deep R5__\nBest F2P. Craftable Fontaine weapon. Gives a lot of ATK and  additional BoL on skill cast."
+                "value": "__Absolution__\nClorinde's signature and Best-in-Slot."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Freedom-Sworn, Lions Roar R5, The Flute R5\n*These weapons can work but are generally not as good as Finale of the Deep*"
+                "value": "__Haran Geppaku Futsu__\nSecond-best option, performing only slightly worse that Haran Geppaku Futsu.\n__Mistsplitter Reforged__\nClorinde's second-best option.\n__Light of Foliar Incision__\nPerforms well in dendro teams. Benefits from Elemental Mastery buffs.\n__Calamity of Eshu__\nGreat free weapon obtained from an event, requires you to run a shielder.\n__Finale of the Deep__\nProvides a large ATK% buff. Clorinde is able to easily cap out its passive."
             },
             {
                 "inline": "false",
@@ -25,32 +25,27 @@
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15005"
+                "value": "15001"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15019"
+                "value": "15024"
             },
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> ATK%|<goblet> Electro DMG%|<circlet> CRIT DMG"
+                "value": "<sands> ATK% or Elemental Mastery|<goblet> Electro DMG bonus|<circlet> CRIT DMG or CRIT Rate"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "ATK%|CRIT Rate%|Elemental Mastery"
+                "value": "CRIT|ATK%|Elemental Mastery"
             },
             {
                 "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Skill: Hunter's Vigil \n**2)** Burst: Last Lightfall"
-            },
-            {
-                "inline": "false",
-                "name": "Notes:",
-                "value": "While the Whimsy 4pc and Thundering 4pc sets are similar in strength for Clorinde, the reduced skill cooldown from the Thundering Fury set can greatly improve her rotation flexibility. Overall its best to pick based on substats. \n\nGladiator's 4pc and Gilded Dreams 4pc can also work fine. \nMixing and matching 2pc sets for atk%, electro dmg%, or normal attack dmg% are also decent options."
+                "value": "**1)** Elemental Skill: Hunter's Vigil\n**2)** Elemental Burst: Last Lightfall\n**3)** Normal Attack: Oath of Hunting Shadows"
             }
         ],
         "color": 11104511,
