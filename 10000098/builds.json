@@ -15,7 +15,7 @@
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Haran Geppaku Futsu__\nSecond-best option, performing only slightly worse that Haran Geppaku Futsu.\n__Mistsplitter Reforged__\nClorinde's second-best option.\n__Light of Foliar Incision__\nPerforms well in dendro teams. Benefits from Elemental Mastery buffs.\n__Calamity of Eshu__\nGreat free weapon obtained from an event, requires you to run a shielder.\n__Finale of the Deep__\nProvides a large ATK% buff. Clorinde is able to easily cap out its passive."
+                "value": "__Haran Geppaku Futsu__\nSecond-best option, performing only slightly worse that Haran Geppaku Futsu.\n__Mistsplitter Reforged__\nClorinde's third-best option.\n__Light of Foliar Incision__\nPerforms well in dendro teams. Benefits from Elemental Mastery buffs.\n__Calamity of Eshu__\nGreat free weapon obtained from an event, requires you to run a shielder.\n__Finale of the Deep__\nProvides a large ATK% buff. Clorinde is able to easily cap out its passive."
             },
             {
                 "inline": "false",
@@ -46,11 +46,6 @@
                 "inline": "false",
                 "name": "Talent Priority",
                 "value": "**1)** Elemental Skill: Hunter's Vigil\n**2)** Elemental Burst: Last Lightfall\n**3)** Normal Attack: Oath of Hunting Shadows"
-            },
-            {
-                "inline": "false",
-                "name": "Notes:",
-                "value": "While the Whimsy 4pc and Thundering 4pc sets are similar in strength for Clorinde, the reduced skill cooldown from the Thundering Fury set can greatly improve her rotation flexibility. Overall its best to pick based on substats. \n\nGilded Dreams 4pc can also work fine. \nMixing and matching 2pc sets for atk%, electro dmg%, or normal attack dmg% are also decent options."
             }
         ],
         "color": 11104511,
