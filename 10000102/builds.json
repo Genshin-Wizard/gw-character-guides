@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Mualani | Update Date: 09/07/2024 | Editor: zmizuneko"
+            "text": "Character Guide • Build: Mualani | Update Date: 03/19/2025 | Editor: zmizuneko"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Mualani.png"
@@ -10,12 +10,7 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Surf's Up__\nMualani’s BiS, providing her with most buffs.\n__Sarificial Jade__\nGood weapon at high refinements, Mualani's second-best at R5 .\n__Ring of Yaxche__\nBest f2p weapon, outperforms most 5 stars at R5.\n__Tome of Eternal flow__\nGood stat stick, Mualani's third-best weapon. Mualani, however, cannot fully utilize its passive."
-            },
-            {
-                "inline": "true",
-                "name": "Replacement Weapon(s):",
-                "value": "__A thousand floating dreams__\nGood stat stick, providing needed EM for vaporize.\n__Prototype Amber__\nUsable craftable weapon, however, significantly worse than other f2p options."
+                "value": "__Surf's Up__\nMualani's best-in-slot option, providing her with the most buffs.\n__Sarificial Jade__\nA strong weapon at high refinements, Mualani's second-best option at R5.\n__The Widsith__\nMualani's best 4-star weapon. She can utilize 2 out of 3 buffs, though the ATK buff is completely useless for her. \n__Ring of Yaxche__\nCraftable catalyst that is similar to The Widsith, giving HP% and Normal Attack buff.\n__A thousand floating dreams__\nA solid stat stick that boosts Mualani's Elemental Mastery, enhancing her Vaporize damage.\n__Tome of the Eternal Flow__\nProvides CRIT DMG and HP%, both of which are valuable stats for Mualani."
             },
             {
                 "inline": "false",
@@ -35,7 +30,7 @@
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> HP%|<goblet> Hydro DMG Bonus%|<circlet> CRIT DMG"
+                "value": "<sands> HP% or Elemental Mastery|<goblet> Hydro DMG Bonus% or HP%|<circlet> CRIT DMG or HP%"
             },
             {
                 "inline": "true",
@@ -50,7 +45,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "Mualani’s main damage source is strictly HP scaling, meaning she neither needs, nor benefits from any ATK buffs. If you are using Obsidian codex artifact set and a CRIT Rate weapon, you are risking stacking too much CRIT Rate, making it a far less valued substat. Mualani’s Normal Attack: Cooling Treatment does not increase her Sharky bite’s damage. As such, it can be left at level 1."
+                "value": "Mualani’s main damage source scales strictly with HP, meaning she does not benefit from any ATK buffs. If you are using the Obsidian Codex artifact set alongside a CRIT Rate weapon, you risk overstacking CRIT Rate, making it a far less valuable substat.\nAdditionally, Mualani’s Normal Attack: Cooling Treatment does not increase her Sharky Bite damage, so it can be ignored."
             }
         ],
         "color": 3245055,
