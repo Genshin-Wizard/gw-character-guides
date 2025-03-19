@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide • Playstyle: Mualani | Update Date: 08/28/2024 | Editor: zmizuneko"
+        "text": "Character Guide • Playstyle: Mualani | Update Date: 03/19/2025 | Editor: zmizuneko"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Mualani.png"
     },
     "color": 3245055,
     "type": "rich",
-    "description": "UnknownMualani is a hydro main DPS. Her playstyle revolves around “bumping” into enemies and gaining Wave momentum stacks to unleash full stack Sharky bite attacks during her elemental skill duration. She shines the most in vaporize teams due to her slow, but strong attacks, allowing her fully stacked Sharky bites to trigger vape every hit.",
+    "description": "Mualani is a Hydro main DPS whose unique playstyle revolves around \"bumping\" into enemies to generate Wave Momentum stacks. These stacks enhance her Sharky Bite attacks during her Elemental Skill duration, allowing her to deal significant  damage when fully stacked. With her slow yet powerful strikes, she excels in Vaporize teams, consistently triggering Vape reactions for massive damage.\n\nMualani thrives in teams that maximize her Vaporize potential, as well as those that provide off-field support for sustained Hydro damage.",
     "title": "Mualani | Playstyle"
 }
