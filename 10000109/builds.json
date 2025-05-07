@@ -1,55 +1,45 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Yumemizuki Mizuki"
+            "text": "Character Guide • Build: Yumemizuki Mizuki | Update Date: 05/07/2025 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Mizuki.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Sunny Morning Sleep-In__\nSignature Weapon\n\n__Sacrificial Fragments__\nA 4-star alternative, resetting cooldown."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__A Thousand Floating Dreams, Starcaller's Watch__\n5-star alternatives providing team buffs and Elemental Mastery\n\n__Wandering Evenstar, Mappa Mare, Magic Guide,  Emerald Orb__\n4-star or 3-star alternatives with Elemental Mastery substats."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15002"
             },
             {
-                "inline": false,
-                "name": "Second Best Artifact Set:",
-                "value": "Unknown"
-            },
-            {
-                "inline": false,
-                "name": "Third Best Artifact Set:",
-                "value": "Unknown"
-            },
-            {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> Elemental Mastery|<goblet> Elemental Mastery|<circlet> Elemental Mastery"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "Elemental Mastery|Energy Recharge%"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Skill: Aisa Utamakura Pilgrimage\n**2)** Elemental Burst: Anraku Secret Spring Therapy\n**N/A)** Normal Attack: Pure Heart, Pure Dreams"
             }
         ],
         "color": 5494962,
         "type": "rich",
-        "title": "Yumemizuki Mizuki (On-field Support) | Build"
+        "title": "Yumemizuki Mizuki (Speculation Build) | Build"
     }
 ]
