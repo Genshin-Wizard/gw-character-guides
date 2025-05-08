@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Yumemizuki Mizuki"
+        "text": "Character Guide • Synergy: Yumemizuki Mizuki | Update Date: 05/08/2025 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Mizuki.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Yumemizuki Mizuki cannot trigger skills or bursts requiring Normal Attacks to proc. This means that Yelan, Xingqiu, Beidou, etc do not work."
+        }
+    ],
     "color": 5494962,
     "type": "rich",
-    "description": "10000109",
+    "description": "10000109,10000089,10000105,10000031|10000109,10000031,10000058,10000073|10000109,10000089,10000073,10000031|10000109,10000099,10000023,10000022",
     "title": "Yumemizuki Mizuki | Team Composition and Synergy"
 }
