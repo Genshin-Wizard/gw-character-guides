@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Escoffier"
+            "text": "Character Guide • Build: Escoffier"
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Escoffier.png"
@@ -50,6 +50,6 @@
         ],
         "color": 10147839,
         "type": "rich",
-        "title": "Escoffier (Speculation Build) | Build"
+        "title": "Escoffier (Off-field DPS/Support) | Build"
     }
 ]
