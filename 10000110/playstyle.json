@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Iansan"
+        "text": "Character Guide • Playstyle: Iansan | Update Date: 05/10/2025 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Iansan.png"
     },
     "color": 11104511,
     "type": "rich",
-    "description": "Unknown",
+    "description": "Iansan is a support character that buffs depending on the amount of movement the on-field character does. This means characters that dash or jump frequently, Plunging Attack DPS, Most characters with Xianyun, Natlan Characters, and Clorinde can benefit greatly. Although in most cases her buffs are weaker than Bennett’s, the lack of a physical circle you need to stay in is an advantage.\n\nShe should be closer to the start of a rotation, especially before characters that “snapshot” buffs like Beidou or Xiangling. Using an Elemental Skill, one Normal Attack, and then the Elemental Burst is the general rotation for Iansan. However, from C2 or higher, the Normal Attack can be omitted.",
     "title": "Iansan | Playstyle"
 }
