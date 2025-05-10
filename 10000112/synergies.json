@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Escoffier"
+        "text": "Character Guide • Synergy: Escoffier | Update Date: 05/10/2025 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Escoffier.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "While she can be played in Melt teams, Escoffier's full support capabilities require a team with ONLY Hydro and Cryo characters."
+        }
+    ],
     "color": 10147839,
     "type": "rich",
-    "description": "10000112",
+    "description": "10000002,10000063,10000112,10000089|10000086,10000060,10000025,10000112|cryoflex,10000089,10000063,10000112|10000087,10000089,10000107,10000112|10000106,10000112,10000107,10000103|10000112,10000032,10000023,10000086",
     "title": "Escoffier | Team Composition and Synergy"
 }
