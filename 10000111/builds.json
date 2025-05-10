@@ -1,55 +1,60 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Varesa"
+            "text": "Character Guide • Build: Varesa | Update Date: 05/10/2025 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Varesa.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Vivid Notions__\nSignature Weapon\n\n__Widsith__\nAlthough only available through wishing, it is her best 4-star option."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Kagura's Verity, Lost Prayer to the Sacred Winds, Tome of the Eternal Flow, Crane's Echoing Call Skyward Atlas__\nAlternate 5-star options\n\n__Oathsworn Eye__\nAn Event Weapon from 2.5, but a decent free option.\n\n__Flowing Purity__\nThe Fontaine Craftable Weapon, only to be used if no other options are available."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15039"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15038"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15005"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> ATK%|<goblet> Electro DMG Bonus%|<circlet> CRIT DMG or CRIT Rate"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "CRIT DMG|CRIT Rate|ATK%|Energy Recharge (120%-130%)"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Normal Attack: By the Horns\n**2)** Elemental Burst: Guardian Vent!\n**3)** Elemental Skill: Riding the Night-Rainbow"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "__Marechaussee Hunter__ is a viable set if Furina is on the team.\n__Vermillion Hereafter__ or __Thundering Fury__ are also possible options, but have resin-inefficient domains."
             }
         ],
         "color": 11104511,
         "type": "rich",
-        "title": "Varesa (On-field DPS) | Build"
+        "title": "Varesa (Speculation Build) | Build"
     }
 ]
