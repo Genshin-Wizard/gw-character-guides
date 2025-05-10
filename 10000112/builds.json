@@ -1,51 +1,56 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Escoffier"
+            "text": "Character Guide • Build: Escoffier | Update Date: 05/10/2025 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Escoffier.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Symphonist of Scents__\nSignature weapon that buffs damage and supports the team\n\n__Favonius Lance__\nProvides Energy for the entire team, but has lower personal damage."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__ Staff of Homa, Engulfing Lightening, Deathmatch, Mountain-Bracing Bolt, Calamity Queller__\nStat-sticks for personal damage. \n\n__If none of the above are owned:__\nUse any offensive polearm with ATK%, Energy Recharge or CRIT stats."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15032"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "14001"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15017"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> ATK% or Energy Recharge|<goblet> Cryo DMG Bonus% or ATK%|<circlet> CRIT DMG or CRIT Rate"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "Energy Recharge|CRIT DMG|ATK%"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Skill: Low-Temperature Cooking\n**2)** Elemental Burst: Scoring Cuts\n**N/A)** Normal Attack: Kitchen Skills"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "__Blizzard Strayer__ should not be used if the target is a boss or the team does not consistently trigger Freeze.\n__Tenacity of the Millelith__ sacrifices personal damage for small team buffs.\n__ATK% Goblets__ are likely to outperform __Cryo DMG Bonus% Goblets__ with __Furina__ in the team.\n__Elemental Mastery__ should be avoided if not building for Melt"
             }
         ],
         "color": 10147839,
