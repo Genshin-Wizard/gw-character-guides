@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Kinich | Update Date: 09/21/2024 | Editor: aqua.sh"
+            "text": "Character Guide • Build: Kinich | Update Date: 05/10/2025 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Kinich.png"
@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Fang of the Mountain King__\nSignature BiS.\n\n__Beacon of the Reed Sea__\nBest 5* alternative. Can risk overcapping on CRIT Rate but can take advantage of the passive through burning self damage.\n\n__Earth Shaker R5__\nBest F2P option. Passive is easily triggered and greatly benefits Kinich."
+                "value": "__Fang of the Mountain King__\nSignature Weapon.\n\n__Beacon of the Reed Sea__\nBest 5-star alternative. Can risk over-capping on CRIT Rate but can take advantage of the passive through Burning self-damage.\n\n__Earth Shaker R5__\nBest F2P option. Passive is easily triggered and greatly benefits Kinich."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Verdict, Wolf's Gravestone, Unforged, Redhorn Stonethresher, Serpent Spine R5, etc.__\nATK/CRIT stat sticks. Generally not ideal but can work."
+                "value": "__Verdict, Wolf's Gravestone, Unforged, Redhorn Stonethresher, Serpent Spine R5__\nATK% or CRIT stat sticks."
             },
             {
                 "inline": "false",
@@ -35,7 +35,7 @@
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> ATK%|<goblet> Dendro DMG%|<circlet> CRIT DMG"
+                "value": "<sands> ATK%|<goblet> Dendro DMG Bonus%|<circlet> CRIT DMG"
             },
             {
                 "inline": "true",
@@ -50,7 +50,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "Since the Obsidian Codex set grants Kinich a massive amount of CRIT rate, it can be beneficial to prioritize ATK% and CRIT damage rolls. However, his damage is mainly from a few large hits so going for high amounts of CRIT rate (~90%) can also be beneficial.\n\nWhile his damage is mainly from skill damage, the Golden Troupe 4pc is not reccomended since he requires a lot of field time and cannot make use of this bonus."
+                "value": "Since the __Obsidian Codex__ set grants Kinich a massive amount of CRIT Rate, it can be beneficial to prioritize ATK% and CRIT DMG. However, his damage is mainly from a few large hits so going for high CRIT Rate (~90%) can also be beneficial.\n\nWhile his damage is mainly from Elemental Skill damage, the __Golden Troupe__ set is not recommended since he requires a lot of field time and cannot make use of it's buffs."
             }
         ],
         "color": 6794623,
