@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Gaming"
+        "text": "Character Guide • Playstyle: Gaming | Update Date: 05/10/2025 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Gaming.png"
     },
     "color": 16733525,
     "type": "rich",
-    "description": "Unknown",
+    "description": "Gaming is an On-field DPS using plunging attacks with an HP-draining mechanic. Most rotations will begin, given Furina is in the team, with Furina’s Elemental Skill and Elemental Burst. Then, Xianyun and Bennett/Iansan should use their Elemental Bursts to heal and provide Fanfare stacks. If not playing Furina, using the Elemental Skills or Bursts of characters like Rosaria, and using supportive characters for healing and shielding is recommended.\n\nAfter setting up the supports, generally his combos will be one of the following:\n[Elemental Skill (E), Plunging Attack (P), Elemental Burst (Q), then 4 to 5 sets of 2 Normal Attacks (N2), EP]\nThis combo is for most players and most cases. However, if using Xianyun:\n[EP, Q, 3 sets of Jump, P, EP, then N2, EP] \ncan be used instead to max her buffs.",
     "title": "Gaming | Playstyle"
 }
