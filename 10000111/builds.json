@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Varesa"
+            "text": "Character Guide • Build: Varesa"
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Varesa.png"
@@ -50,6 +50,6 @@
         ],
         "color": 11104511,
         "type": "rich",
-        "title": "Varesa (Speculation Build) | Build"
+        "title": "Varesa (On-field DPS) | Build"
     }
 ]
