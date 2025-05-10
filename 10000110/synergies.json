@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Iansan"
+        "text": "Character Guide • Synergy: Iansan | Update Date: 05/10/2025 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Iansan.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Characters with high-levels of mobility, such as Plunge attackers and the Natlan characters work will to max her buffs."
+        }
+    ],
     "color": 11104511,
     "type": "rich",
-    "description": "10000110",
+    "description": "10000111,10000089,10000110,10000093|10000106,10000107,10000110,10000103|10000101,10000110,10000106,10000099|10000110,10000104,10000089,10000032|10000092,10000107,10000032,10000110|10000111,10000090,10000106,10000032|10000098,10000090,10000106,10000110",
     "title": "Iansan | Team Composition and Synergy"
 }
