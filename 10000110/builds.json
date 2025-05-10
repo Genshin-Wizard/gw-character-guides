@@ -1,55 +1,60 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Iansan"
+            "text": "Character Guide • Build: Iansan | Update Date: 05/10/2025 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Iansan.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Symphonist of Scents__\nEasy to trigger passives that buff ATK% for the team. Energy may be an issue in some teams.\n\n__Favonius Lance__\nBest Supportive 4-star weapon, providing Energy.\n\n__Missive Windspear, Tamayuratei no Ohanashi__\nEvent Weapons from 3.1 and 5.4 respectively. Although free options, neither can have full uptime on passives."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Calamity Queller__\nA lot of ATK% and high Base Attack make this weapon highly effective. Energy may be an issue.\n\n__Engulfing Lightning__\nHigh Base Attack and Energy Recharge sub-stats make it best when the team gives Iansan a high Energy Requirement.\n\n__Vortex Vanquisher, Skyward Spine, Lumidouce Elegy, Staff of Homa__\n5-star statsticks that can be used.\n\n__The Catch, Prototype Starglitter__\nEither fish or craft if none of the above options are available."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15037"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15007"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "attack,15037"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> ATK% or Energy Recharge |<goblet> ATK%|<circlet> ATK%"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "Energy Recharge|ATK%|CRIT Rate"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Burst: The Three Principles of Power\n**N/A)** Elemental Skill: Thunderbolt Rush\n**N/A)** Normal Attack: Weighted Spike"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "__Energy Requirements with Favonius Lance:__\n180%-210% for Solo Electro, 140%-160% for Double Electro. (Assume 30%-40% less for C1, 20%-30% less if other Favonius Weapons)\n\n__Other Weapons__\n220%-270% for Solo Electro, 150% -180% for Double Electro. (Assume 40%-60% less for C1, 20%-30% less if other Favonius Weapons)\n\n__Scroll of the Hero of Cinder City__ is best for almost every team by a large margin, and also lowers Energy Recharge requirements. It is not recommended to farm other sets for her."
             }
         ],
         "color": 11104511,
         "type": "rich",
-        "title": "Iansan (Support) | Build"
+        "title": "Iansan (Speculation Build) | Build"
     }
 ]
