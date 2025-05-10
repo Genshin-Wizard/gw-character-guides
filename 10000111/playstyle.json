@@ -1,12 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Varesa"
+        "text": "Character Guide • Playstyle: Varesa | Update Date: 05/10/2025 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Varesa.png"
     },
     "color": 11104511,
     "type": "rich",
-    "description": "Unknown",
+    "description": "Varesa is a Hypercarry on-field DPS. Use everyone’s Elemental Skills or bursts before switching to her. If you are playing with Furina, begin with her Elemental Skill and Elemental Burst, then a healer. Otherwise, use everyone’s supporting abilities or Off-field skills before switching to Varesa.\n\nOn Varesa, the typical rotation will be: Elemental Skill (E), Charged Attack (C), Plunging Attack (P), ECP, Elemental Burst (Q), ECP, ECP, Q, CP, CP, ECP. After this, you should switch through the rest of your team to re-activate their supporting abilities.",
     "title": "Varesa | Playstyle"
 }
