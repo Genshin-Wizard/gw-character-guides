@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Varesa"
+        "text": "Character Guide • Synergy: Varesa | Update Date: 05/10/2025 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Varesa.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Varesa generally prefers Iansan over Bennett, but they can be exchangeable. Chevreuse overloaded teams are recommended most when Chevreuse is C6. Ororon can also replace Iansan or Fischl to hold __Scroll of the Hero of Cinder City__."
+        }
+    ],
     "color": 11104511,
     "type": "rich",
-    "description": "10000111",
+    "description": "10000111,10000110,10000093,10000089|10000111,10000110,10000103,10000047|10000111,10000089,10000032,10000031|10000111,10000090,10000106,10000110|10000111,10000005-502,10000090,10000110|10000111,10000073,10000110,10000093|10000111,10000073,10000110,10000103",
     "title": "Varesa | Team Composition and Synergy"
 }
