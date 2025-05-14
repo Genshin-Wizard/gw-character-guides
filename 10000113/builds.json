@@ -1,55 +1,60 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Ifa"
+            "text": "Character Guide • Build: Ifa | Update Date: 05/14/2025 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Ifa.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Sunny Morning Sleep-In__\nProvides a lot of Elemental Mastery.\n\n__Sacrificial Fragments__\nProvides Elemental Mastery and Elemental Skill Cooldown refresh."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Starcaller's Watch, A Thousand Floating Dreams, Mappa Mare, Wandering Evenstar, Magic Guide__\nAlternative weapons with Elemental Mastery.\n\n__Hakushin Ring__\nA craftable alternate for teams that have Electro characters doing personal damage."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15002"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15037"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "elementalmastery,elementalmastery"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> Elemental Mastery|<goblet> Elemental Mastery|<circlet> Elemental Mastery"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "Energy Recharge|Elemental Mastery"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Skill: Airborne Disease Prevention\n**2)** Elemental Burst: Compound Sedation Field\n**N/A)** Normal Attack: Rite of Dispelling Winds"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "__Thrilling Tales of Dragon Slayers__:\nOnly recommended if you decide to utilize him as a support for non-Swirl and non-Electro-charged teams, where he uses __Viridescent Venerer__ or __Scroll of the Hero of Cinder City__."
             }
         ],
         "color": 5494962,
         "type": "rich",
-        "title": "Ifa (Support) | Build"
+        "title": "Ifa (Speculation Build) | Build"
     }
 ]
