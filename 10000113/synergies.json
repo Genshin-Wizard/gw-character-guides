@@ -1,12 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Ifa"
+        "text": "Character Guide • Synergy: Ifa | Update Date: 05/14/2025 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Ifa.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Hydro options include: Yelan, Xingqiu, Furina, and Kamisato Ayato.\nElectro options include: Raiden Shogun, Yae Miko, Beidou, Fischl, Kuki Shinobu, Ororon, Dori, and Lisa."
+        }
+    ],
     "color": 5494962,
     "type": "rich",
-    "description": "10000113",
+    "description": "10000031,10000105,10000089,10000113|10000105,10000113,hydroflex,flex|10000113,10000076,10000110,10000030|10000113,10000110,10000076,flex|10000075,10000113,10000076,10000032|10000113,10000110,10000106,10000107",
     "title": "Ifa | Team Composition and Synergy"
 }
