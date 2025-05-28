@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Nilou | Update Date: 04/24/2023 | Editor: Samantha#9907"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/KxMQIkX.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Nilou.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "Her Blooms cannot CRIT, but her Elemental Burst or Elemental Skill can, allowing her to use Favonius weapons.\n4-piece Tenacity of the Millelith isnt too helpful, so  the 2-piece of HP% sets and anything with HP% will suffice."
             }
         ],
+        "flags": 0,
         "color": 3245055,
         "type": "rich",
         "title": "Nilou (Bloom Support) | Build"

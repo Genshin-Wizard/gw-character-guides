@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Xiangling | Update Date: 02/06/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/6VZAvrf.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Xiangling.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "Generally, Xiangling requires around 180% ER. Her main source of damage Pyronado, has a hefty 80 burst cost.\n\nIf the weapon isn't HP%, and she has enough Energy Recharge, almost all weapons will work on Xiangling."
             }
         ],
+        "flags": 0,
         "color": 16733525,
         "type": "rich",
         "title": "Xiangling (Vape) | Build"
@@ -62,7 +63,7 @@
             "text": "Character Guide • Build: Xiangling | Update Date: 08/21/2022 | Editor: kitkat#1305"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/6VZAvrf.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Xiangling.png"
         },
         "fields": [
             {
@@ -111,6 +112,7 @@
                 "value": "Generally, Xiangling requires around 180% ER. Her main source of damage Pyronado, has a hefty 80 burst cost.\n\nElemental Mastery is not needed in Mono Pyro compositions due to the lack of reactions."
             }
         ],
+        "flags": 0,
         "color": 16733525,
         "type": "rich",
         "title": "Xiangling (Monopyro) | Build"
@@ -120,7 +122,7 @@
             "text": "Character Guide • Build: Xiangling | Update Date: 08/21/2022 | Editor: kitkat#1305"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/6VZAvrf.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Xiangling.png"
         },
         "fields": [
             {
@@ -169,6 +171,7 @@
                 "value": "Generally, Xiangling requires around 180% ER. Her main source of damage Pyronado, has a hefty 80 burst cost.\n"
             }
         ],
+        "flags": 0,
         "color": 16733525,
         "type": "rich",
         "title": "Xiangling (Off-Field DPS) | Build"

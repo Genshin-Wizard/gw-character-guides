@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Sangonomiya Kokomi | Update Date: 10/06/2022 | Editor: Pile6Zero#6228"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/Rd4Ubga.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Kokomi.png"
         },
         "fields": [
             {
@@ -48,6 +48,7 @@
                 "value": "**1)** Elemental Skill: Kurage's Oath\n**2)** Elemental Burst: Nereid's Ascension\n**3)** Normal Attack: The Shape of Water\n"
             }
         ],
+        "flags": 0,
         "color": 3245055,
         "type": "rich",
         "title": "Sangonomiya Kokomi (Support) | Build"

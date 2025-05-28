@@ -1,10 +1,11 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Jean | Update Date: 08/08/2022 | Editor: Sew#2409"
+        "text": "Character Guide • Playstyle: Jean | Update Date: 08/08/2022 | Editor: Sew#2409"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/uuGppMs.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Qin.png"
     },
+    "flags": 0,
     "color": 5494962,
     "type": "rich",
     "description": "Jean is an Anemo healer. As a lot of teams want a healer and an Anemo character to use the 4pc Viridescent Venerer set, Jean is an excellent choice in those teams as a 2 in 1 unit.\n\nJean is not just usable in the previously described teams however. Her Anemo energy generation and overall utility makes her a useful unit in a magnitude of teams.",

@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Rosaria | Update Date: 08/04/2022 | Editor: Sew#2409"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/krSQcCT.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Rosaria.png"
         },
         "fields": [
             {
@@ -48,6 +48,7 @@
                 "value": "**1)** Elemental Burst: Rites of Termination\n**2)** Elemental Skill: Ravaging Confession\n**3)** Normal Attack: Spear of the Church\n"
             }
         ],
+        "flags": 0,
         "color": 10147839,
         "type": "rich",
         "title": "Rosaria (Burst DPS/Support) | Build"
@@ -57,7 +58,7 @@
             "text": "Character Guide • Build: Rosaria | Update Date: 10/06/2022 | Editor: Samantha#9907"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/krSQcCT.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Rosaria.png"
         },
         "fields": [
             {
@@ -101,6 +102,7 @@
                 "value": "**1)** Elemental Burst: Rites of Termination\n**2)** Elemental Skill: Ravaging Confession\n**3)** Normal Attack: Spear of the Church\n"
             }
         ],
+        "flags": 0,
         "color": 10147839,
         "type": "rich",
         "title": "Rosaria (Freeze DPS) | Build"
@@ -110,7 +112,7 @@
             "text": "Character Guide • Build: Rosaria | Update Date: 03/20/2023 | Editor: Sew#2409"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/krSQcCT.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Rosaria.png"
         },
         "fields": [
             {
@@ -154,6 +156,7 @@
                 "value": "**1)** Elemental Burst: Rites of Termination\n**2)** Elemental Skill: Ravaging Confession\n**3)** Normal Attack: Spear of the Church\n"
             }
         ],
+        "flags": 0,
         "color": 10147839,
         "type": "rich",
         "title": "Rosaria (Melt DPS) | Build"

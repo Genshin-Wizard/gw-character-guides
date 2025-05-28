@@ -3,8 +3,9 @@
         "text": "Character Guide • Playstyle: Hydro Traveler"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/B0zBZMi.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_PlayerBoy.png"
     },
+    "flags": 0,
     "color": 5494962,
     "type": "rich",
     "description": "Nothing to see here",

@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Sucrose | Update Date: 08/07/2022 | Editor: SirDerpyHerp#7903"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/laV05YF.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Sucrose.png"
         },
         "fields": [
             {
@@ -48,6 +48,7 @@
                 "value": "Sucrose only needs to be levelled up to 60/70 to unlock her Ascension 4 Passive. Her talent levels can also be ignored.\n4p Instructor should only be used early game or if you can't swirl your DPS's element like in a Hu Tao team without a 2nd Pyro character.\n\nWhen used with Xiao, her artifact choice doesn't matter as much, you only need to use R5 Thrilling Tales of Dragon Slayers."
             }
         ],
+        "flags": 0,
         "color": 5494962,
         "type": "rich",
         "title": "Sucrose (Support) | Build"
@@ -57,7 +58,7 @@
             "text": "Character Guide • Build: Sucrose | Update Date: 08/08/2022 | Editor: SirDerpyHerp#7903"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/laV05YF.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Sucrose.png"
         },
         "fields": [
             {
@@ -96,6 +97,7 @@
                 "value": "It is recommended to get her to 90/90 and skip her talent levels as most of her damage come from swirls."
             }
         ],
+        "flags": 0,
         "color": 5494962,
         "type": "rich",
         "title": "Sucrose (Taser Driver) | Build"

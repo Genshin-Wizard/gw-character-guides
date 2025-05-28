@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Kamisato Ayato | Update Date: 10/21/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/aIcY8dQ.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Ayato.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "The difference between Gladiator’s Finale and Heart of Depth comes down to the substat differences and the team buffs present.\n\nA 4 set of Echoes of an Offering should only be considered when ping is consistently below 100, where the artifact set will be accordant with the other options. \n__Nymph's Dream__\nUnlike other sets, is not in the Strong Box, but better than Echos of an Offering when at higher ping."
             }
         ],
+        "flags": 0,
         "color": 3245055,
         "type": "rich",
         "title": "Kamisato Ayato (On-Field DPS) | Build"
@@ -62,7 +63,7 @@
             "text": "Character Guide • Build: Kamisato Ayato | Update Date: 08/06/2022 | Editor: Luno#1337"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/aIcY8dQ.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Ayato.png"
         },
         "fields": [
             {
@@ -106,6 +107,7 @@
                 "value": "ER is Important on Ayato in this playstyle. Thus an ER sands, although sacrificing much personal damage, would be more optimal in the long run as he is primarily in the team for his Off-Field hydro application.\n\nWhen running Ayato in a freeze team, 4 blizzard is his technical-best artifact set. However, should players not have enough blizzard pieces, priority of who gets the Blizzard pieces goes to the Cryo DPS while Ayato opts to run 4 Emblem of Severed Fate instead.\nIn teams where there are no 4 Noblesse Oblige holders, Ayato can sacrifice some of his personal damage to hold the 4 set and buff his teammates instead.\n"
             }
         ],
+        "flags": 0,
         "color": 3245055,
         "type": "rich",
         "title": "Kamisato Ayato (Burst/Freeze) | Build"

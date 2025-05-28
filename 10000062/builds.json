@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Aloy | Update Date: 03/04/2023 | Editor: Samantha#9907"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/47mFsx4.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Aloy.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "Normal Attack talent does not have to be raised at all for this build.\n\nAlmost all Bows work at similar levels, with Elemental Mastery bows with Melt performing for higher damage. "
             }
         ],
+        "flags": 0,
         "color": 10147839,
         "type": "rich",
         "title": "Aloy (Burst DPS) | Build"
@@ -62,7 +63,7 @@
             "text": "Character Guide • Build: Aloy | Update Date: 08/10/2022 | Editor: Samantha#9907"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/47mFsx4.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Aloy.png"
         },
         "fields": [
             {
@@ -106,6 +107,7 @@
                 "value": "On-Field DPS build is based around gaining Coil Stacks and using her Normal Attack string on a frozen enemy. When played with Cryo resonance and Blizzard Strayer, CRIT Rate can be quite low. "
             }
         ],
+        "flags": 0,
         "color": 10147839,
         "type": "rich",
         "title": "Aloy (On-Field DPS) | Build"
@@ -115,7 +117,7 @@
             "text": "Character Guide • Build: Aloy"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/47mFsx4.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Aloy.png"
         },
         "fields": [
             {
@@ -159,6 +161,7 @@
                 "value": "Normal Attack talents can be ignored for this build.\nThe instructor set cannot be used if there are no reactions being triggered, aim for Energy Recharge on the substats to utilize the Noblesse Oblige set buff. CRIT Rate will have to be decently high to use the Favonius Bow passive. "
             }
         ],
+        "flags": 0,
         "color": 10147839,
         "type": "rich",
         "title": "Aloy (Battery Support) | Build"
@@ -168,7 +171,7 @@
             "text": "Character Guide • Build: Aloy | Update Date: 03/04/2023 | Editor: Samantha#9907"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/47mFsx4.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Aloy.png"
         },
         "fields": [
             {
@@ -202,6 +205,7 @@
                 "value": "..."
             }
         ],
+        "flags": 0,
         "color": 10147839,
         "type": "rich",
         "title": "Aloy (testbuild) | Build"

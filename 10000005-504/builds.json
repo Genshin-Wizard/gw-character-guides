@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Anemo Traveler | Update Date: 09/28/2022 | Editor: Samantha#9907"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/B0zBZMi.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_PlayerBoy.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "Unless the Traveler has a large amount of Energy Recharge, building Elemental Mastery and 4-piece Viridescent Venerer is recommended. "
             }
         ],
+        "flags": 0,
         "color": 5494962,
         "type": "rich",
         "title": "Anemo Traveler (Off-Field DPS) | Build"

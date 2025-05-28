@@ -3,7 +3,7 @@
         "text": "Character Guide • Synergy: Kaeya | Update Date: 08/17/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/dX6g3ys.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Kaeya.png"
     },
     "fields": [
         {
@@ -12,6 +12,7 @@
             "value": "Kaeya when paired with Rosaria forms a formidable cryo duo. Leaning into the quickswap playstyle, players are encouraged to use the duo in teams that allow for this playstyle to best utilize both Kaeya’s as well as Rosaria’s short skill CD’s.\n\nOutside of the Kaeya + Rosaria duo, players can run Kaeya as either a secondary cryo to one’s cryo main damage dealer, or as an off-field burst DPS/ support. Players can also pair him with Chongyun to use Kaeya as an On-Field DPS to a limited degree of success. "
         }
     ],
+    "flags": 0,
     "color": 10147839,
     "type": "rich",
     "description": "10000015,10000002,10000022,10000054|10000015,10000045,10000047,10000025|10000015,10000036,10000047,10000025|10000015,10000045,10000023,10000032|10000015,10000045,10000029,10000032|10000015,10000039,10000046,10000025",

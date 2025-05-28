@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Ganyu | Update Date: 10/09/2022 | Editor: ChrӨma#3489"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/2Tff8N2.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Ganyu.png"
         },
         "fields": [
             {
@@ -48,6 +48,7 @@
                 "value": "**1)** Normal Attack: Liutian Archery\n**2)** Elemental Skill: Trail of the Qilin >= Elemental Burst: Celestial Shower\n"
             }
         ],
+        "flags": 0,
         "color": 10147839,
         "type": "rich",
         "title": "Ganyu (Melt DPS) | Build"
@@ -57,7 +58,7 @@
             "text": "Character Guide • Build: Ganyu | Update Date: 02/03/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/2Tff8N2.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Ganyu.png"
         },
         "fields": [
             {
@@ -101,6 +102,7 @@
                 "value": "Only play Marechaussee hunter with Furina."
             }
         ],
+        "flags": 0,
         "color": 10147839,
         "type": "rich",
         "title": "Ganyu (Freeze DPS) | Build"
@@ -110,7 +112,7 @@
             "text": "Character Guide • Build: Ganyu | Update Date: 08/06/2022 | Editor: LordOfEnnui#8710"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/2Tff8N2.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Ganyu.png"
         },
         "fields": [
             {
@@ -154,6 +156,7 @@
                 "value": "**1)** Elemental Burst: Celestial Shower\n**2)** Normal Attack: Liutian Archery\n**3)** Elemental Skill: Trail of the Qilin\n"
             }
         ],
+        "flags": 0,
         "color": 10147839,
         "type": "rich",
         "title": "Ganyu (Burst Support) | Build"

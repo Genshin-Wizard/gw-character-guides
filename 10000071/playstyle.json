@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Cyno | Update Date: 10/05/2022 | Editor: Luno#1337"
+        "text": "Character Guide • Playstyle: Cyno | Update Date: 10/05/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/SoCflUy.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Cyno.png"
     },
+    "flags": 0,
     "color": 11104511,
     "type": "rich",
-    "description": "__Character Overview__\nCyno, as contradictory as it may be, is both a straightforward yet complex character to play. Largely owing to his kit which revolves around the unique mechanic in his \u2018Endseer\u2019 \u2014 an eye that encompasses the whole screen in gameplay that empowers his Skill during its presence. \n\nTo best play Cyno, there are certain techiques and tips to take into account and master. Mainly:\n```\nUse Cyno\u2019s Elemental Skill before his Burst, as the higher CD is reduced in his Burst state, to pre-funnel 3 flat electro particles into his Burst-energy meter;\n\nDuring Cyno\u2019s Burst state \u2014 instead of spamming his Elemental Skill off-CD \u2014 opt to hold onto his E so that it will not desync/ be on CD when the Eye shrouds the screen;\n\nThe first Eye has a longer interval before appearing compared to the other Eyes, with a total of 4 Eyes over the course of Cyno\u2019s full combo. \n```\n\n__Fixed Combos__\nThese are combos that players can follow which are optimized for usability and practicality, number of Electro Applications, and to benefit from all 4 Eye intervals:\n> For non-4TF players \n*eQ n3e n5E n5 n1E n5 n2E (n5 n1E)*\n> For 4TF Cyno players: \n*eQ n1e n4e n4E n5E n4e n4E (n5 n1E)* \n```\nn(X) = press auto attack button (X) amount of times \ne = Tap Skill\nE = Endseer-induced Tap Skill  \nQ = Burst \n() = optional for players looking to cut Cyno\u2019s field-time \n```",
+    "description": "__Character Overview__\nCyno, as contradictory as it may be, is both a straightforward yet complex character to play. Largely owing to his kit which revolves around the unique mechanic in his ‘Endseer’ — an eye that encompasses the whole screen in gameplay that empowers his Skill during its presence. \n\nTo best play Cyno, there are certain techiques and tips to take into account and master. Mainly:\n```\nUse Cyno’s Elemental Skill before his Burst, as the higher CD is reduced in his Burst state, to pre-funnel 3 flat electro particles into his Burst-energy meter;\n\nDuring Cyno’s Burst state — instead of spamming his Elemental Skill off-CD — opt to hold onto his E so that it will not desync/ be on CD when the Eye shrouds the screen;\n\nThe first Eye has a longer interval before appearing compared to the other Eyes, with a total of 4 Eyes over the course of Cyno’s full combo. \n```\n\n__Fixed Combos__\nThese are combos that players can follow which are optimized for usability and practicality, number of Electro Applications, and to benefit from all 4 Eye intervals:\n> For non-4TF players \n*eQ n3e n5E n5 n1E n5 n2E (n5 n1E)*\n> For 4TF Cyno players: \n*eQ n1e n4e n4E n5E n4e n4E (n5 n1E)* \n```\nn(X) = press auto attack button (X) amount of times \ne = Tap Skill\nE = Endseer-induced Tap Skill  \nQ = Burst \n() = optional for players looking to cut Cyno’s field-time \n```",
     "title": "Cyno | Playstyle"
 }

@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Arataki Itto | Update Date: 02/27/2023 | Editor: Samantha#9907"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/rV4eWpl.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Itto.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "Use 2-pc Husk with 2-pc Emblem **or** 2-pc Archaic Petra"
             }
         ],
+        "flags": 0,
         "color": 14994176,
         "type": "rich",
         "title": "Arataki Itto (On-Field DPS) | Build"

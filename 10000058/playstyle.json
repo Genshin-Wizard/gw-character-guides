@@ -1,10 +1,11 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Yae Miko"
+        "text": "Character Guide • Playstyle: Yae Miko"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/Yfb4g1m.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Yae.png"
     },
+    "flags": 0,
     "color": 11104511,
     "type": "rich",
     "description": "Yae Miko has a variety of playstyles. To begin, you can choose between on-field and off-field responsibilities. Furthermore, there is the option of Bursting every rotation or every other rotation. While the first option has no significant impact on gear selection, the second does. Bursting every other rotation reduces her ER percent needs and lets you to build entirely for damage. The overall DPS difference between the two is negligible, and you should go with the approach that you prefer/works best with your gear.\n\nFinally, there is the option of not Bursting at all. This playstyle just employs Yae for her Sakura turrets, ignoring about 25% -40% of her entire personal damage. This is not a suggested playstyle unless you want to employ Yae in a specific squad with no downtime for her to cast Burst.\n\nTo see the full guide on Yae Miko, it is recommended to go ahead and check out the KQM guide linked below!",

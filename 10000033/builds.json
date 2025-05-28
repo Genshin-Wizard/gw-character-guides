@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Tartaglia | Update Date: 09/02/2023 | Editor: ultimate.noob"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/SLuf0m3.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Tartaglia.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "Childe's Talents:\nBurst and Skill contribute roughly the same amount of damage in the main DPS rotation, so both should be levelled equally. If built as a Burst DPS then obviously Burst should be the primary talent. If you plan to use Childe on-field during his downtime you will also want to level his Normals to help his Charged Shot dmg. \n\nChilde's Artifacts:\nYou can use 4 piece Heart of Depth, 2 piece HoD with Atk% or Noblesse, or 4 piece Shimenawa's as they are roughly the same dmg output although Shimenawa will have a higher ER requirement to comfortably cycle. Nymph’s dream is roughly a 5% increase from 4 piece HoD, wouldn’t recommend farming if any of the previous options are available."
             }
         ],
+        "flags": 0,
         "color": 3245055,
         "type": "rich",
         "title": "Childe (Vaporize Burst) | Build"
@@ -62,7 +63,7 @@
             "text": "Character Guide • Build: Childe"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/SLuf0m3.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Tartaglia.png"
         },
         "fields": [
             {
@@ -111,6 +112,7 @@
                 "value": "Childe isn't assumed to vape his burst for this weapon and artifact ranking, making 2 NO worse, EM from 2WT becomes less useful stat for both teams.\nFreeze Childe:\n4BS will be better than all sets mentioned above, and CR Weapons such as VH, Harp will be worse because it's hard to not overcap crit with it, but Polar star remains BiS along with Thundering pulse assuming no use of Bennett, or TTDS.\n"
             }
         ],
+        "flags": 0,
         "color": 3245055,
         "type": "rich",
         "title": "Childe (Fireworks/Freeze) | Build"

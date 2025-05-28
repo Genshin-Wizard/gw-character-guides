@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Kaeya | Update Date: 10/21/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/dX6g3ys.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Kaeya.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "Normal Attack talents should only be levelled when paired with a character to provide infusions and Kaeya is utilized as an On-Field DPS."
             }
         ],
+        "flags": 0,
         "color": 10147839,
         "type": "rich",
         "title": "Kaeya (Freeze DPS) | Build"
@@ -62,7 +63,7 @@
             "text": "Character Guide • Build: Kaeya | Update Date: 08/28/2022 | Editor: Luno#1337"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/dX6g3ys.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Kaeya.png"
         },
         "fields": [
             {
@@ -101,6 +102,7 @@
                 "value": "**1)** Elemental Burst: Glacial Waltz\n**2)** Elemental Skill: Frostgnaw\n**3)** Normal Attack: Ceremonial Bladework\n"
             }
         ],
+        "flags": 0,
         "color": 10147839,
         "type": "rich",
         "title": "Kaeya (Melt DPS) | Build"

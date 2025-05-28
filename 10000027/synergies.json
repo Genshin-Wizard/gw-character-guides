@@ -3,7 +3,7 @@
         "text": "Character Guide • Synergy: Ningguang | Update Date: 08/21/2022 | Editor: Effab1e#2963"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/w9LQJFO.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Ningguang.png"
     },
     "fields": [
         {
@@ -12,6 +12,7 @@
             "value": "Geo Flex will usually be zhongli, albedo or C6 gorou.\n\nAlbedo - Due to 30s duration on skill he can use it alternate rotations."
         }
     ],
+    "flags": 0,
     "color": 14994176,
     "type": "rich",
     "description": "10000027,10000030,10000031,10000038|10000027,10000030,10000031,10000032|10000027,geoflex,10000032,10000023|10000027,geoflex,10000031,10000058|10000027,10000030,geoflex,flex|10000027, 10000030,10000038,10000056",

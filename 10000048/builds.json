@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Yanfei | Update Date: 02/06/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/AK3r6mb.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Feiyan.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "__Marechaussee Hunter__ would work only in Burgeon or with Furina. It is recommended to play with Furina for Vaporize teams and uptime on the CRIT Rate buff."
             }
         ],
+        "flags": 0,
         "color": 16733525,
         "type": "rich",
         "title": "Yanfei (On-Field Vaporize DPS) | Build"
@@ -62,7 +63,7 @@
             "text": "Character Guide • Build: Yanfei | Update Date: 08/26/2022 | Editor: Luno#1337"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/AK3r6mb.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Feiyan.png"
         },
         "fields": [
             {
@@ -106,6 +107,7 @@
                 "value": "CRIT Rate substats are to be voided in this playstyle due to her A4 applying more instances of pyro application which, although good in-theory, is not actually beneficial. This is in light of the extra pyro application instance messing up the auras on the enemy; resulting in less overloads owned by Yanfei.\n\nShould players have neither of the 4-piece artifact sets that boost her overload damage, running +80 EM 2-piece sets is an option.\nWhen opting for instructors as one of said +80 EM sets, it is recommended to only run the set piece on the flower and feather. "
             }
         ],
+        "flags": 0,
         "color": 16733525,
         "type": "rich",
         "title": "Yanfei (On-Field Overload DPS) | Build"

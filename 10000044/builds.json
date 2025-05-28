@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Xinyan"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/T6meiSo.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Xinyan.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "While the Pale Flame will lead to greater damage output than the 2-set Physical Set build with its stacks, it is very difficult to gain them with Xinyan's skill despite its pyro pulses. The 2-set Physical Set build will be far more consistent."
             }
         ],
+        "flags": 0,
         "color": 16733525,
         "type": "rich",
         "title": "Xinyan (On-Field DPS) | Build"
@@ -62,7 +63,7 @@
             "text": "Character Guide • Build: Xinyan | Update Date: 08/15/2022 | Editor: Luanjo#5886"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/T6meiSo.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Xinyan.png"
         },
         "fields": [
             {
@@ -101,6 +102,7 @@
                 "value": "4-piece Instructor is able to share Elemental Mastery for the entire party, most importantly to Hu Tao or Yoimiya making it Xinyan's best set for buffing. This comes at the cost of a slimmer shield and lower Energy Recharge due to it's 4-star maximum rarity."
             }
         ],
+        "flags": 0,
         "color": 16733525,
         "type": "rich",
         "title": "Xinyan (Pyro Support) | Build"
@@ -110,7 +112,7 @@
             "text": "Character Guide • Build: Xinyan | Update Date: 08/15/2022 | Editor: Samantha#9907"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/T6meiSo.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Xinyan.png"
         },
         "fields": [
             {
@@ -149,6 +151,7 @@
                 "value": "For the sake of reliability, this playstyle is only recommended when owning Xinyan at C2 or higher. This playstyle is generally only worth using if looking to run the Tenacity of the Millelith set when Diona or Zhongli are not available."
             }
         ],
+        "flags": 0,
         "color": 16733525,
         "type": "rich",
         "title": "Xinyan (Shield-Bot) | Build"

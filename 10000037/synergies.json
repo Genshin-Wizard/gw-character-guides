@@ -3,7 +3,7 @@
         "text": "Character Guide • Synergy: Ganyu | Update Date: 02/03/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/2Tff8N2.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Ganyu.png"
     },
     "fields": [
         {
@@ -12,6 +12,7 @@
             "value": "Ganyu's team options are very flexible. Zhongli can be replaced by Diona, Xinyan, Noelle or Thoma. Kokomi/Mona can be replaced by most hydro units, even Xingqiu if you weave in normal attacks or Barbara if you hug opponents. Shenhe and Rosaria are generally interchangeable. Kazuha can be replaced with Sucrose."
         }
     ],
+    "flags": 0,
     "color": 10147839,
     "type": "rich",
     "description": "10000037,10000023,10000032,10000030|10000037,10000047,10000032,10000030|10000037,10000003,10000032,10000030|10000037,10000022,10000041,10000039|10000037,10000063,10000022,10000054|10000002,10000037,10000063,10000047|10000016,10000025,10000037,10000045|10000037,10000073,10000032,10000079|10000037,10000032,10000003,10000063|10000037,10000089,10000088,10000047",

@@ -3,7 +3,7 @@
         "text": "Character Guide • Synergy: Shenhe | Update Date: 08/05/2022 | Editor: Effab1e#2963"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/SYlttcB.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Shenhe.png"
     },
     "fields": [
         {
@@ -12,6 +12,7 @@
             "value": "Can be used as second Cryo in basically any team focused on Cryo dmg."
         }
     ],
+    "flags": 0,
     "color": 10147839,
     "type": "rich",
     "description": "10000002,10000054,10000047,10000063|10000063,10000045,10000032,10000023|10000002,10000047,10000063,10000039|10000037,10000041,10000022,10000063|10000051,10000052,10000063,10000039|10000046,10000025,10000063,10000045",

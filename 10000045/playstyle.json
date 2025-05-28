@@ -1,10 +1,11 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Rosaria"
+        "text": "Character Guide • Playstyle: Rosaria"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/krSQcCT.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Rosaria.png"
     },
+    "flags": 0,
     "color": 10147839,
     "type": "rich",
     "description": "Rosaria is a very flexible character that can fit into a wide variety of teams. Her main appeal lies in her burst and the CRIT Rate share she can do with her ascension 4 passive talent after she uses her burst, in addition to that, her energy generation from her skill is high which can prove to be helpful if you are playing her with cryo characters that need the energy.\n\n\nBeing as flexible as she is, she mainly fulfills 3 roles which are, an off-field freeze DPS, melt DPS or just as a general support by boosting other characters with her CRIT Rate share and providing raw damage from her skill and burst.\n",

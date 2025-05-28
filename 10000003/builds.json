@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Jean | Update Date: 10/21/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/uuGppMs.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Qin.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "This build is focused on Jean in geo and anemo teams where she can't swirl reliably."
             }
         ],
+        "flags": 0,
         "color": 5494962,
         "type": "rich",
         "title": "Jean (Anemo Support) | Build"
@@ -62,7 +63,7 @@
             "text": "Character Guide • Build: Jean"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/uuGppMs.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Qin.png"
         },
         "fields": [
             {
@@ -106,6 +107,7 @@
                 "value": "**1)** Elemental Burst: Dandelion Breeze\n**2)** Elemental Skill: Gale Blade\n**3)** Normal Attack: Favonius Bladework\n"
             }
         ],
+        "flags": 0,
         "color": 5494962,
         "type": "rich",
         "title": "Jean (Swirl Support) | Build"
@@ -115,7 +117,7 @@
             "text": "Character Guide • Build: Jean | Update Date: 10/21/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/uuGppMs.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Qin.png"
         },
         "fields": [
             {
@@ -164,6 +166,7 @@
                 "value": "Marechaussee Hunter does require you to get hit enough, but with her passive healing from normal attacks, she can somewhat reliably keep the stacks."
             }
         ],
+        "flags": 0,
         "color": 5494962,
         "type": "rich",
         "title": "Jean (Physical DPS) | Build"

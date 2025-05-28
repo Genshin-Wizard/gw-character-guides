@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Shikanoin Heizou | Update Date: 05/01/2023 | Editor: Samantha#9907"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/ZrsI0Bj.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Heizo.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "ER requirements can vary majorly depending on the context of the team Heizou is used in and the number of skills used per burst. Generally, Heizou is most commonly found performing 2 fully-stacked skill uses each rotation. In this scenario, a range of 110-120% ER should be enough to burst every rotation.\nFor more specific situations, be sure to check out the Energy Recharge Calculator tool.\n\n4 Viridescent Venerer is the best artifact set by far for Heizou. In teams that already have an anemo running the 4-piece set or mono geo/ anemo team compositions, running 2-piece set combinations on Heizou is an option. "
             }
         ],
+        "flags": 0,
         "color": 5494962,
         "type": "rich",
         "title": "Heizou (Quickswap DPS/Support) | Build"
@@ -62,7 +63,7 @@
             "text": "Character Guide • Build: Shikanoin Heizou | Update Date: 08/14/2022 | Editor: Luno#1337"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/ZrsI0Bj.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Heizo.png"
         },
         "fields": [
             {
@@ -101,6 +102,7 @@
                 "value": "As an On-Field EM Carry/ Driver, Heizou can utilize low base attack/ less offense oriented weapon options in favour of added buffing capabilities; providing additional flexibility and variety to his otherwise limited weapon pool when focusing primarily on his EM stat.\n\n"
             }
         ],
+        "flags": 0,
         "color": 5494962,
         "type": "rich",
         "title": "Heizou (On-Field EM Carry/Driver) | Build"

@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Traveler | Update Date: 02/11/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/B0zBZMi.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_PlayerBoy.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "__Lion's Roar__\nWill outperform many 5-Star weapons if the passive can be maintained, such as running Xiangling within the team. \n\n__Harbinger of Dawn__\nCan outperform most 4-Star weapons and some 5-Star weapons but maintaining the passive may prove to be difficult. \n\n__4 piece Thundersoother or Lavawalker__ \nIf the passive can be maintained, it is the better than 2-piece set options for DMG."
             }
         ],
+        "flags": 0,
         "color": 14994176,
         "type": "rich",
         "title": "Geo Traveler (Off-Field DPS) | Build"

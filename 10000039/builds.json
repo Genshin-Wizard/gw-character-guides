@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Diona | Update Date: 10/26/2022 | Editor: Ultimate Noob#2955"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/HtKFztj.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Diona.png"
         },
         "fields": [
             {
@@ -48,6 +48,7 @@
                 "value": "Use whatever artifacts are at hand, do not specifically farm for her."
             }
         ],
+        "flags": 0,
         "color": 10147839,
         "type": "rich",
         "title": "Diona (Support) | Build"

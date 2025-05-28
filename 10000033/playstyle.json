@@ -1,10 +1,11 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Childe | Update Date: 10/07/2022 | Editor: ~Z~#0009"
+        "text": "Character Guide • Playstyle: Childe | Update Date: 10/07/2022 | Editor: ~Z~#0009"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/SLuf0m3.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Tartaglia.png"
     },
+    "flags": 0,
     "color": 3245055,
     "type": "rich",
     "description": "Childe is an on-field enabling DPS meaning he predominantly wants to be setting up enemies with Hydro application for off-field DPS units like Beidou and Xiangling to deal the best damage. Childe's biggest contributions to the DPS in this style will be off of his burst which you will want to buff and vaporize with if possible. \n\nChilde at c0 would prefer to stay in his Melee Stance for up to 9 seconds before swapping out to your other units to prevent his CD from getting out of hand and also renew any buffs or other effects before going back in. \n\nThe best scenario for Childe is against large groups of enemies since his Riptide Slashes will scale quadratically in these scenarios because each enemy affected by Riptide can proc its own AoE Hydro dmg around it triggering other Riptides. This is especially powerful when paired with off-field DPS units like Beidou who can also punish a large number of enemies simultaneously. \n\nFor more information, check out the Childe Guide linked below and their authors over at [**Childe Mains**](https://discord.gg/childe).",

@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Electro Traveler | Update Date: 09/27/2022 | Editor: Samantha#9907"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/B0zBZMi.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_PlayerBoy.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "Only build for Elemental Mastery when Energy Requirements are met, and is playing for Quicken Teams. Instructors and Noblesse Oblige will work for less personal damage but increased Team DPS."
             }
         ],
+        "flags": 0,
         "color": 11104511,
         "type": "rich",
         "title": "Electro Traveler (Off-Field DPS) | Build"
@@ -62,7 +63,7 @@
             "text": "Character Guide • Build: Electro Traveler | Update Date: 09/27/2022 | Editor: Samantha#9907"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/B0zBZMi.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_PlayerBoy.png"
         },
         "fields": [
             {
@@ -111,6 +112,7 @@
                 "value": "Running Noblesse Oblige will result in higher team DPS but will require hyperinvestment into the Traveler's Energy Recharge."
             }
         ],
+        "flags": 0,
         "color": 11104511,
         "type": "rich",
         "title": "Electro Traveler (Battery) | Build"

@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Yanfei | Update Date: 08/27/2022 | Editor: Luno#1337"
+        "text": "Character Guide • Playstyle: Yanfei | Update Date: 08/27/2022 | Editor: Luno#1337"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/AK3r6mb.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Feiyan.png"
     },
+    "flags": 0,
     "color": 16733525,
     "type": "rich",
-    "description": "**Vaporise Yanfei**\nTo deliver devastating vaporized Charged Attacks, Yanfei relies on stacking Scarlet Seals and consistent off-field hydro application in order to Vaporize her damage.\nIt should be noted that players are not to build Energy Recharge to burst every rotation on Yanfei. Rather, Yanfei should build enough ER to burst every other rotation as she will not lose out on as many offensive substats for Energy Recharge.\n\n**Overload Yanfei**\nThis playstyle capitalizes on Yanfei\u2019s large range and tracking of her autos to consistently overload enemies without the knockback being a huge factor. Fischl and Beidou are strong partners here as their high rate of electro application enables Yanfei to constantly overload off the enemies electro aura\u2019s.\nWhen building Yanfei for this playstyle, player\u2019s will want to fully tap into EM for overloads while simultaneously ignoring crit rate substats. ( see guide for more details )\n\nTo view a more in-depth guide on this character, check out the KQM guide linked below!",
+    "description": "**Vaporise Yanfei**\nTo deliver devastating vaporized Charged Attacks, Yanfei relies on stacking Scarlet Seals and consistent off-field hydro application in order to Vaporize her damage.\nIt should be noted that players are not to build Energy Recharge to burst every rotation on Yanfei. Rather, Yanfei should build enough ER to burst every other rotation as she will not lose out on as many offensive substats for Energy Recharge.\n\n**Overload Yanfei**\nThis playstyle capitalizes on Yanfei’s large range and tracking of her autos to consistently overload enemies without the knockback being a huge factor. Fischl and Beidou are strong partners here as their high rate of electro application enables Yanfei to constantly overload off the enemies electro aura’s.\nWhen building Yanfei for this playstyle, player’s will want to fully tap into EM for overloads while simultaneously ignoring crit rate substats. ( see guide for more details )\n\nTo view a more in-depth guide on this character, check out the KQM guide linked below!",
     "title": "Yanfei | Playstyle"
 }

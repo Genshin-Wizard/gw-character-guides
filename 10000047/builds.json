@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Kaedehara Kazuha | Update Date: 10/12/2023 | Editor: talpha"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/Jru7MPN.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Kazuha.png"
         },
         "fields": [
             {
@@ -38,6 +38,7 @@
                 "value": "**1)** Elemental Burst: Kazuha Slash\n**2)** Normal Attack: Garyuu Bladework\n**3)** Elemental Skill: Chihayaburu"
             }
         ],
+        "flags": 0,
         "color": 5494962,
         "type": "rich",
         "title": "Kazuha (Off-Field DPS) | Build"

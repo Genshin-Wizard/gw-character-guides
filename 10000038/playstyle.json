@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Albedo | Update Date: 08/06/2022 | Editor: Luanjo#5886"
+        "text": "Character Guide • Playstyle: Albedo | Update Date: 08/06/2022 | Editor: Luanjo#5886"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/oDUkuVY.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Albedo.png"
     },
+    "flags": 0,
     "color": 14994176,
     "type": "rich",
-    "description": "Albedo functions mostly as a Geo turret by placing his Elemental Skill Abiogenesis: Solar Isotoma down on the field. It provides consistent Geo damage output and eventual Crystallize Shields. Being a rather fragile Geo Construct means you\u2019ll have a hard time against bosses that are able to destroy it.\n\nExtended field time requirement and split-scaling on his Elemental Burst up until C2 discourages its usage in most teams. However, the 125 Elemental Mastery it provides for all teammates is very much appreciated by Vaporize teams. ",
+    "description": "Albedo functions mostly as a Geo turret by placing his Elemental Skill Abiogenesis: Solar Isotoma down on the field. It provides consistent Geo damage output and eventual Crystallize Shields. Being a rather fragile Geo Construct means you’ll have a hard time against bosses that are able to destroy it.\n\nExtended field time requirement and split-scaling on his Elemental Burst up until C2 discourages its usage in most teams. However, the 125 Elemental Mastery it provides for all teammates is very much appreciated by Vaporize teams. ",
     "title": "Albedo | Playstyle"
 }

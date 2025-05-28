@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Sayu | Update Date: 10/24/2022 | Editor: Samantha#9907"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/oYiMaic.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Sayu.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "__Dendro Support Sayu__\n4-set of Deepwood Memories and Forest Regalia work in addition to options stated above. \n\nTry keep a balance between Sayu's Attack and Elemental Mastery while keeping Energy Recharge decently high. After C6, it becomes ideal to focus on Elemental Mastery only. If you run an ATK% weapon like the Luxurious Sea-Lord or Energy Recharge weapon like Favonius Greatsword, it is recommended to run an Elemental Mastery focused set and vise versa."
             }
         ],
+        "flags": 0,
         "color": 5494962,
         "type": "rich",
         "title": "Sayu (Support) | Build"
@@ -62,7 +63,7 @@
             "text": "Character Guide • Build: Sayu | Update Date: 02/27/2023 | Editor: Samantha#9907"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/oYiMaic.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Sayu.png"
         },
         "fields": [
             {
@@ -106,6 +107,7 @@
                 "value": "**1)** Elemental Skill: Yoohoo Art - Fuuin Dash\n**2)** Elemental Burst: Yoohoo Art - Mujina Flurry\nNormal Attack and Skill level does not increase the amount of healing Sayu does."
             }
         ],
+        "flags": 0,
         "color": 5494962,
         "type": "rich",
         "title": "Sayu (Reaction Driver) | Build"
@@ -115,7 +117,7 @@
             "text": "Character Guide • Build: Sayu | Update Date: 10/24/2022 | Editor: Samantha#9907"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/oYiMaic.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Sayu.png"
         },
         "fields": [
             {
@@ -164,6 +166,7 @@
                 "value": "Despite being a high-investment build, a pure Elemental Mastery will perform similarly. Thundersoother is a niche set where Electro aura is maintained, and Lavawalker where Pyro aura is maintained."
             }
         ],
+        "flags": 0,
         "color": 5494962,
         "type": "rich",
         "title": "Sayu (Hybrid DPS) | Build"

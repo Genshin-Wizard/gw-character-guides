@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Raiden Shogun | Update Date: 08/21/2022 | Editor: ~Z~#0009"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/4NdsZHk.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Shougun.png"
         },
         "fields": [
             {
@@ -43,6 +43,7 @@
                 "value": "Atk% Sands will generally deal more dmg but will lower Raiden's energy regeneration for the team\n\nDue to the high amount of Dmg % in Raiden's kit, her Goblet can also be better as Atk% instead of Electro Dmg in some cases\n\n4 piece Emblem is the only artifact set that should be used on Raiden. Nothing else comes close"
             }
         ],
+        "flags": 0,
         "color": 11104511,
         "type": "rich",
         "title": "Raiden Shogun (On-Field DPS) | Build"
@@ -52,7 +53,7 @@
             "text": "Character Guide • Build: Raiden Shogun | Update Date: 11/10/2022 | Editor: ~Z~#0009"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/4NdsZHk.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Shougun.png"
         },
         "fields": [
             {
@@ -96,6 +97,7 @@
                 "value": "This composition drastically alters Raiden's playstyle as she will no longer be taking the field to use her burst. \n\nNormal and Burst levels are worthless in this composition. Focus purely on her skill.\n\nRaiden has a unique advantage to being a Hyperbloom unit as her coordinated attacks have an Area of Effect and can hit things like Dendro cores to trigger them while having 100% up time, supplementing Burst Dmg, and a long duration. "
             }
         ],
+        "flags": 0,
         "color": 11104511,
         "type": "rich",
         "title": "Raiden Shogun (Hyperbloom) | Build"

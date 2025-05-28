@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Lisa | Update Date: 08/25/2022 | Editor: Samantha#9907"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/a0E1K9o.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Lisa.png"
         },
         "fields": [
             {
@@ -48,6 +48,7 @@
                 "value": "**1)** Elemental Burst: Lightning Rose\n**2)** Elemental Skill: Violet Arc\n**3)** Normal Attack: Lightning Touch\n"
             }
         ],
+        "flags": 0,
         "color": 11104511,
         "type": "rich",
         "title": "Lisa (Off-Field DPS) | Build"
@@ -57,7 +58,7 @@
             "text": "Character Guide • Build: Lisa | Update Date: 08/25/2022 | Editor: Samantha#9907"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/a0E1K9o.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Lisa.png"
         },
         "fields": [
             {
@@ -106,6 +107,7 @@
                 "value": "For a main on-field DPS build, all talents being raised as high as possible is recommended. Thundersoother is only the best if an Electro Aura is continuously maintained. This shouldn't be too difficult in most of Lisa's teams."
             }
         ],
+        "flags": 0,
         "color": 11104511,
         "type": "rich",
         "title": "Lisa (On-Field DPS) | Build"
@@ -115,7 +117,7 @@
             "text": "Character Guide • Build: Lisa | Update Date: 08/04/2022 | Editor: Samantha#9907"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/a0E1K9o.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Lisa.png"
         },
         "fields": [
             {
@@ -164,6 +166,7 @@
                 "value": "\nTalents do not have to be leveled, but she should be leveled up to have at least the 4th ascension passive which reduces enemy defence.\n4-piece Instructor does not help in teams that do not require the Elemental Mastery\nOffensive stats can be ignored, CRIT Rate needs to be decently high if using Favonius weapons.\nEnergy Recharge is needed. "
             }
         ],
+        "flags": 0,
         "color": 11104511,
         "type": "rich",
         "title": "Lisa (Support) | Build"
@@ -173,7 +176,7 @@
             "text": "Character Guide • Build: Lisa | Update Date: 02/06/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/a0E1K9o.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Lisa.png"
         },
         "fields": [
             {
@@ -217,6 +220,7 @@
                 "value": "**1)** Elemental Burst: Lightning Rose\n**1)** Elemental Skill: Violet Arc\n**2)** Normal Attack: Lightning Touch"
             }
         ],
+        "flags": 0,
         "color": 11104511,
         "type": "rich",
         "title": "Lisa (EM Carry) | Build"

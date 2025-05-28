@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Bennett | Update Date: 08/24/2022 | Editor: SirDerpyHerp#7903"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/Ovy1jMB.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Bennett.png"
         },
         "fields": [
             {
@@ -48,6 +48,7 @@
                 "value": "He should meet his ER requirements before investing into other stats. Generally speaking, he should have at least 200% ER, though it may vary between teams.\n4p Instructor should only be used early game or for nuke showcases, as 4* artifacts sets have lower main stats, making him less comfortable to use."
             }
         ],
+        "flags": 0,
         "color": 16733525,
         "type": "rich",
         "title": "Bennett (Support) | Build"
@@ -57,7 +58,7 @@
             "text": "Character Guide • Build: Bennett | Update Date: 08/24/2022 | Editor: SirDerpyHerp#7903"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/Ovy1jMB.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Bennett.png"
         },
         "fields": [
             {
@@ -101,6 +102,7 @@
                 "value": "He should meet his ER requirements before investing into other stats. Generally speaking, he should have at least 200% ER, though it may vary between teams.\n4p Instructor should only be used early game or for nuke showcases, as 4* artifacts sets have lower main stats, making him less comfortable to use."
             }
         ],
+        "flags": 0,
         "color": 16733525,
         "type": "rich",
         "title": "Bennett (Invested Support) | Build"
@@ -110,7 +112,7 @@
             "text": "Character Guide • Build: Bennett"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/Ovy1jMB.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Bennett.png"
         },
         "fields": [
             {
@@ -159,6 +161,7 @@
                 "value": "This build focuses on using Bennett's Elemental Skill to deal damage while his Elemental Burst is active.\nElemental Mastery should be ignored if he's in a Mono Pyro team.\nThundering Fury should only be used in Overload teams, it also increases the value of Elemental Mastery."
             }
         ],
+        "flags": 0,
         "color": 16733525,
         "type": "rich",
         "title": "Bennett (On-Field DPS) | Build"

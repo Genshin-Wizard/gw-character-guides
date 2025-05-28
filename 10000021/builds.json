@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Amber"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/P3EU7xA.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Ambor.png"
         },
         "fields": [
             {
@@ -48,6 +48,7 @@
                 "value": "Offensive stats do not need to be considered outside of Energy Recharge. CRIT Rate is helpful if using Favonius Warbow."
             }
         ],
+        "flags": 0,
         "color": 16733525,
         "type": "rich",
         "title": "Amber (Off-Field DPS) | Build"
@@ -57,7 +58,7 @@
             "text": "Character Guide • Build: Amber"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/P3EU7xA.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Ambor.png"
         },
         "fields": [
             {
@@ -106,6 +107,7 @@
                 "value": "With the exclusion of those playing a hybrid build focusing on Physical and Pyro damage or with her C6 (Increases Attack), Energy Recharge and Elemental Mastery can be ignored as well as her burst and skill."
             }
         ],
+        "flags": 0,
         "color": 16733525,
         "type": "rich",
         "title": "Amber (Physical DPS) | Build"
@@ -115,7 +117,7 @@
             "text": "Character Guide • Build: Amber | Update Date: 01/25/2023 | Editor: Samantha#9907"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/P3EU7xA.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Ambor.png"
         },
         "fields": [
             {
@@ -164,6 +166,7 @@
                 "value": "The most important part of this playstyle is to make up for the low scalings on her charged shot by building up high CRIT DMG and consistently landing headshots (weak-point hits) for guaranteed CRIT hit. \n\n*If playing against enemies with no weak-points or World Bosses, CRIT Rate weapons can be better for balancing your CRIT ratio.*\n\nElemental Mastery sands is conditionally better, but she must be in a Melt or Vaporize team. "
             }
         ],
+        "flags": 0,
         "color": 16733525,
         "type": "rich",
         "title": "Amber (Charged-Shot) | Build"
@@ -173,7 +176,7 @@
             "text": "Character Guide • Build: Amber | Update Date: 01/25/2023 | Editor: Samantha#9907"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/P3EU7xA.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Ambor.png"
         },
         "fields": [
             {
@@ -222,6 +225,7 @@
                 "value": "It's not recommended to farm Crimson Witch of Flames for just Burgeon Amber.\n2-piece mixes of any Elemental Mastery +80 sets work too."
             }
         ],
+        "flags": 0,
         "color": 16733525,
         "type": "rich",
         "title": "Amber (Burgeon) | Build"

@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Ху Тао | Update Date: 02/03/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/mvF8rwX.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Hutao.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "__About Crimson Witch of Flames__\nDespite it being her best set, Shimenawa's Reminiscence is in a better domain. \n\n__About Marechaussee Hunter__\nThis set is only viable with Furina. You can run it with artifact-less healers to slowly trigger the effect, but it is better to sacrifice being below 50% for the buffs Furina provides."
             }
         ],
+        "flags": 0,
         "color": 16733525,
         "type": "rich",
         "title": "Hu Tao (On-Field DPS) | Build"

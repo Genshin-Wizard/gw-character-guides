@@ -1,10 +1,11 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Bennett"
+        "text": "Character Guide • Playstyle: Bennett"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/Ovy1jMB.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Bennett.png"
     },
+    "flags": 0,
     "color": 16733525,
     "type": "rich",
     "description": "Bennett is a versatile support that is seen in many team comps. His strength lies in his Elemental Burst, which can buff your DPS's ATK and heals your on-field character. He can also battery your Pyro characters with his Elemental Skill having a short cooldown and generating 2-3 Pyro particles. ",

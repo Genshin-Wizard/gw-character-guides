@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Traveler | Update Date: 10/21/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/B0zBZMi.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_PlayerBoy.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "Note: Traveler's Energy requirements vary a lot by team, use an energy recharge calculator to calculate Traveler's Energy requirements for your team."
             }
         ],
+        "flags": 0,
         "color": 5494962,
         "type": "rich",
         "title": "Dendro Traveler (Off-Field DPS) | Build"

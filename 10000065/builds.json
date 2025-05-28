@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Kuki Shinobu | Update Date: 01/22/2023 | Editor: Sew#2409"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/g5ufyVb.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Shinobu.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "Despite the majority of Kuki's Electro application coming from her Skill it is still important to cast her Burst on cooldown to have more Electro application and extend rotations when  necessary."
             }
         ],
+        "flags": 0,
         "color": 11104511,
         "type": "rich",
         "title": "Kuki (Reaction support) | Build"
@@ -62,7 +63,7 @@
             "text": "Character Guide • Build: Kuki Shinobu | Update Date: 09/26/2022 | Editor: Sew#2409"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/g5ufyVb.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Shinobu.png"
         },
         "fields": [
             {
@@ -111,6 +112,7 @@
                 "value": "Kuki's Burst is not a priority for a healing build as it does not provide any utility unless she has a 4 piece Noblesse Oblige."
             }
         ],
+        "flags": 0,
         "color": 11104511,
         "type": "rich",
         "title": "Kuki (Healer) | Build"
@@ -120,7 +122,7 @@
             "text": "Character Guide • Build: Kuki Shinobu | Update Date: 02/28/2023 | Editor: Sew#2409"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/g5ufyVb.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Shinobu.png"
         },
         "fields": [
             {
@@ -164,6 +166,7 @@
                 "value": "**1)**  Elemental Skill: Sanctifying Ring\n**2)** Elemental Burst: Gyoei Narukami Kariyama Rite\n**3)** Normal Attack: Shinobu's Shadowsword"
             }
         ],
+        "flags": 0,
         "color": 11104511,
         "type": "rich",
         "title": "Kuki (Aggravate support) | Build"

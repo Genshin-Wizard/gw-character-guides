@@ -1,10 +1,11 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Geo Traveler | Update Date: 10/05/2022 | Editor: Ultimate Noob#2955"
+        "text": "Character Guide • Playstyle: Geo Traveler | Update Date: 10/05/2022 | Editor: Ultimate Noob#2955"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/B0zBZMi.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_PlayerBoy.png"
     },
+    "flags": 0,
     "color": 14994176,
     "type": "rich",
     "description": "The Geo Traveler is most commonly used as a Quickswap DPS, where they are switched in to utilize their Elemental Skill and Burst as often as possible, because they have strong multipliers, low cooldowns, and need very little field time.",

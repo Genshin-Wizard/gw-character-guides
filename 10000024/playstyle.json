@@ -1,10 +1,11 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Beidou | Update Date: 08/06/2022 | Editor: Luanjo#5886"
+        "text": "Character Guide • Playstyle: Beidou | Update Date: 08/06/2022 | Editor: Luanjo#5886"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/S14S2Oq.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Beidou.png"
     },
+    "flags": 0,
     "color": 11104511,
     "type": "rich",
     "description": "Beidou's Elemental Burst is the bread and butter of her kit. The Thunderbeast's Targe it generates around the active character shoots out lightning discharges even if Beidou is off-field, as well as providing some Damage Reduction. It also snapshots on cast. Due to how her discharges jump between targets, she is weakest in single target and strongest against two targets. Beyond two targets, her total damage still remains the same and does not scale up in AoE.\n\nBecause of her slow and relatively weak Normals, Beidou shines as an off-field character. However, this increases her Energy requirements - something that can be circumvented by slotting in a second Electro character(e.g. Fischl) on your team and learning how to perfect counter with Beidou's Elemental Skill.",

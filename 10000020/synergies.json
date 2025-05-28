@@ -3,7 +3,7 @@
         "text": "Character Guide • Synergy: Razor | Update Date: 02/28/2023 | Editor: hatter#6666"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/f1CkKDS.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Razor.png"
     },
     "fields": [
         {
@@ -12,6 +12,7 @@
             "value": "The first 6 are Physical Razor teams, while the lower 4 are Dendro-reaction based Razor teams."
         }
     ],
+    "flags": 0,
     "color": 11104511,
     "type": "rich",
     "description": "10000020,10000060,10000025,10000030|10000020,10000047,10000005-508,10000030|10000020,10000064,10000030,10000045|10000020,10000047,10000032,10000056|10000020,10000031,10000025,10000035|10000020,10000038,10000025,10000030|10000020,10000031,10000005-508,10000039|10000020,10000073,10000031,10000047|10000020,10000025,10000073,10000045|10000020,10000032,10000005-508,10000025",

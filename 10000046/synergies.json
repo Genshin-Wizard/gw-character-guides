@@ -3,7 +3,7 @@
         "text": "Character Guide • Synergy: Hu Tao | Update Date: 01/24/2025 | Editor: ._.samantha._."
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/mvF8rwX.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Hutao.png"
     },
     "fields": [
         {
@@ -12,6 +12,7 @@
             "value": "For most teams, rotations are fairly simple - the core principle is to setup all your off-field DPS and buffs on your other characters before switching to Hu Tao.\n\nN = Normal Attack\nC = Charged Attack\nE = Elemental Skill\nQ = Elemental Burst\n\nExample rotation: Zhongli E (Hold) > Xingqiu EQ > Yelan EQ > Hu Tao\n\nFor VV Vape (Viridescent Venerer Vaporize) teams, the rotation is a little more complicated, with the added benefit of increasing Hu Tao's damage ceiling. Examples of VV Vape teams are the teams shown here that include Anemo characters.\n\nExample rotation: Yelan EQ > Xinyan EQ > Kazuha ENQ > Hu Tao\n\nThe idea is to apply Pyro with a second Pyro character for the Anemo character to Swirl, before absorbing Hydro with their Elemental Burst. This rotation only works for Yelan, as Xingqiu's orbital rain swords obstruct the precise control of elements needed to execute it. For more information about rotations and VV Vape teams, including the Xingqiu and Amber team, check out the KQM guide linked below!"
         }
     ],
+    "flags": 0,
     "color": 16733525,
     "type": "rich",
     "description": "10000046,10000060,10000025,10000030|10000046,10000025,10000030,10000038|10000046,10000025,10000045,10000039|10000046,10000025,10000032,10000108|10000046,10000060,10000047,10000050|10000046,10000025,10000043,10000021|10000046,10000089,10000060,10000003|10000046,10000032,10000089,10000093|10000046,10000103,10000089,10000060|10000046,10000089,10000032,10000103",

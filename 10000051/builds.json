@@ -1,10 +1,10 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Eula | Update Date: 04/26/2023 | Editor: hatter#6666"
+            "text": "Character Guide • Build: Eula | Update Date: 04/26/2023 | Editor: hatter#6666"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/J4NNoqO.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Eula.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "It is highly recommended to use [**Genshin Optimizer**](https://frzyc.github.io/genshin-optimizer/#/), when deciding to prioritizing between CRIT DMG and ATK%, since the performance of these two stats may change depending on your weapon, teammates and the presence of external ATK% buffs"
             }
         ],
+        "flags": 0,
         "color": 10147839,
         "type": "rich",
         "title": "Eula (On-Field DPS) | Build"

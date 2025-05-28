@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Yae Miko | Update Date: 09/27/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/Yfb4g1m.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Yae.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "2 Piece Thundering Fury over Atk% is mostly a question of subs. There's no major gain so if your Atk% Subs are really good, or you just don't want to farm Thundering Fury, all Atk% sets can fill in for it. \n\nDue to Kagura and Kazuha granting an excessive amount of Dmg Bonus, Atk% Goblet can be better than Electro Dmg % in Mono Electro comps.\n\n**Elemental Mastery (2 EM sets or 4 Gilded Dreams) should only be considered with a stable source of Dendro.**"
             }
         ],
+        "flags": 0,
         "color": 11104511,
         "type": "rich",
         "title": "Yae Miko (Sub-DPS) | Build"

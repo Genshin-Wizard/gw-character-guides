@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Yun Jin | Update Date: 08/08/2022 | Editor: Sew#2409"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/nUR6ZQI.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Yunjin.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "DEF scaling characters benefit more than ATK scaling characters from level 90 due to how stat scaling works."
             }
         ],
+        "flags": 0,
         "color": 14994176,
         "type": "rich",
         "title": "Yun Jin (Support) | Build"

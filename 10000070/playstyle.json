@@ -1,10 +1,11 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Nilou | Update Date: 11/07/2022 | Editor: Effab1e#2963"
+        "text": "Character Guide • Playstyle: Nilou | Update Date: 11/07/2022 | Editor: Effab1e#2963"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/KxMQIkX.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Nilou.png"
     },
+    "flags": 0,
     "color": 3245055,
     "type": "rich",
     "description": "Nilou is a hydro sword character who specialises in Bloom teams. Her Ascension Passives are tied to only working in teams consisting of solely Hydro and Dendro units making her both a strong on or off field option in Bloom teams but limiting her usage outside of them. These Passives alter Blooms by turning them into 'Bountiful Cores' which explode earlier, in a larger AOE and get buffed based on her max HP.\n\nNilou's Elemental Skill is the bread and butter of her kit and allows her to do a 3 hit combo by pressing some combination of the Skill and Normal Attack(NA) inputs which deal Hydro DMG based on her max HP. If you end on a Skill input she gains an AOE Hydro field that follows her and persists off field but ending with an NA input converts her normal attacks into Hydro Infused attacks like those in her Skill. Her Burst is a simple 2 hit, HP scaling, instance of decent Hydro DMG.\n\nHer kit revolves around applying Hydro for Blooms regardless of if she is triggering them herself or offering Hydro Aura to Bloom with, to maximise the effect of her Passive Talents.",

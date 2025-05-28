@@ -1,10 +1,11 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Arataki Itto | Update Date: 08/06/2022 | Editor: Pneuma#0003"
+        "text": "Character Guide • Playstyle: Arataki Itto | Update Date: 08/06/2022 | Editor: Pneuma#0003"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/rV4eWpl.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Itto.png"
     },
+    "flags": 0,
     "color": 14994176,
     "type": "rich",
     "description": "Itto is a powerful on-field DPS character who uses his Elemental Burst to gain a massive ATK boost proportional to his max DEF. His attack range is among the largest in the game for a melee character, even allowing him to deal with most aerial targets handily.\n\nAs Itto is an on-field DPS \"hypercarry\" character, it is recommended to build teams with support characters that buff his personal damage, provide him energy (as your team DPS will be highly dependent on Itto having his Elemental Burst ready every rotation), or deal damage while off-field.\n\nItto's playstyle revolves around building up stacks of Superlative Superstrength for his Special Charged Attack (SCA) using Normal Attacks and his Elemental Skill. This is typically mechanically accessible, but there are various combos that you can execute to maximize Itto's damage (which are detailed in the KQM guide linked below). As general rules of thumb, however, you primarily want to:\n\n1. Use Itto's Elemental Skill at the beginning and end of his Elemental Burst's duration.\n2. Maximize the number of Superlative Superstrength stacks spent in each chain of SCAs.\n\nFor detailed information on Itto, including his various optimized combos, check out the KQM guide linked below!",

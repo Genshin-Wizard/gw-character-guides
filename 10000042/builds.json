@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Keqing | Update Date: 10/21/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/PQDR6HJ.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Keqing.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "This is a non-Aggravate, only Electro team."
             }
         ],
+        "flags": 0,
         "color": 11104511,
         "type": "rich",
         "title": "Keqing (Non-Aggravate Keqing) | Build"
@@ -62,7 +63,7 @@
             "text": "Character Guide • Build: Keqing | Update Date: 08/22/2022 | Editor: Pneuma#0003"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/PQDR6HJ.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Keqing.png"
         },
         "fields": [
             {
@@ -111,6 +112,7 @@
                 "value": "Physical DPS Keqing is a niche build that does not scale well in the late game. Generally speaking, it is easy to build for the early game and has very few requirements other than a Cryo teammate to trigger Superconduct, but it is generally recommended to avoid investing too much in this build as physical damage is very limited as a damage type."
             }
         ],
+        "flags": 0,
         "color": 11104511,
         "type": "rich",
         "title": "Keqing (Physical DPS) | Build"
@@ -120,7 +122,7 @@
             "text": "Character Guide • Build: Keqing | Update Date: 01/13/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/PQDR6HJ.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Keqing.png"
         },
         "fields": [
             {
@@ -164,6 +166,7 @@
                 "value": "**1)** Normal Attack: Yunlai Swordsmanship\n**2)** Elemental Burst: Starward Sword\n**2)** Elemental Skill: Stellar Restoration"
             }
         ],
+        "flags": 0,
         "color": 11104511,
         "type": "rich",
         "title": "Keqing (Aggravate Keqing) | Build"

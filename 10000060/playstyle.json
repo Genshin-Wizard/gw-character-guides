@@ -1,10 +1,11 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Yelan"
+        "text": "Character Guide • Playstyle: Yelan"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/Q5Tn2PZ.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Yelan.png"
     },
+    "flags": 0,
     "color": 3245055,
     "type": "rich",
     "description": "Yelan is a great off-field DPS who is capable of dealing significant amounts of damage and also has a few support skills such as her Ascension 4 Buff and the ability to consistently apply useful amounts of Hydro which is great for reactions. Her Elemental Burst, which is the focal point of her whole playstyle, is her primary source of damage.",

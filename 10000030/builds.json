@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Zhongli | Update Date: 11/10/2022 | Editor: ~Z~#0009"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/fqg3O0z.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Zhongli.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "Burst and Auto Attack talents need not be levelled.\n\n4p Archaic Petra can be situationally strong when the rotation is flexible enough to enable the pick up of a crystallize shard of the preferred element while Zhongli is on-field.\n\n4p Instructors, another situational set, can be effectively used by Zhongli in Vape/Melt teams as he is able to consistently trigger the crystallize reaction when on-field with his hold E. ( as long as there is an aura on the enemy )\n\nFor a purely Shield-Bot build Zhongli, at low investments, can opt to rainbow artifacts with high HP%/ flat HP substats. "
             }
         ],
+        "flags": 0,
         "color": 14994176,
         "type": "rich",
         "title": "Zhongli (Support) | Build"
@@ -62,7 +63,7 @@
             "text": "Character Guide • Build: Zhongli | Update Date: 08/21/2022 | Editor: ~Z~#0009"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/fqg3O0z.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Zhongli.png"
         },
         "fields": [
             {
@@ -111,6 +112,7 @@
                 "value": "The choice between HP% or ATK% Sands is between a better shield or more damage. Whichever isn't selected should be pursued on the sub stats.\n\nYou may choose to pursue better shield capabilities by leveling his Elemental Skill over his Elemental Burst. "
             }
         ],
+        "flags": 0,
         "color": 14994176,
         "type": "rich",
         "title": "Zhongli (Physical DPS) | Build"
@@ -120,7 +122,7 @@
             "text": "Character Guide • Build: Zhongli | Update Date: 08/21/2022 | Editor: ~Z~#0009"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/fqg3O0z.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Zhongli.png"
         },
         "fields": [
             {
@@ -159,6 +161,7 @@
                 "value": "This is an option that trades off stronger shields for a more Burst dmg to try and offset the usual DPS loss due to Zhongli's long burst animation.\n\nIdeally Crit Ratio should be 1:2 so select your artifacts with that in mind.\n\nBuild is significantly better at c2 where casting the Burst will also grant Jade Shield but can be used for players that prefer better enemy control via his petrification."
             }
         ],
+        "flags": 0,
         "color": 14994176,
         "type": "rich",
         "title": "Zhongli (Burst Support) | Build"

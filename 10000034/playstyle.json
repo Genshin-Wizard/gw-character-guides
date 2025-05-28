@@ -3,8 +3,9 @@
         "text": "Character Guide • Playstyle: Noelle"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/klBUgnZ.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Noel.png"
     },
+    "flags": 0,
     "color": 14994176,
     "type": "rich",
     "description": "The Normal Talent priority is:\n> Noelle's Normal Attack (NA)\n> Noelle's Elemental Burst (Q)\n> Noelle's Elemental Skill (E)\n\nYou can begin transitioning from an ATK build to a DEF build (running a DEF timepiece instead of an ATK timepiece) at Burst Talent 9+ or with C6. Her Skill does not need to be raised, however it is great to have a little extra shielding and healing. It should be noted that raising up her Skill does not enhance her C4 damage.",

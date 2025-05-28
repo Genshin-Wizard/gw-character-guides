@@ -3,7 +3,7 @@
         "text": "Character Guide • Synergy: Sayu | Update Date: 02/06/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/oYiMaic.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Sayu.png"
     },
     "fields": [
         {
@@ -12,6 +12,7 @@
             "value": "The last team is generally for overworld exploration mainly. Sayu's roll's duration can be used to take players from the start of a domain to where rewards are claimed. \nNote that Sayu's roll (Elemental Skill) __does not__ trigger things such as Yelan/Xingqiu's Elemental Bursts or Beidou's Elemental Burst."
         }
     ],
+    "flags": 0,
     "color": 5494962,
     "type": "rich",
     "description": "10000053,10000023,10000032,10000030|10000053,10000031,10000038,10000015|10000002,10000041,10000063,10000053|10000049,10000060,10000064,10000053|10000026,10000053,10000038,10000030|10000053,10000073,10000031,10000058|10000026,10000053,10000076,10000089|10000053,10000023,10000015,10000032|10000053,10000073,10000031,10000006|10000047,10000053,10000060,10000058",

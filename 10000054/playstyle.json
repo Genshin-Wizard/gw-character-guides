@@ -1,10 +1,11 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Sangonomiya Kokomi"
+        "text": "Character Guide • Playstyle: Sangonomiya Kokomi"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/Rd4Ubga.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Kokomi.png"
     },
+    "flags": 0,
     "color": 3245055,
     "type": "rich",
     "description": "Kokomi is a Hydro healer with the ability to apply Hydro in an AoE.\n\n**Off-field Support**\nKokomi is able to maintain 100% uptime on her Elemental Skill by refreshing it using her Elemental Burst. This makes her a great user of the Tenacity of the Millelith set, on top of which she can also use the Thrilling Tales of Dragon Slayers to buff the on-field character. This playstyle is generally used in Freeze teams, and the recommended main stats on the Sands/Goblet/Circlet are Energy Recharge/HP%/Healing Bonus.\n\n**On-field Enabler**\nWhen Kokomi activates her Elemental Burst, the damage of her Normal Attack, Charged Attack and Elemental Skill is increased proportional to her total HP. Since her N2 (second Normal Attack) is quick when cancelled either using a dash, a Charged Attack or a walk, complemented by the AoE hydro application of her elemental skill, she makes for a great enabler for reaction based teams. For this playstyle it is recommended to use the Ocean Hued Clam set with the main stats on the Sands/Goblet/Circlet being Energy Recharge/HP% or Hydro DMG Bonus/Healing Bonus.\n\n**Mono Hydro On-field DPS**\nThis playstyle is recommended only when running the team Kokomi/Xingqiu/Yelan/Kazuha and using the Everlasting moonglow weapon. In this one exception of a playstyle, the talent upgrade priority changes to Normal Attacks = Elemental Burst > Elemental Skill, since Kokomi stays on field to take advantage of the damage boost from her Elemental Burst and uses Normal Attacks to trigger Xingqiu and Yelan's Elemental Bursts. This playstyle allows players to run lower Energy Recharge builds on Kokomi, Xingqiu and Yelan and build all three of them for more damage. Kokomi is able to use the 4-piece Heart of Depth set or the 4-piece Ocean hued clam set; the recommended main stats on the Sands/Goblet/Circlet are HP%/Hydro DMG Bonus/Healing Bonus.",

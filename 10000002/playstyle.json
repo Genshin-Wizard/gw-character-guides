@@ -1,10 +1,11 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Kamisato Ayaka | Update Date: 03/20/2023 | Editor: tAlpha#9191"
+        "text": "Character Guide • Playstyle: Kamisato Ayaka | Update Date: 03/20/2023 | Editor: tAlpha#9191"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/7hJAGtk.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Ayaka.png"
     },
+    "flags": 0,
     "color": 10147839,
     "type": "rich",
     "description": "Ayaka's kit revolves around dealing Cryo damage from all of her talents. Therefore her main use is as a carry in freeze and mono Cryo teams.\n\nHer strong elemental burst is the major source of her damage, but her other skills also contribute significantly and should not be neglected. Ayaka's special sprint, upon hitting an enemy grants her Cryo infusion on her attacks and Cryo damage bonus and synergises well with her kit. This lets her do Cryo infused combos to fill downtime when she's on field.\n\nHer general rotation can be summed up as : Setting up buffs and grouping, dash N1 E Q on Ayaka, reapply buffs and funnel energy into Ayaka, On field attacks.\n\nRecommended Combos - N2C or N3C(if with Xingqiu)",

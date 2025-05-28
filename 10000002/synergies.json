@@ -3,7 +3,7 @@
         "text": "Character Guide • Synergy: Kamisato Ayaka | Update Date: 02/06/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/7hJAGtk.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Ayaka.png"
     },
     "fields": [
         {
@@ -12,6 +12,7 @@
             "value": "Ayaka is usually used in __Freeze teams__ with the other units being replaceable within their elements. Mono Cryo and other teams like Melt are also options.\n__**Hydro unit comparison:**__\n__Kokomi__ offers heals and more offensive 2nd Cryo units.\n__Mona__ offers buffing but no survivability and wants ~240 ER.\n__Xingqiu/Yelan__ are good options but lack AOE hydro application.\n__Barbara__ can be used as a free to play option.\n\nRotations and more info in full guide linked below."
         }
     ],
+    "flags": 0,
     "color": 10147839,
     "type": "rich",
     "description": "10000002,anemoflex,hydroflex,cryoflex|10000002,cryoflex,anemoflex,flex|10000002,10000047,10000054,10000063|10000002,10000063,10000047,10000039|10000002,10000022,10000041,10000037|10000002,10000063,10000003,10000045|10000002,10000022,10000041,10000039|10000002,10000043,10000014,10000015|10000002,10000063,10000047,10000032|10000002,10000089,10000088,10000047",

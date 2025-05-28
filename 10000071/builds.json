@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Cyno | Update Date: 02/03/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/SoCflUy.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Cyno.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "__EM vs ATK?__\nOverall, they have similar performance with a few exceptions; use the one with better substats. Generally, low base attacks prefer EM sands while high base attack weapons would prefer ATK sands. \n\n__ER Requirements?__\nSolo Electro ~ 160-180%+\nDouble Electro ( Fischl ) ~ 100-120% \nDouble Electro ( non-Fischl ) ~ 120-150%\n*ER requirements assume 1 favonius proc; 4 TF lowers ER requirements further* \n\n__Regarding 4 Thundering Fury…__\nWorks well for Cyno — both to lower ER requirements and increase personal damage — but restricts users to a fixed combo as the reduction in E CD can be more detrimental than helpful. ( owing to missing Endseer timings )\nFor most, it is more recommended to ditch 4 Thundering Fury on Cyno unless confident in executing the specific combos.\n\n__Marechaussee Hunter__\nOnly with Furina, a quickbloom team with this set is viable."
             }
         ],
+        "flags": 0,
         "color": 11104511,
         "type": "rich",
         "title": "Cyno (Aggravate Build) | Build"

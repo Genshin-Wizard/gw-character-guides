@@ -3,7 +3,7 @@
         "text": "Character Guide • Synergy: Keqing | Update Date: 01/24/2025 | Editor: ._.samantha._."
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/PQDR6HJ.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Keqing.png"
     },
     "fields": [
         {
@@ -12,6 +12,7 @@
             "value": "Even with Furina, __Marechaussee Hunter__ is not recommended (over Thundering Fury or Gilded Dreams, etc) due to it only buffing her Normal Attacks."
         }
     ],
+    "flags": 0,
     "color": 11104511,
     "type": "rich",
     "description": "10000042,10000031,10000054,10000047|10000042,10000031,10000073,10000103|10000042,10000031,10000032,10000022|10000042,10000056,10000032,10000047|10000042,10000031,10000073,10000030|10000042,10000031,10000073,10000108|10000042,10000073,10000065,10000060|10000042,10000077,10000031,10000047|10000042,10000089,10000093,10000073|10000042,10000089,10000073,10000003",

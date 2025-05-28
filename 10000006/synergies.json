@@ -3,7 +3,7 @@
         "text": "Character Guide • Synergy: Lisa | Update Date: 02/06/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/a0E1K9o.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Lisa.png"
     },
     "fields": [
         {
@@ -12,6 +12,7 @@
             "value": "Consider Lisa as the on-field DPS if she's in the first slot. If not, she is a burst-support."
         }
     ],
+    "flags": 0,
     "color": 11104511,
     "type": "rich",
     "description": "10000006,10000082,10000031,10000047|10000006,10000061,10000031,10000043|10000071,10000006,10000082,10000047|10000052,10000006,10000032,10000060|10000051,10000006,10000052,10000080|10000078,10000006,10000031,10000077|10000006,10000023,10000032,10000090|10000006,10000073,10000089,10000003",

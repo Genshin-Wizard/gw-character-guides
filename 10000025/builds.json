@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Xingqiu | Update Date: 10/21/2023 | Editor: ._.samantha._."
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/YpsKjVK.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Xingqiu.png"
         },
         "fields": [
             {
@@ -48,6 +48,7 @@
                 "value": "**1)** Elemental Burst: Guhua Sword - Raincutter\n**2)** Elemental Skill: Guhua Sword - Fatal Rainscreen\n**3)** Normal Attack: Guhua Style\n"
             }
         ],
+        "flags": 0,
         "color": 3245055,
         "type": "rich",
         "title": "Xingqiu (Off-Field DPS) | Build"

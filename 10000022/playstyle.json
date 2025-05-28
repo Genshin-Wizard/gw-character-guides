@@ -1,10 +1,11 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Venti | Update Date: 08/07/2022 | Editor: Effab1e#2963"
+        "text": "Character Guide • Playstyle: Venti | Update Date: 08/07/2022 | Editor: Effab1e#2963"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/d4Dceto.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Venti.png"
     },
+    "flags": 0,
     "color": 5494962,
     "type": "rich",
     "description": "Venti is an Anemo unit whose kit offers the strongest grouping in the game. He has good personal damage with Swirls and chain reactions or with raw scaling depending on how he is built. For the most part Venti will trivialise content where his Burst can group enemies.\n\nGenerally he is used as a crowd control unit who also offer resistance shred due to 4pc Veridescent Venerer and good personal damage. As a result he tends to be very flexible.\n\n**Kit Breakdown**\n> His Skill can be tapped or held. Generally the Tap variant is used in combat due to the long cast time and movement lock of the Hold skill, which is much more useful in exploration as it can summon a wind current for quickly climbing to higher up areas.\n\n> His burst is the strongest grouping/crowd control ability and will pull and lift enemies into the centre. It can gain an elemental absorption and also deal damage of that element type. He also refunds 15 energy to himself and to all teammates belonging to the absorbed element.\n\nThe absorption priority when more than one elements are present is: Pyro>Hydro>Electro>Cryo\n\nFor more information on Venti check out the KQM guide linked below.",

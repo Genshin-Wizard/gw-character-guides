@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Yelan"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/Q5Tn2PZ.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Yelan.png"
         },
         "fields": [
             {
@@ -48,6 +48,7 @@
                 "value": "Yelan needs a lot of Energy Recharge. Do not underestimate the need of it and make sure you can use her Burst every rotation off cooldown."
             }
         ],
+        "flags": 0,
         "color": 3245055,
         "type": "rich",
         "title": "Yelan (Off-Field DPS) | Build"

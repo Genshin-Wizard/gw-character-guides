@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Xiao | Update Date: 02/06/2024 | Editor: ._.samantha._."
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/uSkv5pg.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Xiao.png"
         },
         "fields": [
             {
@@ -48,6 +48,7 @@
                 "value": "**1)** Normal Attack: Whirlwind Thrust\n**2)** Elemental Burst: Bane of All Evil\n**3)** Elemental Skill: Lemniscatic Wind Cycling\n"
             }
         ],
+        "flags": 0,
         "color": 5494962,
         "type": "rich",
         "title": "Xiao (On-Field DPS) | Build"

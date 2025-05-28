@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Shenhe | Update Date: 08/05/2022 | Editor: Effab1e#2963"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/SYlttcB.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Shenhe.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "Main stat choices are all similar in total damage output so it is best to use what you have.\n\nER requirements :\n~200% with one other Cryo\n~180% with one other Cryo and Fav\n~140% with two other Cryo"
             }
         ],
+        "flags": 0,
         "color": 10147839,
         "type": "rich",
         "title": "Shenhe (Off-Field DPS) | Build"

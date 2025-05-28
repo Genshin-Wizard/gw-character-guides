@@ -3,7 +3,7 @@
         "text": "Character Guide • Synergy: Gorou | Update Date: 08/16/2022 | Editor: SirDerpyHerp#7903"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/TsnQcuP.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Gorou.png"
     },
     "fields": [
         {
@@ -12,6 +12,7 @@
             "value": "Gorou's buffs depend on how many Geo characters are in the team, which is why you'd want to have 3 Geo characters in your team."
         }
     ],
+    "flags": 0,
     "color": 14994176,
     "type": "rich",
     "description": "10000057,10000055,10000038,10000039|10000034,10000055,10000038,10000031",

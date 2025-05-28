@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Hydro Traveler"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/B0zBZMi.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_PlayerBoy.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "Testing"
             }
         ],
+        "flags": 0,
         "color": 5494962,
         "type": "rich",
         "title": "Hydro Traveler (Speculation Build) | Build"

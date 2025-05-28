@@ -3,7 +3,7 @@
         "text": "Character Guide • Synergy: Raiden Shogun | Update Date: 11/25/2024 | Editor: ._.samantha._."
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/4NdsZHk.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Shougun.png"
     },
     "fields": [
         {
@@ -12,6 +12,7 @@
             "value": "The first 6 teams build Raiden Shogun with Energy Recharge, but the later 4 teams recommend Elemental Mastery."
         }
     ],
+    "flags": 0,
     "color": 11104511,
     "type": "rich",
     "description": "10000052,10000023,10000025,10000032|10000052,10000056,10000103,10000032|10000052,10000056,10000032,10000047|10000052,10000056,10000090,10000032|10000052,10000089,10000058,10000003|10000052,10000051,10000045,10000039|10000052,10000077,10000058,10000047|10000052,10000073,10000060,10000024|10000078,10000052,10000077,10000073|10000052,10000082,10000060,10000089",

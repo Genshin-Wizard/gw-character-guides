@@ -3,7 +3,7 @@
         "text": "Character Guide • Synergy: Mona | Update Date: 01/27/2023 | Editor: Samantha#9907"
     },
     "thumbnail": {
-        "url": "https://i.imgur.com/nlEKWI3.png"
+        "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Mona.png"
     },
     "fields": [
         {
@@ -12,6 +12,7 @@
             "value": "Anemo Flex should have someone capable of grouping, Cryo Flex should be a Battery such as Diona.\nSadly, Omen isn't as synergetic as we'd like with Bloom-based reactions."
         }
     ],
+    "flags": 0,
     "color": 3245055,
     "type": "rich",
     "description": "10000037,anemoflex,10000041,cryoflex|10000002,anemoflex,10000041,cryoflex|10000041,10000015,10000045,10000047|10000041,10000023,10000032,10000047|10000041,10000024,10000031,10000043",

@@ -4,7 +4,7 @@
             "text": "Character Guide • Build: Gorou | Update Date: 08/16/2022 | Editor: SirDerpyHerp#7903"
         },
         "thumbnail": {
-            "url": "https://i.imgur.com/TsnQcuP.png"
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Gorou.png"
         },
         "fields": [
             {
@@ -53,6 +53,7 @@
                 "value": "He only needs to stack ER and CRIT Rate if he's using Fav, DEF% is only wanted when he's C4 for his heals.\nYou only need to level up his Elemental Skill as his buff scale exclusively from his Elemental Skill."
             }
         ],
+        "flags": 0,
         "color": 14994176,
         "type": "rich",
         "title": "Gorou (Support) | Build"
