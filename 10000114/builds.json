@@ -1,56 +1,60 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Skirk"
+            "text": "Character Guide • Build: Skirk | Update Date: 06/23/2025 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_SkirkNew.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Azurelight__\nSignature and BiS by a large margin. No other weapons come close.\n\n__Any 5-star CRIT Weapon__\nIgnoring their passives, which can be used to various degrees, they all are viable statsticks."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Finale of The Deep__\nThe best Craftable Weapon for Skirk that also looks nice. A healer is required, but most of her teams will have a healer. \n\n__Calamity of Eshu__\nGiven there is a shielder, this Event Weapon is excellent. However, without a shield there is very little reason to use this weapon."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15040"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15031"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "14001"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> ATK%|<goblet> Cryo DMG Bonus% or ATK%|<circlet> CRIT DMG"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "ATK%|CRIT Rate"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Skill: Havoc: Warp\n**2)** Elemental Burst: Havoc: Ruin\n**N/A)** Normal Attack: Havoc: Sunder"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "__Marechaussee Hunter__ should be used onoly when playing with Furina. When in such teams, it can outperform __Finale of the Deep Galleries__. \n\nBoth __Marechaussee Hunter__ and __Blizzard Strayer__, especially with Cryo Resonance and __Azurelight__ can mean almost no rolls should go into CRIT Rate, as it is incredibly easy to over cap. \n\nATK% Goblets are viable, especially with Furina. Energy Recharge is useless, and under no circumstances required on Skirk."
             }
         ],
-        "flags": 0,
         "color": 10147839,
         "type": "rich",
-        "title": "Skirk (On-field DPS) | Build"
+        "title": "Skirk (Speculation Build) | Build"
     }
 ]
