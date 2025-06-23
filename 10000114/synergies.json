@@ -1,13 +1,19 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Skirk"
+        "text": "Character Guide • Synergy: Skirk | Update Date: 06/23/2025 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_SkirkNew.png"
     },
-    "flags": 0,
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Skirk's premier teams will always include Escoffier and Furina. Her fourth slot is flexible, allowing characters such as Shenhe, Dahlia, Layla, Citlali, Mona, Yelan, Xingqiu or even __Scroll of The Hero of Cinder City__, __Thrilling Tales of Dragon Slayers__ Mualani can be used. \n\n**All Skirk teams must be Cryo and Hydro Characters only.**\n\nIn other teams, depending on who you need to replace from the premier team, healers such as Sigewinne, Kokomi, Barbara,  Mika or Charlotte can replace Escoffier. Xingqiu, Yelan, and Mona can also act as off-field Hydro characters to replace Furina. If neither is being played, off-field characters such as Candance, Rosaria and Kaeya that cannot heal are viable as well.\n\nAnother playstyle puts a second DPS in the fourth slot to use Skirk more like a Burst DPS. Viable options are Neuvillette, Wriothesley, and Ayaka. Ayato, Childe, and Ganyu work, but will have much lower damage.\n\n__Calamity of Eshu__ only works with teams including a Citlali, Dahlia, Diona, or Layla."
+        }
+    ],
     "color": 10147839,
     "type": "rich",
-    "description": "10000114",
+    "description": "10000114,10000112,10000089,flex|10000114,10000112,hydroflex,flex|10000114,10000089,10000080,10000074|10000114,10000089,10000088,10000115|10000114,10000025,10000088,10000115|10000114,10000060,10000025,10000107",
     "title": "Skirk | Team Composition and Synergy"
 }
