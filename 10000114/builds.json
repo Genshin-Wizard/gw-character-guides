@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Skirk"
+            "text": "Character Guide • Build: Skirk"
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_SkirkNew.png"
@@ -51,6 +51,6 @@
         "flags": 0,
         "color": 10147839,
         "type": "rich",
-        "title": "Skirk (Speculation Build) | Build"
+        "title": "Skirk (On-field DPS) | Build"
     }
 ]
