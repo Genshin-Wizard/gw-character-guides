@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Charlotte | Update Date: 11/17/2023 | Editor: talpha"
+            "text": "Character Guide • Build: Charlotte | Update Date: 07/06/2025 | Editor: .mizunek0"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Charlotte.png"
@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Skyward Atlas and Memory of Dust__\nATK% stat sticks with useless passives. Still, one of her great options.\n__Oathsworn Eye__\nHer best (4 star) option. Works especially well with her, an ATK% scaling healer who needs significant amounts of ER%. (Depending on Energy requirements, it can be worse or better then 5 star statstick counterparts.)"
+                "value": "__Prototype Amber__\nCharlotte's overall best weapon, helps with her high Energy Recharge requirements, as well as provides additional healing, despite having HP% main stat.\n__Oathsworn Eye__\nWorse than Prototype Amber in terms of Energy, but a useful weapon nonetheless thanks to its passive and ATK% substat.\n__Skyward Atlas and Memory of Dust__\nATK% stat sticks with passives that offer no team team utility."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Favonius Codex__\nGreat general option that can reduce both her and teammates ER requirements by a large margin, especially with high refinements. Keep in mind that Charlotte needs a considerable amount of crit rate for this (approximately 50% for R5 Favonius Codex)\n\nAlternatively any ATK% or Energy Recharge substat weapon can work."
+                "value": "__Favonius Codex__\nGreat general option that can reduce both her and teammates Energy Recharge requirements by a large margin, especially with high refinements. Keep in mind that Charlotte needs a considerable amount of crit rate for this (approximately 50% for R5 Favonius Codex)\n\nAlternatively any ATK% or Energy Recharge substat weapon can work."
             },
             {
                 "inline": "false",
@@ -50,7 +50,7 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "Energy Recharge requirements: (will be updated)\n\nAs a last option, you can go for 2x ATK%, 2x ATK% artifact sets but generally its not recommended."
+                "value": "Energy Recharge requirements: \nSolo Cryo: 180-190% (Prototype Amber), 220-230% (Other weapons);\nDouble Cryo: 160-170% (Prototype Amber), 200-210% (Other weapons);\nTriple Cryo: ~150% (Prototype Amber), ~180% (Other weapons)\n\nAs a last option, you can go for 2x ATK%, 2x ATK% artifact sets but generally its not recommended."
             }
         ],
         "color": 10147839,
