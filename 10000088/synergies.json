@@ -1,6 +1,9 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Charlotte | Update Date: 10/20/2024 | Editor: zmizuneko"
+        "text": "Character Guide • Synergy: Charlotte | Update Date: 07/06/2025 | Editor: .mizunek0"
+    },
+    "image": {
+        "url": "https://cdn.discordapp.com/attachments/1063698629833007145/1391517726828138558/synergies.png?ex=686c2f5f&is=686adddf&hm=c33a5bc2be975de8ed97a679d83ae9f09910cac57d58df86d5688516fb5ad829&"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Charlotte.png"
@@ -8,6 +11,6 @@
     "fields": [],
     "color": 10147839,
     "type": "rich",
-    "description": "10000088,10000089,flex,flex|10000088,hydroflex,cryoflex,flex|10000088,10000089,10000091,geoflex|10000088,10000051,electroflex,flex|10000088,10000089,10000087,10000047|10000088,10000089,10000002,10000047|10000088,10000073,10000025,10000052|10000088,10000073,10000025,10000050",
+    "description": "charlotte,furina,flex,flex|charlotte,hydroflex,cryoflex,flex|charlotte,furina,navia,geoflex|charlotte,eula,electroflex,flex|charlotte,furina,neuvillette,kaedeharakazuha|charlotte,furina,kamisatoayaka,kaedeharakazuha|charlotte,nahida,xingqiu,raidenshogun|charlotte,nahida,xingqiu,thoma",
     "title": "Charlotte | Team Composition and Synergy"
 }
