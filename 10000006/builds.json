@@ -15,60 +15,6 @@
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Skyward Atlas, The Widsith, Favonius Codex, Oathsworn eye"
-            },
-            {
-                "inline": "false",
-                "name": "Best Artifact Set:",
-                "value": "15020"
-            },
-            {
-                "inline": "false",
-                "name": "Second Best Artifact Set:",
-                "value": "15005,15007"
-            },
-            {
-                "inline": "false",
-                "name": "Third Best Artifact Set:",
-                "value": "15005,attack"
-            },
-            {
-                "inline": "true",
-                "name": "Main Stats Priority",
-                "value": "<sands> Energy Recharge |<goblet>  Electro DMG Bonus |<circlet>  CRIT Rate or CRIT DMG"
-            },
-            {
-                "inline": "true",
-                "name": "Substats Priority",
-                "value": "Energy Recharge|CRIT DMG|CRIT Rate  "
-            },
-            {
-                "inline": "false",
-                "name": "Talent Priority",
-                "value": "**1)** Elemental Burst: Lightning Rose\n**2)** Elemental Skill: Violet Arc\n**3)** Normal Attack: Lightning Touch\n"
-            }
-        ],
-        "flags": 0,
-        "color": 11104511,
-        "type": "rich",
-        "title": "Lisa (Off-Field DPS) | Build"
-    },
-    {
-        "footer": {
-            "text": "Character Guide • Build: Lisa | Update Date: 08/25/2022 | Editor: Samantha#9907"
-        },
-        "thumbnail": {
-            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Lisa.png"
-        },
-        "fields": [
-            {
-                "inline": "true",
-                "name": "Best Weapon(s):",
-                "value": "Kagura's Verity"
-            },
-            {
-                "inline": "true",
-                "name": "Replacement Weapon(s):",
                 "value": "Skyward Atlas, The Widsith"
             },
             {
