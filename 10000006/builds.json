@@ -60,7 +60,7 @@
     },
     {
         "footer": {
-            "text": "Character Guide • Build: Lisa | Update Date: 02/06/2024 | Editor: ._.samantha._."
+            "text": "Character Guide • Build: 丽莎 | Update Date: 07/19/2025 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Lisa.png"
@@ -69,47 +69,51 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Kagura’s Verity__\nBIS 5-star weapon regardless of passive stacks.\n\n__The Widsith__\nBest 4-star option, with all 3 passives being usable"
+                "value": "Kagura's Verity"
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Lost Prayers to the Sacred Winds, A Thousand Floating Dreams, Mappa Mare, Wandering Evenstar, Fruit of Fulfillment, Sacrificial Fragments, Oathsworn Eye, Solar Pearl"
+                "value": "Skyward Atlas, The Widsith"
             },
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "14002"
-            },
-            {
-                "inline": "false",
-                "name": "Second Best Artifact Set:",
                 "value": "15005"
             },
             {
                 "inline": "false",
+                "name": "Second Best Artifact Set:",
+                "value": "15005,15007"
+            },
+            {
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15026"
+                "value": "15005,attack"
             },
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Elemental Mastery\n<goblet> Electro DMG Bonus%\n<circlet> CRIT DMG or CRIT Rate"
+                "value": "<sands> ATK% or Elemental Mastery |<goblet>  Electro Bonus DMG% |<circlet>  CRIT DMG or CRIT Rate"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "Energy Recharge|Elemental Mastery|CRIT DMG|CRIT Rate"
+                "value": "CRIT DMG|CRIT Rate|ATK%|Elemental Mastery"
             },
             {
                 "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Elemental Burst: Lightning Rose\n**1)** Elemental Skill: Violet Arc\n**2)** Normal Attack: Lightning Touch"
+                "value": "**1)** Elemental Burst: Lightning Rose\n**2)** Elemental Skill: Violet Arc\n**3)** Normal Attack: Lightning Touch\n"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "For a On-field DPS build, all talents being raised as high as possible is recommended. \n__Thundersoother__ is the best if an Electro Aura is continuously maintained. However, being moderately inefficient to farm and losing value on most characters, it is difficult to recommend.\n__Gilded Dreams__ is also viable, but comparable or worse to her mentioned alternatives."
             }
         ],
-        "flags": 0,
         "color": 11104511,
         "type": "rich",
-        "title": "Lisa (On-field DPS) | Build"
+        "title": "Lisa (On-Field DPS) | Build"
     }
 ]
