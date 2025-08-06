@@ -1,13 +1,12 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Skirk"
+        "text": "Character Guide • Playstyle: Skirk | Update Date: 08/06/2025 | Editor: .m1zuneko"
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_SkirkNew.png"
     },
-    "flags": 0,
     "color": 10147839,
     "type": "rich",
-    "description": "Unknown",
+    "description": "Skirk’s main source of damage comes from her Normal Attacks during her Skill. When you activate her Skill, she enters a state where all Normal Attacks deal Cryo DMG with increased damage. This state is maintained by consuming Serpent’s Subtlety points, which she gains by tapping or holding her Skill, consuming Void Rifts created by her A1 passive (via Burst or Charged Attack while in her Skill state), or using the Hold version of her Skill. \n\nThe Hold version lets her glide rapidly across the field, consuming all on-field Void Rifts, and can be canceled by tapping Skill again. \n\nHer Burst has two forms: the normal version is a 5-hit strike that consumes Serpent’s Subtlety instead of Energy, while the Skill-state version consumes all nearby Void Rifts and grants a Normal Attack DMG Bonus based on the number consumed. \n\nHer A1 passive further supports her kit by generating Void Rifts every 2.5 seconds after triggering Cryo reactions; consuming these Rifts restores 8 Serpent’s Subtlety points, helping to extend her Skill state.",
     "title": "Skirk | Playstyle"
 }
