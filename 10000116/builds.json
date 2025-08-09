@@ -1,56 +1,50 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Ineffa"
+            "text": "Character Guide • Build: Ineffa | Update Date: 08/09/2025 | Editor: .m1zuneko"
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Ineffa.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Fractured Halo__ - signature and best weapon for Ineffa's personal damage as well as teamwide Lunar-Charged DMG buff.\n__Staff if the Scarlet Sands__ - provides Ineffa with needed stats like CRIT Rate and bonus ATK.\n__Deathmatch__ and __Ballad of the Fjords__ - equally good BP weapons for Ineffa\n__Missive Windspear__ and __Tamayuratei no Ohanashi__ - event polearms that give Ineffa stats she needs.\n__Kitain Cross Spear__ - one of the best F2P polearms that also helps with Ineffa's ER requirements.\n__Favonius Lance__ - can be a good pick if Ineffa or her teammates need extra energy, at the cost of Ineffa's personal damage."
             },
             {
-                "inline": true,
-                "name": "Replacement Weapon(s):",
-                "value": "Unknown"
-            },
-            {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15026"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "attack,elementalmastery"
             },
             {
-                "inline": false,
-                "name": "Third Best Artifact Set:",
-                "value": "Unknown"
-            },
-            {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> ATK%|<goblet> ATK%|<circlet> CRIT Rate or CRIT DMG"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "ER|CRIT|ATK%|EM"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** E. Cleaning Mode: Carrier Frequency\n**2)** Q. Supreme Instruction: Cyclonic Exterminator\n**3)** Normal Attack: Cyclonic Duster"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Ineffa has a stat goal of 2000 ATK in order to maximize Lunar-Charged DMG bonus she provides her team with through her ascension passive, Moonsign Benediction: Assemblage Hub"
             }
         ],
-        "flags": 0,
         "color": 11104511,
         "type": "rich",
-        "title": "Ineffa (Lunar-charged sub DPS) | Build"
+        "title": "Ineffa (Speculation Build) | Build"
     }
 ]
