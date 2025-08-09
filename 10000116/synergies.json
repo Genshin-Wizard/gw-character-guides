@@ -1,13 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Ineffa"
+        "text": "Character Guide • Synergy: Ineffa | Update Date: 08/09/2025 | Editor: .m1zuneko"
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Ineffa.png"
     },
-    "flags": 0,
+    "fields": [],
     "color": 11104511,
     "type": "rich",
-    "description": "10000116",
+    "description": "10000116,hydroflex,flex,flex|10000116,hydroflex,pyroflex,flex|10000116,hydroflex,dendroflex,electroflex|10000116,10000087,10000047,10000103|10000116,10000098,10000089,10000103",
     "title": "Ineffa | Team Composition and Synergy"
 }
