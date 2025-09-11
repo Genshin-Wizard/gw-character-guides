@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Lauma"
+            "text": "Character Guide • Build: Lauma"
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Lauma.png"
@@ -51,6 +51,6 @@
         "flags": 0,
         "color": 6794623,
         "type": "rich",
-        "title": "Lauma (Speculation Build) | Build"
+        "title": "Lauma (Support) | Build"
     }
 ]
