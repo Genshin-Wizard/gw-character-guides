@@ -1,12 +1,14 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Ororon"
+        "text": "Character Guide • Synergy: Ororon | Update Date: 09/12/2025 | Editor: .m1zuneko"
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Olorun.png"
     },
+    "fields": [],
+    "flags": 0,
     "color": 11104511,
     "type": "rich",
-    "description": "10000105",
+    "description": "10000105,hydroflex,electroflex,flex|10000105,10000106,pyroflex,electroflex|10000105,10000087,10000089,10000047|10000105,10000090,10000106,10000110|10000105,10000104,10000089,10000032|10000105,10000098,10000089,flex",
     "title": "Ororon | Team Composition and Synergy"
 }
