@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Ororon | Update Date: 08/19/2025 | Editor: .m1zuneko"
+            "text": "Character Guide • Build: Ororon | Update Date: 09/19/2025 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Olorun.png"
@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Elegy for the End__- Ororon's best 5-star weapon. Provides him with needed ER stat and serves as a good option for his team's damage"
+                "value": "__Elegy for the End__\nOroron's best 5-star weapon. Provides him with needed ER stat and serves as a good option for his team's damage"
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Chain Breaker__ and __Song of Stillness__- good craftable options for Ororon. Song of Stillness requires Ororon to be healed to maintain its passive.\n__Alley Hunter__- provides a nice amount of ATK and DMG%.\n__The Stringless__- becomes better the more Electro-Charged or Overloaded reactions Ororon himself triggers.\n__Favonius Warbow__ - reduces Ororon and his teammates' energy requirements, at the cost of Ororon's personal damage."
+                "value": "__Chain Breaker__ and __Song of Stillness__\nGood craftable options for Ororon. Song of Stillness requires Ororon to be healed to maintain its passive.\n\n__Alley Hunter__\nProvides a nice amount of ATK and DMG%.\n\n__The Stringless__\nBecomes better the more Electro-Charged or Overloaded reactions Ororon himself triggers.\n\n__Favonius Warbow__ \nReduces Ororon and his teammates' energy requirements, at the cost of Ororon's personal damage."
             },
             {
                 "inline": "false",
@@ -35,17 +35,17 @@
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands>ATK% or ER|<goblet> Electro DMG Bonus or ATK%|<circlet> CRIT Rate or CRIT DMG"
+                "value": "<sands>ATK% or Energy Recharge%|<goblet> Electro DMG Bonus% or ATK%|<circlet> CRIT DMG or CRIT Rate"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "ER|CRIT|ATK|EM"
+                "value": "Energy Recharge%|CRIT Rate|CRIT DMG|ATK%|Elemental Mastery"
             },
             {
                 "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Character level\n**2)** Elemental Burst: Dark Voices Echo\n**3)** Elemental Skill: Night's Sling"
+                "value": "**1)** Elemental Burst: Dark Voices Echo\n**2)**  Elemental Skill: Night's Sling\n**N/A)** Normal Attack: Spiritvessel Snapshot"
             },
             {
                 "inline": "false",
@@ -53,6 +53,7 @@
                 "value": "Ororon's ER requirements are typically around 160%-190% if he's the solo Electro in the team and ~120% if there's another Electro character in the team"
             }
         ],
+        "flags": 0,
         "color": 11104511,
         "type": "rich",
         "title": "Ororon (Speculation Build) | Build"
