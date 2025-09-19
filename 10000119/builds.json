@@ -10,42 +10,47 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Nightweaver's Looking Glass__\nBiS and signature weapon, providing everything Lauma and her team needs.\n\n__Etherlight Spindlelute__\nEvent weapon providing Energy Recharge% and Elemental Mastery. \n\n__Blackmarrow Lantern__\nCraftable option that is best with low energy requirements."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__A Thousand Floating Dreams, Starcaller's Watch,  Sunny Morning Sleep-In__\nIgnoring their passives, they are still good statsticks for their EM substat.\n\n__Mappa Mare, Fruit of Fulfillment__\nOther craftable options with Elemental Mastery related passives or substats.\n\n__Sacrificial Fragments, Emerald Orb, Magic Guide__\nOther last-resort options with Elemental Mastery substats."
             },
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15025"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15042"
             },
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15026"
             },
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> Elemental Mastery|<goblet> Elemental Mastery|<circlet> Elemental Mastery"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "Energy Recharge|Elemental Mastery"
             },
             {
                 "inline": "false",
                 "name": "Talent Priority",
                 "value": "**1)** Elemental Skill: Runo: Dawnless Rest of Karsikko\n**2)** Elemental Burst: Runo: All Hearts Become the Beating Moon\n**N/A)** Normal Attack: Peregrination of Linnunrata"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Aim for 150% to 200% Energy Recharge%, with requirements decreasing if using Favonius weapons, Dendro teammates or have Constellation 4. \n\nAs Lauma has a base Elemental Mastery stat, she should aim to have around 800-1000 Elemental Mastery."
             }
         ],
         "flags": 0,
