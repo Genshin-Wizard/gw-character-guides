@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Calamity Queller__ - Best in slot. Usually requires running ER sands."
+                "value": "__Calamity Queller__ \nBest in slot. Usually requires running ER sands."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Favonius Lance__ - Lowers both her and team's ER requirements. Best option when team wide energy is needed.\n\nEngulfing Lightning, Vortex Vanquisher, Skyward Spine, Staff of Homa, Wavebreaker's Fin, Primordial Jade Winged Spear all serve as strong stat sticks"
+                "value": "__Favonius Lance__ \nLowers both her and team's ER requirements. Best option when team wide energy is needed.\n\n__Engulfing Lightning, Vortex Vanquisher, Skyward Spine, Staff of Homa, Wavebreaker's Fin, Primordial Jade Winged Spear__\nAll strong stat sticks."
             },
             {
                 "inline": "false",
@@ -35,12 +35,12 @@
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> ATK% or Energy Recharge |<goblet>  ATK% or Cryo DMG Bonus |<circlet>  ATK% or CRIT Rate/CRIT DMG"
+                "value": "<sands> ATK% or Energy Recharge% |<goblet>  ATK% or Cryo DMG Bonus% |<circlet>  ATK% or CRIT DMG or CRIT Rate"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "Energy Recharge| ATK%|CRIT Rate/CRIT Damage"
+                "value": "Energy Recharge%| ATK%|CRIT Rate|CRIT Damage"
             },
             {
                 "inline": "false",
