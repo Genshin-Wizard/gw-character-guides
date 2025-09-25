@@ -1,51 +1,56 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Aino"
+            "text": "Character Guide • Build: Aino | Update Date: 09/25/2025 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Aino.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Flame-Forged Insight__\nA 4-star Event Weapon that satisfies all of Aino's requirements.\n\n__Master Key__\nNod-Krai craftable weapon that will work for most of her teams."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Favonius Greatsword__\nIf your team has very high energy requirements, it is a viable option.\n\n__Forest Regalia__\nAnother craftable option that works only in Nilou's teams.\n\n__Makhaira Aquamarine, Mailed Flower, Rainslasher__\nAlternatives that have somewhat useful passives or substats."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15042"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15007"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "10007"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> Elemental Mastery|<goblet> Elemental Mastery|<circlet> Elemental Mastery"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "Elemental Mastery|Energy Recharge%|CRIT Rate"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Burst: Precision Hydronic Cooler\n**2)** Elemental Skill: Musecatcher\n**N/A)** Normal Attack: Bish-Bash-Bosh Repair"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "In Bloom and Lunar-Bloom teams, __Deepwood Memories__ is a great option. \n\nIf another teammate is already using the supportive sets, going for __Gilded Dreams__ or __Emblem of Severed Fate__ is also viable.\n\nEnergy requirements are around 150-180%, Elemental Mastery requirements are between 400 and 800, depending greatly on Aino's teams, artifacts and weapon."
             }
         ],
         "flags": 0,
