@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Arlecchino | Update Date: 04/26/2024 | Editor: aqua.sh"
+            "text": "Character Guide • Build: Arlecchino | Update Date: 10/05/2025 | Editor: .m1zuneko"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Arlecchino.png"
@@ -10,12 +10,12 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Crimson Moon's Semblance__\nSignature BiS.\n\n__Primordial Jade Winged-Spear__\nSame base stats as signature and provides ATK with passive.\n\n__Staff of Homa__\nGood 5* stat stick with CD and ATK.\n\n__Staff of Scarlet Sands__\nGood for vape. Use EM sands."
+                "value": "__Crimson Moon's Semblance__\nSignature weapon and best choice for Arlecchino.\n\n__Primordial Jade Winged-Spear__\nGenerally Arlecchino's second-best weapon.\n\n__Staff of Homa__\nAmazing stat stick even if its passive is not fully utilized.\n\n__Staff of Scarlet Sands__\nPerforms very well in Vaporize or Melt teams."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__Deathmatch and Ballad of the Fjords__\nObtained via Battle Pass. Decent CRIT stat sticks. Ballad's EM is more useful in vape teams.\n\n__Calamity Queller, Vortex Vanquisher__\n5* ATK% Stat sticks\n\n__Missive Windspear R5__ \nEvent weapon from 3.1. Passive gives ATK and EM.\n\n__Dragon's Bane R5__\nDecent for vape and provides substatial DMG bonus at R5. Low base ATK is a downside.\n\n__Lithic Spear R5, White Tassel R5, Blackcliff Pole__\nOther F2P options."
+                "value": "__Deathmatch and Ballad of the Fjords__\nObtained via Battle Pass. Decent CRIT stat sticks. Ballad's EM is more useful in Vaporize or Melt teams.\n\n__Calamity Queller, Vortex Vanquisher__\n5-star stat sticks\n\n__White Tassel__\nArlecchino's best free weapon. Works best in teams with Bennett to make up for its low Base ATK."
             },
             {
                 "inline": "false",
@@ -35,12 +35,12 @@
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> ATK%|<goblet> Pyro DMG or ATK%|<circlet> CRIT DMG or CRIT RATE"
+                "value": "<sands> ATK% or Elemental Mastery|<goblet> Pyro DMG or ATK%|<circlet> CRIT DMG or CRIT Rate"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "CRIT|ATK%|EM (vape)"
+                "value": "CRIT|ATK%|Elemental Mastery (Vaporize or Melt teams)"
             },
             {
                 "inline": "false",
@@ -50,9 +50,10 @@
             {
                 "inline": "false",
                 "name": "Notes:",
-                "value": "Little ER needed since bursting is optional. \n\nBurst healing does not scale on talent level so levelling burst is not really necessary. \n\nShimenawa's Reminiscence 4pc is not reccomended since most of the buff uptime is used up when Arlecchino is off field."
+                "value": "Because Arlecchino's burst is used as an emergency healing, little amount of Energy Recharge is needed. \n\nIn Burning teams, Arlecchino can use 4pc Unfinished Reverie set."
             }
         ],
+        "flags": 0,
         "color": 16733525,
         "type": "rich",
         "title": "Arlecchino (Hypercarry) | Build"
