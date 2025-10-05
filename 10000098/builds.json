@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Clorinde | Update Date: 02/01/2025 | Editor: zmizuneko"
+            "text": "Character Guide • Build: Clorinde | Update Date: 10/05/2025 | Editor: .m1zuneko"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Clorinde.png"
@@ -28,11 +28,6 @@
                 "value": "15001"
             },
             {
-                "inline": "false",
-                "name": "Third Best Artifact Set:",
-                "value": "15005"
-            },
-            {
                 "inline": "true",
                 "name": "Main Stats Priority",
                 "value": "<sands> ATK% or Elemental Mastery|<goblet> Electro DMG Bonus|<circlet> CRIT DMG or CRIT Rate"
@@ -40,14 +35,20 @@
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "CRIT|ATK%|Elemental Mastery"
+                "value": "CRIT|ATK%|Elemental Mastery (Quicken teams)"
             },
             {
                 "inline": "false",
                 "name": "Talent Priority",
                 "value": "**1)** Elemental Skill: Hunter's Vigil\n**2)** Elemental Burst: Last Lightfall\n**3)** Normal Attack: Oath of Hunting Shadows"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "4pc Thundering Fury and 4pc Echoes of an Offering are good sets for Quicken and Overload teams, respectively."
             }
         ],
+        "flags": 0,
         "color": 11104511,
         "type": "rich",
         "title": "Clorinde (Speculation Build) | Build"
