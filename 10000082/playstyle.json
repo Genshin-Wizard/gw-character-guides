@@ -1,12 +1,13 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Playstyle: Baizhu"
+        "text": "Character Guide • Playstyle: Baizhu | Update Date: 10/05/2025 | Editor: .m1zuneko"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Baizhuer.png"
     },
+    "flags": 0,
     "color": 6794623,
     "type": "rich",
-    "description": "Unknown",
+    "description": "Baizhu is a 5-star Dendro catalyst user whose playstyle focuses on healing, Dendro application, and team support. He works best as a healer in Dendro reaction teams like Bloom, Hyperbloom, Burgeon, or Quicken setups. \n\nHis Elemental Skill releases a spirit that attacks enemies up to three times, dealing Dendro DMG and healing the active character based on Baizhu's Max HP. \n\nHis Elemental Burst creates a Seamless Shield that periodically heals the active character and applies Dendro to enemies. Both his healing and damage scale with HP, making it his key stat. \n\nBaizhu’s passive talents increase Baizhu's Healing Bonus, as well as provide DMG bonus to Burning, Bloom, Hyperbloom, Burgeon, Lunar-Bloom, Aggravate and Spread reactions.\n\nBaizhu can be played as an off-field support, where you swap in, use his abilities and swap out. \nHe can also be used as an on-field driver, where he stays using his Normal Attacks to apply Dendro.",
     "title": "Baizhu | Playstyle"
 }
