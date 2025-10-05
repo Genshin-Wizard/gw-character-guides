@@ -1,19 +1,14 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Clorinde | Update Date: 01/24/2025 | Editor: ._.samantha._."
+        "text": "Character Guide • Synergy: Clorinde | Update Date: 10/05/2025 | Editor: .m1zuneko"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Clorinde.png"
     },
-    "fields": [
-        {
-            "inline": "false",
-            "name": "Notes:",
-            "value": "Clorinde can get away with running no sustain or defensive utility due to her self healing through her skill in most situations. This does depend on your enemies however, and you may benefit from using a shield like Zhongli, Kirara or Lanyan when facing more aggressive enemies."
-        }
-    ],
+    "fields": [],
+    "flags": 0,
     "color": 11104511,
     "type": "rich",
-    "description": "10000098,10000031,10000073,anemoflex|10000098,10000031,10000090,10000032|10000098,10000031,10000073,flex|10000098,10000031,10000090,10000023|10000098,10000031,dendroflex,anemoflex|10000098,10000031,10000090,pyroflex|10000098,10000089,10000103,10000105|10000098,10000106,10000031,10000090",
+    "description": "10000098,10000090,pyroflex,electroflex|10000098,hydroflex,electroflex,flex|10000098,10000090,10000106,10000110|10000098,10000089,10000116,10000103|10000098,10000090,10000005-502,10000056|10000098,10000089,10000105,10000047|10000098,dendroflex,electroflex,flex|10000098,10000073,10000031,10000047|10000098,10000061,10000031,10000043",
     "title": "Clorinde | Team Composition and Synergy"
 }
