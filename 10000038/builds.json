@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Albedo | Update Date: 10/21/2023 | Editor: ._.samantha._."
+            "text": "Character Guide • Build: Albedo | Update Date: 10/06/2025 | Editor: .m1zuneko"
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Albedo.png"
@@ -10,22 +10,22 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Cinnabar Spindle__\nBest in slot made for Albedo, however is from a old event.\n__Wolf Fang__\nPerforms worse than Cinnabar Spindle, is a Battle Pass weapon, but available at any time."
+                "value": "__Uraku Misugiri__\nBest 5-star for Albedo's damage.\n__Cinnabar Spindle__\nBest in slot 4-star made for Albedo, however is from a old event.\n__Wolf Fang__\nPerforms worse than Cinnabar Spindle."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Harbinger of Dawn, Primordial Jade Cutter"
+                "value": "__Harbinger of Dawn__\nGood option, provided you can maintain its passive."
             },
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15032"
+                "value": "15021"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "15021"
+                "value": "15032"
             },
             {
                 "inline": "false",
@@ -40,7 +40,7 @@
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "CRIT Rate|CRIT DMG|DEF%        "
+                "value": "Energy Recharge|CRIT Rate|CRIT DMG|DEF%"
             },
             {
                 "inline": "false",
