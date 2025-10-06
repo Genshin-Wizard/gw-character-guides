@@ -1,56 +1,61 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Flins"
+            "text": "Character Guide • Build: Flins | Update Date: 10/06/2025 | Editor: .m1zuneko"
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Flins.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Bloodsoaked Ruins__\nBiS, has high Base ATK, provides CRIT Rate and Lunar-Charged DMG Bonus."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Staff of the Scarlet Sands__\nSecond best option for Flins, be careful not to build too much CRIT Rate using this weapon along with Night of the Sky’s Unveiling artifact set\n\n__Staff of Homa__ __Primordial Jade Winged-Spear__\nPowerful options if you do not have access to Flins' signature.\n\n__Deathmatch__ __Ballad of the Fjords__\nDeathmatch is Flins's best 4-star weapon, with Ballad of the Fjords being a little worse.\n\n__Prospector's Shovel__\nFlins's best craftable weapon.\n\n__Missive Windspear__\nAn option for old players who have completed version 3.1 main event."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15041"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15026"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "attack,elementalmastery"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> ATK% or Elemental Mastery|<goblet> ATK% or Elemental Mastery|<circlet> CRIT DMG or CRIT Rate"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "Energy Recharge|CRIT|ATK|Elemental Mastery"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Burst: Ancient Ritual: Cometh the Night\n**2)** Elemental skill: Ancient Rite: Arcane Light"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "Flins does not need to level up his Normal Attacks. \nPrioritize getting him to Lv.90 as it increases his Lunar-Charged DMG."
             }
         ],
         "flags": 0,
         "color": 11104511,
         "type": "rich",
-        "title": "Flins (Lunar-Charged DPS) | Build"
+        "title": "Flins (Speculation Build) | Build"
     }
 ]
