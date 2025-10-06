@@ -1,6 +1,9 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Albedo | Update Date: 02/03/2024 | Editor: ._.samantha._."
+        "text": "Character Guide • Team Synergies: Albedo"
+    },
+    "image": {
+        "url": "https://cdn.discordapp.com/attachments/1063698601949282354/1424743027288834208/synergies.png?ex=68e50ed8&is=68e3bd58&hm=04e7aa2fa85e4e9550dbb3bfac137120f531369c1587db3e676c89d2baaebc6e&"
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Albedo.png"
