@@ -1,9 +1,6 @@
 {
     "footer": {
-        "text": "Character Guide • Team Synergies: Albedo"
-    },
-    "image": {
-        "url": "https://cdn.discordapp.com/attachments/1063698601949282354/1424743027288834208/synergies.png?ex=68e50ed8&is=68e3bd58&hm=04e7aa2fa85e4e9550dbb3bfac137120f531369c1587db3e676c89d2baaebc6e&"
+        "text": "Character Guide • Synergy: Albedo | Update Date: 10/06/2025 | Editor: .m1zuneko"
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Albedo.png"
@@ -18,6 +15,6 @@
     "flags": 0,
     "color": 14994176,
     "type": "rich",
-    "description": "10000038,10000026,10000003,10000030|10000038,10000046,10000025,10000030|10000038,10000057,10000055,10000039|10000038,10000073,10000025,10000065|10000034,10000038,10000089,10000060",
+    "description": "10000038,10000026,10000003,10000030|10000038,10000046,10000025,10000030|10000038,10000057,10000055,10000030|10000038,10000073,10000025,10000065|10000034,10000038,10000089,10000060|10000038,10000103,10000005-506,10000030",
     "title": "Albedo | Team Composition and Synergy"
 }
