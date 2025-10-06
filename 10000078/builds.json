@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Alhaitham | Update Date: 10/11/2024 | Editor: talpha"
+            "text": "Character Guide • Build: Alhaitham | Update Date: 10/06/2025 | Editor: .m1zuneko"
         },
         "thumbnail": {
             "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Alhatham.png"
@@ -30,7 +30,7 @@
             {
                 "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "15001"
+                "value": "15031"
             },
             {
                 "inline": "true",
@@ -53,6 +53,7 @@
                 "value": "__Mistplitter Reforged__ out-scales __Primordial Jade Cutter__ at above Refinement 3\n\nConsider __Marechaussee Hunter__ if played with Furina."
             }
         ],
+        "flags": 0,
         "color": 6794623,
         "type": "rich",
         "title": "Alhaitham (Main DPS) | Build"
