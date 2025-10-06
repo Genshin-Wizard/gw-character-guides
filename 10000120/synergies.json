@@ -1,13 +1,14 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Flins"
+        "text": "Character Guide • Synergy: Flins | Update Date: 10/06/2025 | Editor: .m1zuneko"
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Flins.png"
     },
+    "fields": [],
     "flags": 0,
     "color": 11104511,
     "type": "rich",
-    "description": "10000120",
+    "description": "10000120,electroflex,hydroflex,flex|10000120,10000116,10000121,10000043|10000120,10000105,10000121,10000108|10000120,10000005-507,10000121,10000108",
     "title": "Flins | Team Composition and Synergy"
 }
