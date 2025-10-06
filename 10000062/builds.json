@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Aloy | Update Date: 03/04/2023 | Editor: Samantha#9907"
+            "text": "Character Guide • Build: Aloy | Update Date: 10/06/2025 | Editor: .m1zuneko"
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Aloy.png"
@@ -10,53 +10,43 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "__Aqua Simulacra__\nHigh value for fast nukes.\n__Stringless__\nA good 4-star option if you can ensure that her Elemental Burst is Melted.\n"
+                "value": "__Thundering Pulse__\nBiS, provides CRIT stat and Normal Attack DMG Bonus.\n__Polar Star__\nA great stat stick that, similarly to Thundering Pulse, provides useful offensive stats."
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Elegy for the End, Skyward Harp, Stringless, Viridescent Hunt, Windblume Ode, Mouun's Moon, Alley Hunter, Predetor, Blackcliff Warbow, Polar Star, Hunter's Path, King's Squire, Prototype Crescent"
+                "value": "__Rust__\nGacha weapon with a nice Normal Attack DMG Bonus.\n__Prototype Crescent__\nCraftable bow that provides a huge ATK buff, however, useless against bosses and enemies without a weak spot.\n__Hamayumi__\nAnother craftable bow, gives a Normal Attack Bonus, however, requires you to not use your burst for maximum buff."
             },
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "15020"
+                "value": "14001"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "14001,15003"
-            },
-            {
-                "inline": "false",
-                "name": "Third Best Artifact Set:",
-                "value": "15003,15007"
+                "value": "attack,14001"
             },
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Energy Recharge |<goblet>  Cryo DMG Bonus |<circlet>  CRIT DMG or CRIT Rate"
+                "value": "<sands> ATK% |<goblet>  Cryo DMG Bonus |<circlet>  CRIT DMG or CRIT Rate"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "CRIT Rate|CRIT DMG|ATK%|Energy Recharge        "
+                "value": "Energy Recharge|CRIT DMG|ATK%"
             },
             {
                 "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Elemental Burst: Prophecies of Dawn\n**2)** Elemental Skill: Frozen Wilds\n**3)** Normal Attack: Rapid Fire\n"
-            },
-            {
-                "inline": "false",
-                "name": "Notes:",
-                "value": "Normal Attack talent does not have to be raised at all for this build.\n\nAlmost all Bows work at similar levels, with Elemental Mastery bows with Melt performing for higher damage. "
+                "value": "**1)** Normal Attack: Rapid Fire\n**2)** Elemental Burst: Prophecies of Dawn\n**3)** Elemental Skill: Frozen Wilds"
             }
         ],
         "flags": 0,
         "color": 10147839,
         "type": "rich",
-        "title": "Aloy (Freeze) | Build"
+        "title": "Aloy (Burst DPS) | Build"
     },
     {
         "footer": {
