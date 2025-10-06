@@ -50,7 +50,7 @@
     },
     {
         "footer": {
-            "text": "Character Guide • Build: Aloy | Update Date: 08/10/2022 | Editor: Samantha#9907"
+            "text": "Character Guide • Build: Aloy | Update Date: 10/06/2025 | Editor: .m1zuneko"
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Aloy.png"
@@ -59,48 +59,48 @@
             {
                 "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Thundering Pulse"
+                "value": "__Polar Star__"
             },
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Polar Star, Skyward Harp, Prototype Crescent, Amos Bow, Rust"
+                "value": "__Skyward Harp__\n__The Stringless__\n__Prototype Crescent__"
             },
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "14001"
+                "value": "15020"
             },
             {
                 "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "14001,attack"
+                "value": "15026"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "attack,15003"
             },
             {
                 "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> ATK%  |<goblet>  Cryo DMG Bonus |<circlet>  CRIT DMG or CRIT Rate"
+                "value": "<sands> ATK% or Elemental Mastery  |<goblet>  Cryo DMG Bonus |<circlet>  CRIT DMG or CRIT Rate"
             },
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "CRIT DMG|CRIT Rate|ATK%|Energy Recharge        "
+                "value": "Energy Recharge|CRIT|ATK%|Elemental Mastery"
             },
             {
                 "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Normal Attack: Rapid Fire\n**2)** Elemental Burst: Prophecies of Dawn\n**3)** Elemental Skill: Frozen Wilds\n"
-            },
-            {
-                "inline": "false",
-                "name": "Notes:",
-                "value": "On-Field DPS build is based around gaining Coil Stacks and using her Normal Attack string on a frozen enemy. When played with Cryo resonance and Blizzard Strayer, CRIT Rate can be quite low. "
+                "value": "**1)** Elemental Burst: Prophecies of Dawn\n**2)** Elemental Skill: Frozen Wilds"
             }
         ],
         "flags": 0,
         "color": 10147839,
         "type": "rich",
-        "title": "Aloy (Melt) | Build"
+        "title": "Aloy (On-Field DPS) | Build"
     },
     {
         "footer": {
