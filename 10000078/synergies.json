@@ -1,13 +1,14 @@
 {
     "footer": {
-        "text": "Character Guide • Synergy: Alhaitham | Update Date: 02/03/2024 | Editor: ._.samantha._."
+        "text": "Character Guide • Synergy: Alhaitham | Update Date: 10/06/2025 | Editor: .m1zuneko"
     },
     "thumbnail": {
         "url": "https://api.ambr.top/assets/UI/UI_AvatarIcon_Alhatham.png"
     },
     "fields": [],
+    "flags": 0,
     "color": 6794623,
     "type": "rich",
-    "description": "10000078,electroflex,flex,flex|10000078,hydroflex,dendroflex,electroflex|10000078,10000073,10000065,10000031|10000078,10000025,10000073,10000065|10000078,10000058,10000031,10000030|10000078,10000060,10000052,10000077|10000078,10000058,10000065,10000073|10000078,10000025,10000065,10000005-504|10000078,10000089,10000082,10000031",
+    "description": "10000078,electroflex,flex,flex|10000078,hydroflex,dendroflex,electroflex|10000078,10000073,10000065,10000031|10000078,10000025,10000073,10000065|10000078,10000058,10000031,10000030|10000078,10000060,10000052,10000077|10000078,10000058,10000065,10000073|10000078,10000025,10000065,10000005-502|10000078,10000089,10000082,10000031|10000078,10000025,10000119,10000065",
     "title": "Alhaitham | Team Composition and Synergy"
 }
