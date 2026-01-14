@@ -1,0 +1,56 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide \u2022 Build: Zibai"
+        },
+        "thumbnail": {
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Zibai.png"
+        },
+        "fields": [
+            {
+                "inline": true,
+                "name": "Best Weapon(s):",
+                "value": "Unknown"
+            },
+            {
+                "inline": true,
+                "name": "Replacement Weapon(s):",
+                "value": "Unknown"
+            },
+            {
+                "inline": false,
+                "name": "Best Artifact Set:",
+                "value": "Unknown"
+            },
+            {
+                "inline": false,
+                "name": "Second Best Artifact Set:",
+                "value": "Unknown"
+            },
+            {
+                "inline": false,
+                "name": "Third Best Artifact Set:",
+                "value": "Unknown"
+            },
+            {
+                "inline": true,
+                "name": "Main Stats Priority",
+                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+            },
+            {
+                "inline": true,
+                "name": "Substats Priority",
+                "value": "Unknown|Unknown|Unknown"
+            },
+            {
+                "inline": false,
+                "name": "Talent Priority",
+                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+            }
+        ],
+        "flags": 0,
+        "color": 14994176,
+        "type": "rich",
+        "title": "Zibai (Speculation Build) | Build"
+    }
+]
