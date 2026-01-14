@@ -1,13 +1,20 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Nefer"
+        "text": "Character Guide • Synergy: Nefer | Update Date: 01/14/2026 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Nefer.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Nilou, Xingqiu, Kokomi, Columbina and Aino work for the Hydro slot, while Nahida, Baizhu, Kuki Shinobu, Zhongli, Ineffa and Sucrose work for the flex slot."
+        }
+    ],
     "flags": 0,
     "color": 6794623,
     "type": "rich",
-    "description": "10000122",
+    "description": "10000122,hydroflex,10000119,flex|10000122,10000125,10000119,flex|10000122,10000121,10000119,10000065|10000122,10000125,10000119,10000073|10000122,10000121,10000119,10000030|10000122,10000089,10000119,10000116|10000122,10000125,10000119,10000070|10000122,10000121,10000005-502,10000043",
     "title": "Nefer | Team Composition and Synergy"
 }
