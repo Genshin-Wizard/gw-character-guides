@@ -1,13 +1,14 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Columbina"
+        "text": "Character Guide • Synergy: Columbina | Update Date: 01/20/2026 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Columbina.png"
     },
+    "fields": [],
     "flags": 0,
     "color": 3245055,
     "type": "rich",
-    "description": "10000125",
+    "description": "10000120,10000116,10000125,10000043|10000122,10000119,10000125,10000073|10000098,10000116,10000125,10000043|10000114,10000112,10000089,10000125|10000091,10000125,10000089,10000103|flex,10000116,10000125,10000043|flex,flex,10000119,10000125",
     "title": "Columbina | Team Composition and Synergy"
 }
