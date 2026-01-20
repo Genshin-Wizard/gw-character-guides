@@ -52,5 +52,49 @@
         "color": 3245055,
         "type": "rich",
         "title": "Columbina (Off-field Support) | Build"
+    },
+    {
+        "footer": {
+            "text": "Character Guide • Build: Columbina | Update Date: 01/20/2026 | Editor: ._.samantha._."
+        },
+        "thumbnail": {
+            "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Columbina.png"
+        },
+        "fields": [
+            {
+                "inline": "true",
+                "name": "Best Weapon(s):",
+                "value": "..."
+            },
+            {
+                "inline": "true",
+                "name": "Replacement Weapon(s):",
+                "value": "..."
+            },
+            {
+                "inline": "false",
+                "name": "Best Artifact Set:",
+                "value": "..."
+            },
+            {
+                "inline": "true",
+                "name": "Main Stats Priority",
+                "value": "..."
+            },
+            {
+                "inline": "true",
+                "name": "Substats Priority",
+                "value": "..."
+            },
+            {
+                "inline": "false",
+                "name": "Talent Priority",
+                "value": "..."
+            }
+        ],
+        "flags": 0,
+        "color": 3245055,
+        "type": "rich",
+        "title": "Columbina (On-Field DPS) | Build"
     }
 ]
