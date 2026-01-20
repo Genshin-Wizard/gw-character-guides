@@ -1,51 +1,51 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Columbina"
+            "text": "Character Guide • Build: Columbina | Update Date: 01/20/2026 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Columbina.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Nocturne's Curtain Call__\nBiS. Increases HP, Lunar Damage, CRIT DMG and gives Energy in one weapon.\n\n__Prototype Amber__\nAllows her to provide healing, especially valuable in Nefer teams."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Sacrificial Jade__\nBattle Pass Weapon increasing EM and HP with CRIT Rate.\n\n__Favonius Codex__\nProvides Energy for the entire team.\n\n__Widsith__\nOnly worth building for the CRIT DMG and the possibility of having EM."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15042"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15043"
             },
             {
-                "inline": false,
-                "name": "Third Best Artifact Set:",
-                "value": "Unknown"
-            },
-            {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> HP% or Energy Recharge%|<goblet> HP%|<circlet> CRIT DMG"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "Energy Recharge%|HP%|CRIT DMG|CRIT Rate|Elemental Mastery"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Skill: Eternal Tides\n**2)** Elemental Burst: Moonlit Melancholy\n**N/A)** Normal Attack: Moondew Cascade"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "__Deepwood Memories__ in Nefer Teams or __Tenacity of the Millieth__ in ATK% scaling DPS Teams do also work."
             }
         ],
         "flags": 0,
