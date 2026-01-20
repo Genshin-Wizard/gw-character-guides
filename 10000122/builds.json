@@ -1,51 +1,51 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Nefer"
+            "text": "Character Guide • Build: Nefer | Update Date: 01/20/2026 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Nefer.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Reliquary of Truth__\nBiS and Signature Weapon\n\n__Blackmarrow Lantern__\nNod-Krai Craftable 4-star, best free alternative."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Nightweaver’s Looking Glass, Surf’s Up, Tome of the Eternal Flow__\nAlternative 5-star weapons with decent passives and relavant stats.\n\n__Dawning Frost, The Widsith__\nAlternative wish-only 4-star options."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15041"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15026"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "elementalmastery,elementalmastery"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> Elemental Mastery|<goblet> Elemental Mastery|<circlet> CRIT DMG or CRIT Rate"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "Elemental Mastery|CRIT DMG|CRIT Rate"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Skill: Senet Strategy: Dance of a Thousand Nights\n**2)** Elemental Burst: Sacred Vow: True Eye’s Phantasm\n**N/A)** Normal Attack: Striking Serpent"
             }
         ],
         "flags": 0,
