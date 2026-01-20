@@ -1,51 +1,56 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Jahoda"
+            "text": "Character Guide • Build: Jahoda | Update Date: 01/20/2026 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Jahoda.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Elegy for the End__\nBest support bow, providing EM and ATK%\n\n__Favonius Warbow__\nEnergy generation for the rest of the team, and guaranteed to be given at the beginning of the game."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Snare Hook, Rainbow Serpent’s Rain Bow, End of the Line__\n4-star alternatives that provide little benefit in comparison to Favonius Warbow."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15002"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15042"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15017"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> Energy Recharge% or ATK%|<goblet> ATK%|<circlet> Healing Bonus% or ATK% or CRIT Rate"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "ATK%|Energy Recharge%|CRIT Rate"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Burst: Hidden Aces: Seven Tools of the Hunter\n**2)** Elemental Skill: Savvy Strategy: Splitting the Spoils\n**N/A)** Normal Attack: Strike While the Arrow’s Hot"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "__Deepwood Memories__ and __Instructors__ work fine as well, depending on the team she's played in."
             }
         ],
         "flags": 0,
