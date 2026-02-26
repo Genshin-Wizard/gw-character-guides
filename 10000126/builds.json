@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Zibai"
+            "text": "Character Guide • Build: Zibai"
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Zibai.png"
@@ -51,6 +51,6 @@
         "flags": 0,
         "color": 14994176,
         "type": "rich",
-        "title": "Zibai (Speculation Build) | Build"
+        "title": "Zibai (On-field DPS) | Build"
     }
 ]
