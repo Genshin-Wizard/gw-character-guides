@@ -1,56 +1,56 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Zibai"
+            "text": "Character Guide • Build: Zibai | Update Date: 02/27/2026 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Zibai.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Lightbearing Moonshard__\nSignature and BiS. It is difficult to compare to alternatives.\n\n__Harbinger of Dawn__\nA 3-star weapon, if the passive is active, is her BiS free option."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Uraku Misugiri, Light of Foliar Incision__\n5-star alternatives that do perform better than the Harbinger of Dawn, but aren't worth pulling exclusively for Zibai.\n\n__Flute of Ezpitzal, Cinnabar Spindle__\nFree 4-star alternatives that are better than the Harbinger of Dawn ONLY if it's the passive is down. \n\n__Primordial Jade Cutter,  Splendor of Tranquil Waters, Haran Geppaku Futsu, and all other 5-star statsticks__\nNot worth pulling for, just use Harbinger of Dawn, unless you are really cannot keep her above 80% HP."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15041"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15021"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "elementalmastery,elementalmastery"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> DEF%|<goblet> DEF%|<circlet> CRIT DMG or CRIT Rate"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "CRIT Rate|CRIT DMG|DEF%|Elemental Mastery"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Skill: Heaven and Earth Made Manifest\n**2)** Elemental Burst: Tri-Sphere Eminence\n**N/A)** Normal Attack: Golden Blade's Petaled Touch"
             }
         ],
         "flags": 0,
         "color": 14994176,
         "type": "rich",
-        "title": "Zibai (On-field DPS) | Build"
+        "title": "Zibai (Speculation Build) | Build"
     }
 ]
