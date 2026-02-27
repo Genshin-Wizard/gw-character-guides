@@ -1,56 +1,61 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Varka"
+            "text": "Character Guide • Build: Varka | Update Date: 02/27/2026 | Editor: ._.samantha._."
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Varka.png"
         },
         "fields": [
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Best Weapon(s):",
-                "value": "Unknown"
+                "value": "__Gest of the Mighty Wolf__\nBiS weapon, with a large gap from the next strongest alternative. Provides everything he needs.\n\n__Tidal Shadow__\nFree craftable 4-star from Fontaine. Most of his best teams have a healer to trigger the passive with ease."
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "Unknown"
+                "value": "__Beacon of the Reed Sea, Redhorn Stonethresher, Wolf's Gravestone, Verdict, Fang of the Mountain King__\n5-star alternatives that will act as statsticks\n\n__Serpent Spine__\nBiS 4-star option if all 5 stacks are up, becoming better than the 5-star alternatives at R5."
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15044"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Second Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15019"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Third Best Artifact Set:",
-                "value": "Unknown"
+                "value": "15027"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Main Stats Priority",
-                "value": "<sands> Unknown|<goblet> Unknown|<circlet> Unknown"
+                "value": "<sands> ATK%|<goblet> Elemental DMG Bonus% or ATK% or Anemo DMG Bonus%|<circlet> CRIT DMG or CRIT Rate"
             },
             {
-                "inline": true,
+                "inline": "true",
                 "name": "Substats Priority",
-                "value": "Unknown|Unknown|Unknown"
+                "value": "CRIT DMG|CRIT Rate|ATK%"
             },
             {
-                "inline": false,
+                "inline": "false",
                 "name": "Talent Priority",
-                "value": "**1)** Unknown\n**2)** Unknown\n**3)** Unknown"
+                "value": "**1)** Elemental Skill: Windbound Execution\n**N/A)** Elemental Burst: Northwind Avatar\n**N/A)** Normal Attack: Favonius Bladework: Dancing Radiance"
+            },
+            {
+                "inline": "false",
+                "name": "Notes:",
+                "value": "__Gladiator's Finale__ is another general option that most players will have. __Nymph's Dream__, __Heart of Depth__, in Hydro teams, __Lavawalker__ or __Viridescent Venerer__ in Pyro teams, __Blizzard Strayer__ in Cryo teams, __Thundersoother__ in Electro Teams and __Marechaussee Hunter__ in Furina teams are also viable. Otherwise, 2-piece mixed sets can be used."
             }
         ],
         "flags": 0,
         "color": 5494962,
         "type": "rich",
-        "title": "Varka (On-field DPS) | Build"
+        "title": "Varka (Speculation Build) | Build"
     }
 ]
