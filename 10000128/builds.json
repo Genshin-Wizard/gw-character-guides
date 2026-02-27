@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide \u2022 Build: Varka"
+            "text": "Character Guide • Build: Varka"
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Varka.png"
@@ -51,6 +51,6 @@
         "flags": 0,
         "color": 5494962,
         "type": "rich",
-        "title": "Varka (Speculation Build) | Build"
+        "title": "Varka (On-field DPS) | Build"
     }
 ]
