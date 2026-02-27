@@ -1,13 +1,20 @@
 {
     "footer": {
-        "text": "Character Guide \u2022 Synergy: Zibai"
+        "text": "Character Guide • Synergy: Zibai | Update Date: 02/27/2026 | Editor: ._.samantha._."
     },
     "thumbnail": {
         "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Zibai.png"
     },
+    "fields": [
+        {
+            "inline": "false",
+            "name": "Notes:",
+            "value": "Hydro Options: Yelan, Furina, Mona, Sigewinne, Kokomi, Nilou, Xingqiu. \n*Note some of these characters will require a second Hydro unit to apply enough for Zibai.*\n\nGeo Options: Illuga, Gorou, Zhongli, Chiori, Xilonen.\n*Lunar-Crystallize reaction pillars count as Geo Constructs*\n\nAscendent Gleam Triggers: Jahoda, Ineffa, Illuga, Columbina, Aino.\n *Columbina and C6 Illuga are the premier units, but Ineffa provides enough personal damage to make up for personal DPS losses.*"
+        }
+    ],
     "flags": 0,
     "color": 14994176,
     "type": "rich",
-    "description": "10000126",
+    "description": "10000126,10000125,geoflex,flex|10000126,10000125,10000127,10000094|10000126,10000125,10000094,10000030|10000126,10000125,10000127,10000030|10000126,10000125,10000103,10000089|10000126,10000125,10000103,10000060|10000126,10000125,10000127,10000055|10000126,10000121,10000127,10000055",
     "title": "Zibai | Team Composition and Synergy"
 }
