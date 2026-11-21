@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide • Build: Yumemizuki Mizuki | Update Date: 05/07/2025 | Editor: ._.samantha._."
+            "text": "Character Guide • Build: Yumemizuki Mizuki | Update Date: 11/21/2026 | Editor: uniforlife"
         },
         "thumbnail": {
             "url": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Mizuki.png"
@@ -15,12 +15,22 @@
             {
                 "inline": "true",
                 "name": "Replacement Weapon(s):",
-                "value": "__A Thousand Floating Dreams, Starcaller's Watch__\n5-star alternatives providing team buffs and Elemental Mastery\n\n__Wandering Evenstar, Mappa Mare, Magic Guide,  Emerald Orb__\n4-star or 3-star alternatives with Elemental Mastery substats."
+                "value": "__A Thousand Floating Dreams, Starcaller's Watch__\n5-star alternatives providing team buffs and Elemental Mastery\n\n__Wandering Evenstar, Mappa Mare, Magic Guide,  Emerald Orb echoes of the heart__\n4-star or 3-star alternatives with Elemental Mastery substats."
             },
             {
                 "inline": "false",
                 "name": "Best Artifact Set:",
+                "value": "15047"
+            },
+            {
+                "inline": "false",
+                "name": "Second Best Artifact Set:",
                 "value": "15002"
+            },
+            {
+                "inline": "false",
+                "name": "Third Best Artifact Set:",
+                "value": "2pc em 2pc em"
             },
             {
                 "inline": "true",
@@ -30,7 +40,7 @@
             {
                 "inline": "true",
                 "name": "Substats Priority",
-                "value": "Elemental Mastery|Energy Recharge%"
+                "value": "Elemental Mastery|crit rate|crit damage"
             },
             {
                 "inline": "false",
@@ -38,8 +48,9 @@
                 "value": "**1)** Elemental Skill: Aisa Utamakura Pilgrimage\n**2)** Elemental Burst: Anraku Secret Spring Therapy\n**N/A)** Normal Attack: Pure Heart, Pure Dreams"
             }
         ],
+        "flags": 0,
         "color": 5494962,
         "type": "rich",
-        "title": "Yumemizuki Mizuki (Build #1 on field dps) | Build"
+        "title": "Yumemizuki Mizuki (Speculation Build) | Build"
     }
 ]
